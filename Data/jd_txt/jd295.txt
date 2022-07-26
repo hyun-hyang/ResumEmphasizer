@@ -1,0 +1,22 @@
+PHP Programmer,"The PHP programmer, under the supervision of the SEO
+Director, will work with the Search Engine Optimization Group and be
+responsible for design and development of software to be used in the SEO
+business.","- University degree;
+- Good knowledge of English and Russian languages;
+- Be part of a highly energetic team; 
+- Make design or write PHP and Perl software;
+- Test/ debug Perl software;
+- Maintain and document customer communication.","- Expert knowledge and experience in Apache, PHP and MySQL;
+- Expert knowledge of XML/ RSS technologies;
+- Ability to debug and profile software code, configuration files, and
+logs to find root cause for the issue;
+- Ability to work independently with minimal management direction;
+- Strong interest in contributing to the open source community.","Email your cover letter and resume to:jobs@.... Please put the announcement code (LG017) in the
+subject line of your e-mail. Emails without an announcement code will be
+deleted. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting. The Search Engine Optimization (SEO) arm
+of the company works to improve the clients' search engine rankings on
+Google, Yahoo and other popular search engines."

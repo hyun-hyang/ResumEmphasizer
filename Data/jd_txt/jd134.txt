@@ -1,0 +1,38 @@
+Developer/ Administrator for Customer Support Application,"A challenging opportunity has arisen for up to 3
+developers/administrators to join our creative, professional and
+multinational environment at Lycos Europe, involved in the design and
+implementation of customer support related functionality (Change
+Requests, Enhancements). The successful candidates should have ideally
+some experience with workflow based or ticketing applications or
+customer management tools (e.g. Remedy, Clarify, Siebel). The positions
+will be mainly office based with occasional visits to our premise in
+Gtersloh/Germany, if necessary to work with business representatives
+during the design phase, deliver solutions and provide upgrades where
+necessary/appropriate. These roles require extensive and ongoing
+training. Thus, you are expected to be enthusiastic to learn and either
+to travel to training sites in the UK or Sweden or to join on-site
+trainings in Yerevan.","The key elements of these roles are development
+and delivery of new or modified functionality based on our given Remedy
+ARS platform. The candidates are required to work closely with the other
+functional and technical members of the international Service Platforms
+Team. This comprises a close relationship to the Test- and QA-Department
+as well.","- Good knowledge of system integration and practical experience of
+planning, designing and implementation architectures in complex
+environments;
+- Knowledge of Remedy AR System 5.x/6.x, Remedy Mid-Tier, Remedy email
+engine and/or RAC certification would be advantageous; 
+- Relevant experience is beneficial;
+- UNIX
+- Solaris
+- SQL
+- C/C++
+- Crystal Reports
+- ITIL
+- SOAP/XML
+- Java.","Please send your CV to info@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is a European Internet company that
+operates a pan-European network of websites in nine languages. Lycos
+Communities is developing and operating a chat in Europe along with a
+dating system, games and entertainment."

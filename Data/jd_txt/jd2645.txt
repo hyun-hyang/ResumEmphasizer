@@ -1,0 +1,30 @@
+Mobile Application Developer,"M Systems LLC is seeking experienced Mobile Application
+Developers for development of features both for its own projects and
+those ordered by customers.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience;
+- Fundamentals in object-oriented design, data structures, algorithm
+design, problem solving and complexity analysis;
+- Proficiency in modern object-oriented languages: C++, Java;
+- Knowledge of Objective C is preferred;
+- Good understanding of iOS SDK, XCode, iOS Frameworks;
+- Good understanding of Android SDK, Android Frameworks, Fast UI
+building;
+- Experience building complex iPhone and Android Apps that have been
+successfully delivered to customers
+- Knowledge of Photoshop or Corel Draw is a big plus;
+- Good analytical skills;
+- Good team player who is self motivated and well organized;
+- Strong oral and written communication skills;
+- Good knowledge of English language;
+- Knowledge of German language is an advantage.","All interested and qualified candidates are
+welcome to send their CVs to: info@... . Please indicate
+the position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"M Systems LLC is a new software technology company which
+develops web and mobile products with heavy traffic."

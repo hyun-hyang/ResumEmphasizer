@@ -1,0 +1,26 @@
+"Layout Design Engineer, II/ ASIC","The candidate will participate in NVM  memory layout
+design
+and layout verification with different EDA tools.",NA,"- Basic CMOS circuit/ device fundamentals;
+- Experience/ familiarity in memory/ logic design and verification is a
+plus;
+- Ability to search and study documentation;
+- Ability to quickly study and apply new tools and methodologies
+(Synopsys, etc.);
+- Ability to work in Linux/ UNIX environment;
+- Communication skills in English language;
+- Team working skills.
+DESIRED SKILLS:
+- Junior /fresh graduate level;
+- Pro-active 'can-do' mentality, creative, self-motivated and assertive
+personality;
+- Written communication skills in English language;
+- Good team interaction skills with engineers and other support staff;
+- Hard working and reliable personality.","Please submit your detailed CV in English
+language to: Mariana.Hovsepyan@... indicating the position in
+the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys Inc. For more information, please
+visit: www.synopsys.com."

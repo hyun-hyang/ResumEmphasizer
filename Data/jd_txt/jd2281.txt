@@ -1,0 +1,36 @@
+C Software Developer,"Energize Global Services is looking for experienced C
+Software Developers with good knowledge of Java and/ or Python to be
+engaged in different long term projects. Within a software development
+team, the successful candidates will be responsible for a significant
+part of the development cycle of applications: understanding of the
+requirements, performing the functional analysis, the design, the
+programming and testing of software solutions. The C Software Developers
+will participate in the development of different software applications
+for various markets. 
+The successful candidates will work for 3 months in AWL Brussels for both
+help and getting trained.","- Participate in software development in C;
+- Write unit tests and functional tests;
+- Work as part of cross functional software development team managed by
+Agile Scrum methodology.","- University degree in Computer Sciences; Master's degree will be an
+asset;
+- At least 3 years of work experience in software application development
+on C;
+- Experience in embedded software development will be an asset;
+- Good understanding of Python and/ or Java;
+- Good knowledge of the life cycle of software development;
+- Basic knowledge of Linux operating systems and networks;
+- Experience in software development using Agile methodologies;
+- Experience in one or more of the following areas is an asset: smart
+cards, security, concepts, embedded systems, payment schemes;
+- Ability to communicate effectively orally as well as in writing;
+- Ability to travel;
+- Fluency in English language.","If interested, please email your last updated
+and detailed resume to: hr@... . Please indicate ""C
+Software Developer"" in the subject line of your e-mail, otherwise your
+resume will not be reviewed. 
+Only short listed candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

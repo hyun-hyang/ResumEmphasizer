@@ -1,0 +1,25 @@
+.NET Software Developer,"The incumbent will develop software applications
+working in a distributed team.","- Participate in all the steps of the software project from the design to
+integration;
+- Analyze and investigate architectural defects of the existing
+projects;
+- Implement features;
+- Fix problems.","- 2-5 years of experience in software development (at least 2 years with
+.NET technologies);
+- Strong knowledge of .NET frameworks (Entity Framework, LINQ, ASP NET
+MVC, WCF);
+- Strong knowledge of web development (JavaScript, HTTP, REST);
+- Strong understanding of OO principles;
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable personality and eager to learn
+new technologies and methods;
+- Fluency in the English language (reading, writing and speaking);
+- Good communication skills;
+- Good team player; ability to accept criticism;
+- Fast learner and responsible personality.","To apply, please email your CV to:
+careers-armenia@... . Please mention the position you are
+applying for in the subject line of your email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

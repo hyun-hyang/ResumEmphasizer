@@ -1,0 +1,26 @@
+Senior Java Backend Developer,"SFL LLC is seeking for a talented and motivated Senior
+Java Backend Developer to expand its team. If you want to work in a
+company, where your development talent is understood and appreciated,
+then this is the place for you.","- Take ownership of the project functionality;
+- Architect and code highly scalable server components;
+- Develop and conduct unit tests and system/ integration tests.","- Bachelor's or higher degree in Computer Sciences or  in a related
+discipline with at least 5 years of work experience in software
+development;
+- At least 3 years of work experience with enterprise Java;
+- Strong understanding of OO design, best practices and design patterns;
+- Professional work experience in projects as a Java Backend
+Developer-Spring, Hibernate and Maven;
+- Working experience in development of multi-layered applications;
+- Working experience with Oracle and/ or MySQL databases;
+- Ability to work independently or collaborate within a team;
+- Strong personal commitment to quality;
+- Good communication skills in English language;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11290"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

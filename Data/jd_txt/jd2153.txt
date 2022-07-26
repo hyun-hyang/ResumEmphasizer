@@ -1,0 +1,24 @@
+Android Application Developer,"AtTask has an opening for an Android Application
+Developer who will help develop mobile applications for work management
+platform at Yerevan office.","- Responsible for architecture and design of mobile client for Android
+platforms;
+- Participate in all cycles of software design and development;
+- Perform unit and automated test case development;
+- Work in a scrum project framework.","- BS in Information Systems/ Software Engineering/ Computer Science or
+arelated field;                                                          
+- At least 3 years of software development experience;                   
+- Over 1 year hands on Java and Android experience in a professional
+environment;                                                             
+- Good command of OOP;                                                   
+- Fluent knowledge of written and spoken English language;               
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;                                          
+- Ability to work on multiple tasks and prioritize personal workload;    
+- Detail oriented personality and self starter.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 0413"" in the subject line of your email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company, visiting: www.attask.com."

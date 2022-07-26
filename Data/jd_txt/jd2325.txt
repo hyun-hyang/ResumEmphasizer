@@ -1,0 +1,31 @@
+Software QA Engineer,"Energize Global Services CJSC is looking for a Software
+QA Engineer who will be responsible for the quality assurance testing of
+applications developed for payment terminals. The Software QA Engineer
+will be responsible for the analysis of software specifications,
+developing test plans, the testing itself (white and black box testing),
+etc. The Software QA Engineer will develop test tools and simulators and
+will take care of the automation of the testing. Furthermore, the
+Software QA Engineer will supervise the product documentation quality.",NA,"- Higher technical education: Industrial Engineering (IT, Electronics and
+Electro-Mechanics);
+- Relevant work experience;
+- Ability to develop testing tools;
+- Knowledge of Python, C and UML;
+- Analytical and problem solving skills;
+- Debugging and troubleshooting skills;
+- Good understanding of OOP concepts;
+- Attention to details and ability to learn quickly; 
+- Good team player, intense communication and collaboration skills;
+- Knowledge of Agile development methodologies and Test automation;
+- Ability to work in both Windows and Linux environments;
+- Good knowledge of English language;
+- Ability to communicate and conduct teleconferences with English
+speaking foreign partners.","If interested, please email your last updated
+and detailed CV to: hr@... . Please indicate ""Software QA
+Engineer"" in the subject line of your e-mail, otherwise your CV will not
+be reviewed. Only shortlisted candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

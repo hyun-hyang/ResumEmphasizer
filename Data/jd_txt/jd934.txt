@@ -1,0 +1,37 @@
+Senior Software Engineer,"- Be responsible for designing, developing, troubleshooting and
+debugging software programs for physical design database viewer, editor,
+lithography simulation and analysis;
+- Be involved in all phases of software development, including project
+planning, problem identification, design specifications, development,
+scheduling, implementation and testing;
+- Work on complex problems where analysis of situations or data requires
+an in-depth evaluation of various factors;
+- Exercise judgment within broadly defined practices and policies in
+selecting methods, techniques, and evaluation criteria for obtaining
+results;
+- Develop state of the art solutions through technical contributions
+that lead to significant product differentiation;
+- Design and implement sophisticated algorithms to solve complex
+problems.",NA,"- MS in any relevant field;
+- 3+ years of experience in development;
+- Proficiency in C++;
+- Advanced knowledge of STL library;
+- Knowledge of algorithms and data structures;
+- Proficiency in Qt, preferably Qt4;
+- Proficiency in MS VisualStudio;
+- Knowledge of IC layout;
+- Good knowledge of English language.
+DESIRED QUALIFICATIONS:
+- Development experience on Linux using gcc;
+- Experience with threading and locking data structures, asynchronous
+state machines;
+- Experience with highly interactive GUIs;
+- X-windows development;
+- Layout editors, such as Cadence Virtuoso.","Please submit your detailed CV to:dianan@... with CC to: karenmel@... indicating the
+position in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

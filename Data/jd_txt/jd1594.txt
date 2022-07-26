@@ -1,0 +1,29 @@
+Software/ Senior Software Engineer,"As a member of EpygiArm Software team, SW Engineer will
+use technical education and experience to design, develop, test and
+document software applications and system level software per the product
+and specifications.","- Design, implement and test new software;
+- Support and maintain the existing software;
+- Work as part of a multi-disciplined team;
+- Produce both design and user documentation;
+- Contribute to the solving of test problems/ requirements;
+- Communicate with other engineers;
+- Communicate with Epygi customers worldwide;
+- Perform other duties as assigned.","- BS or MS in Computer Science, Electrical Engineering or equivalent;
+- Previous experience in C, C++ (in Unix or MS Windows environment);
+- Excellent understanding of IP networking protocols;
+- Good knowledge of English language;
+- Ability to work with minimal supervision;
+- Ability to learn and adapt quickly to new ideas, techniques,
+languages;
+- Knowledge in one or more of the following is a plus:
+I) Device drivers, hardware programming, real-time operating systems,
+embedded systems;
+II) Linux application and/ or kernel level programming;
+III) IP networking protocols and technologies;
+IV) Telecommunications technologies, IP telephony protocols (SIP, RTP
+etc.);
+V) Application development for iPhone, iPad and Android;
+VI) WEB programming and technologies.","Please submit your resumes via e-mail to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,42 @@
+C Software Developer,"Energize Global Services is looking for experienced C
+Software Developers to be engaged in an international project for POS
+Terminals/ Banking Systems applications' development with an European IT
+company. Within a software development team, the successful candidate
+will be responsible for a significant part of the development cycle of
+applications: understanding of the requirements, performing the
+functional analysis, the design, programming and testing of software
+solutions. The successful candidates will be trained in Brussels for a
+period of 2 months.","- Participate in software development in C;
+- Write unit tests and functional tests;
+- Write test cases in Python;
+- Work as a part of a cross functional software development team managed
+by the Agile/ Scrum methodology.","- University degree in Computer Sciences; Master's degree will be an
+asset;
+- At least 2 years of work experience in software application development
+on C/ C++;
+- Experience with embedded software development will be an asset;
+- Experience with development under Linux/ Unix OS;
+- Advanced knowledge of OOP and OOD;
+- Good knowledge of the life cycle of software development;
+- Knowledge of unit testing principles and frameworks;
+- Good knowledge of cryptography algorithms;
+- Experience with software development using agile methodologies;
+- Knowledge of Python or other scripting languages will be an asset;
+- Ability to understand the requirements and translate it into functional
+specifications;
+- Analytical and integrative thinking skills;
+- Good communication skills;
+- Ability to communicate and conduct teleconferences with foreign
+partners in the English language;
+- Ability to work in a team and independently;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please email your last updated
+and detailed resume to: hr@... . Please indicate ""C
+Software Developer"" in the subject line of your email, otherwise your
+resume will not be reviewed. Only short-listed candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

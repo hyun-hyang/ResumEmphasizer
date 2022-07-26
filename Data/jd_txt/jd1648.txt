@@ -1,0 +1,24 @@
+Java Developer,"AtTask has an opening for Java Developers to assist in
+the development of its award-winning project management application at
+Yerevan office.","- Create the best project management software on the market;
+- Perform software development, test case development and usability of
+products;
+- Work in a scrum project framework.","- Bachelor's or Master's degree in Computer Science;
+- Minimum 3+ years of relevant work experience;
+- Fluency in English language (both writing and speaking);
+- Expertise in HTML, CSS, AJAX and JavaScript frameworks;
+- Professional work experience in projects as a Java Developer in J2EE
+for more than 2 years;
+- Knowledge of agile and scrum environments;
+- Advanced knowledge of OOP and OOD;
+- Web Frameworks: Struts and JSP/Servlets;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Detail oriented personality and self starter.
+Desired Skills and Knowledge:
+- JBoss, Seleniun, Oracle, MySQL and MSSQL.","To apply, please email your CV to:jobs.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company visiting: www.attask.com."

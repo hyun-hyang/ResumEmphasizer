@@ -1,0 +1,36 @@
+Programmer Analyst,"The Programmer Analyst will define, develop, test,
+analyse and maintain new software applications in support of the
+achievement of business requirements. This includes writing, coding,
+testing and analysing software programs and applications. The specialist
+will also research, design, document and modify software specifications
+throughout the production life cycle.","- Perform software testing and implement software problem solutions;
+- Prepare technical tasks/ issues intended for innovations; 
+- Set and control deadlines for tasks accomplishment; 
+- Once innovations adopted, present them to target users and conduct
+their training if necessary;   
+- Monitor system operation;
+- Consult users about program utilization.","- University degree in Computer Sciences or a related field; 
+- Basic knowledge of programming; 
+- Experience in working with web applications;
+- From 2 to 3 years of work experience with writing test cases and
+scripts and technical task making; 
+- From 2 to 3 years of experience with MySQL and MS SQL 2005/ 2008;
+- From 2 to 3 years of experience with C#, HTML, PHP and XML;
+- Knowledge of Linux Operating System;
+- Fluency in Armenian and Russian languages, knowledge of technical
+English language; 
+- Excellent communication skills;
+- Ability to train and support users;
+- Excellent analytical skills and flexibility;
+- Sense of responsibility;
+- Ability to learn new things; 
+- Effective time management and problem solving skills;
+- Experience in banking sphere (automation department) is desirable.","To apply, please send your resume to: hr@...
+or lgevorgyan@... . Please mention the position title you are applying
+for in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia).
+For more information, please visit the website: www.rgs.am."

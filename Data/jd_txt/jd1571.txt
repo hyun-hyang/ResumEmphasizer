@@ -1,0 +1,102 @@
+Senior Web Developer,"The ideal candidate for this position is experienced in
+designing and developing highly performing and scalable web applications
+that meet the business requirements. The Senior Web Developer will be
+involved into small to large scale projects through all stages of the
+software development life cycle from requirements gathering to
+implementation. The Senior Web Developer will collaborate with User
+Interaction and Design team, Marketing, .NET developers and Database
+architects to design and develop functionally rich, robust, user friendly
+web applications as defined by business requirements.","- Work with fellow team members to define the work breakdown structures
+for the technical activities associated with each project and provide
+accurate time-estimates for assigned tasks;
+- Contribute to the establishment and maintenance of project lifecycle
+methodologies and adoption of industry best-practices;
+- Contribute to the establishment and maintenance of team information
+management standards;
+- Play active role in  brainstorming sessions to explore technical and
+creative approaches to meeting project requirements;
+- Collaborate with the team to ensure a seamless integration of the
+presentation, application and database layers;
+- Collaborate with copywriters and Marketing to develop unique concepts
+for campaigns;
+- Collaborate with .NET developers to explore technical approaches to
+business development projects;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Ensure quality and reliability of code from the development team by
+conducting a smoke testing and code reviews;
+- Support the a Team Lead in technical decisions and development
+estimates;
+- Work with Questrades lead graphic designer to develop layouts for
+marketing collateral including: banner ads, brochures, reports, inserts,
+manuals, fact sheets, etc;
+- Revise and update printed and online marketing materials under lead
+designers guidance;
+- Prepare files for output to various communication media, including
+digital and print media as required;
+- Provide feedback on interface designs and interface implementation
+details;
+- Slice and optimize graphics for GUI development;
+- Design and create Flash animations and transitions for banner ads;
+- Contribute to the establishment and maintenance of Questrades
+presentation layer code standards;
+- Develop standards-compliant webpages using: ASP.NET, HTML, DHTML, CSS,
+JavaScript, AJAX and jQuery;
+- Conduct Unit Testing of all presentation layer and application layer
+code, participate in Functional testing and User Acceptance testing;
+- Validate test plans and test cases for thoroughness;
+- Develop HTML emails with an emphasis on email client compatibility.","- Minimum three years of experience;
+- Undergraduate degree or Community College Diploma with related areas of
+study;
+- Hands-on experience and proficient knowledge of the following:
+I) Web technologies: HTML, DHTML, CSS, JavaScript, JQuery, AJAX,
+ASP.NET, ADO.NET, C# .NET, Web Services, WCF, SOAP and XML;
+II) Database server: Sybase, MS SQL Server 2005/2008;
+System environment: Microsoft ASP.NET/.NET framework on Windows 2008
+server;
+III) Tools: MS Visual Studio 2005/ 2008, Subversion, MS Team
+Foundation;
+- Ability to demonstrate through web portfolio and coding examples,
+standards-compliant HTML, CSS, JavaScript, ActionScript;
+- Ability to demonstrate through print portfolio, a strong understanding
+of design principles, graphics development techniques, typography,
+pre-press requirements;
+- Proven experience developing and implementing web interfaces and
+front-end functionality integrating with server-side technologies
+(ASP.Net);
+- Knowledge of key applications: Adobe CS5 product suite, Adobe After
+Effects, MS Visual Studio 2008/ 2010;
+- Experience with image creation, manipulation and optimization using
+Adobe Photoshop and Adobe Illustrator;
+- Ability to code consistently and to documented standards and
+specifications;
+- Full experience dealing with browser compatibility issues;
+- Experience working from presentation layer documentation (Flowcharts,
+Storyboards, Business Logic);
+- Experience with version control (e.g. Subversion) and issue tracking
+(e.g. JIRA) is an asset;
+- Ability to receive artistic input and direction;
+- Concept presentation skills;
+- Strong analytical and problem solving skills;
+- Superior writing, editing, and communication skills;
+- Strong organizational skills, ability to multi-task, prioritize, and
+meet deadlines;
+- Strong interpersonal skills that facilitate team work;
+- Ability to maintain an awareness of the big picture while paying
+attention to the details;
+- Positive attitude and willingness to share knowledge with others;
+- Strong commitment to upgrading technical skills on an ongoing basis;
+- Self-starter with the ability to work independently and in a team;
+- Thriving in a changing, dynamic environment;
+- Ability to maintain a user-centric focus;
+- Ability to see projects through to completion with high accuracy;
+- Continuous learning;
+- Ability to develop constructive and cooperative working relationships
+with team-mates;
+- Strong work ethics, positive energy and ability to energize others;
+- A service-oriented mindset and a willingness to assist the team in any
+way to ensure project success.","Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=205
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit www.questrade.com.

@@ -1,0 +1,37 @@
+Mid-Level Front End Developer,"FlatClub is currently seeking a Mid-Level Front End
+Developer who is passionate about development andloves designing cutting
+edge technologies.","As a developer on the company's team, Mid-Level
+Front End Developer can expect to work with:
+- ASP.NET MVC 4-5/ RESTful WebAPI Services;
+- C# and .NET 4.5;
+- HTML/CSS, Responsive Designs for Mobile/ Tablet/ Web;
+- jQuery, Twitter bootstrap;
+- Agile (Scrum) with extreme Programming (XP) practices.","- HTML5, CSS3;
+- Responsive Design and Media Queries;
+- JavaScript, jQuery, AJAX, JSON;
+- Twitter bootstrap;
+- ASP.NET MVC, Razor MVC;
+- Proven UI and UX design experience in both mobile and web
+environments;
+- Experience with version control (preferably TFS).
+Desired Qualifications:
+- Agile Development Practices;
+- MVVM pattern (Knockout, Angular, etc.);
+- C#, .NET 4.0  4.5;
+- WebAPI/ Entity Framework;
+- XML, XSLT, XPath;
+- RegEx Patterns.","If you would like to apply to this position, you
+must have a portfolio showing proficiency in required skills. Interested
+candidates should send a CV, Intro Letter and Portfolio with example work
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FlatClub is the marketplace for medium term stays - from
+a few weeks to a few months. FlatClub has more than 40,000 properties,
+75,000 members and partnerships with 50 top universities and companies.
+FlatClub is VC and Angel backed, is the winner of the 2012 TechCrunch
+Pitching Challenge, and finalists for the AMBA Venture Award. FlatClub
+was featured on the Financial Times, Forbes, Guardian, TheNextWeb, and
+others. FlatClub has a team of 17, based in TechHub, Google Campus, in
+London and other locations. FlatClub has offices in London and in
+Yerevan."

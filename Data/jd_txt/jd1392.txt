@@ -1,0 +1,17 @@
+C++/ Delphi Software Engineer,"Fast Credit Ltd. is looking for C++/ Delphi Software
+Engineer to be engaged in long term projects.","- Write and test code according to technical documentation;
+- Support, maintain and document software functionality;
+- Stay organized to achieve mission and purpose, goals and objectives;
+- Work hard towards self-development.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of work C++/ Delphi programming experience;
+- Good knowledge of SQL language;
+- Good knowledge of technical English language;
+- Development experience in Windows environment with C/C++, STL, threads
+and sockets;
+- Development experience of GUI programming with C++ Builder or Delphi;
+- Familiarity with Design Patterns is a plus;
+- Familiarity with databases(Oracle, MS SQL) is a big plus;
+- Familiarity with hardware is a plus.","Applicants can email their CV directly to:fastcreditltd@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,47 @@
+Educational Web Content Developer,"The Tumo Center for Creative Technologies is looking
+for an experienced and energetic specialist who will be responsible for
+creating activities in the area of web development. Tumo's educational
+methodology is based on a large set of self-instructional activities that
+each of Tumo's thousands of students assemble into personal learning
+plans in the areas of animation, game development, web development and
+digital media. With the assistance of Learning Coaches, students submit
+responses and upload their work for each of these activities in a
+video-game-like environment. The Educational Web Content Developer will
+be responsible for creating learning activities such as tutorials,
+exercises and project assignments in web development, which is one of
+Tumo's four focus areas. Activity creation will be based on guidelines
+developed by the Educational Content Development team. The Educational
+Web Content Developer will report to the Head of Educational Content and
+will collaborate with both content developers and learning coaches.","- Assist the content development team in the process of developing,
+testing and fine tuning all the web development activity content,
+research and suggest new approaches in activity creation focusing on
+website structuring/ coding;
+- Brainstorm and mock up activity ideas that would develop students' web
+development skills, present them to the content development group and
+offer solutions of their integration to the existing curriculum;
+- Provide second tier support to users and coaches;
+- Be versatile with technologies and able to perform development tasks
+and quality control measures;
+- Contribute to the production of web assets;
+- Assist in testing and evaluating the educational content.","- Substantial experience and academic background in the area of Web
+Development;
+- Strong knowledge of web authoring tools including but not limited to
+Action Script 3.0, JavaScript, CSS and HTML5;
+- Experience in education is a plus;
+- Ability to work both independently and in a team;
+- Ability to work productively on a regular basis;
+- Strong communication skills.","To apply, please send a brief cover letter,
+resume and a portfolio to: jobs@... . In the subject line of your
+email, please mention Educational Web Content Developer. Also include
+the contact information of your direct supervisors from recent positions
+whom we can contact for reference checks. Incomplete and late
+applications will not be reviewed. Only shortlisted candidates will be
+interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tumo is an after-school learning center in Yerevan where
+teenagers acquire digital media skills free of charge. Company now has
+over 6,000 users attending on a regular basis and participating in our
+innovative, self-paced program. Tumo's educational framework is based on
+a proprietary platform which promotes learning through interactive
+game-like levels, exposing users to increasingly challenging activities."

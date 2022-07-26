@@ -1,0 +1,49 @@
+Java Developer/ Architect,"SCDM LLC is seeking a Java Developer/ Architect to
+implement the business logic for the Companys customers and partners.
+The incumbent will work in a team dedicated to a project or product
+development and will be responsible for bridging the gap between
+requirements, development and operation to ensure the efficient and fast
+rollout of the Companys products. The Java Developer/ Architect must
+take lead in improving quality and processes through use of appropriate
+Java tools and technologies to be a senior technical authority on Java
+development, ensuring successful delivery of multiple projects and
+components.","- Be responsible for business logic design;
+- Be responsible for service orientated architecture;
+- Be responsible for the applied business logic;
+- Be responsible for requirements analysis with the different internal
+interfaces;
+- Be responsible for ongoing development and optimization of the
+Companys systems; 
+- Design, implement and maintain database software modules in a
+project-related environment;
+- Develop, test, document and maintain Java software;
+- Contribute to the design and evolution of the system architecture;
+- Provide technical and conceptual solutions as well as develop the
+standards;
+- Ensure deliverables meet requirements and specifications for
+functionality, capacity, scalability, performance, reliability.","- Solid technical education (e.g. university of technology, university of
+applied sciences, technical college);
+- 3+ years of experience in Java development with a deep understanding of
+the language and the core Java API's;
+- Experience in Java web development - Servlets, JSP;
+- Knowledge of AJAX Frameworks - GWT or similar;
+- Experience of requirements engineering (analysis, specification
+validation of requirements for software);
+- Good English language skills.
+Desirable skills:
+- A good working knowledge of (D)HTML and Javascript; 
+- Experience of developing fast, highly transactional, multi-threaded
+applications;
+- Communicative team player;
+- Great interest in new technologies and innovative ideas;
+- Keen sense of quality and precision;
+- Structured and independent way of working; 
+- Customer and solution oriented way of working; 
+- Willingness to learn and commit to time lines; 
+- Experience with cloud computing: Google Appengine or Amazon Web
+Services.","Please submit your detailed CV in English to:resume@... indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCDM LLC is a company offering a web-based business
+intelligence solution for asset managers investing in CDO and ABS deals."

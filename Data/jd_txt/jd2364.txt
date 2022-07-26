@@ -1,0 +1,43 @@
+Database Administrator,"The incumbent will be responsible for maintaining and
+updating the exploration geological database, data entry, validation and
+reporting of all assays, concerning exploration data. He/ she will
+monitor all the assay results, ensuring QA/ QC standards are maintained
+and also
+generate queries and reports of data.","- Ensure accurate sample tracking of all sampling from onsite collection
+to dispatch to external laboratories;
+- Ensure that all drill and geological data is accurately entered into
+the database;
+- Assist with preparation of weekly and monthly Geology reports as
+required;
+- Interact with assay lab to audit the data, as needed;
+- Train junior stuff in data entry, validation and QA/ QC systems;
+- Maintain continuous improvement in data capture and reporting systems;
+- Ensure the Fusion database is backed up, install upgrades on and liaise
+with software vendors on support issues;
+- Demonstrate required behavioral skills including productive
+communication, cooperation, productivity, initiative, creativity,
+dependability;
+- Performs other related duties as required and assigned.","- Degree in Computer science or Geology;
+- Experience in exploration or mining companies is preferred;
+- At least 2 years of exposure to databases and mining-related computer
+software is preferred;
+- Proficiency in SQL Database, Datamine, etc.; 
+- Solid knowledge of geological-related QA/ QC standards and methods; 
+- Expertise in GIS software is preferred;
+- Fluency in English and Armenian languages and/ or Russian language
+(reading, writing, speaking) with good communication skills;
+- Working under own initiative;
+- Proficiency in technical problem solving;
+- Ability to prioritise workload;
+- Ability to work under pressure.","Interested candidates can send their CVs and a
+photo to: zara@... . Only short-listed candidates
+will be interviewed. 
+Please mention the title of the position you are applying for in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","This position may require occasional work on nights,
+weekends and remote access areas.","Geoteam CJSC is an Armenian mineral exploration and
+development company, specializing in discovering new mineral deposits in
+Armenia.
+For more information, please visit the website: www.geoteam.am ."

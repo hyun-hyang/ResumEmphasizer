@@ -1,0 +1,36 @@
+Senior Java Developer,"Synergy Armenia is seeking an experienced Senior Java
+Developer within one of the Scrum teams working on new version of
+company's flagman product.","- Work independently; review, analyze, and evaluate specific new and
+emerging technologies, platforms and services;
+- Play a key role in the assessment of technical viability of new
+products and technologies;
+- Investigate technological alternatives and recommend direction;
+- Rely on experience and judgment to plan and accomplish goals.","- 5 to 7 years of experience;
+- Experience in web development using Java tool/ framework. Experience in
+Spring/ Spring MVS is desirable;
+- Knowledge of and experience in front end languages (development, HTML,
+HTML5, JavaScript and CSS);
+- Knowledge of Relational Databases and SQL language;
+- Experience in any industry related Relational Database. Experience in
+MSSQL or Oracle is desirable; 
+- Practical working knowledge of any modern OS (MACOS, LINUX, UNIX, MS
+Windows). Knowledge of MS Windows is desirable;
+- Ability to work within cross-functional agile teams; 
+- Ability to lead the team technically;
+- Extensive creativity across areas of expertise;
+- Knowledge and experience of SCRUM software; development principles and
+techniques is desirable;
+- Masters degree holder;
+- Fluency in Technical English language.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Senior Java
+Developer"", listing your qualifications, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:careers@... . Candidates who meet these qualifications will
+be short-listed, tested and interviewed. Selected candidates will be
+notified of the interview dates directly. We thank all who apply but only
+those selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

@@ -1,0 +1,19 @@
+C#/ ASP.NET Web Applications Developer,"The incumbent will maintain server side components
+like Gatewaysercer or Webservices as well as client side applications
+for Win32 or Windows Mobile.","- Debug, modify and enhance the existing applications as well as develop
+new Web applications;
+- Be in strong cooperation with company's head office developers and
+representatives in Austria.","- Good knowledge of technical English language;
+- Over 2 years of work experience in C# and ASP.NET web applications
+development;
+- Proficiency in OOP;
+- Knowledge of GIS systems is a plus;
+- Knowledge of GPS and positioning concepts is a plus;
+- Highly motivated personality, with strong readiness to work.","Please email your detailed CV and cover letter
+to: jobs_arm@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ISMO Tech CJSC is a startup Armenian branch of an
+Austrian company IGISA GmbH. The company is specialized on providing
+object or human positioning and tracking solutions based on Hi-Tech
+mobile technologies."

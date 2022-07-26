@@ -1,0 +1,28 @@
+Oracle Database Administrator,"The incumbent will be responsible for supporting the
+Oracle databases and ensuring their performance, availability and
+security.","- Ensure high availability and performance of the databases that support
+the system;
+- Work with the team to ensure that the associated hardware resources are
+allocated to the databases as well as ensure high availability and
+optimum performance;
+- Proactively monitor the database systems to ensure secure services with
+minimum downtime;
+- Responsible for improvement and maintenance of the databases to include
+rollout and upgrades;
+- Implement and release changes as submitted by the development team.","- Proven Oracle Database Administration experience;
+- Experience in managing multiple RDBMS located in remote locations;
+- Experience in configuring and managing Oracle streams replication;
+- Experience with working in a team that delivers a high availability
+service;
+- Practical experience in monitoring and tuning a database to provide a
+high availability service;
+- Oracle Certification, preferably OCP.","Interested candidates should send CV and
+motivation letter in English language to: amkrtchyan@... .
+Qualified candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Webb Fontaine Holding SA is an IT company based in
+Switzerland that offers expertise, services and solutions in the field of
+e-Government and new technologies (www.webbfontaine.com). Webb Fontaine
+Armenia is a branch of Webb Fontaine Holding for the development of
+Java-based applications on proprietary platform."

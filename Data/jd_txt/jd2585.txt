@@ -1,0 +1,19 @@
+MFC GUI Developer,"""OMD"" LLC is looking for a highly qualified MFC GUI
+Developer with solid experience in MFC-based Windows GUI development. The
+incumbent will participate in all stages of product development, focusing
+mainly (but not exclusively) on graphical user interface design and
+implementation.",NA,"- University degree in Science or Technology;
+- Extensive knowledge of and solid experience in Windows API, MFC,
+multi-threading; 
+- Excellent knowledge of C++ (OOP, STL); at least 2 years of industrial
+C++ experience;
+- Knowledge of fundamental algorithms and data structures, good
+problem-solving skills;
+- Knowledge of technical English language.","Interested candidates are asked to send their
+resumes to: jobs_am1@... . The subject must contain ""MFC GUI
+Developer"". Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

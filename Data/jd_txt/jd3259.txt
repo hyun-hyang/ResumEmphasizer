@@ -1,0 +1,38 @@
+Hardware Engineer,"This position is for a hardware design engineer
+reporting into the Analog product development group. The successful
+candidate will develop analog technology for precision measurement,
+signal sourcing functions and DSP functions as a member of the product
+development team. The Hardware Engineer will work closely with marketing
+and applications and have the opportunity to provide input to LTXC's
+marketing strategies and future product developments.",NA,"- Master's Degree in Electrical Engineering (MSEE) is preferred;
+Bachelor's Degree in Electrical Engineering (BSEE) with additional
+experience is acceptable;
+- At least 1 year of experience with MSEE and 2 years of experience with
+BSEE preferably in ATE is a definite plus;
+- Strong detailed DC circuit analysis skills, familiarity with
+calibration of precision analog instrumentation;
+- Ability to understand and create hardware block diagrams and
+schematics;
+- Ability to understand engineering, manufacturing, and customer
+requirements;
+- Excellent C/ C++ programming skills;
+- Problem solving and debugging skills with the ability to solve system
+wide problems;
+- Ability to quickly learn the company's ATE programming environment;
+- Good understanding of quality audio design is a strong plus;
+- System level trouble shooting skills;
+- Excellent communication and organizational skills;
+- Proven ability to develop quality deliverables on time;
+- Ability to team with software, hardware, applications and operations
+engineering staff, to bring-up new hardware designs and to diagnose chip
+and board problems;
+- Ability to adapt in a rapidly changing environment;
+- Good knowledge of the English language.","Interested candidates are kindly requested to
+email a CV/ resume in the English language to:
+naira.nikoghosyan@... . In the subject line of the email, please,
+mention the title of the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia is an engineering development
+company and a subsidiary of the US-based Xcerra Corporation (formerly
+LTX-Credence Corporation)."

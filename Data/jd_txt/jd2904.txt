@@ -1,0 +1,37 @@
+Senior Cloud Developer,"Senior Cloud Developer will work on the development of
+cloud-based applications. As a senior developer, he/ she will participate
+in project definitions, specifications, technical requirements, and
+technology choices, as well as lead a junior developer. In particular,
+the incumbent will head the back-end development effort and help
+architect the cloud and local web-based software.",NA,"- At least 5 years of experience building web applications;
+- Experience developing code components in a functional language, e.g.
+Nodejs, backbonejs/ ember.js, client side javascript libraries, css
+frameworks;
+- Experience with Javascript (nodejs) and bash;
+- Knowledge of Go, PHP, Python is desired;
+- Proficiency in NoSQL databases and schemas;
+- Knowledge of data formats like JSON or YAML;
+- Knowledge of single page applications with a modern Javascript MVC
+framework (Backbone.js, Angular.js, Ember.js);
+- Use of versioning technologies git;
+- Development experience of RESTful APIs;
+- Building Unit tests;
+- Proven ability to plan, develop, present and execute development
+concepts;
+- Excellent organizational skills with an ability to meet tight deadlines
+and development cycles;
+- A self-starter who can operate independently while also complementing a
+team environment;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Ability to handle the whole project and lead a small team;
+- Agile methodology experience;
+- Passionate, energetic and confident personality;
+- Excellent communication skills in English language.","All applicants should submit an English version
+of their resume accompanied with a cover letter to: hireme@... .
+Please clearly indicate the position you apply for in the subject of the
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"WiCastr is a London based company, and makes hardware
+combined to a SAAS platform. WiCastr is part of the Techstars accelerator
+programs (London 2013)."

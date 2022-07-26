@@ -1,0 +1,22 @@
+PHP Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of a PHP Developer.","- Work with the team on supporting and enhancing existing web
+application;
+- Maintain application on daily basis;
+- Maintain the server infrastructure;
+- Build statistics and provide analytical reports;
+- Develop new features and extend application functionality.","- University degree in Computer Science or a related field;
+- Minimum 3 year experience in PHP development;
+- Knowledge of PHP4 and PHP5, SQL, JavaScript (AJAX), HTML/ XHTML, CSS,
+SOAP and SEO;
+- Good knowledge of MYSQL, query optimization;
+- Solid skills with Linux and related infrastructure;
+- Excellent communication and interpersonal skills;
+- Excellent knowledge of English language.","Please submit your resumes to: jobs@....
+No personal visits, deliveries or phone calls, please. Only short listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is providing custom business
+solutions to clients from Western Europe and Armenia. More details can
+be found at: http://www.sflpro.com"

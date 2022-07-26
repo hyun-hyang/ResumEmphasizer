@@ -1,0 +1,40 @@
+Senior C++ Developer,"The Senior C++ Developer will participate in the
+development of a multiplatform Client application.","- Design, document and develop client-facing and internal multiplatform
+Client GUI C++ applications;
+- Implement and support complex and reliable applications in a multi-tier
+environment;
+- Adhere to consistent software development process and develop
+re-usable, efficient, scalable, maintainable and reliable code. Utilize
+unit and component testing for higher quality code;
+- Proactively communicate to other teams, including Business Analysts to
+understand the requirements and translate them into technical
+specifications; 
+- Perform architecture analysis of assigned components and write design
+documentation and the software specifications for both the client-facing
+and internal server applications;
+- Mentor less senior members of the team;
+- Communicate closely with Team Lead on task definition and planning.","- University Degree in Computer Science or in a related field;
+- At least 5 years of experience with production software design and
+development;
+- Expert knowledge and extensive hands-on experience of the following:
+(I) Advanced C++ with templates and STL;
+(II) QT application development;
+(III) Multithreading;
+- Low-level socket programming (TCP/ IP) experience;
+- Ability to design and implement SQL database oriented applications;
+- Experience in high performance and low-latency customer-facing
+application is an asset;
+- Linux C++ application development experience would be an asset;
+- Knowledge of Boost libraries is an asset;
+- Good design skills, which include authoring good design documents
+before starting coding;
+- Good problem solving and debugging skills;
+- Knowledge of the Software Development Life Cycle and UML;
+- Good time-management and organizational abilities that facilitate
+structured teamwork;
+- Good written and oral communication skills;
+- Interest in the financial industry or knowledge of financial trading
+back office processes would be an asset.","Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=215
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

@@ -1,0 +1,40 @@
+Senior System Administrator,"SFL LLC is looking for a top-notch, talented, driven
+Senior System Administrator.","- Install and configure Windows/ Linux based servers;
+- Upgrade and configure the system software that supports the clients'
+infrastructure applications;
+- Maintain operational, configuration and other procedures;
+- Troubleshoot all OS and server related issues.","- University degree in Computer Science or a related field;
+- At least 4 years of work experience with Windows servers;
+- At least 3 years of work experience in virtual infrastructure (Hyper-V
+and Vmware ESXi);
+- Strong knowledge of DNS, Active Directory and Group Policy;
+- Excellent knowledge of TCP/ IP protocol, firewalls, and network
+security in general;
+- Basic knowledge of MS SQL Server database administration;
+- Work experience with monitoring systems;
+- Work experience with the System Center 2012 R2 family product (SCCM,
+SCOM, DPM and VMM);
+- Work experience with clusters and storage management;
+- Work experience in Cloud engineering (Azure and Amazon);
+- Work experience in IBM, Dell servers and storages;
+- Knowledge of software and hardware raid and disk multipathing;
+- Experience in working with backup systems;
+- Knowledge of NFS, SNMP, DNS, IIS, FTP, Apache, MySQL, High Availability
+Systems, NLB and Multi-Factor Authentication;
+- Good knowledge of the English language;
+- Strong team-oriented interpersonal skills;
+- Strong written and verbal communication skills;
+- Strong analytical and problem-solving skills to enable effective
+security incident and problem resolution;
+- Proven ability to work under stress in emergencies, with the
+flexibility to handle multiple high-pressure situations simultaneously;
+- Strong customer/ client focus, with the ability to manage customers'
+needs appropriately; provide a superior customer/ client experience and
+build long-term relationships.","To apply for this position, please send your CV
+to: jobs@... mentioning ""JobID 12100"" in the subject line of your
+email or apply at:
+https://www.smartrecruiters.com/SFL/87256810-senior-system-administrator
+. The Company will call you to discuss this opportunity in more details.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

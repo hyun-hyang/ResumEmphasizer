@@ -1,0 +1,30 @@
+iOS Developer,"Accontech LLC is currently looking for talented
+thinkers and software engineers for the position of iOS Developer. The
+incumbent will be a part of the startup mobile development team and will
+work in the mobile development team to develop mobile experiences for
+customers. The candidate will be highly involved in the ideation and
+brainstorming of new applications and will work quickly and efficiently
+to produce innovative designs.","- Write optimized code for the iOS platform;
+- Estimate overall timelines, risks and requirements;
+- Participate in design meetings to speak to the feasibility of design
+requirements;
+- Build, iterate and manage set of mobile applications;
+- Develop GUI's for the iPhone and/ or iPad;
+- Responsible for detecting and correcting issues and optimizing code.","Particulars of experience are not as important
+to the Company as generally being a smart person. Smart people learn
+quickly so use the bullet points below as a guideline:
+- Positive attitude with ""can do"" mentality;
+- At least 1 year of experience with iPhone development;
+- Experience of consuming web services (REST) and processing data
+(XML/JSON);
+- Strong technical capacity and ability/ passion to learn;
+- Experience with networking frameworks is a plus;
+- Experience with embedding and using 3rd party sources is a plus;
+- Experience with SQL based database systems and/ or Core data
+technologies is a plus;
+- Experience in C will be a great plus.","All the interested candidates are welcome to
+send their resume to: talent@... . Please indicate the position
+title and your name in the subject line of your letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

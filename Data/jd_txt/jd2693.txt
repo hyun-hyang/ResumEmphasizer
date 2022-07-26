@@ -1,0 +1,26 @@
+iOS Developer,"Seven Smarts LLC is looking for a talented and
+extremely passionate iOS Developer.","- Work on multiple projects in a deadline driven environment;
+- Analyse specifications, write clean, reusable code and test cases;
+- Plan, develop and debug Objective C based code;
+- Build custom interfaces on iOS;
+- Responsible for investigation of newest technologies;
+- Work closely within a team of developers.","- Understanding and ability to leverage iOS features;
+ Experience in application development for iOS;
+- Good knowledge of Objective-C, Cocoa, XCode and iOS Frameworks;
+- Good skills with iOS utilities for Web Service client development
+(SOAP, REST, JSON);
+- Full understanding of the iOS development life-cycle including
+familiarity with significant changes made between releases of operating
+system versions;
+- Experience of working with Continuous Integration (CI) and TDD on iOS;
+- Solid communication skills and team-working capability;
+- Ability to learn quickly;
+- Good knowledge of English language;
+- Sense of humor.","Interested candidates are asked to send their
+resumes to: jobs@... . In the subject line mention the position
+you are applying for. Only shortlisted candidates will be invited for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Seven Smarts is a software development company which
+launched its activity in Armenia in 2009."

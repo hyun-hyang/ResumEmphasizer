@@ -1,0 +1,20 @@
+Entry-level C++ Software Engineer,"OMD LLC is looking for an Entry-level C++ Software
+Engineer who will participate in the development of the company's OneTick
+product line.",Participate in all states of product development.,"- University degree in IT or last year students in IT field;
+- Excellent academic record;
+- Good knowledge of algorithms and data structures; 
+- Successful participation in programming olympiads and contests is a
+plus;
+- Knowledge of C++ and demonstrated ability to write programs;
+- Good technical English language skills;
+- Previous work experience is a plus.","Send your resume and any attachments (such as
+source code) to: jobs_am1@... . Please mention ""Entry-level C++
+Software Engineer"" in the subject line of your email. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Applicants having written C++ code in non-properietary
+projects are requested to attach the source code with their resume.","""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions. For more information please visit:
+www.onetick.com."

@@ -1,0 +1,36 @@
+Senior Software Engineer,"The position involves a large scale, hardware oriented
+system software development project that includes executive services for
+datalog, binning, external equipment interface and test program runtime
+executive. It also involves mixture of engineering process development,
+project planning, systems programming and applications programming.","- Participate in the design, development and implementation of software
+for Automatic Test Equipment; 
+- Use professional concepts in accordance with company objectives and
+team guidelines to solve complex problems;
+- Contribute to the enhancement and subsequent release of an IC test
+system by taking ownership of specific projects of varying content,
+scope and duration.","- BS in Computer Science or Electrical Engineering, or equivalent (MS
+preferred);
+- 5+ years of software engineering experience and willingness to take
+responsibility for timely delivery;
+- 3+ years of ATE Software Engineering is desired;
+- Strong C/C++ skills;
+- VxWorks RTOS knowledge is a plus;
+- Working knowledge of Unix, Linux and Windows NT/2K/XP environment; 
+- Ability to work well in a team environment which requires strong
+written and verbal communication skills;
+- Willingness to perform some non-development tasks to ensure project
+success (e.g. documentation, configuration management, hardware
+configuration and system testing);
+- Willingness to take ownership and responsibility for the timely
+delivery of well structured, verified and maintainable code is
+essential;
+- Good knowledge of verbal and written English language.","Please e-mail your detailed CV in English
+language to: naira_nikoghosyan@.... Please clearly mention in your
+application letter that you learned of this job opportunity through
+Career Center and mention the URL of its website - www.careercenter.am.
+Thanks.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Credence Systems Armenia LLC is a subsidiary of
+LTX-Credence Corporation, USA, a provider of Automated Test Equipment
+for the global semiconductor industry."

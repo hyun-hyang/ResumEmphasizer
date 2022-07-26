@@ -1,0 +1,20 @@
+Network Administrator,"""Cascade Capital Holdings"" CJSC is looking for a
+motivated, self-driven, highly professional candidate for the position
+of Network Administrator. We are looking for a well organized and hard
+working person able to work in a western-style office environment
+towards the achievement of team goals.","- Manage and monitor all the CCH Network activities;
+- Install and maintain CCH server systems;
+- Perform security audits of the CCH WAN;
+- Develop and supply new services for the CCH;
+- Responsible for the information consistency and disaster recovery.","- Excellent knowledge of networking technologies;
+- Professional knowledge of Software and Hardware Security Systems;
+- Windows server systems outstanding proficiency;
+- Significant work experience in Network Administration;
+- Knowledge of MS SQL server Administration;
+- Knowledge of UNIX system is a plus.","Please email your CV and cover letter in
+English to: hr@.... Please clearly indicate
+""Network Administrator"" in the subject line of your e-mail. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,36 @@
+Android Application Developer,"Altacode Ltd. is looking for highly qualified and
+motivated Android Application Developer with deep knowledge and practical
+experience in android development.","- Work with the Product Management team to understand, clarify and shape
+requirements;
+- Translate those into technical requirements used to design the
+product;
+- Design and implement mobile applications for the Android OS based
+platforms.","- Bachelor's degree in Computer Sciences, Computer Engineering or a
+related field;
+- Proficiency in Java and sound fundamentals of Java programming;
+- Thorough knowledge of using Eclipse IDE integrated with Android
+Development Toolkit;
+- At least 2 to 5 years of software development experience (in Java, C++
+and C#);
+- 1-2 years of experience in Android software development;
+- Knowledge of JDK 1.5, Android Framework and experience with SQLite;
+- Knowledge of Android SDK 2.0 (or later);
+- Tools: Knowledge of Eclipse 3.4 (Ganymede) and Emulator;
+- APIs: Knowledge of Android 2.0 API and Google5 API;
+- OO design and development experience.
+Specific Requirements:
+- Ability to see the inherent challenges in all things: if a task is
+complicated, you simplify it; if it is simple, you excel at it; if it is
+mundane, you automate it;
+- A problem solver: be given any problem and come back with solutions, or
+at least alternatives;
+- A perfectionist: not to be satisfied until your code is rock solid;
+- Pragmatic: implement the best solution for the problem, not the coolest
+solution, and ability to tell the difference;
+- Ability to see the big picture: company writes software to solve real
+business problems.","Please send you CVs/ Resumes to:resume@... , mentioning ""Android Application Developer"" in the
+subject line. Please submit links to your live applications in the
+Android Market.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,66 @@
+Senior Software Engineer,"VMware is seeking a Senior Software Engineer with
+strong distributed systems expertise for the VMware Cloud Infrastructure
+and Management's ESO team. The Cloud Management group charter is to
+create the platform and products that deliver performance, availability
+and capacity management of VMware based environments. This is an exciting
+area to work in with multiple products in the pipeline and a fast-paced
+work culture. If evaluating/ improving the performance/ scale of products
+that solve large real-world distributed systems problems and delivering
+them on an aggressive schedule motivates you, then this job is for you.","- Evaluate the performance/ scale of VMware products using analysis
+tools, or creating tools as needed;
+- Identify performance bottlenecks throughout the system;
+- Recommend and implement code changes to remove performance/ scale
+bottlenecks;
+- Review emergent architectures and designs to identify potential design
+limitations;
+- Be an advocate for getting high performance designs and implementations
+incorporated into the product;
+- Drive architecture discussions, optimizations and end to end
+improvements into the platform with development architects and leads;
+- Establish performance models and exit criteria for critical strategic
+features;
+- Review business use cases, user stories and other functional and
+non-functional requirements to identify key indicators;
+- Review design documents and code to identify potential bottlenecks and
+defects;
+- Develop load simulators for performance/ scale evaluation of n-tiered
+applications;
+- Write technical and summary reports that present results to management.","- BS/ MS degree in Computer Science, Engineering or in a related
+technical discipline, or equivalent experience;
+- Solid experience and/ or training in the system analysis and
+troubleshooting;
+- Hands on experience in Java;
+- Strong understanding of Java performance garbage collection, heap dump
+analysis, tuning and Java profiling;
+- Experience with large-scale, large volume, distributed 24x7 systems
+supporting tones of transactions/ sec;
+- Excellent programming knowledge (Java is preferred);
+- Excellent scripting skills (Shell, Python);
+- Excellent in Unix/ Linux, Windows;
+- Database experience (NoSQL is preferred);
+- In-depth knowledge of system analysis tools, techniques and
+benchmarking;
+- Familiar with profiling/ monitoring Software (e.g. JProfiler, YourKit,
+JMeter);
+- Experience in the development of performance/ scale measurement and
+analysis tools;
+- Experience with performance engineering within a distributed
+architectures;
+- Strong understanding of complex concepts related to computer
+architecture, data structures and programming practices;
+- Deep understanding of the following concepts: Operating Systems, CPU/
+Memory architectures, threads, exceptions and I/ O;
+- Ability to diagnose complex problems and deliver analysis of root
+causes;
+- Ability to work in an Agile, continuous integration environment;
+- Excellent English language written and verbal communications skills.","Interested candidates are asked to send their
+last updated and detailed resumes to: lavetisyan@... , Liana
+Avetisyan (HR). Please, indicate ""Senior Software Engineer"" in the
+subject line of the e-mail. Only shortlisted candidates will be invited
+for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware, Inc. is an American software company that
+provides cloud and virtualization software and services, founded in 1998
+and based in Palo Alto, California, USA. For more information about the
+company, please visit: www.vmware.com."

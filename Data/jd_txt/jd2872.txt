@@ -1,0 +1,18 @@
+SW Developer,"The project will be focused on rebuilding and enhancing
+the existing system, which may include front-end design as well as
+back-end programming.",NA,"- Experience related to the following:
+a) PHP 5 (classes, namespaces, inheritance, and design patterns);
+b) MySQL;
+c) JavaScript development (jQuery preferred);
+d) Computer networking, Ethernet, IP, VLANs, or telecom is a plus;
+e) .NET Framework and C# is a plus;
+- Commitment to acquire new skills and the ability to use them;
+- Good knowledge of spoken and written English language;
+- Ability to work independently and complete assigned tasks within
+identified time frames;
+- Positive attitude, flexibility and problem solving mentality;
+- Strong attention to details.","All interested and qualified applicants are
+welcome to send their CVs to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

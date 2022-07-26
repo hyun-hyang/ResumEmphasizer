@@ -1,0 +1,28 @@
+Java Senior Software Developer,"Sourcio CJSC is seeking experienced Java Developers
+particularly senior level for development of features for its partners'
+product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 5 years of practical experience in Java development;
+- Good knowledge of OOP principles;
+- Knowledge of IOC frameworks like Spring, Guice, Gin;
+- Knowledge of GWT or other MVC frameworks such as Struts2 or JSF;
+- Knowledge of other programming languages such as Ruby, PHP is an
+advantage;
+- Good knowledge of databases (Oracle, Postgres, MySQL, MSSQL);
+- Experience in using Eclipse IDE is preferable;
+- Experience in working in Linux environment (Ubuntu, Suse);
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language both communication and
+technical level;
+- Knowledge of German language is an advantage.","All interested and qualified candidates are
+welcome to send their CVs to: info@... .
+Please indicate the position title in the subject field of your message.
+Only shortlisted candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio is a software technology company that develops
+web and mobile products with heavy traffic."

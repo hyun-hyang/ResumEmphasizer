@@ -1,0 +1,35 @@
+LAN Manager and Web Developer,"The incumbent will work within the framework of the
+Armenia De-Mining Project. He/she will be responsible for entering data
+in the Information Management System for Mine Action (IMSMA) database
+and for the production of limited quantity and limited scale mapping
+products for the LISA. He/she will be responsible for ensuring working
+condition of all project data and telecom equipment and for LAN
+networking for the PCs of the project and maintenance of the Web Site
+for the project and the AHDC.","- Test, install and maintain project software and hardware; 
+- Produce reports and requests for data and scale maps as needed; 
+- Make an entry of data into the IMSMA database and of reports provided
+by the field team;
+- Maintain and sort out minor computer problems on a stand-alone system
+(desktop or laptop, scanner and printer, etc); 
+- Regularly update files, archive, soft and hard-copy data as well as
+Antivirus and operating system.","- University degree in Computer Sciences, Applied Math or a related
+field;
+- Specialized training in Web design, LAN and Data Management;
+- Previous work experience in database management, LAN Management and
+Web Development (ASP, HTML/ CSS and MSSQL Server);
+- Knowledge and experience in mine action is a plus;
+- Excellent knowledge of MS Office, MSSQL Server and strong knowledge of
+Access;
+- Work experience with GIS and GPS systems;
+- Excellent knowledge of both written and oral Armenian and Russian
+languages. Good knowledge of English is a plus.","Applications can be submitted throughhttp://oc.undp.am site (Vacancies Announcements) or delivered hard
+copies to the UN House Security Desk: 14 P. Adamyan Str, for the
+attention of the HR Associate.
+A complete application form should consist of:
+- A letter of motivation (in English);
+- A full CV accompanied by a recent identity photo;
+- Copies of diploma(s).
+Only short listed applicants will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Women candidates are encouraged to apply.,NA

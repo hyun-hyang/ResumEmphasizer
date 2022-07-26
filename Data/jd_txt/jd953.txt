@@ -1,0 +1,46 @@
+IT Specialist,"The IT Specialist is expected to continue to support
+the Food Safety and Veterinary State Inspectorate (FSVSI) National
+Animal Disease Surveillance System (NADSS) unit as well as the
+laboratory unit of the Ministry of Agriculture of Armenia to strengthen
+and implement animal disease data analysis and data flow between the
+different offices/institutions both at a national and at the Marz level
+and provide expert IT support.","- Install and manage all computer systems and databases within the
+FSVSI;
+- Provide hands-on training and identify formal training programs for
+NADSS and FSVI staff; 
+- Maintain these systems on a long term basis;
+- Establish and support internet connections between the Marz offices
+and the NADSS office;
+- Ensure data flow between these offices;
+- Provide guidance, assistance and hands-on training in the development
+of an integrated national animal disease information system; 
+- Identify constraints and opportunities which should cover hardware,
+software and capacity building to meet the challenges faced in Animal
+Health in the next 5-10 years;
+- Be responsible for day-to-day support of Microsoft software
+programmes, such as Excel and Access in order to manipulate data between
+TADinfo and ArcView and Word for report writing;
+- Assist in report writing, e.g. setting up automatic letters for
+reports to Marz offices, which are to be sent regularly;
+- Establish and support Electronic data flow between the laboratories.","- Extensive knowledge in the IT sector; 
+- Experience in software and hardware maintenance; 
+- Experience in LAN and database administration; 
+- A university degree in information technology or a related field; 
+- At least 5 years of relevant experience in management information
+systems, networks administration; 
+- Ability to communicate effectively with a wide range of stakeholders
+including staff of donor-funded projects, and local and central
+government officials; 
+- Good organizational skills; 
+- Ability to work in a team; 
+- Demonstrated experience in hands-on training.","Interested candidates are kindly asked to email
+their resume (in English and Armenian) with recent photo and a cover
+letter to: arsp@... or submit those to ARSPIU SI at:
+54/b Komitas street, 3rd floor, 0014, Yerevan.
+Tel: 297301,297302
+Please mention the position you are applying for in the subject line of
+your email. Only short listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Agricultural Reform Support PIU SI is currently
+implementing the Avian Influenza Preparedness Project in Armenia."

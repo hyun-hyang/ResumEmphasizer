@@ -1,0 +1,25 @@
+Web Developer,The Company is seeking an experienced Web Developer.,"- Write well-designed, testable, efficient codes by using the best
+software development practices;
+- Create the site layout/ user interface by using standard HTML/ CSS
+practices;
+- Integrate data from various back-end services and databases.","- BS in Computer Science or a related field;
+- Proven work experience in web programming;
+- Top-notch programming skills and in-depth knowledge of modern HTML and
+CSS;
+- Knowledge of jQuery and Bootstrap;
+- Good knowledge of NodeJs and JavaScript;
+- A solid understanding of how web applications work including security,
+session management, and the best development practices;
+- Adequate knowledge of relational database systems, object oriented
+programming and web application development;
+- Basic knowledge of the search engine optimization process;
+- Strong organizational skills to juggle multiple tasks under strict
+deadlines;
+- Ability to work and thrive in a fast-paced environment, learn rapidly
+and master diverse web technologies and techniques.","All interested and qualified candidates are
+welcome to send their portfolios and CVs to: info@... .
+Please indicate the position title in the subject line of your message.
+Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

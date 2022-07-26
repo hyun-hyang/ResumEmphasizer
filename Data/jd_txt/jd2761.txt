@@ -1,0 +1,10 @@
+Javascript Developer,"The incumbent will be creating one-page sites using MVC
+structure, jQuery and Angularjs.",NA,"- Knowledge of Javascript (jQuery, Angularjs);
+- Knowledge of  Ajax, Json;
+- Knowledge of  HTML, CSS;
+- Knowledge of OOP.","Interested candidates are asked to email their
+CVs to: cv@... . Please mention the position you are applying for
+in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,21 @@
+.Net Developers,"You will work in a software development team in the
+phases of design and implementation throughout different projects for
+international customers.",NA,"Sciant is looking to hire .NET Developers with
+the following profile:
+- Deep knowledge of Object Oriented Design;
+- Strong programming skills;
+- Design and implementation of Client-Server applications (multi-tier
+architecture), distributed applications;
+- In-depth understanding of Microsoft .NET framework - C#, ADO.NET,
+ASP.NET;
+- Knowledge of XML and Web Services;
+- Experience with RDBMS  MS SQL Server or Oracle; design and
+implementation; knowledge of T-SQL or PL/SQL;
+- Minimum of 2 years experience with commercial projects with relevant
+technologies;
+- Fluency in English language (written and spoken).","To apply, please send your CV and a motivation
+letter to: jobs@.... The shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

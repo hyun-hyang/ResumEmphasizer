@@ -1,0 +1,48 @@
+Database Manager,"We are looking for a Database Manager for the
+Financial Intelligence Unit under the board of Central Bank of Armenia
+(herein FIU).","- Define quality and design requirements for entry and outgoing data, as
+well as other traits of reports presented by entities accountable to the
+FIU according to the Law on Anti-Money Laundering and Combating
+Terrorist Financing (herein AML/CFT);
+- Input data into databases, maintain operation ability of centralized
+databases;
+- Analyse technical eligibility of reported data and identify mismatches
+in reports; 
+- Maintain availability of needed data in analyzable format;
+- Provide analyst with data needed in usable formats;
+- Responsible for technical maintenance and development of data formats
+and databases, also on the basis of analysis of international experience
+conducted;
+- Provide professional assistance and trainings to stakeholders in the
+field of AML/CFT respective to his/her proficiency field.","- In case of Masters (equivalent degree of 5 years and more) education
+in the fields of IT Engineering 1 year of relevant work experience is
+required;
+- In case of Masters (equivalent degree of 5 years and more) education
+in different from Engineering fields 3 years of work experience is
+required in private and public organizations engaged in database
+management, data analysis and processing, as ell as software development
+and programming etc;
+- Skills and competence in the following fields: Law of the Republic of
+Armenia on AML/CFT2. Basics of international conventions, documents,
+typologies, cases, approaches to and standards related to AML/CFT;
+Basics of Banking and Financial Laws, regulating financial activity of
+entities supervised, as well as Laws and by-laws regulating activity of
+other entities accountable to the FIU according to the Law of Republic
+of Armenia on AML/CFT; Basics of Civil, Labor and Criminal Codes; Basics
+of Accounting; Central Bank by-laws; Database Management Systems, such as
+SQL etc.; Basics of Banking and Finance.","Following documents must be presented to the HR
+Management Department of the Central Bank of Armenia:
+- Application (the form is attached below);
+- CV (resume);
+- CBA staff enumeration personal form (attached below);
+- Photocopy of the passport;
+- Photocopy of Social Identification Card;
+- Photocopy of Diploma and Transcript;
+- Photocopy of Military Card (for males);
+- Photocopy of Work-book;
+- 2 color photography of 3X4 size.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Financial Intelligence Unit is a special Department of
+the Central Bank of Armenia accountable to the Board of the Central Bank
+that has the purpose of creating sound AML/CFT system in Armenia."

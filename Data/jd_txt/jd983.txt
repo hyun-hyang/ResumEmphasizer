@@ -1,0 +1,21 @@
+Network Administrator,"As a member of the company's Technical Support team,
+the incumbent will be involved in the planning, analysis, design,
+development, testing, quality assurance, configuration, installation,
+implementation, integration, maintenance and support of the company's
+LAN/WAN infrastructure and associated systems.",NA,"Successful candidates will have extensive
+experience and expertise in the following:
+- In depth understanding of TCP/IP operations and networks;
+- LAN/WAN connectivity to include: Ethernet, DSL, 802.11, E1/T1, Fiber
+Optic technology and circuits;
+- Current Linux distributions (Red Hat, CentOS, etc.) and services
+(HTTPD, FTP, Bind, IPTables, Sendmail, Radius, MySQL, etc.);
+- Cisco Routers and Switches (IOS 12.x), extensive experience with Cisco
+IOS command set, BGP and OSPF protocols;
+- Knowledge of VoIP.
+Added bonus is experience with:
+- Informix RDBS.","Please send your resume in English to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Hi-tech Gateway LLC, Armenian Branch is a complete
+internet communications services provider with customers in the United
+States and Armenia."

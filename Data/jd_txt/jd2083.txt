@@ -1,0 +1,25 @@
+Senior C# Developer,"Monitis GFI is seeking a Senior C# Developer for the
+development of features for its partners' award-winning product. The
+Senior C# Developer will work in close collaboration with the Project
+Manager to understand the application requirements and be able to
+validate that the development answers the business requirements.",NA,"- University degree in the appropriate field of studies;
+- At least 3 years of work experience in the appropriate field;
+- Good knowledge in .Net and C#;
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Excellent knowledge of and work experience in designing and developing
+complex software applications;
+- Proficient on programming software applications with VC++ and C#.NET
+under Windows XP and Windows CE;
+- Working knowledge of JavaScript, CSS, HTML, and XML;
+- Good knowledge of English language;
+- Ability to come up to speed on new applications and technology in a
+very short amount of time;
+- Ability to produce high quality code;
+- Ability to respect deadlines.","All interested and qualified candidates are
+welcome to send their CV to: hr@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.monitis.com."

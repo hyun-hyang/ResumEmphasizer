@@ -1,0 +1,40 @@
+"Senior IT Network Administrator, Administration Unit, Network","Senior IT Network Administrator will be responsible for
+the Network infrastructure, End User supporting, shared device, new PC
+installation, IT Infrastructure environment maintenance.","- Setup and support LANs, Branch Network, WANs, network segments,
+Internet, and intranet systems;
+- Setup and support routing protocols such as RIP, OSPF, BGP;
+- Install and maintain network hardware and software;
+- Analyze and isolate issues;
+- Oversee the daily operation of computer networks including hardware/
+software support;
+- Monitor networks to ensure security and availability to specific
+users;
+- Evaluate and modify system's performance;
+- Determine network and system requirements;
+- Create and design technical documentations; document standards and
+operating procedures for company systems;
+- Assign configuration of authentication and authorization of directory
+services;
+- Maintain network servers such as email servers, VPN gateways, intrusion
+detection systems, proxy, DNS, WEB servers, etc.","- Higher Technical (Engineering) education;
+- At least 3 years of work experience in the mentioned field;
+- Fluency in Armenian, Russian and English languages;
+- Experience in working and managing remote teams;
+- Experience in working with ticketing systems;
+- Ability to work independently and efficiently to meet deadlines;
+- Experience in hardware and software issues;
+- Knowledge of Internet-related applications;
+- Windows and Linux operating skills;
+- Self-motivated, detail-oriented and organized personality;
+- Excellent problem-solving skills, ability to take ownership of the work
+assigned and deliver results timely, reliably and correctly;
+- Communication skills and courteous manners; ability to work in a team;
+- Ability to make decisions under pressure and handle stressful
+situations.","All interested and qualified candidates are
+invited to complete the application form attached below, enclose the CV
+at their discretion and email it to: hr.it@... . Please
+indicate the position title in the subject field of your message. Only
+short-listed candidates will be called for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

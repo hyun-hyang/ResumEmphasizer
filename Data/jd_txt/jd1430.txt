@@ -1,0 +1,25 @@
+Intern (R&D Hardware),"- Design, develop and debug RTL design components and test benches in
+Verilog;
+- Develop and debug TCL based Verilog code generation templates;
+- Develop and debug design verification automation scripts in TCL or
+batch.",NA,"- BS degree, expected MS degree in computer engineering or equivalent
+(electronics, cybernetics);
+- Excellent knowledge of digital circuit technique; 
+- Good knowledge of Verilog;
+- Good knowledge of TCL;
+- Work experience with Verilog simulators;
+- Ability to work with UNIX/Linux/Windows;
+- English communication skills and ability to compile functional and
+design specifications. 
+Desired skills: 
+- Algorithmic thinking;
+- Good analysis and debugging skills;
+- Knowledge of programming languages.","Please submit your detailed CV in English to:nlucy@... indicating the position you are applying for in the
+subject line of your e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"Synopsys is a provider of electronic design automation
+(EDA) software and services. Synopsys Armenia CJSC was established in
+October 2004 by Synopsys Inc. Please visit: www.synopsys.com for more
+information about the company."

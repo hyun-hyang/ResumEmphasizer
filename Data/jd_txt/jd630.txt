@@ -1,0 +1,34 @@
+Senior Software Developer,"The Senior Software Developer will be engaged in
+Windows and Web applications development based on .Net framework. He/she
+will be responsible for application design, development and technical
+documentation preparation.","- Work as a part of team on Web and Windows applications based on .Net
+framework;
+- Provide necessary documentation and reports in English language;
+- Propose and document technical solutions for the given task;
+- Implement code team software engineers code revision;
+- Evaluate team software developers technical solutions.","- BS or MS in Computer Science or related field;
+- At least 2 years of experience in Windows or Web application
+development on .Net framework;
+- At least 5 years of experience in software engineering;
+- Expert knowledge of object oriented programming and design patterns;
+- Expert knowledge of the .NET platform and experience implementing .NET
+projects;
+- Strong knowledge of C#, SQL and ADO .Net;
+- Strong knowledge of ASP .NET, XML and SOAP;
+- Good knowledge of databases: MS SQL Server;
+- Good understanding of Web Services and remotting;
+- Good knowledge of English language;
+- Ability to propose or evaluate algorithms and technical solutions;
+- Ability to work under pressure;
+- Ability to work in the team;
+- Knowledge of UML is a plus;
+- Knowledge of VB.NET is a plus;
+- Professional work experience in the development of multi-layered;
+- Client-server applications is a plus;
+- Familiarity with programming and software development life cycle is a
+plus.","All interested candidates should submit their
+resumes to: jobs@.... Please mention in the subject line the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

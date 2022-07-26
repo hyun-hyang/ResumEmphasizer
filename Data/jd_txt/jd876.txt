@@ -1,0 +1,17 @@
+"Software Developer C#, C++, .Net","Smart-Tech is looking for highly motivated people for
+the positions of Software Developer C#, C++, .Net to join the company's
+software development process. Only qualified specialists will be
+shortlisted.","- Participate in development of new and existing projects;
+- Report to a Group Manager;
+- Provide time estimation for assigned tasks and meet deadlines;
+- Train and supervise juniors.","- 2+ years of experience in C#, ASP .Net;
+- Good knowledge of .Net Framework;
+- Good knowledge of C++;
+- Knowledge of design patterns and algorithms;
+- Strong knowledge in MSSQL;
+- Good English and Russian languages skills;
+- Team player.","Please submit your detailed CV to:armen@... indicating the position in the subject line of your
+e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

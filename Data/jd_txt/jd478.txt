@@ -1,0 +1,32 @@
+Quality Assurance Engineer,"This challenging position will provide opportunities
+in SW testing/QA with a particular emphasis on semiconductor technology
+characterization applied to Design for Manufacturability. This position
+includes SW testing and/or quality assurance. Engineers will gain
+responsibility rapidly with experience and will enjoy participation in a
+fast growing entrepreneurial venture, through management of project
+teams.",NA,"- BS/MS degree preferably in Microelectronics and Semiconductor
+Technology or other appropriate engineering area;
+- 1 year + (or at least 0.5 year +) of work experience in a
+corresponding area;
+- Understanding of semiconductor device physics and process integration
+(graduate level understanding is a plus);
+- Experience in Software testing; understanding of software testing
+methods; knowledge of software and test documentation and utilities;
+- Understanding of DC and AC circuit theory;
+- Familiarity with semiconductor CAD tools, including physical layout
+and circuit simulation;
+- Knowledge of GDSII;
+- Knowledge of UNIX/Linux;
+- Script writing (Perl, tcl/tk,);
+- Knowledge of C/C++ 
+- Knowledge of purify and code coverage tools (optional);
+- Good written and verbal English language knowledge;
+- Ability to work under pressure.
+Successful candidates should strive to work efficiently, provide work of
+impeccable quality, and think critically. As well as demonstrate strong
+leadership and interpersonal skills.","Interested candidates should e-mail their
+detailed resumes (no hand delivery please) to Anahit Krishchyanakrishch@... 
+The e-mail subject line should read Tester for ICWB
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

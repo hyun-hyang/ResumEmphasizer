@@ -1,0 +1,35 @@
+C# Developer,"The primary objective of this position is to manage all
+financial market information transmitted through the CQG network,
+ensuring its benchmark standard for delivering the highest quality market
+data.","- Gather and produce requirements and designs;
+- Write and test code for the required products;
+- Accurately plan software development activities and follow established
+processes;
+- Share knowledge, mentor peers, listen and hear team members positions
+and provide a fair evaluation of differing opinions;
+- Work productively as part of a software development team;
+- Communicate effectively with management and team members;
+- Keep commitments;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Science or a related discipline;
+- Over 3 years of software industry experience using OOP and C#;
+- Experience in SDLC, particularly, in developing requirements, design,
+test cases, testing, deployment and maintenance;
+- Extensive knowledge of Windows platform technologies, multithreading
+and networking;
+- Passion about quality and time to market;
+- Basic knowledge of SQL and basic skills in databases;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Knowledge of software development methodologies (Agile, Waterfall,
+etc.) is a plus;
+- Fluency in English language;
+- Knowledge of current technologies.","To apply, candidates are asked to e-mail their
+applications to: yer_job@... . Please mention the position title in
+the subject line of the e-mail. In case of questions, please call: (010)
+26 56 01 ext. 7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQGI is headquartered in Colorado, where it has been
+founded in 1980. The company has more than 500 employees worldwide in 15
+offices. Its Yerevan office was opened back in 2004. For more
+information, please visit: www.cqg.com."

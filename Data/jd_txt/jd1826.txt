@@ -1,0 +1,33 @@
+Senior C++ Developer,"The incumbent will be responsible for producing timely
+and high quality  products in conjunction with team members.","- Participate in gathering and producing requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a command of current technology;
+- Actively participate in discussions regarding technical issues.","- Bachelor's degree in Computer Sciences or a related discipline;
+- More than 3 years of experience in C++ development, enterprise-class
+system architecture and design or equivalent combination of education,
+skills and experience;
+- Knowledge of SQL is an advantage;
+- Demonstrated record of delivering high quality software products to
+market;
+- Good knowledge of Windows platform technologies, including Win32 API,
+COM, threading and sockets is desirable;
+- Strong problem-solving skills and ability to be a successful  team
+member;
+- Good English language skills and ability to develop those skills;
+- Desire to learn new technologies;
+- Knowledge and application of software development methodology,
+preferably UML.","To apply, please email your applications to:yer_job@... . Please mention the  position title in the subject line
+of your e-mail. If any questions, please call: (010) 26-56-01 ext.7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it has been
+founded in 1980. The company has more than 500 employees worldwide in 15
+offices. Yerevan office was opened back in 2004. For more than 30 years
+CQG developed new technologies, offering real-time and historical data
+integrated with graphics and technical analysis tools for finance market.
+For more information please go to: www.cqg.com."

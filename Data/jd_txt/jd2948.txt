@@ -1,0 +1,35 @@
+ASIC Design Engineer,"ASIC Design Engineer will be involved in a) Memory
+Blocks Physical Synthesis, Place and Route, Optimization, Timing closure,
+Verification; b) Developing floor planning optimization techniques and
+automation.",NA,"- MS in Electrical Engineering or Computer Science;
+- At least 5 years of hands-on experience in ASIC design and
+verification;
+- Deep understanding of ASIC design methodology and flow all the way from
+netlist to GDSII;
+- Understanding of memories and data flow;
+- Experience in hierarchical physical design strategies and understanding
+of advanced node technology issues;
+- Solid knowledge and hands on experience in block level synthesis, place
+and route, power planning, optimization techniques, timing closure;
+- Power user of Cadence (RC, Conformal, EDI, ETS, etc.), Synopsys (DC,
+ICC, PT, etc.) design tools;
+- Solid understanding of design constraints and manipulation;
+- ECO implementation skills;
+- Automation and programming-minded personality;
+- RTL coding knowledge is a plus;
+- Self-motivated personality, ability to work independently or as a team
+player;
+- Excellent verbal and written communication skills of English language;
+- Understanding of the big picture and detail oriented personality during
+execution;
+- Successful track record of taping out complex 40/28nm SOCs is a plus.","Interested candidates may send their updated and
+detailed CV to: hr.armenia@... . Only shortlisted candidates will
+be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Memoir Systems, Inc. is a provider of breakthrough memory
+technology that is delivered as Semiconductor Intellectual Property
+(SIP). Cisco has acquired Memoir Systems, a provider of memory
+intellectual property (IP) licenses for use in Application-Specific
+Integrated Circuit (ASIC) chips. For more information, please visit:
+www.memoir-systems.com."

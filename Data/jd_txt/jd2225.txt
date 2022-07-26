@@ -1,0 +1,21 @@
+Junior Information Systems Administrator,"The incumbent will be responsible for the management of
+information application systems and provide support to the local staff.","- Responsible for administration of local payment applications on
+corresponding servers;
+- Develop and run scripts with the purpose of updating databases;
+- Receive data, generate reports and perform other works;
+- Perform periodical backup and recovery of databases.","- Higher Technical education and 2 years of professional work experience;
+- Basic Knowledge of databases management systems;
+- Basic Knowledge of T-SQL; 
+- Basic Knowledge of MS SQL Reporting System;
+- Basic Knowledge of administration of MS SQL Server;
+- Knowledge of operational systems;
+- Knowledge of local networks.","Please submit your detailed CV to: job@...
+, indicating the position in the subject line of your e-mail. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Tandem"" system is a complex of software-technical
+solutions, which are intended for organisation of processing ccenter,
+which has the main function of accepting payments for services of various
+company-providers. The system is designed in a way, which allows
+connecting terminals and other devices."

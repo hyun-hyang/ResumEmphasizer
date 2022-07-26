@@ -1,0 +1,38 @@
+Senior QA Engineer,"Accept Employment Agency is seeking a Senior QA
+Engineer to work for an IT company.","- Be responsible for planning, preparing, reporting of test processes as
+well as organizing the process of test automation;
+- Lead and direct the work of others, if necessary;
+- Be responsible for installation tests of applications, automated
+framework development for white-box analysis of sources and
+configuration management;
+- Participate in development of new test tools or enhancement of already
+existing ones;
+- Control the test activities;
+- Report to the QA Manager and others.","- Bachelor's or MS degree and at least 3 years of experience in testing
+and/ or coding in Java, C and C++; 
+- At least 1 year of work experience in a Senior QA position;
+- Strong experience in and/ or knowledge of software requirements
+management, design, development, verification and validation; 
+- Experience in managing the test team in daily QA activities and work
+efforts;
+- Experience in test automation and setting up unit tests;
+- Strong understanding of relational databases (particularly MS SQL
+Server);
+- Knowledge of both Windows & UNIX environments and scripting skills
+(including Perl, bat and shell);
+- Experience in software performance analysis;
+- Strong research and documentation skills;
+- Experience in creating and ensuring quality team deliverables,
+including analysis of requirements, test plans, test scripts, test
+executions, summary reports, and final recommendations on the tested
+product;
+- Experience in configuring test environment
+- Learn and apply automated testing tools to system components testing;
+- Experience in defining, tracking and reporting quality assurance
+metrics such as defect densities and find/ fix ratios;
+- Fluency in English language.","Please email your CVs to: accept@...,
+stating in the subject field the position you are applying for. 
+For additional information call: (374-10) 58-49-45; 58-49-95.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information visit: www.acceptagency.com.

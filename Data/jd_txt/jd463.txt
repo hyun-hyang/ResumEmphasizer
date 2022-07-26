@@ -1,0 +1,22 @@
+C++ Software Developer,"NASoft is looking for several C++ Software Developers
+to work on its projects. The developers will have daily communication
+with the project lead outside of Armenia.",NA,"- Experience in C++;
+- Network/ Telecom experience (socket, asynchronous programming,
+multi-threading, etc.); 
+- Development in Linux; 
+- Windows programming (Win32 and MFC) skills;
+- VoIP (SIP, SDP, H.323, etc.) skills;
+- Ability to work in a distributed team, physically located in different
+countries;
+- Fast learner. Ability to ramp-up quickly on new technology or new
+project;
+- Strong problem solving skills;
+- Ability to work in a distributed team. The project leader will be in
+Ottawa, the developers will have daily communication with the lead in
+Ottawa (mostly e-mail and IM, probably a few calls from time to time); 
+- Excellent English language skills (oral and written);
+- Good communicator.","Please email your detailed CV and cover letter
+to: job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NASoft LLC is an IT company.

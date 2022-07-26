@@ -1,0 +1,26 @@
+Software Architect,"Software Architect analyzes, designs and develops
+architectures for software systems, delivers sound and optimized
+application architecture on projects by translating the business
+requirements into technical attributes, understanding the business and
+technical goals and constraints, articulating the solution vision,
+preparing alternative approaches and specifying components and
+interfaces.",NA,"- Bachelor's or Master's Degree in computer science or related field.
+- 3+ years of experience in software development;   
+- 2+ years of technical leadership and architecture experience;
+- Broad knowledge of technologies, along with architectural concepts,
+which can be implemented across a wide range of platforms;
+- In-depth knowledge of current software development methodologies; 
+- Broad understanding of a spectrum of infrastructure technologies:
+operating systems (Windows, Linux), security, storage, network, etc.; 
+- Expertise in broad set of web development technologies: J2EE, XML, Web
+Services, JavaScript, etc.;
+- Experience with Object-Oriented analysis and design;
+- An attitude to learn and apply new technologies;
+- Ability to interact and communicate effectively (including English)
+with internal and external teams as needed to clarify business,
+operational, or technical issues.","Please send us your CVs to:info@..., stating ""Software Architect"" in the subject line
+of your email. 
+For additional information call (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

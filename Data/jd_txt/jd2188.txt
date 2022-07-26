@@ -1,0 +1,25 @@
+Java Software Developer,"Sceon Developments LLC is looking for an experienced
+Java Software Developer.","- Participate in project development according to specifications
+assigned;
+- Write code and comment it accurately;
+- Report regularly about work progress;
+- Participate in code reviews;
+- Responsible for the Wowza server and Eclipse IDE.","- Experience in working with Java SDK 6.0;
+- Knowledge of Eclipse IDE;
+- Fluency in English language.
+Would be considered an advantage: 
+- Experience in ASP.Net, specifically VB.Net as well as C#;
+- Experience in PHP;
+- Web service and SOAP-XML experience;
+- Knowledge of HTML5 Tags and Javascript (Canvas and Websockets);
+- Knowledge of JQuery or other similar API.
+Additional desired skills, which you will be willing to learn:
+- WOWZA Media Server SDK;
+- Flash Interactive Media Server;
+- Video Exp, Spec. H264, And Web Video Tech;
+- Flash Actionscript, 3.0+ For Flash 11+, Flash Remoting and Shared
+Objects.","To apply, please e-mail your CV with photo to:ceo@... . In the subject line of your message, please mention the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

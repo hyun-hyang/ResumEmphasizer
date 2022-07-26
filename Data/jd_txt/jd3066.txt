@@ -1,0 +1,26 @@
+Flash Developer,"Joomag AM LLC is seeking a highly motivated Flash
+Developer who will become a part of the company's team and contribute to
+all aspects of the ongoing software development from the initiation,
+through to developing, testing and launching.","- Work on large-scale web-based projects, ensuring robust and lasting
+solutions are implemented;
+- Test, debug and build code that works across multiple browsers and
+digital platforms;
+- Maintain existing ActionScript libraries by making sure they support
+the engineering and creative needs of the company's website.","- At least 3 years of experience in designing and developing applications
+using Adobe Flash and ActionScript 3;
+- Bachelor's/ Master's degree in Computer Science, Engineering or in a
+related subject;
+- Understanding of basic Flash timeline principles;
+- Understanding of how to implement and skin Flash components;
+- Knowledge of OOP and Design Patterns;
+- Experience with GIT;
+- Experience in HTML5, CSS3 and JavaScript with a proven record of
+building interactive applications;
+- Knowledge of Adobe Photoshop/ Adobe Illustrator;
+- Good knowledge of English language is a plus.","All interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

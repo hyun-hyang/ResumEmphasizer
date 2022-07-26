@@ -1,0 +1,29 @@
+Senior JavaScript Developer,"Sourcio is seeking experienced JavaScript/HTML5
+Developers, particularly senior level, for the development of features
+for its partners' award-winning product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 2 years of practical experience;
+- Excellent knowledge of JavaScript;
+- Good knowledge of CSS2/ CSS3;
+- Good knowledge of HTML5;
+- Good knowledge of OOP principles;
+- Knowledge of ExtJS3 is preferable;
+- Knowledge of ExtJS4 is a big plus;
+- Knowledge of jQuery is a big plus;
+- Knowledge of other programming languages e.g. PHP, Ruby, Java is a big
+plus;
+- Experience with working on Photoshop or Corel Draw is a big plus;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language, both communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: info@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.sourcio.com."

@@ -1,0 +1,26 @@
+Web Programmer,"The PHP programmer will work on the Content Management
+System and be responsible for its upgrade and modifications. He/ she will
+directly report to CEO.","- Programme Web-application;
+- Develop MySQL databases;
+- Make HTML/ CSS/ JavaScript coding of web pages;
+- Maintain and document customer communication;
+- Participate in meetings and negotiations;
+- Develop new and support existing websites; 
+- Create detailed system requirement specifications as well as system
+design and functional specifications.","- Expert knowledge and experience in Apache, PHP, HTML, DHTML, CSS,
+JavaScript and MySQL databases;
+- Expert knowledge of XML/ XSL and XSLT/ RSS technologies;
+- Effective programming in UNIX/ Linux environment;
+- Knowledge of data structures, algorithms and database concepts is a
+plus; 
+- Good knowledge of English and Russian languages;
+- Experience with Photoshop and ImageReady is an advantage;
+- Self-directed personality and have a track record of meeting project
+deadlines.","To apply, email your resume to: info@... 
+Please make a table marking programming tools (mentioned in this job
+announcment) you know or you are not aware. Tel: 52 74 80.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Balasanyan Design Bureau provides services of web and
+graphic design, multimedia and industrial design. For more information
+visit: www.bdb.am."

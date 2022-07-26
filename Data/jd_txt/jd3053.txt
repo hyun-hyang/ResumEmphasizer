@@ -1,0 +1,26 @@
+PHP Developer,"EYESoft LLC is looking for a PHP Developer, who is
+willing to learn Java technologies.","- Participate in software development process; 
+- Read, understand and modify the existing code;
+- Work as a part of the development team; 
+- Learn new technologies.","- Higher education in the appropriate field of studies;
+- Work experience in PHP;
+- Good knowledge of OOP principles;
+- Experience in development for PHP frameworks (Code Igniter, Zend,
+Symfony, etc.);
+- Good understanding and ability to develop for CMS platforms like
+Drupal, Joomla, Wordpress;
+- Experience in Front-End development (HTML, CSS, JavaScript, JS
+frameworks);
+- Ability and willingness to learn Java programming language and related
+technologies; 
+- Basic knowledge of English language, ability to read and understand
+technical documentation;
+- Self-motivated, organized and good team player;
+- Good problem-solving skills;
+- Knowledge of Java programming language is a plus.","All interested candidates should send their CVs
+to: info@... , quoting the job title in the subject line of
+the e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EYESoft LLC is a software development company specialized
+in enterprise web applications development."

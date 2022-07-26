@@ -1,0 +1,26 @@
+Software Developers,"We are looking for 2 Software Developers to be
+responsible for creation of Special Database for Farm Credit Armenia
+(FCA) Universal Credit Company.","- Organize the safety of information about clients;
+- Organize the package for loan analysis;
+- Create software package to provide Management with information;
+- Create a project program for assisting the decision making process and
+portfolio management;
+- Provide the coordination of all above mentioned issues.","- Education and/or experience in computer science or related field.
+Bachelor's degree in Computer Science;
+- Proficiency in MS Visual Basic 6.0 and MS SQL Server;
+- Strong knowledge of DataBase Theory;
+- Experience in development of programs by MS Access environment (VBA);
+- Good problem solving skills;
+- Ability to work both as individual contributor and as part of a team;
+- Ability to learn quickly and to work under pressure;
+- Ability to design and implement new software components;
+- Basic English language skills and ability to improve those skills.","Please email a cover letter, three references
+and a CV highlighting relevant experience to: cardjobs@..., or
+deliver a hard copy to the CARD office at: 74 Teryan St., Yerevan
+(within the Armenian Agricultural Academy, entrance from Teryan St.). No
+phone calls, please. Only selected eligible candidates will be contacted
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"USDA FAS together with CARD implement a project through
+which the Farm Credit Armenia organization will be established."

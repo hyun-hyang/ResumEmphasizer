@@ -1,0 +1,52 @@
+Java Senior Developer/ Architect,"Vested Development Inc. is actively looking for Java
+developers for complex and long-term projects. The position entails
+working with Sun and IBM products, portal solutions, the latest Java
+technologies.","- Develop software according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills.","- Advanced knowledge of OOP and OOD;
+- Professional work experience in projects as a Java developer in J2EE
+(JSP, Servlets, JDBC, EJB, JMS, Struts) for more than 3 years;
+- Professional work experience in the development of multi-layered
+client-server applications, client and server Web application
+components;
+- Professional work experience in Oracle and MS SQL databases;
+- Experience in IBM WebSphere, WebLogic, JBoss, JRun;
+- Ability to develop quality code, apply proper language constructions
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Drive  to increase your competencies and professionalism;
+- Ability to identify problems on the fly, demonstrate creativity,
+propose alternatives to problem solving;
+- Basic knowledge of English language.
+Desired Qualifications:
+- Ability to responsibly accomplish work according to deadlines;
+- Ability to work under pressure, adapt to dynamic business environment,
+make decisions and take responsibility;
+- Energetic and capable of being a team leader;
+- Ability to appropriately make decisions on issues of different
+complexity for areas of responsibility;
+- Ability to express your thoughts clearly;
+- Ability to work on many tasks at the same time without supervision.","Please, email your CVs to: jobs@... and
+refer to the announcement code in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","VDI's global software development teams have an
+impressive track record of developing software applications that meet
+the critical needs of Fortune 500 companies. With it's team of 300
+employees, VDI has successfully completed dozens of large IT projects in
+various fields of information technology, including DMS, KMS, Workflow,
+B2B, CRM, ERP, SCM, Web-based applications, etc.
+More than 90% of VDI projects are completed on time and on budget
+(compared with an industry average 16%).
+Our products have successfully withstood the test of the US marketplace
+and demanding international User Groups.","Vested Development, Inc. (VDI) is an international
+provider of offshore software development services, which has been
+operating successfully since it's founding in 1997. Headquartered in
+Burlington, MA, VDI also has office in Armenia. VDI is a perfect example
+of mutually beneficial international cooperation, as its formula for
+success combines American management skills with the proven talent and
+renowned technical and scientific education of Armenia engineers."

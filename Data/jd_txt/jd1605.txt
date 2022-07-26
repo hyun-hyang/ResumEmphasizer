@@ -1,0 +1,46 @@
+Database Administrator,"The Database Administrator is responsible for managing
+and maintaining database servers and applications. The Database
+Administrator is also responsible for the performance, integrity and
+security of a database.","- Design and develop databases tables, triggers, stored procedures,
+backup, restore and disaster recovery plans;
+- Monitor/ troubleshoot, fix data issues, track bugs, support
+applications, analyze data and provide operational metrics;
+- Ensure and test online database backup;
+- Guarantee the online replication of data into a backup platform located
+in another location;
+- Design and create new databases (capacity planning including analysis
+of database partitions, available memory, database size, database and
+database manager configuration options);
+- Be responsible for all database production support tasks (including
+backups and upgrades);
+- Check database logs on daily basis;
+- Periodically change the database security password;
+- Trace and optimize application user activities;
+- Check database storage and increase database size for normal and
+exceptional data growth on daily basis;
+- Coordinate with suppliers/ vendors on installation and upgrade of
+databases;
+- Ensure implementation and planning of database optimization;
+- Ensure documentation of database configuration and procedures;
+- Identify application problems, analyze error messages and troubleshoot
+application errors, find solutions;
+- Provide regular monthly reports on activities done.","- Bachelors degree in a professional field (Engineering or Information
+Technology preferred) or comparable experience;
+- 3 years of work experience as a database administrator, preferably in
+the telecom industry with an emphasis on database performance tuning and
+optimizations;
+- Excellent technical knowledge of telecom business related database
+requirements;
+- Full mastery of Oracle and MS SQL Server databases;
+- Full mastery of TSQL and PLSQL languages;
+- Good knowledge of IP networking, Windows and UNIX operating systems;
+- Full mastery of SQL languages and optimizations;
+- Good knowledge of Armenian, English and Russian languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner with internal and external
+contacts.","To apply, please send your CV to:database-administrator@... . Please note that only shortlisted
+candidates will be invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator in Armenia.

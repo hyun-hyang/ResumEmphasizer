@@ -1,0 +1,34 @@
+UNIX System Administrator,"The UNIX System Administrator will be responsible for
+installation, configuration and further administration of UNIX systems,
+development of documentation about servers, backup/ restore of servers,
+installing and configuring additional software.","- Find proper solutions, if there are errors or hardware failures; 
+- Make sure that daily backup is performed without errors and fix in case
+of problems; 
+- Backup all critical systems, organize the usage of backup media;
+- Install and configure OS (Operating System) on new servers;
+- Keep old systems up to date, install patches and updates;
+- Write scripts to provide automation to the frequently performed tasks;
+- Write procedures about a specific software installation process; 
+- Keep all the documentation up-to-date;
+- Provide regular monthly reports on activities done.","- Bachelors degree in a professional field (Engineering or Information
+Technology is preferred) or comparable experience;
+- 3 years of work experience as a UNIX Administrator in the telecom
+industry with an emphasis on system performance tuning and
+troubleshooting;
+- Excellent technical knowledge of UNIX system administration;
+- Full mastery of UNIX operating system including Solaris and Linux;
+- Good knowledge of IP (Internet Protocols) networking, firewalls and
+security management;
+- Good knowledge of operating system optimization and fine tuning;
+- Advanced knowledge of operating system script development;
+- Good knowledge of English and Russian languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner;
+- Ability to maintain the highest level of professionalism, ethical
+behavior and confidentiality.","Interested candidates are asked to submit a CV
+to: Unix-administrator@... . Only shortlisted candidates will be
+invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

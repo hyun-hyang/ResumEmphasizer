@@ -1,0 +1,27 @@
+Linux Systems Administrator,"The Linux Systems Administrator will support mission
+critical systems consisting of Linux servers.","- Install and setup/ configure new hardware/ software and tools;
+- Work with vendors on hardware and software procurement;
+- Manage daily operations, backup and disaster recovery, high
+availability Linux clusters;
+- Secure network infrastructures;
+- Manage projects related to Linux server security, capacity planning,
+new Linux infrastructure design/ build-out/ deployments;
+- Improve Linux server performance and availability;
+- Implement new server monitoring and tuning technologies and complex
+troubleshooting and problem resolution of server issues;
+- Handle day to day system administration duties on an as needed and
+on-call basis.","- High level Linux systems administration;
+- At least 5 years of experience;
+- Experience working in multi-project engineering environments; 
+- Bachelor's degree of Science or equivalent in CS or Information
+Systems;
+- Cisco Certified Engineer with Linux Administration Experience
+preferred. (PIX VPN Router 520)
+Linux Server and Applications Administration (Redhat ES4, Fedora Core 4,
+MySQL, Radius server, Apache 2.x, SSL, Tomcat, Sendmail, Pop3).","If interested, please apply with your CVs to:ra-careers@... stating ""Linux Systems Administrator"" in the
+subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Impeva Labs, Inc. is a privately-held firm developing
+and providing container monitoring, tracking and security products and
+services. For more information please visit our website www.impeva.com."

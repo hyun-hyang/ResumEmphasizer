@@ -1,0 +1,17 @@
+PHP Developer,"Helix Consulting LLC is looking for a PHP Developer to
+be responsible for and participate in the development and support for an
+ongoing big project.",NA,"- Experience with PHP programming and Unix platforms;
+- Ability to produce readable source code and do tableless markup;
+- Ability to differentiate between HTML and xHTML; 
+- Knowledge of cvs/ subversion is a plus, as is the proper overall sense
+of humor;
+- Proven experience with PHP and MySQL;
+- Knowledge of PostgreSQL is preferable;
+- Knowledge of HTML, CSS, jQuery and AJAX;
+- Knowledge of OOP principles;
+- Knowledge of Zend Framework;
+- Self motivated individual.","Please send your CV to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about company, please visit:
+www.helix.am."

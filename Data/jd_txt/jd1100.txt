@@ -1,0 +1,21 @@
+.NET Software Developer,"SFL is looking for a full-time .NET Developer to work
+on complex and long-term projects.","- Produce and maintain clean, high quality code;
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards;
+- Continue/support projects done by others;
+- Work as part of a software development team.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 3 years of work experience in software
+development;
+- 2 years of work experience in .NET Framework - ASP.NET, C#;
+- Experience in development of Web and Windows Services;
+- Good knowledge of .NET Framework 3.5 and AJAX;
+- Good knowledge of Microsoft SQL Server;
+- Multi-tier web applications development experience;
+- Strong communication, problem solving and collaboration skills.","Please email your CV to: jobs@.... 
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is providing custom business
+solutions to clients from Western Europe and Armenia. More details can
+be found at: http://www.sflpro.com"

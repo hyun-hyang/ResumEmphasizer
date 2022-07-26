@@ -1,0 +1,48 @@
+Mid-Level Mobile Developer,"XNTrends Ltd. is eager to engage a person who is
+hard-working and passionate about achieving daily goals. The Mid-Level
+Mobile Developer will be responsible for analyzing specifications and
+modifying programs and components, which include the coding, testing,
+debugging and installation of a code to support the organization's
+various software applications. The tasks will be implemented according to
+the approved requirements and detailed specifications and/ or a design
+document(s). This position works under immediate supervision.","- Contribute to the current native mobile apps written in Objective-C,
+Java, as well as cross platform environments;
+- Develop, modify and maintain assigned software programs;
+- Responsible for the unit testing of the operation of developed programs
+and documenting results;
+- Work with the product and design teams to understand end-user
+requirements, as well as use cases, translating them into effective
+technical solutions;
+- Ensure that deliverables meet or exceed functional, technical, and
+performance requirements;
+- Work on more complex programs under the direction of higher level
+staff, the technical Team Lead or the Architect;
+- Submit all software modifications for code review and approval;
+- Take ownership of the projects and tasks assigned;
+- Provide on-call support as assigned;
+- Consistently meet task deadlines while maintaining high quality
+standards.","- Bachelor's degree in a related area;
+- At least 2 years of experience in the relevant field or in a related
+area;
+- Knowledge of commonly-used concepts, practices, and procedures such as
+practical experience in iOS development using Objective-C, Xcode, Java
+and Android Studio; experience with software version control systems such
+as GIT is a plus;
+- Strong technical, analytical and problem-solving skills;
+- Strong technical knowledge and development skills;
+- Good oral and written communication skills;
+- Excellent attention to detail;
+- Ability to troubleshoot system issues;
+- Ability to work collaboratively with users and IT team members to
+understand business requirements;
+- Ability to collaborate with other IT professionals to achieve common
+project goals;
+- Ability to work on multiple projects/ priorities in a deadline-driven
+environment;
+- Good knowledge of the English language is an asset.","If you are interested in this position, please
+send your CVs to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The Company is located at 3 H. Hakobyan Str., Yerevan,
+Armenia.","XNTrends ltd. is a software development company. For more
+information about the company, please visit: www.xntrends.com."

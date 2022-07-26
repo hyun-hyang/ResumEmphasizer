@@ -1,0 +1,30 @@
+UI Web Developer,"AtTask is looking for a Web UI Developer to work in
+Yerevan office. The holder of this position will work closely with UX
+designers and back-end engineers to build highly polished user interfaces
+for AtTasks products using the latest cross-browser development methods.
+The Company is looking for someone with both excitement and abilities
+necessary to build modern and dynamic user interfaces in a way that
+supports their vision of delivering a world-class experience to their
+customers.","- Focus on details to produce cross-browser, pixel perfect UI using
+current web development technologies;
+- Expertize on HTML, CSS, JavaScript and JavaScript frameworks (e.g.
+MooTools, jQuery).","- 3+ years of front-end web UI development experience;
+- Expertise in HTML, CSS, JavaScript, jQuery, AJAX;
+- Fluent knowledge of written and spoken English language;
+- Ability to work collaboratively with designers and engineers;
+- Demonstrated ability to produce highly polished user interfaces from
+static Photoshop or Fireworks files;
+- Demonstrated ability to effectively implement browser-based user
+interfaces for modern web applications;
+- Solid understanding of web standards and cross-browser web development
+best practices;
+- Ability to mentor others;
+- Availability of previous work samples demonstrating proficiency in
+building highly interactive web based user interfaces;
+- Bachelor's degree in Digital Media/ Web Design/ Human Factors/ Software
+Development or related field is a plus.","Please email your CVs to:jobs.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. For more information about the company, please visit:
+www.attask.com."

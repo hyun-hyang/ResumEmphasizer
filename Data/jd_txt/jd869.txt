@@ -1,0 +1,35 @@
+Senior Software/Firmware Engineer,"The Senior Software/Firmware Engineer will develop
+products and technologies making use of advanced wireless
+communications.",NA,"- At least 8 years of experience in software development;
+- At least 4 years should be in the area of embedded and real-time
+systems;
+- Experienced in C and C++ (embedded, Window, Linux), scripting
+languages e.g. Perl, Python. Knowledge of C# and Java is desirable;
+- Experienced in structured methodologies, to include design through
+system integration and test for embedded systems;
+- Experienced with a variety of the following, RTOS, ICE, IDE;
+- Experienced with version control software and automated build
+environment;
+- Fluent knowledge of English language.
+Desirable Experience:
+- Experienced with several of wired and wireless data communications
+technologies, including TCP/IP, 802.11, 802.16, 802.15, ZigBee, and
+anti-collision techniques for RFID systems;
+- Experienced with low power consumer electronics to include power
+management and diagnostics;
+- Familiarity with hardware schematics, design, and development. 
+Candidates must:
+- Possess Bachelor of Science (or equivalent) in Engineering
+discipline;
+- Be able to travel to Middle East, Europe, and U.S. and obtain
+applicable visas;
+- Fluently speak, read and write the English language;
+- Accept direction from U.S. based engineering team;
+- Be self motivated and self starting.","Please send CVs to: ra-eng-jobs@... ,
+starting with ""Senior Software/Firmware Engineer"" in the subject of your
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Impeva Labs is a supplier of global asset management
+optimization solutions. For more information, please visit the website:
+www.impeva.com."

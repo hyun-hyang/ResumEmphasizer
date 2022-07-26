@@ -1,0 +1,27 @@
+Software QA Engineer,"Boomerang Software is looking for a Software QA
+Engineer who will be responsible for the social network and mobile
+applications testing: developing test plans,  documenting software
+defects, monitoring bug tracking system, testing (white and black box
+testing), etc.",NA,"- University degree in Computer Science;
+- Work experience in similar field;
+- Solid understanding of QA processes and methodology;
+- Ability to write test cases and procedures and follow the defined QA
+processes;
+- Familiarity with QA tools and techniques, bug tracking systems, test
+design and execution;
+- Experience with Selenium and JMeter is an asset;
+- Knowledge in the Agile methodology is an asset;
+- Ability to communicate effectively orally as well as in writing;
+- Ability to explain clearly the problems to the development team(s);
+- Ability to work under pressure and in circumstances of diverse
+interests and still consistently pay attention to details;
+- Excellent written and verbal English language knowledge.","If interested, please email your last updated
+and detailed Resume with a photo to: hr@... . Please indicate
+""Software QA Engineer"" in the subject line of your e-mail, otherwise your
+Resume will not be reviewed. Only shortlisted candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

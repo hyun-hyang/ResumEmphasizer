@@ -1,0 +1,27 @@
+"Java, Grails/ Groovie Developer","Essential Solutions needs self-motivated and talented
+Java, Grails/ Groovie Developers to start their career at the Company.","- Develop software code based on the existing requirements;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Work productively as a member of a software development team;
+- Actively participate in discussions regarding technical issues.","- Bachelor's or higher degree in Computer Science;
+- Good knowledge of Java;
+- Good knowledge of OOP;
+- At least 2 years of work experience in database and back-end developer
+roles;
+- Experience of the following programming languages and tools is a plus:
+Grails/ Groovy, HTML, JavaScript, JQuery and Ajax;
+- Ability to think mathematically;
+- Knowledge of Structured Programming techniques, analysis, standards and
+systems methodologies;
+- Practical experience and knowledge in specific subject areas and
+associated technologies;
+- Fast learner;
+- Good team player;
+- Good English language skills, both written and spoken;
+- Flexibility in learning and applying different programming languages
+and technologies.","To apply, please send a CV to:
+info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essential Solutions specializes in providing ITO
+(Information Technology Outsourcing)."

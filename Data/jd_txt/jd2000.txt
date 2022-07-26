@@ -1,0 +1,24 @@
+C/ C++ Software Engineer,"LTX-Credence Armenia LLC is looking for a C/ C++
+Software Engineer to be engaged in long term projects for automated test
+equipment.","- Write and test code according to technical documentation;
+- Support, maintain and document software functionality;
+- Stay organized to achieve mission and purpose, goals and objectives;
+- Demonstrate teamwork with local and remote team members with behavior
+and willingness to work for common goals;
+- Work hard towards self-development.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 2 years of programming experience in C++, including use of
+debuggers and other SW development tools;
+- Knowledge of technical English language;
+- Development experience in a Linux environment with C/ C++, STL, threads
+and sockets;
+- Development experience of GUI programming with Motif or WxWidgets is a
+plus;
+- Familiarity with Design Patterns is a plus;
+- Familiarity with databases is a plus;
+- Familiarity with hardware is a plus;
+- Familiarity with scripting languages (Python and Perl) is a plus.","Interested candidates are kindly requested to
+email CV/ resume in English language to: Georgi_Pirumov@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

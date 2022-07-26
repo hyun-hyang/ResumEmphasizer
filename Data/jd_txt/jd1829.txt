@@ -1,0 +1,19 @@
+Software Developer,"HIT Labs is looking for a motivated specialist who will
+join the new team and new opportunities.","- Participate in product features discussion meetings; 
+- Participate in application design; 
+- Design and develop features according to technical discussions and own
+research; 
+- Communicate effectively with team members.","- University degree in the appropriate field of studies;
+- At least 2 years of solid experience in J2EE; 
+- Good knowledge of OOP principles; 
+- Good knowledge of database design and optimization (MySql and MongoDB);
+- Experience in AJAX, JavaScript and HTML;
+- Experience with working in Linux environment;
+- Experience in Groovy/ Grails is an advantage;
+- Ability to work in a team; 
+- Problem solving skills;
+- Good communication skills.","If you are interested, please send your resumes
+to: career@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Hit Labs company makes enterprise social networks mobile.

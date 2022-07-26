@@ -1,0 +1,14 @@
+Angular JS Developer,"NTA Soft is looking for an Angular JS Developer to work
+on a social network website.","- Build efficient and reusable front-end abstractions and systems;
+- Interact with other team members to incorporate their innovations and
+vice verse;
+- Identify and communicate best practices for front-end engineering;
+- Work quickly and efficiently meet tight deadlines;
+- Write clean, well-organized and reusable code.","- At least 1 year of experience in Front-End Developerment (Angular JS);
+- Fluency in Javascript and AngularJS;
+- Fluency in HTML5, CSS3;
+- Experience in building large web applications;
+- Experience with REST API.","To apply, please send a CV to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

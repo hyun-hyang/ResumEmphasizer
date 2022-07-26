@@ -1,0 +1,28 @@
+QA Developer,"QA Developer participates in a wide range of
+development and verification activities for OneMarketDatas flagship
+OneTick product family.
+This is to a large extent a development position, so purely manual QA
+background is not sufficient.","- Write automated tests (primarily in Perl) for new and existing
+features, manual verification of their correctness;
+- Maintain and enhance automated test framework;
+- Create complex product setups, validating client usage models;
+- Develop test plan.","The following requirements are minimal, please
+submit your resume only if you satisfy them.
+- 1+ years of solid development experience;
+- Comfortable with Unix environment and command line tools;
+- Intermediate shell scripting skills - bash or ksh.
+- Fast independent learning ability;
+- Good English reading and writing skills.
+The following qualifications are desirable:
+- Experience developing automated tests;
+- Experience with diagnostic tools, both for Windows and Unix;
+- Familiarity with financial markets.","It should be clear from your resume how and
+where the technical skills were acquired and utilized.
+Please, send your resume to jobs_am1@.... The subject must
+contain ""QA Developer"". Only short-listed candidates will be
+interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

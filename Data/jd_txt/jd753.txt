@@ -1,0 +1,14 @@
+Junior Database Programmer,"Firmplace Corporation Yerevan Branch is seeking a
+Junior Database Programmer to develop and design databases, program
+store procedures and triggers, testing.","- Be responsible for program stored procedures and views;
+- Be responsible for data cleaning and reporting;
+- Test the developed programs.","- Minimum BS in Computer Science or related field;
+- Good knowledge of SQL, PL/SQL;
+- Excellent knowledge of English language;
+- Ability to prioritize the workload;
+- Ability to work in the team.","Please send your CVs in English to:jobs@.... Please mention in the subject line the position you
+are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Successful candidates will be provided with a
+professional training before starting the main responsibilities.",NA

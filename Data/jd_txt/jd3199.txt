@@ -1,0 +1,40 @@
+Senior Android Developer,"Accontech is currently seeking a Senior Android
+Developer who will put his expertise into the current and future projects
+to meet the Android development growing needs. The candidate will be
+highly involved in the ideation and brainstorming of new applications and
+will work quickly and efficiently to produce innovative designs.","- Develop, iterate and maintain technology rich applications for the
+Android platform;
+- Write a well-organised and high-performance Java code meeting
+object-oriented principles;
+- Gather requirements around functionality and translate the requirements
+into technical requirements;
+- Estimate overall timelines, risks and requirements;
+- Participate in design meetings to speak about the feasibility of design
+requirements;
+- Mentor and lead junior Mobile Developers.","- Positive attitude with a ""can do"" mentality;
+- At least 3 years of experience in Android development;
+- At least 5 years of software development experience;
+- Good knowledge of Android SDK (2.3 - 5.x); understanding of differences
+of Android versions;
+- Good knowledge of Android UI design principles and understanding of how
+to deal with different screen sizes;
+- Knowledge of multithreading principles and specifics of the Android
+platform;
+- Experience with Android Native Development Kit (NDK);
+- Experience with consuming the native C libraries with Java Native
+Interface (JNI);
+- Experience with embedding and using 3rd party sources and libs;
+- Experience in consuming web services (REST) and data processing
+(XML,JSON);
+- Experience with networking frameworks;
+- Experience with SQL based database systems;
+- Knowledge of C/ C++;
+- Knowledge of the English language to communicate with the team abroad,
+participate in technical discussions and read/ write technical
+annotations;
+- Strong technical capacity and ability/ passion to learn.","All interested candidates are welcome to send
+their resumes to: talent@... . Please indicate the position
+title in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

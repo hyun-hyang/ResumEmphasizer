@@ -1,0 +1,161 @@
+Chief Technology Officer (CTO),"The Chief Technology Officer (CTO) is a top technology
+executive-level position to assure the successful execution of the
+companys business mission through development and deployment of the
+companys web presence. This requires envisioning the companys service
+offerings as a web-based business, leading implementation of web
+applications, and planning for risk and growth. As a corporate officer
+position, the CTO is primarily concerned with long-term and ""big picture""
+issues, establishing the companys technical vision and leading all
+aspects of the companys technology development. The CTO plays an
+integral role in the companys strategic direction, development and
+future growth.","Strategy and planning:
+- In partnership with the companys founders, identify opportunities and
+risks for delivering the companys services as a web-based business,
+including identification of competitive services, opportunities for
+innovation, and assessment of marketplace obstacles and technical hurdles
+to the business success;
+- Identify technology trends and evolving social behavior that may
+support or impede the success of the business;
+- Evaluate and identify appropriate technology platforms (including web
+application frameworks and the deployment stack) for delivering the
+companys services;
+- Lead strategic planning to achieve business goals by identifying and
+prioritizing development initiatives and setting timetables for the
+evaluation, development, and deployment of all web-based services;
+- Participate as a member of the senior management team in establishing
+governance processes of direction and control to ensure that objectives
+are achieved, risks are managed appropriately and the organizations
+resources are used responsibly, particularly in the areas of software
+development, office networks and computers, and telecommunications;
+- Collaborate with the appropriate departments to assess and recommend
+technologies that support company organizational needs;
+- Direct development and execution of an enterprise-wide information
+security plan that protects the confidentiality, integrity, and
+availability of the companys data and servers;
+- Direct development and execution of an enterprise-wide disaster
+recovery and business continuity plan;
+- Communicate the companys technology strategy to investors, management,
+staff, partners, customers, and stakeholders.
+Implementation and deployment:
+- As a member of the senior management team, participate in the selection
+and registration of the companys web site domain names, including any
+related-but-unused domains that could compromise the integrity of the
+business (through competition, typo squatting, etc.);
+- Select and set up a software revision control system and repository; 
+- Select and set up web-based internal communications systems, such as a
+wiki, blog, chatroom, project management, and bug tracking systems;
+- Collaborate with the founders and potential customers to develop use
+cases (or user stories) and specifications that describe the
+implementation of the companys services as a web application;
+- Collaborate with a User Experience Designer and potential customers to
+prepare wireframes or mockups of a prototype of the companys web
+application;
+- As a member of the senior management team, participate in the selection
+of a Graphic Designer who will create the company corporate identity and
+design the web applications look and feel. Ensure that the Graphic
+Designer has sufficient web experience, follows guidelines established in
+the User Experience design process, and delivers assets that can be
+easily adapted to web requirements;
+- Select and manage company staff or outsourced vendors who will
+implement a design as web pages using CSS and XHTML conforming to web
+standards;
+- Select or define the companys software development methodology;
+- Establish a specification conformance and testing regimen based on user
+stories and the User Experience design;
+- Promulgate coding conventions and documentation standards;
+- Review current best practices for the selected web framework and
+establish the initial architecture for the application;
+- Select and manage the company staff or outsourced vendors who will
+implement the application;
+- Establish and supervise the software development process, setting
+short-term objectives and assessing progress as defined by the selected
+software development methodology;
+- Conduct code reviews and specification conformance testing as defined
+by the selected software development methodology;
+- Establish and supervise a quality assurance process, including
+integration and system testing;
+- Select, deploy and monitor performance profiling tools and procedures;
+- Review and approve proposed development releases and manage the release
+process;
+- Evaluate and select web application hosting providers;
+- Establish an application deployment process and supervise deployment to
+staging and production servers;
+- Monitor application performance and review any application failures in
+staging or production;
+- Establish and monitor a web analytics regime that measures site traffic
+and application usage relative to business goals;
+- Support the marketing process by providing implementation of technical
+requirements for Internet marketing and search engine optimization;
+- As a member of the senior management team, establish a customer service
+and support process, with particular responsibility for web-based
+services that implement the support function. Establish a process to
+integrate customer service and support with the software engineering
+process to support resolution of customer issues and improve application
+usability.
+Operational management:
+- Maintain up-to-date knowledge of technology standards, industry trends,
+emerging technologies, and software development best practices by
+attending relevant conferences and reading widely;
+- Define and communicate company values and standards for acquiring or
+developing systems, equipment, or software within the company;
+- Ensure that technology standards and best practices are maintained
+across the organization;
+- Share knowledge, mentor, and educate the organizations investors,
+management, staff, partners, customers, and stakeholders with regard to
+the companys technological vision, opportunities, and challenges;
+- Ensure company technical problems are resolved in a timely and
+cost-effective manner;
+- Develop, track and control the development and deployment annual
+operating and capital budgets for purchasing, staffing, and operations;
+- Supervise recruitment, training, retention, and organization of all
+development staff in accordance with the company hiring process,
+personnel policies, and budget requirements;
+- Establish standards of performance and monitor conformance for staff
+(through performance review) and vendors (through service level
+agreements);
+- Ensure the companys internal technological processes and
+customer-facing services comply with community expectations and
+applicable laws and regulations for privacy, security, and social
+responsibility;
+- Promote achievement of the companys business goals within a context of
+community collaboration by developing policies for sharing software code,
+technological innovation, business processes, and other intellectual
+property;
+- Contribute to open source software development, standardization of
+technologies, and evolution of best practices by collaborating with peers
+outside the company, releasing code, presenting at conferences, and
+writing for publication (online or offline).","- University degree in the field of Computer Science, Business
+Administration, or another rigorous discipline (an advanced degree in one
+these fields is a plus);
+- Demonstrated ability to envision web-based services that meet consumer
+needs or solve business problems;
+- At least 5 years of experience managing web application development;
+- At least 3 years of experience with startup companies;
+- Hands-on experience coding in more than 1 currently popular web
+application framework;
+- Familiarity with more than 1 software development methodology;
+- Ability to discern user requirements and develop specifications;
+- Contribution to 1 or more open source projects;
+- Skills with CSS, XHTML, one or more JavaScript frameworks, and AJAX;
+- Knowledge of web standards;
+- Experience with UNIX system administration and web server
+configuration;
+- Knowledge of Internet protocols and RFC standards, database management
+systems, and revision control systems;
+- Familiarity with technical requirements of Internet marketing and
+search engine optimization;
+- Familiarity with information security vulnerabilities and risk
+management;
+- Familiarity with consumer privacy and payments industry compliance
+requirements;
+- Exposure to business theory, business process development, governance
+processes, management, budgeting, and administrative operations.","All interested candidates are kindly requested
+to submit their CVs and cover letters to: ani.margaryan@... .
+Please indicate the name of the position ""Chief Technology Officer (CTO)""
+in the subject line of the e-mail. Company is grateful to all interested
+applicants; however, only shortlisted candidates will be contacted for
+the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"City-Mobil LLC is a transport company operating in the
+taxi market since 2009. Fore more info, please visit its website:http://www.city-mobil.ru/ ."

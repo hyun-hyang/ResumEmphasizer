@@ -1,0 +1,19 @@
+"VoIP, Asterisk and SIP Developer","KSPE Software is seeking for a highly motivated and
+qualified VoIP, Asterisk and SIP Developer who will become part of the
+company's team in developing enterprise-level software solutions. The
+incumbent will be responsible for developing the long term technology
+strategies for the Contact Center Information Systems department.",NA,"- At least 5 years of experience with key contact center technologies and
+system, application and data integration: ACD, IVR, CTI, Outbound
+Dialers, Multi-Media, Speech Recognition, Workforce Management, Call
+Recording/ Quality, Voice Gateways and Windows Desktop;
+- Hands on experience with Asterisk VoIP Platform;
+- Working knowledge of, or ability to learn Interactive Voice Response
+(IVR), Computer Telephony Integration (CTI), Automatic Call Distributor
+(ACD), Speech Systems, Predictive Dialer, SIP, and VoIP;
+- Knowledge of technical English language.","All interested and qualified candidates are
+invited to send their CVs/ resumes to: career@... . In the
+subject line of the e-mail message, please write ""VoIP, Asterisk and SIP
+Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

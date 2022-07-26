@@ -1,0 +1,40 @@
+Senior Java Tester,"Broncoway is looking for highly experienced Java
+Developers for a long-term project. The job requires close interaction
+with the specification design team and traveling to the Belgium. The job
+might require an initial internship of about three months in Brussels.
+All candidates will need to undergo a test period of 15 days to three
+months for internship in Brussels. If the tests are successful their
+contracts will be turned into permanent contracts.","- Work in close collaboration with the Project Manager to understand the
+application requirements; 
+- Act as the development team leader to automate test scripts.","- Excellent command of English language; 
+- Team player, quality-minded and hard worker; 
+- Good knowledge of the J2EE platform; 
+- Good cvs user; 
+- Good ant user.
+Professional skills:
+Must have excellent knowledge and in-depth experience in: 
+- testing of J2EE applications; 
+- elaboration of test plan;
+- development of test cases; 
+- tests automation; 
+- propose and select testing tools (preferably open-source) most
+appropriate for the job;
+- deployment of EAR and WAR on J2EE application server; 
+- testing of clustered applications;
+- Ability to drive the whole testing approach;
+- Ability to validate that the development answers the business
+requirements; 
+- Ability to easily understand business requirements;
+- Team-leader oriented.
+Desired qualifications:
+- Ability to produce high quality code;
+- Ability to respect deadlines;
+- A team player and capable of excellent communication with other
+(remote) team members;
+- Creative and come up with new solutions and ideas;
+- Open to travel to Europe.","Please send your resume to:resume@... and mention in the subject line Senior Java
+Tester.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Broncoway is a Yerevan-Brussels-Boston based software
+development startup."

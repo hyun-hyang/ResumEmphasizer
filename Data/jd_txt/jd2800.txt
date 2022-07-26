@@ -1,0 +1,22 @@
+.NET Developer,Idram LLC is seeking a motivated .NET Developer.,"- Participate in all cycles of software design and development;
+- Design and build reusable modules to be used throughout company web
+sites; 
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Responsible for bug fixing.","- At least 2 years of web application development experience in .NET
+platform;
+- Experience in WPF/ WCF technologies and principals;
+- Experience in ASP.NET;
+- Experience in Web services;
+- Excellent knowledge of (X)HTML, CSS, JavaScript (AJAX, jQuery) is a
+plus;
+- Experience working with Microsoft SQL server 2008/ 2012;
+- Problem solving skills;
+- Good communication skills;
+- Good team player, ability to accept criticism.","Interested candidates are asked to submit their
+CVs to: hr@... . Please clearly indicate the position you are
+applying for. Only short listed candidates will be contacted for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,19 @@
+C++ Developer,"Lycos Armenia is looking for motivated technical
+persons to take over a new position as a C++ Developer. The incumbent
+will work on Lycos business solutions projects. During these projects
+the selected candidate will have a chance to cooperate with colleagues
+from Germany.",NA,"- Technically the key skill requirements are a very strong mathematical
+background, at least 3 years of programming experience under Linux OS; 
+- Strong knowledge in C/C++, STL, XML-RPC and gdb;
+- Deep knowledge of UNIX platform technologies including threading,
+sockets and streaming;
+- Experience with SMTP/POP3/IMAP/WebDAV protocols;
+- Additionally experience with MySQL and postfix;
+- Knowledge and application of software development methodology;
+- Academic degree of a minimum BS;
+- Good knowledge of English language (writing English skills).","Please send your CV to: info@...,
+stating ""C++ Developer"" in the subject line of your email. For
+additional information call: (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

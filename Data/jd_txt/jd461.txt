@@ -1,0 +1,33 @@
+Director of Software Development,"The primary objective of this position is to produce
+required product which satisfies customer needs, is of high quality and
+is timely.","- Organize software development process to ensure proper and timely
+software development of required products; 
+- Communicate with the customers to gather functional specifications; 
+- Analyze business requirements and clearly understand functional
+specifications;
+- Develop architectural and software design based on functional
+specifications;
+- Mentor and coordinate software developers;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a command of current technology;
+- Arrange and manage discussions regarding technical issues.","- Minimum Bachelors degree in Computer Sciences or a related field;
+- Knowledge of English language;
+- 5-7 years of programming experience;
+- Extensive knowledge of object oriented programming concepts;
+- Extensive knowledge of web development and database technologies;
+- Knowledge of ASP.NET; C#; XML; MS SQL or ORACLE;
+- Good organizational and time management skills;
+- Ability to meet deadlines;
+- Process oriented personality;
+- Good communication skills;
+- Knowledge of HTML and JavaScript are strongly preferred;
+- SDLC and project management skills are strongly preferred;
+- Knowledge of C++, Java and AJAX are desired;
+- Knowledge of configuration management and release process are desired.","Interested candidates should email their
+resumes to: armen.nikoghosyan@... andanikoghosyan@... (alternate). Please mention in the subject line
+the position you are applying for. Only short-listed candidates will be
+invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Metacortex is a software development company.

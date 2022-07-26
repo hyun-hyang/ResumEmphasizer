@@ -1,0 +1,9 @@
+Senior Software Developer,"Memcosoft Ltd is looking for Senior Software
+Developers to work on the development of online 3D graphics technology.",NA,"- Knowledge of: Visual C++, C#, SQL, Networking, Microsoft SQL Server;
+- Experience in multi-threading application;
+- 3 years of work experience.","Please send your resume to:arman.boshyan@...
+with cc: edvard.arakelyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Memcosoft Ltd, the Armenian branch of Memco Inc. (USA),
+is a software development company."

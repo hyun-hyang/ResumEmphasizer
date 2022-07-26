@@ -1,0 +1,23 @@
+Game Developer,"Plexonic is looking for Developers from other
+development fields, to join company's Mobile/ Social Game Development
+team.","- Develop mobile/ online games working closely with the team (being a
+team player, not a solo);
+- Work with Designers and Illustrators on design, special effects and
+animations implementation into the games;
+- Work with 2D and 3D physics engines;
+- Develop and build different types of frameworks and toolsets;
+- Define specifications of games features together with Product
+Managers;
+- Constantly learn and grow your skills as a game developer.","- Strong OOP experience and architectural knowledge in one of modern
+programming technologies (Java, .NET, C++, Objective C, Action Script,
+etc.);
+- Understanding of and experience in usage of design patterns;
+- Strong willingness to learn and grow and become more effective as a
+Game Developer every day;
+- Team player; intense communication and collaboration skills.","Apply now by sending email to: jobs@...
+. Please indicate the position title in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Plexonic is a US based game development company, working
+in Mobile/ Social Gaming industry. For further information, you can visit
+the website: www.plexonic.com."

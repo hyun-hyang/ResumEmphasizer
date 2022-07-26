@@ -1,0 +1,44 @@
+Mid-Level Full Stack Developer,"FlatClub is currently seeking a Mid-Level Full Stack
+Developer who is passionate about development and loves designing cutting
+edge technologies with experience of at least 2 years. The incumbent is
+expected to work creatively and collaboratively.
+Here is a list of the things the incumbent will work with:
+- ASP.NET MVC 4&5 / RESTful WebAPI Services;
+- C# and .NET 4.x;
+- HTML/CSS, Responsive Layout;
+- JavaScript, jQuery and angularJS;
+- Agile (Scrum) with extreme Programming (XP) practices.",NA,"- 2 years of experience as a .Net Full Stack Developer;
+- Knowledge, skills or experience of:
+a) T-SQL (queries and store procedures);
+b) ASP.NET MVC;
+c) JavaScript;
+d) Agile Development Practices;
+e) HTML5/ CSS3. 
+
+The availability or familiarity with the following will be a big plus:
+- Experience with version control (preferably TFS);
+- Design Patterns and Dependency Injection;
+- High self-learning skills, passion to innovate technologies,
+self-initiator and trouble-shooter;
+- Experience with MSSQL index, profiling, performance tuning and etc.;
+- MVVM pattern (Knockout, Angular, etc.);
+- Azure Experience;
+- Responsive Design and Media Queries (Twitter bootstrap);
+- Proven UI and UX design experience in both mobile and web
+environments;
+- Web Development Tools (Bower, Grunt and Gulp);
+- XML / XSLT / XPath;
+- UI Testing Tools (such as BrowserStack);
+- RegEx Patterns.","If you would like to apply for this position,
+you must have a portfolio showing proficiency in the required
+qualifications. Interested candidates should send a CV, introduction
+letter and Portfolio with example work to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FlatClub is the marketplace for medium term stays - from
+a few weeks to a few months. FlatClub has more than 75,000 properties and
+partnerships with 50 top universities and companies. FlatClub is VC and
+Angel backed, is the winner of the 2012 TechCrunch Pitching Challenge,
+and finalists for the AMBA Venture Award. FlatClub was featured on the
+Financial Times, Forbes, Guardian, TheNextWeb, and others. We are a team
+of 25, based in Yerevan and London."

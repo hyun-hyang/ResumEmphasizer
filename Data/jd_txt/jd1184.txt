@@ -1,0 +1,74 @@
+IT Specialist,"Under the overall supervision of National Project
+Coordinator and the direct supervision of National Project Manager, the
+Project Expert on Information, Communication and Technologies is
+responsible to ensure system availability, functioning, accessibility
+and project office IT hardware/ software smooth operation. As a member
+of the Project Unit Staff, s/he will work in close cooperation with
+National and International consultants, international organizations,
+government agencies and other public groups involved in the project
+activities.","- Support the Project Manager in developing the project office
+equipment, including IT hardware/ software strategy;
+- Ensure appropriate management of office equipment, including IT
+hardware and software;
+- Organize evaluation and justification for acquisition or upgrade of
+hardware and software products, spare parts and accessories according to
+the project needs:
+a) Select equipment according to its specifications and the project
+needs;
+b) Select proper supplier, organize tenders according to the accepted
+requirements;	
+c) Organize the purchase of the hardware/ software;
+- Provide administration and maintenance of the project local area
+network (LAN):
+a) Administer groups and users accounts;
+b) Organize and provide regular maintenance of the Project File and
+Print severs;
+c) Organize and provide regular maintenance of Web and e-mail servers;
+d) Ensure disaster recovery and LAN security against viruses and
+unneeded intruders;
+e) Provide regular information and data back up;
+- Provide on spot maintenance of the project hardware and software and
+organize outsource maintenance services as appropriate;
+- Provide installation of the software on the computers of the project,
+desktop management, regular updating and testing of software if
+necessary;
+- Determine and resolve user problems, provide technical assistance for
+troubleshooting;
+- Maintain the project inventory documentation according to UNDP and
+Executing agency procedures;
+- Maintain statistics on various aspects of e-mail and Internet usage;
+- Regularly update the project Website (www.heating.nature-ic.am);
+- Provide computer design of the presentations and project documents
+according to publication requirements;
+- Select, justify and assess the applicability of new information
+technologies (computer models, database and information systems)
+according to the project needs;
+- Provide advise on database and computer models development software
+and associated software packages, proceeding from project needs;
+- Organize training for project stakeholders on PC, Internet, database
+and web-site usage and maintenance;
+- Provide ongoing assistance to the project personnel for usage of new
+equipment and software;
+- Perform other related duties as required.","- University degree in Computer Sciences, Engineering and Business
+Administration, Mathematics or other closely related field of
+specialization;
+- At least 5 years of professional experience in system hardware/
+software maintenance within a multi-user network environment, including
+extensive knowledge of PC hardware, Microsoft operating systems and PC
+application packages;
+- Good knowledge of development trends and relevant strategies in
+project related fields;
+- Good communication skills, teamwork approach, diligence and proven
+planning capacities;
+- Fluency in Armenian language;
+- Good knowledge of English language;
+- Knowledge of Russian language is an asset.","Applications can be submitted on-line throughhttp://www.undp.am site, or delivered hard copies to the UN House
+Security Desk, 14, P. Adamyan str. A complete application form should
+consist of a letter of interest, an updated CV and the UN Personal
+History Form (P11), available at the UN House Security Desk.   
+Applications can also be sent via post offices within a deadline period
+indicated below. Applications received after the closing date will not
+be considered. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Women candidates are encouraged to apply.,NA

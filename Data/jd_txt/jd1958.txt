@@ -1,0 +1,22 @@
+Senior QA Engineer,"The Senior Quality Assurance Engineer will be primarily
+responsible for planning, creating and executing manual and automated
+software test activities. The incumbent will also work closely with the
+Agile team and communicate with the Product Owner and other stakeholders.","- Design test cases, perform manual functional/ compatibility/ regression
+testing and develop automated tests;
+- Responsible for developing an automation framework;
+- Create and maintain automation testing scripts while using cutting edge
+technologies, such as Selenium RC/ IDE;
+- Interact with various stakeholders, product management, development and
+operations;
+- Serve as a strong contributing technical member of the agile team.","- Higher education in relevant field;
+- At least 3 years of software testing and QA experience preferably in
+web development;
+- Knowledge of testing techniques, problem reporting and documentation;
+- Knowledge of HTML and CSS;
+- Knowledge of JavaScript, Dom and Selenium is a plus;
+- Experience with Linux and Windows platforms;
+- Operational experience in at least bug tracking system;
+- Good knowledge of English language.","If you are interested, please send your CV to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,25 @@
+Web Developer,"SAS Group LLC is seeking a Web Programmer to implement
+the user interface for a suite of web-based applications, including
+integration with other systems and to direct the on-going design of the
+corporate website and carry out ongoing changes to the site as required.","- Modify existing code with new features available in current and future
+deployments of PHP/ MySQL;
+- Develop new Web applications as identified by supervisor and management
+through packaged and customized applications;
+- Design and implement user-driven templates, databases and interfaces
+for ease of use;
+- Develop database-driven Web interfaces for rapid, real-time information
+sharing;
+- Generate, maintain and archive web site content;
+- Maintain and enhance existing Web applications and  ensure all internal
+systems are integrated.","- At least 3 years of experience in PHP; preferably PHP5;
+- At least 3 years of experience in MySQL; preferably MySQL5;
+- At least 3 years of experience in Linux;
+- Extremely detail oriented and organized and able to meet deadlines;
+- Ability to solve complex problems and create optimized code for high
+traffic websites;
+- Advanced AJAX experience is a plus.","Interested candidates are encouraged to submit a
+CV to: syuzanna.engibaryan@... mentioning ""Web Developer"" in the
+subject line. Applications' privacy and confidentiality are guaranteed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

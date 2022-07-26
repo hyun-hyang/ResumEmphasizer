@@ -1,0 +1,26 @@
+Software Development Team Leader,"The Software Development Team Leader will oversee
+projects and supervise the day-to-day operations of his/ her team, making
+sure everyone is pulling their weight, distributing the workload evenly
+and making sure motivation and performance levels are maintained. The
+incumbent will occasionally carry out administrative tasks and report
+writing duties, as well as guide the teams vision and ensure that
+everything goes according to plan.","- Organize and supervise the development of new systems, as necessary,
+make operating system changes (upgrading ), fix the project
+documentation;
+- Ensure the proper functioning of the software bases;
+- Oversee the disciplinary rules of the team;
+- As necessary, organize discussions with the organizations leadership
+and relevant agencies, professionals, experts.","- University degree in Computer Science, Information Technology or other
+related field;
+- At least 5 years of professional work experience;
+- Professional knowledge and skills, in particular, in PHP and C#; web
+services (SOAP, WCF, REST); object-oriented design patterns; PostgreSQL,
+SQL Server;
+- Excellent knowledge of at least one PHP framework;
+- Necessary management skills and business literacy;
+- Excellent knowledge of Armenian, Russian and English languages.","Interested candidates are encouraged to submit a
+CV to: info@... with a note ""Software Development Team Leader"" in the
+subject line or call: (010) 24 75 02 for inquiries.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

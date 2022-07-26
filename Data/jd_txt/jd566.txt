@@ -1,0 +1,33 @@
+IT Support Specialist,"Lycos Armenia is seeking an IT Support Specialist to
+be responsible for safe-guarding the support for users, the operations
+of software systems and the associated services towards the departments.","- Safe-guarding frictionless operations and support of the used system
+components to manage the company's operative business;
+- Quality management of new developments and close collaboration with
+the software development as well as our departments for comprehensive
+tests;
+- Support in the realization of failure analysis and assistance at
+independent drafting and implementation of solutions for occurring
+failure situations by SQL monitoring and smaller developed reports;
+- Preparation of documentations regarding operation and support
+processes and components;
+- Assistance at continuous improvements within the scope of further
+development of the company's business, especially advancing further
+standardization of the daily business.","- Support experience in workshops;
+- Skills in SQL, data bases (Oracle/Sybase), UNIX and UNIX tools as well
+as Windows NT resp. W2K server;
+- Special skills particularly operating object-oriented applications and
+middleware as well as script languages (e.g. Pearl, SQL plus);
+- Experience with large standard applications e.g. in the field of DRM,
+Billing and Finance/Logistic;
+- Preferably experience with analysis and optimization of business
+processes regarding cellular phone network or at comparable services
+providers;
+- Fluent in written and spoken English language;
+- High ability to work under pressure and high motivation;
+- Creativity and team spirit;
+- Firm appearance when dealing with the company's internal customers;
+- Ability to travel and work outside Armenia for extended periods.","If interested, please apply with your CVs to:info@... stating ""IT Support Specialist"" in the subject line
+of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

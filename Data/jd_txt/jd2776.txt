@@ -1,0 +1,36 @@
+Database Developer,"The primary responsibilities of the incumbent include
+designing database, database administration and maintenance, analyzing
+database performance and developing solutions to speed up processes,
+developing procedures and queries to effectively handle large amount of
+data, ETL and other database related tasks.","- Develop software code based on the existing design;
+- Constantly update technical knowledge and skills;
+- Be efficient in the use of memory and CPU time;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/ write technical documentation on codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues;
+- May have to travel to USA or other countries to work with other team
+members.","- Master's or higher degree in Computer Sciences, Physics, Mathematics or
+related disciplines;
+- At least 2 years of experience in database administration and SQL;
+- Familiarity with standard concepts, practices, and procedures within
+the field;
+- Working experience with MS SQL Server and Oracle;
+- Working experience in Windows and Unix/ Linux environments;
+- Demonstrated records of implementing efficient databases and procedures
+to handle large data;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good English language skills including reading, writing, and speaking;
+- Ability to be flexible in learning and applying different programming
+languages and technologies;
+- Knowledge of C++ and Java programming languages is desirable;
+- Knowledge of VB .Net, ASP .Net, .Net, and other technologies is
+desirable.","Interested candidates should email their CVs and
+inquiries to Armen Nahapetyan at: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ardinnotech's head office is based in Florida, USA. The
+main specialization of the company is developing and licensing
+large-scale computer models and software."

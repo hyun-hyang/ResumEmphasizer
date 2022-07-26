@@ -1,0 +1,30 @@
+Software QA Engineer,"AtTask has an opening for an experienced Software
+Quality Assurance Engineer at Yerevan office. The position will primarily
+have responsibility for working with a team of QA engineers and
+developing processes and implement code to ensure delivery of high
+quality software. This role requires a proactive and results oriented
+individual with the ability to work on assigned tasks, as well as
+independently identify other value-add activities.","- Design and implement unit test cases on existing code;
+- Design and implement Java based/ Selenium automation suite for
+regression/ functional testing;
+- Perform manual and automated testing;
+- Perform functional, performance, load, compatibility and usability
+tests;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the quality
+of software releases;
+- Manage and create tests for new features to ensure less than 1% bug
+ratio on delivered projects.","- BS in Computer Science or a related degree;
+- Minimum 5-7 year experience;
+- Fluent knowledge of written and spoken English language;
+- Proven experience with QA automation;
+- Experience with OO languages;
+- Knowledge of automated Web GUI testing methods and tools;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Detail oriented and self starter.","Please email your CV to:jobs.armenia@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company visiting www.attask.com."

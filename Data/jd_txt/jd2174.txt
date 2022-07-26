@@ -1,0 +1,40 @@
+C/ C++ Software Engineer,"Dom-Daniel Armenia is looking for dynamic,
+self-disciplined, innovative, and passionate software engineers that have
+a desire to be part of a team developing stunning, challenging, complex,
+and scalable network applications. The select professionals will be
+assigned to one of the teams that develops various engines and
+applications for a network enabled products. The daily responsibilities
+include participation in the design and architecture of products, high
+quality code development according to internal standards, code and code
+security review, and technical documentation development.",NA,"- BS in Computer Sciences or a related field; or equivalent industry
+experience; MS is a plus;
+- Over 4 years of experience in C/ C++ programming; 
+- Proficiency in Object Oriented Design;
+- Understanding of internet protocols (IP, TCP/ UDP and HTTP);
+- Good knowledge of Mathematics;
+- Strong debugging and performance-tuning skills;
+- Good knowledge of written and oral English languages;
+- Passion for developing complex and challenging products;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism. 
+Desired Qualifications (At least two of the listed is a plus):
+- Advanced knowledge of and experience in WinAPI and Visual Studio
+Environment;
+- Experience with development in (Unix/ Linux) operating environment and
+GNU tool chain;
+- Experience with development in RTOS (Real Time Operating System)
+environment;
+- Advanced understanding and 2+ years of experience in Multi-threaded
+server applications development;
+- Advanced knowledge and understanding of Internet Protocols (IP, TCP/
+UDP, HTTP/ HTTPS);
+- Advanced knowledge and understanding of Cryptographic and Hash
+algorithms (RSA, Diffie-Hellman, AES and SHA-3);
+- Good knowledge of ASM (MIPS/ X86 Architecture).","Applicants will be considered on rolling basis.
+Please submit a resume along with a cover letter to: hr@...
+with a subject line ""Software Test Engineer / Dom-Daniel Armenia"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing IT solutions to medium and large size enterprises."

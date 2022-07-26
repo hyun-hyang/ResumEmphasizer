@@ -1,0 +1,18 @@
+ASP.Net Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of an ASP.Net Developer.","- Work with a team of developers to build, implement and deploy new
+complex applications using .Net 4.0 and ASP.Net/ MVC;
+- Work with a wide range of web application technologies and tools.","- University degree in Computer Science or a related field;
+- Strong knowledge of Object Oriented programming;
+- At least 3 years of work experience in developing complex web
+applications;
+- At least 3 years of work experience in programming C# and ASP.Net;
+- Excellent communication and interpersonal skills;
+- Good knowledge of English language.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11310"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

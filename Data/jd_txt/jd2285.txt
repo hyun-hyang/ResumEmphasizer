@@ -1,0 +1,35 @@
+Database Developer,"The Database Developer will be responsible for
+designing, developing and implementing ETL (Extraction Transformation
+Loading) and OLAP cubes for the purpose of facilitating the reporting
+requirements.","- Perform collection of ETL requirement;
+- Design and develop ETL applications;
+- Design data transformation schema;
+- Advise on solving problems related to ETL design and execution;
+- Ensure that the performance ETL is of acceptable timeframe and error
+free;
+- Establish documentation and logging of new and existing ETLs;
+- Design and develop OLAP Cubes;
+- Design and generate ad hoc reports using SQL (Structured Query
+Language);
+- Perform query design and testing;
+- Perform data analysis for different requirements;
+- Provide regular monthly reports on activities done.","- Bachelors or Master degree in professional field (Engineering or
+Information Technology preferred);
+- At least 2 years of work experience as a Developer in the IT industry
+with an emphasis in databases and reporting;
+- Mastery of SQL languages (TSQL and PLSQL), knowledge of MSSQL, Oracle
+and MySQL is a plus;
+- Knowledge of data warehousing concepts, experience with OLAP Cubes is a
+plus;
+- Experience with XML is a plus;
+- Basic knowledge of Unix, Windows is a plus;
+- Knowledge of ETL specific programming language;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to maintain the highest level of professionalism, ethical
+behavior and confidentiality;
+- Good knowledge of English and Russian languages.","Please submit your CV to:Database-developer@... e-mail address. Only shortlisted candidates
+will be invited to the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

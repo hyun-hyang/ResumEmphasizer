@@ -1,0 +1,51 @@
+IT Senior Systems Administrator,"The IT Senior Systems Administrator will be responsible
+for all Systems Infrastructure Data Center and production environment
+within PicsArt. This position assumes a technical person on the team
+responsible for the plan, design, implementation and support of system
+infrastructure and solutions for the organization.","- Responsible for current infrastructure and live/ developed production
+support and maintenance;
+- Responsible for new infrastructure deployments across Development, QA,
+Staging and Production environments;
+- Responsible for installation, deployment and maintenance of hardware,
+operating systems and software;
+- Manage Amazon Cloud system and on-premise infrastructure;
+- Integrate and support continues integration and release management;
+- Responsible for system orchestration and management with the Chef;
+- Play a leading role in capacity planning and optimization for
+infrastructure systems;
+- Lead/ participate in strategic initiatives to address Cloud
+architecture design, data center consolidations, data backup/ restore and
+others;
+- Responsible for day-to-day (24x7) management of applications/
+infrastructure in a growing and dynamic environment;
+- Develop documentation standards for technical designs, operational
+run-books.","- Extensive experience in infrastructure operations in a large,
+high-performance technical computing site;
+- Experience in supporting mission-critical systems to ensure high
+availability, scalability and maintainability;
+- Working knowledge of Networks, Network Protocols and troubleshooting;
+- Strong troubleshooting skills;
+- At least 5 years of UNIX/ Linux (Debian/ Ubuntu is preferable)
+experience in a production environment;
+- Experience working with Datacenter/ on-premises infrastructure;  
+- Experience in monitoring, graphing, analytics systems tools;
+- Scripting experience (Bash, Perl or Python) to automate workloads and
+routine system admin tasks;
+- Extensive experience of web servers such as Nginx, Apache;
+- Experience with Virtualization OS (VMWare, Power VM, Oracle VM);
+- Experience with cloud solutions (Amazon, Google);
+- Experience in MongoDB, MySQL Administrations, clustering and shading
+solutions;
+- Experience in caching solutions(Redis/ Memcache);
+- Knowledge of DNS/ BIND, AD, SMTP/ SendMail, NFS, Samba, DHCP, SQUID;
+- Excellent English language verbal and written communications skills;
+- Experience working with engineering on application deployment to
+production.","To apply for this position, candidates are asked
+to send a letter of intent with a detailed CV addressing relevant
+qualifications and experience to: jobs@....  In the subject line
+of the e-mail message, please write ""Application for IT Senior Systems
+Administrator"". No information inquiries will be handled over the phone.
+Only short-listed candidates will be called for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

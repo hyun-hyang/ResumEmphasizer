@@ -1,0 +1,28 @@
+Software QA Engineer (EDA),"The Software QA Engineer will be involved in
+verification and validation of EDA software tools.","- Test plan preparation according to specifications;
+- Create and run tests, based on the written scenarios and test cases
+descriptions;
+- Suggest new test scenarios;
+- Create and maintain regression test suites;
+- Report functional and enhancement bugs;
+- Follow up reported bugs until they are resolved;
+- Verify fixed bugs;
+- Create and maintain build system automation.","- BA or MA degree in Computer Science or in a similar discipline;
+- At least 2 or more years of Software QA experience;
+- Good analytical skills with a high attention to details;
+- Knowledge of and experience with Linux/ Unix environment;
+- Knowledge of scripting languages (TCL, Python, Perl and Shell);
+- Familiarity with build systems;
+- Familiarity with any bug tracking system (Bugzilla and Trac);
+- Familiarity with Digital and Analog Mixed design;
+- Good oral and written communication skills;
+- Knowledge of Open Access is desired;
+- Familiarity with hardware design is desired.","Interested candidates should send their resumes
+in PDF format to: job@... . Please mention the title of
+the position you are applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate are in the USA and EU."

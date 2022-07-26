@@ -1,0 +1,35 @@
+"Lead Software Engineer, Database Department","The Lead Software Engineer will lead the design and
+implementation of critical software products.",NA,"- MS or PhD (highly desirable) in CS/EE;
+- 7+ years of experience in software development;
+- Excellent communication skills;
+- Self-motivation;
+- Experience in successful project management of large scale software
+products;
+- Formal training or test certification is a plus;
+- Strong C++/ STL programming skills, experience in widely accepted
+methodologies such as OOP, OOD, etc.;
+- Good knowledge of Linux;
+- Knowledge of TCL scripting language;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Experience in designing EDA databases, solving tasks related to fast
+data access, storing and processing;
+- Design/implementation specification writing skills;
+- Knowledge and experience in Physical Design Automation, or related
+domains is preferred;
+- Knowledge of YACC and LEX and previous experience in designing
+YACC/LEX based parsers is desired;
+- Knowledge of computational geometry algorithms is desired;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Knowledge of technical English both verbal and written;
+- It is preferred that the candidates for the Lead Software Engineer
+position in Database Department fulfilled military obligation or
+educational waivers of military obligation.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail. 
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

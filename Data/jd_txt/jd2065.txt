@@ -1,0 +1,24 @@
+PHP Developer,"Damaris AM Ltd is looking for a qualified PHP Developer
+to participate in projects.","- Develop new features for Windows Applications;
+- Perform bug fixing in existing functionalities of Windows
+Applications;
+- Develop Web applications using PHP;
+- Comply with the framework of the company;
+- Meet deadline requirements;
+- Ensure quality to output.","- Bachelor's degree in Computer Sciences; Master's degree is a plus;
+- Knowledge of PHP;
+- Knowledge of SQL language;
+- Knowledge of JavaScript, JQuery and JSON;
+- Knowledge of C/ C++ is a plus;
+- Knowledge of VB and Perl is a plus;
+- Knowledge of C# and NET Framework is a plus;
+- Written and spoken knowledge of English language is a plus;
+- Independent, motivated and hard-working personality;
+- At least 1 year of experience in development.","Please, submit CVs to hr@... , clearly
+mentioning in the subject line the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM is the local branch of Damaris France Company
+providing software archiving package to different companies in Europe.
+Damaris SA has 20 years experience in Document Management with more than
+750 Customers and 25000 Daily Users."

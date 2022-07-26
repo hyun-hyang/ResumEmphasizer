@@ -1,0 +1,29 @@
+Senior PHP Developer,"EPAM Systems is seeking for Senior PHP Developers to
+join the company's team in developing enterprise-level software
+solutions. The company is looking for energetic people who are ready for
+new challenges, teamwork, and Agile software development.","- Lead or contribute to the software development effort - subject to
+seniority/ experience;
+- Participate in all cycles of software planning, design and execution;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Participate in internal and external meetings.","- At least 2 years of PHP programming experience;
+- Extensive knowledge of HTML, CSS, JavaScript technologies;
+- Experience in database architecture design and development, MySQL;
+- Experience in Web services development;
+- Knowledge of Java or C# is a plus;
+- Proficiency in object oriented programming and Design Patterns;
+- Experience using Git source repository and GitHub service;
+- Good knowledge of technical English language;
+- Excellent communication and teamwork skills;
+- Ability to work independently.","Interested candidates are asked to submit their
+CVs in English language to: Beniamin_Gyurjyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

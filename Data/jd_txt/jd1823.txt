@@ -1,0 +1,26 @@
+Place and Route Software Engineer,"Mentor Graphics Development Services CJSC is looking
+for a highly motivated Software Engineer to work in the Infrastructure
+Team of Mentor Graphics Place and Route Division.","The incumbent will be responsible for design,
+development, testing and support of all the infrastructure aspects:
+input/ output, DB, persistence, save/ restore, integration with other
+Mentor's products, etc. of the Olympus-SOC family of digital IC
+implementation products.","- MS in Computer Science, Electrical Engineering or related
+disciplines; PhD is preferred;
+- Strong knowledge of C and C++ with UNIX and/ or LINUX platforms;
+- At least 3 years of proven commercial SW development hands-on
+experience, developing complex software systems and/ or working with
+large existing software systems is highly desirable;
+- Experience with EDA software applications and especially back-end tools
+is a big plus;
+- Working knowledge of structural Verilog, experience in EDA
+Infrastructure (database and UI), knowledge of OpenAccess (LEF/ DEF) and
+other BE formats (SPEF, PDEF, SDC, etc.), familiarity with DRC formats
+and GDS  are all huge plus;
+- Hands-on experience in solving technical problems;
+- Results oriented and innovator;
+- Good team player.","Please submit your CV through:http://amyhrs.mentor.com
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

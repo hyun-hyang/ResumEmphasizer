@@ -1,0 +1,26 @@
+Assistant to IT Director,"The IT department of the Cafesjian Museum Foundation
+is looking for an experienced and motivated systems administrator to
+work as an Assistant to the IT Director.","- Maintain a constantly growing number of PCs (currently 40) in a local
+area network;
+- Troubleshoot all software problems;
+- Replace defective hardware parts;
+- Train other employees on using their computers;
+- Wire and install network.","- At least 2 years of experience administering Windows-based networks
+running under a domain configuration;
+- Some higher education degree or certificate related to IT, computer
+science, telecommunications, or electronics;
+- Fluency in English language.
+-Thorough knowledge of network management on ethernet LANs using
+TCP/IP-based devices such as gateways, routers, firewalls, etc.
+-Good knowledge of computer hardware installation and maintenance","Interested applicants should e-mail their cover
+letter and CV to: stringpicker@....
+Only short-listed candidates will be invited for interviews. Please put
+on subject line of your e-mail Assistant to IT Director.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Cafesjian Musuem Foundation is a non-profit
+organization preparing to open a world-class museum of contemporary art
+and a center for educational and cultural activities in the Republic of
+Armenia. The complex will include galleries, concert halls, cinemas,
+libraries, and much more. For additional information about the company,
+please visit its website: www.cmf.am."

@@ -1,0 +1,27 @@
+C# Programmer,"""Production and Export Support Association"" is seeking
+programmers with the knowledge of C# and C++ who will be engaged in
+software development on .NET platform using C#, WinForms, ADO.NET, SQL.","The incumbent will be responsible for
+implementation of everyday software development tasks.","- Excellent command of C# 2.0, work understanding. Net knowledge from the
+inside;
+- Knowledge of WinForms;
+- Knowledge of ADO.NET,SQL;
+- At least 1 year of documented work experience;
+- Preferably: C++ (basic understanding), WCF, WFF, WPF.","Please send your CV to: info@... .
+Shortlisted candidates will be required to pass a detailed interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Production and Export Support in Armenia Association
+(Association 3A) is a Non-Governmental Organization founded on the
+principles of common purpose and volunteerism of its members, which was
+established for the purpose of development and implementation of new
+business projects, business development, market research, export, help
+ordinary investors in the projects aimed at stimulating exports and the
+export process in Armenia. The Association was created to improve the
+productivity of the economical sphere of the Republic of Armenia. The
+purpose of the Association is the development of the economical field
+which can be more accessible to entrepreneurs from the Spyurk and foreign
+investors, and the establishment in Armenia qualitatively new
+opportunities for investment, and also the integration of the Armenian
+general potential with all its ties with the world economy and building
+of new, substantially differ in focus, marketing feasibilities on its
+base."

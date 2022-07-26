@@ -1,0 +1,27 @@
+.NET Developer,"VOLO is looking for experienced result-oriented
+professionals to fill the position of .NET Developer to work for
+international clients in an enterprise-focused team.","- Design, develop and support new and existing business solutions;
+- Create and maintain SQL queries, stored procedures, triggers and
+views;
+- Implement backend/ data access layer within web applications/ web
+services;
+- Work in a team or individually in all the phases of the software
+development life cycle.","- At least 3 years of solid experience with C# and the principles of the
+.NET platform;
+- Experience with data access technologies (ADO.NET, LINQ to Entities);
+- At least 1 year of experience in using web service technologies (WCF,
+REST and JSON);
+- At least 1 year of experience with ASP.NET, MVC;
+- Experience with JavaScript and jQuery;
+- Experience with Microsoft SQL server 2012 is a plus;
+- English language skills, both written and spoken.","To apply for this position, please submit your
+CV in the English language to: hr@... , mentioning the position you
+are applying for in the subject line of the email. No personal visits,
+deliveries or phone calls, please. Only short-listed candidates will be
+notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VOLO LLC is an IT innovative solutions provider with
+development bases in Yerevan and Ukraine, and sales offices in the USA,
+Canada, the UK, Germany, Switzerland, and other countries. For more
+information, please visit: http://volo.global/."

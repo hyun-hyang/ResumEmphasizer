@@ -1,0 +1,42 @@
+Senior .NET Software Developer,"Netsoft USA seeks an experienced Senior .NET Software
+Developer to contribute to continued expansion of its Armenian office
+and to help meet the needs of its rapidly growing business. As a Senior
+Software Developer, the incumbent will craft and define technical
+solutions for clients ranging from medium-sized businesses to Fortune
+500 companies. S/he will also be involved in architecting and leading
+the development effort of new applications. The ideal candidate will
+embrace change and have the ability to apply the best technology
+available with a high level of enthusiasm, professionalism and
+confidence.","- Design, architect, develop, unit test and implement new applications;
+- Analyze, enhance, maintain and customize current applications;
+- Provide technical support to internal subject matter experts working
+on client projects;
+- Interface with clients to gather and document technical and
+architectural requirements as part of overall proposal;
+- Provide customer support as and when required;
+- Prepare and conduct presentations for internal and external use,
+including but not limited to solution trainings for business
+consultants, technical presentations for external clients and project
+specific technical proposals.","- 5+ year experience in MS .NET for developing web-based and N-Tier
+applications;
+- Strong working experience with integration & enterprise architecture
+patterns, OOD;
+- Extensive experience with .NET 3.5 (ASP.NET), C# (or VB.NET), WCF, WS,
+LINQ;
+- Working experience in web technologies: ASP.NET, XML/XSL, HTML, web
+scripting;
+- Familiarity with JQuery Framework is a plus;
+- Database programming in SQL Server (2000/2003/2005) using T-SQL;
+- Experience in the various stages of the Software Development Life
+Cycle (SDLC);
+- Microsoft certifications are a plus;
+- Good communication and interpersonal skills, working knowledge of
+English language, fluency is a significant plus;
+- Ability to work on multiple concurrent projects.","To apply, please submit your resume to:jobs@... , mentioning ""Senior .NET Software Developer"" in
+the subject line of your email. Interviews will be held in English
+language. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Metacortex is a subsidiary of the Netsoft USA which
+is a technology services company headquartered in New York City. NetSoft
+USA is a Microsoft Gold certified partner."

@@ -1,0 +1,43 @@
+Software QA Engineer,"IconApps Inc. is looking for a Software Quality
+Assurance Engineer for long-term projects. The successful candidate must
+demonstrate a solid understanding of QA methodologies. S/he mainly will
+be responsible for iPhone applications testing.","- Serve as a strong contributing technical member of the team;
+- Design test cases;
+- Design and develop automated test scripts;
+- Perform manual and automated testing;
+- Perform functional, performance, load, compatibility, integration and
+usability tests of the iPhone applications;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create required test documentations.","- Higher education in the relevant field (MS preferred);
+- 2+ years of work experience as a QA engineer;
+- Excellent understanding of QA theory;
+- Knowledge of Web concepts, experience with client-server architecture
+testing;
+- Experience in mobile applications testing is a plus;
+- Knowledge of testing techniques and problems documenting;
+- Experience with JMeter test automation tool;
+- Experience in developing scripts for other automated testing tools is
+a plus;
+- Operational experience with bug-tracking systems;
+- Knowledge of SQL family queries;
+- Experience in working in MAC OS X or UNIX environments;
+- Basic knowledge of any programming language, preferably OOP;
+- Strong problem-solving skills and ability to be a successful team
+member;
+- Ability to work independently and under pressure;
+- Ability to learn quickly;
+- Good communication skills;
+- Responsible and self-motivated personality;
+- Good analytical skills;
+- Extreme attention to details;
+- Ability to meet tight deadlines and overcome challenges;
+- Good English language communication skills.","Interested candidates should e-mail their
+resumes to: career@... referring to the job title above. Only
+shortlisted candidates will be invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IconApps Inc. is specialized in delivering mobile
+applications. For more information about the company, please visit:
+www.iconapps.com."

@@ -1,0 +1,35 @@
+Java Professionals,"The role requires dedicated and responsible Java
+Professionals. The responsibilities of this position are focused on
+software development tasks such as developing integrated web
+applications and web portal systems.","- Product development working through requirements gathering,
+architecture, development and release;
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform the assigned tasks in the precise and timely manner;
+- Perform quality assurance tasks, such as testing of the software
+products (developers testing);
+- Document the software products that will be produced.","- Degree in Computer Science, Information Technology or related
+discipline;
+- Good knowledge of Object Oriented Programming;
+- Enterprise based web-based applications and web services;
+- Software Architectures: J2EE (Java 2 Enterprise Edition);
+- Software design: Together J, Rational Rose;
+- Programming languages: Java, JSP, JavaScript, HTML, XML;
+- Development environment: Eclipse;
+- Databases: Postgres, Oracle, DB2;
+- Application Servers: JBOSS, IBM Web Sphere;
+- Portal Servers: JSR168, IBM Portal Server;
+- Web Servers: Apache, IIS;
+- Special Know-hows: Computer graphics, Vector mathematics, distributed
+software systems, SOA, SOAP, Complex HTML GUI;
+- Abstract thinking, solution-oriented, forward thinking, ability to
+implement the ideas in the program, ability to create reusable software
+components;
+- Ability to work with quality and in timely fashion, and ability to
+work in team.","Please submit your detailed CV directly to:Aram.Tovmasyan@.... Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

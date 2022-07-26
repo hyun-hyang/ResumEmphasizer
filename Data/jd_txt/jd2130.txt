@@ -1,0 +1,20 @@
+Database Developer,"OMD LLC is looking for a Database Developer to
+participate in the design and implementation of OneQuantData product.","- Analyze input data, map it to internal concepts, create automated
+solutions for data import, as well as verify and modify them;
+- Develop analysis and verification tools;
+- Create report web pages and web-based data access tools;
+- Maintain internal databases.","- Strong knowledge of relational databases, including schema design,
+stored procedures and query tuning/ optimization (with basis in Oracle or
+Mysql);
+- Strong scripting skills and proven experience, preferably in Perl on a
+Unix system;
+- Web programming skills (PHP-mysql under apache);
+- Good analytical skills;
+- Good level of technical English language.","Send your resume to: jobs_am1@... . The
+subject must read ""Database Developer"". Short-listed candidates will be
+invited to an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data storage, analytics
+and CEP solutions for financial institutions (www.onetick.com)."

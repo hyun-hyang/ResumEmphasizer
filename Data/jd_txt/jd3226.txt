@@ -1,0 +1,31 @@
+Senior iOS Developer,"Joomag AM LLC is looking for a proactive, highly
+motivated Senior iOS Developer to share his/ her expertise in application
+and framework development.","- Lead development efforts on large-scale projects, ensuring robust and
+lasting solutions are implemented;
+- Implement new features in existing applications, as well as develop
+complex applications from top to bottom (user interface design to design
+and implementation of supporting frameworks);
+- Test, debug and build a code that works across all devices and
+platforms;
+- Optimize the size and performance of applications and frameworks;
+- Make innovations and build things that people will blog about.","- At least 3 years of work experience in the relevant field;
+- In-depth development experience at the application and user interface
+level with Cocoa; experience with C and Java is preferred;
+- Experience with Objective-C;
+- Strong object-oriented programming and design skills;
+- Experience with MacOS X framework;
+- Experience with CPU/ memory profiling;
+- Experience with Asynchronous programming; experience with Networking
+protocols;
+- Excellent problem-solving, critical thinking and communication skills;
+- Ability and desire to acquire new skills and take on new tasks;
+- Familiarity with source control systems (Subversion, CVS);
+- Excellent knowledge of the English language;
+- Knowledge of Android Application development is a huge plus.","All interested and qualified candidates are
+invited to send their CVs to: hr.armenia@... . Please mention the
+title of position ""Senior iOS Developer"" and the announcement code
+""JAM-839"" in the subject line of email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

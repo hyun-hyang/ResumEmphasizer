@@ -1,0 +1,30 @@
+Senior Software Engineer  (Ruby on Rails),"Kubisys CJSC is looking for a Senior Software Engineer
+on Ruby on Rails to help the company build out the next version of an IT
+automation tool. The incumbent will examine the underlying architecture
+and suggest debugging tools and methodologies.",NA,"- At least BS in Computer Science or equivalent;
+- More than 4 years of experience with Ruby on Rails coding;
+- Knowledge of RoR inside and out, from version 2.1 to current, ability
+to make it jump through hoops if desired;
+- Understanding of test-driven development, ability to routinely write
+test code in RoR;
+- Understanding of REST; 
+- Experience in creating/ designing flat UI based on HTML5;
+- Familiarity with git;
+- Familiarity with Agile  Scrum, Continuous Integration and Delivery;
+- Familiarity with Data Center Operations (e.g. VMWare, SAN, Networking)
+is a plus;
+- Strong verbal and written communication skills in English language;
+- Ability to actually read and comprehend other peoples (bad) code (not
+to immediately conclude but rewrite the whole thing); understanding and
+knowledge of refactoring;
+- Ability and desire to learn new technologies;
+- Passion for coding;
+- Good team player.","Interested candidates are asked to send their
+CVs to: gasparyan@... . Please indicate the title of the position
+in the subject line of the e-mail. Only short-listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC aims to automate and simplify the operations
+of enterprise data centers. For more information about the company's
+product and activities, please visit: www.kubisys.com ."

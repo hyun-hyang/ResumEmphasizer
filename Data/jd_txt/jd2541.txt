@@ -1,0 +1,33 @@
+Systems Administrator,"Filuet Armenia is seeking for a qualified Systems
+Administrator.","- Provide technical support to users for basic computer related technical
+problems;
+- Switch, connect, restart the network, server hardware according to the
+instructions of IT department of the Moscow office;
+- Install and administrate server and network equipment, health
+monitoring, restoration after failures;
+- Configure and monitor backup, monitoring;
+- Responsible for installation and setup of computers, software on user
+workstations, network setup, installation and configuration of the office
+equipment, health monitoring, and disaster recovery; 
+- Responsible for setting up e-mail services, antivirus/ antispam
+protection;
+- Responsible for network support excluding cabling: 
+a) Network availability tests on-site; 
+b) Network equipment restart; 
+c) Network equipment substituting, physical installation, connecting; 
+d) Telephony and Internet providers communication;
+- Visit office at least once a week;
+- Be always available by phone.","- At least 3 years of experience in a related field;
+- Ability to communicate in English and Russian languages;
+- Knowledge of Windows OS XP/7/2003/2008;
+- Experience with solving computer related problems;
+- Good communication, interpersonal and organization skills;
+- Knowledge of network protocols DNS, DHCP, tcp/ ip;
+- Knowledge of protocols VPN, mail, http, proxy;
+- Opportunity to drive up the office within a 1-1,5 hours.","All qualified applicants are encouraged to
+submit their CVs in Russian or English languages to:andrey.tarasov@... , by clearly mentioning the position applied for
+in the subject line of the e-mail).
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",An employment contract should be signed.,"The Filuet Armenia is a privately owned logistics service
+provider company."

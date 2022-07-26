@@ -1,0 +1,27 @@
+Developer in Automated Test Department,"The primary objective of this position is the
+development of automated Testing Tools and Framework, maintenance of
+wide range of automated tests like functional, regression, stress, load
+and performance to test and ensuring the quality of CQG products.","- Design and develop automated Testing Tool and Frameworks; 
+- Design and code automated testing scripts; 
+- Create test plans from requirements and design documents; 
+- Record test results; 
+- Identify, reproduce and report defects; 
+- Maintain other test plans.","- Bachelor's degree in Computer Sciences or a related discipline; 
+- 1-2 years of work experience in software development; 
+- Over 2 years of work experience in automated and manual testing of
+multiplatform applications;
+- Knowledge of one of the following script languages: Shell, TCL, Perl
+and JScript;
+- Understand Software Testing and Quality Assurance theory; 
+- Experience in bug tracking to resolution and software development
+support; 
+- Work experience with client/ server applications; 
+- Work experience with IIS, DNS, IP Addresses, Subnets, Routing and
+Active Directory is preferred; 
+- Basic English language skills.","The applications can be emailed to:yer_job@.... Please note the position you are applying for in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. For additional information about our company, please
+visit our website: www.cqg.com."

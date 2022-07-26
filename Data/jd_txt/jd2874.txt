@@ -1,0 +1,30 @@
+ASP.NET MVC Developer,"FinConstruct LLC is looking for an ASP.NET MVC
+Developer. The candidate will become a part of the Agile Development Team
+and will be involved in the whole development process lifecycle.","- Design and develop various web artifacts including and not limited to
+features, solutions and Responsive GUIs;
+- Design and build reusable modules to be used throughout the company
+websites;
+- Maintain and enhance the companys home grown systems;
+- Build Custom UI Components;
+- Responsible for bug fixing/ technical support of the existing
+applications in production.","- Bachelors degree in Technical field;
+- Strong knowledge of .NET technologies, C#, ASP.NET (MVC);
+- At least 2 years of work experience in HTML5, CSS3, JavaScript/
+JQuery;
+- Strong web designing skills, converting design mockups to HTML; 
+- Good graphic designing skills, work experience with Photoshop or GIMP;
+- Good communication (verbal and written) skills in English language;
+- Ability to meet aggressive deadlines and handle multiple and complex
+projects; 
+- Solid SCRUM or Agile development/ testing and software release
+experience is a big plus;
+- Experience with JIRA bug tracking is a plus;
+- Self-motivated individual who works independently and with team
+members.","Interested candidates are asked to email their
+professional CVs to: hr@... , specifying the job position name in the
+subject line. Please note that only shortlisted candidates will be
+contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FinConstruct LLC is a software development company, which
+provides financial solutions for business."

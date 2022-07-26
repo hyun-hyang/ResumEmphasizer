@@ -1,0 +1,26 @@
+Senior  Application  Developer,"The primary objective of the Senior Application
+Developer position is to produce the required product by following
+processes in VB, C# and C++.","- Create innovative and elegant software designs to meet current
+business needs;
+- Ensure the integrity of component designs as those pass through all
+phases of the software development lifecycle;
+- Play a handson role in driving the successful implementation and
+enhancements of high-quality system components;
+- Work as part of a software development team;
+- Have a command of current technology.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of VB development, including VBA development in MS  Excel
+environment and VB.Net;
+- Knowledge of C# and C++;
+- Strong problem-solving skills and ability to be a successful member of
+a team;  
+- Ability to work without supervision;
+- Ability to produce results in time-stressed situations;
+- Demonstrated record of designing and implementing high quality
+software products delivered to market;
+- Strong written English language skills is an asset.","Interested candidates should email resumes to:yer_job@.... Please clearly mention the position you are applying
+for. If you have any questions, please call (010)26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US software development company.
+For additional information about our company, please visit our website:
+www.cqg.com."

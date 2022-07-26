@@ -1,0 +1,35 @@
+C# and ASP.NET Software Engineer,"At Netsoft USA the incumbent will be part of a project
+team and help build applications from the ground up.","- Work in a technical team to craft and develop technical solutions that
+meet the customers requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Code applications in C#;
+- Understand business and functional requirements and translate those
+into amazing technical solutions;
+- Identify company paid training opportunities to expand your technical
+horizon;
+- Truly enjoy what you do for a living.","- Insane coding skills;
+- Excellent knowledge of English, both written and spoken;
+- Minimum bachelors degree in Computer Science or a related field;
+- 2-5 years of professional experience in the development of .NET Web and
+Windows applications;
+- Strong C# and ASP.NET development experience;
+- Experience in XML, HTML, CSS and cross-browser compatibility;
+- Experience in AJAX, JQuery and Javascript;
+- Experience in MS SQL Server;
+- Experience in data model and object design.
+Desired skills and experience:
+- 2+ years of professional experience developing Java web-based
+applications;
+- Strong Java and Spring/Spring MVC development experience;
+- VB.NET development experience;
+- Experience in Oracle and other relational databases is a plus.","To apply, please submit your resume to:yerevan.careers@... , mentioning ""C# and ASP.NET Software
+Engineer"" in the subject line of your email. Interviews will be held in
+English language. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Benefits: I) Company paid training; II) Long and short
+term disability insurance; III) Life insurance, IV) Flextime; V) Free
+snacks and in-house Starbucks coffee machine.","Netsoft USA specializes in creating custom business
+solutions for a diverse client base. For more information, please visit
+the web site: www.netsoft-usa.com."

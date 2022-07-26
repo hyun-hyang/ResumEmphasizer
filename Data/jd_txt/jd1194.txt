@@ -1,0 +1,23 @@
+Java Software Developer,"Energize Global Services CJSC is looking for a Java
+Software Developer to be engaged in different long term projects.",Develop application with Java.,"- At least 4 years of work experience as a Software Developer in Java;
+- Advanced knowledge of OOP and OOD;
+- Experience in writing technical documentation;
+- Experience in Web development;
+- Web Frameworks: Struts, JSP/Servlet, JSTL;
+- Experience in Eclipse Ganymede v.3.4.1;
+- Knowledge in web services (Axis, Soap) is a plus;
+- Database knowledge with MySQL and Oracle databases;
+- Knowledge in SQL language;
+- Knowledge in HTML, CSS, JavaScript, XML;
+- Persistence Layer knowledge (OJB, Hibernate, JPA, Spring);
+- Ability to develop high quality and clean code, apply proper language
+constructions and use quality algorithms;
+- Excellent knowledge of English language;
+- Knowledge of French language will be a plus.","If interested, please email your CV to:hr@.... Please, clearly mention in the subject line for
+what position you are applying. Only short listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT
+services for partners all over the world."

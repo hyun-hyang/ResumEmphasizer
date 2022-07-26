@@ -1,0 +1,27 @@
+Windows C++/C# Software Developers,"The primary objective of the Software Developer
+position is to produce required product following processes in
+conjunction with team members that is of high quality and is timely.","- Creating innovative and elegant software designs to meet current
+business needs. 
+- Ensuring the integrity of component designs as they pass through all
+phases of the software development lifecycle. 
+- Playing a hands-on role in driving the successful implementation and
+enhancements of high-quality system components. 
+- Working productively as part of a software development team. 
+- A command of current technology.","- Bachelor's degree in Computer Science or related discipline. 
+- 3+ years of C++/C# Object-oriented development in MS Windows
+environment. 
+- Demonstrated record of delivering high quality software products to
+market. 
+- Extensive knowledge of Windows platform technologies including Win32
+API, COM, threading and sockets. 
+- Strong problem-solving skills and ability to be a successful member of
+a team. 
+- Basic English skills and ability to improve those skills. 
+- Desire experience with distributed application architectures, UNIX
+platforms, interaction with off-shore development teams. 
+- Desire knowledge and application of formal software development
+processes or methodologies, formal design notations like UML.","To apply, please send your resumes to:careers@...;yerevan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG, US headquartered company operating since the early
+80s, is opening a new software development office in Yerevan."

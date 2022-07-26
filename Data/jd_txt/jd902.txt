@@ -1,0 +1,40 @@
+Senior QA Engineer,"Essence Development LLC is looking for a Senior
+Software Quality Assurance Engineer for long-term projects. The
+successful candidate must demonstrate a solid understanding of QA
+methodologies and extensive knowledge of computer science. The
+successful candidate must be a self-motivated personality with good
+analytical and problem solving skills.","- Generate necessary team documentation;
+- Serve as a strong contributing technical member of the team;
+- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the website;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations.","- Higher education in relevant field;
+- Minimum 3 years of work experience as a QA engineer;
+- Excellent understanding of QA theory;
+- Knowledge of Web concepts;
+- Knowledge of software development process;
+- Knowledge of testing techniques and problems documenting;
+- Experience in developing scripts for automated testing;
+- An operational experience with bug-tracking systems;
+- Knowledge of SQL;
+- An operational experience with Linux;
+- Knowledge of OOP basic concepts;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good analytical skills;
+- Interpersonal and organizational skills;
+- Extreme attention to details;
+- Ability to meet tight deadlines and overcome challenges;
+- Knowledge of English language.","Interested candidates should e-mail resumes to:job@.... In case of questions, please call: +(374 10) 51 43
+29.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is an IT company that works in
+partnership with be2 presented in 27 countries on 5 continents. For
+information about the company, please visit http://corporate.be2.com/,
+and for more information about the product, look: www.be2.com."

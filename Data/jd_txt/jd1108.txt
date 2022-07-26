@@ -1,0 +1,22 @@
+PHP Software Developer,"Innova Systems /Googol LLC/ is looking for a PHP
+Developer to work on complex and long-term projects.","- Develop new websites and support projects done by others;
+- Write unit tests and XSLT transformations;
+- Create tools for internal use;
+- Participate in the development of architecture;
+- Work as part of a software development team.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 3 years of work experience in software
+development;
+- 2 years of work experience in PHP and MySQL and good understanding of
+HTML, CSS JavaScript;
+- Knowledge of the OOP;
+- Experience in development of large project by PHP4 and PHP5;
+- Experience in developing architecture and interaction design of Web
+applications;
+- Ability to work with graphics;
+- Strong communication, problem solving and collaboration skills;
+- Experience working with different frameworks and other languages
+(ruby, python, C/ C++, Java) is a big plus.","Please email your CV to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Innova Group is providing on-line entertainment. For
+more information about the company, please visithttp://www.innovaonline.ru"

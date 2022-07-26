@@ -1,0 +1,27 @@
+Senior PHP Developer,"M Systems is seeking experienced PHP Developers,
+particularly senior level for development of features both for its own
+projects and ordered by clients.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 5 years of practical experience;
+- Good knowledge of PHP;
+- Good knowledge of OOP principles;
+- Good knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4 and HTML5);
+- Good knowledge of other programming languages such as Ruby and Python;
+- Experience in developing pages for iOS is a big plus;
+- Experience in working on Photoshop or Corel Draw is a big plus;
+- Experience in working in Linux environment (Ubuntu and Suse) is
+preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language, both communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: msystemsarmenia@... . Please indicate
+the position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"M Systems is a software technology company that has a
+mission to develop web and mobile products with heavy traffic."

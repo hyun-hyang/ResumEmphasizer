@@ -1,0 +1,39 @@
+"Software Developer for ""Strengthening of Municipal Service","The main goal of the Strengthening of Municipal
+Service System project is to support the process of development of
+professional, accountable and efficient municipal administration capable
+to provide quality services. In the framework of the project the package
+of questionnaires for recruitment and attestation of municipal servants
+was developed. The software will be processed with random selection of
+questions during competition and attestation of municipal servants.
+The objective is to develop software for providing random selection of
+questions during recruitment and attestation of municipal servants.
+The Software Developer performs duties under the overall guidance of the
+UNDP Socio Economic Portfolio Analyst and direct supervision of the
+Project Coordinator.","- Analyze the software used for civil servants testing;
+- Define main specificity of municipal servants testing;
+- Develop software for municipal servants testing procedure based on
+developed package of questionnaires:
+- Develop option for random selection of the tests questions: 40 for
+head positions, 30 for leading positions and 20 for junior positions;
+- Provide the following percentage of questions in testing tasks: 10 %
+on the Constitution of Armenia, 20 % on municipal Service legislation,
+50 % on the legislation defining authority of local self-government
+bodies, and 20 % on professional skills;
+- Software to be developed should work on any Windows machine without
+need of installing additional software packages.
+Expected Outputs: Software for municipal servants testing procedures.","- Higher education in Technical sciences or a related discipline;
+- Minimum 5 years of related professional work experience with national/
+international organizations; 
+- Ability to analyze problems, make recommendations and present
+proposals;
+- Demonstrated initiative, tact and high sense of responsibility and
+discretion.","Applications can be submitted throughhttp://oc.undp.am/?go=vacancies&action=apply&ID=325 link, and
+non-registered users must first get registered at:http://oc.undp.am/?go=vacancies&action=addCV, or delivered hard copies
+to the UN House Security Desk, 14 P. Adamyan Str., Yerevan.
+Applications will be considered only if accompanied by an updated CV,
+letter of motivation and copies of diploma(s).
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Only short-listed applicants will be contacted.
+Women candidates are encouraged to apply.
+UNDP/ UN House is a non-smoking environment.",NA

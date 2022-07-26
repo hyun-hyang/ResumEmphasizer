@@ -1,0 +1,39 @@
+Quality Assurance Engineer,"FinConstruct is looking for a Quality Assurance
+Engineer for testing its Direct to Consumer suite of products. The
+candidate will become a part of the Agile Development Team and will be
+involved in manual and automated test case development and execution and
+troubleshooting of the system.","- Duplicate and troubleshoot complex issues found in the field;
+- Analyze new features and write test cases;
+- Document, design, execute and troubleshoot performance tests (product
+or component);
+- Use and develop troubleshooting tools and methodologies that minimize
+the turnaround time of issue identification; 
+- Report bugs in a clear and concise manner and be prepared to support
+the team in troubleshooting the root cause;
+- Develop comprehensive test strategies, test scenarios, test scripts and
+test data requirements for complex projects or initiatives;
+- Write and execute manual and automated test scripts.","- At least 2 years of Quality Assurance experience;
+- Knowledge of C#/ .NET;
+- Experience in testing HTML UIs, WPF applications and MS SQL backends is
+preferable;
+- Strong understanding of System Development Life Cycle, QA
+methodologies, techniques, and approaches, and desire to learn more;
+- Strong attention to details;
+- Ability to identify problems and tackle them without outside
+direction;
+- Ability to meet aggressive deadlines and handle multiple and complex
+projects; 
+- Solid SCRUM or Agile development/ testing and software release
+experience is a big plus;
+- Experience with JIRA bug tracking is a plus;
+- Self-motivated individual who works independently and with team
+members;
+- Good communication (verbal and written) skills in English language;
+- Bachelors degree in Technical field.","Interested candidates are asked to email their
+professional CVs to: hr@... , specifying the job position name in the
+subject line. Please note that only shortlisted candidates will be
+contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FinConstruct LLC is a software development company, which
+provides financial solutions for business."

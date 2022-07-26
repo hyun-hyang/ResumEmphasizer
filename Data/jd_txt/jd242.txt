@@ -1,0 +1,33 @@
+Automated Tests Developer,"The primary objective of this position is the
+development and maintenance of wide rage of automated tests like
+functional, regression, stress, load, performance, etc. to test and
+ensure the quality of CQG products.","- Design, develop and maintain automated test scripts;
+- Run tests and record test results;
+- Identify, reproduce and report defects;
+- Verify defect fixes;
+- Create and maintain test plans from requirements and design
+documents;
+- Maintain other test documentation.","- Bachelors degree in Computer Science or related discipline;
+- 1-2 years of experience in software development; 
+- Experience with client/server applications are desired;
+- Preferred experience with: IIS, DNS, IP Addresses, Subnets, Routing,
+Active Directory
+- Understanding of Software Testing and Quality Assurance theory;
+- Experience with bug tracking to resolution and software development
+support;
+- Excellent memory and communication skills (verbal and written);
+- Extreme attention to detail;
+- Good problem solving and analytical skills;
+- Interpersonal and organizational skills;
+- Ability to meet tight deadlines and overcome challenges;
+- Ability to communicate effectively in English;
+- Futures/commodities/stock market knowledge, trading experience very
+helpful.","The applications can be submitted to:yer_job@... or in hand to: CQGI MA, 12 Vagarshyan Str., 6 floor,
+Yerevan, Armenia. Please note the position you are applying for in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business.
+For additional information about our company, please visit our website:
+www.cqg.com."

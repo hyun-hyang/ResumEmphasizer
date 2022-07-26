@@ -1,0 +1,27 @@
+Software Engineer (EDA),"The Software Engineer will be involved in small to
+large scale projects from EDA software development sphere through all
+stages of the software development life cycle, from requirements
+gathering to implementation and testing.","- Participate in all stages of the software development life-cycle;
+- Contribute to the improvement of development processes;
+- Develop applications with C/ C++;
+- Update/ write technical documentation on codes and algorithms;
+- Communicate effectively with team on project scheduling, status
+discussions, technical aspects, etc.","- BA or MA degree in Computer Science or in a similar discipline;
+- At least 2 or more years of experience in C/ C++ development;
+- Familiarity with Digital, Analog and Mixed design techniques;
+- Familiarity with Object Oriented Programming and STL;
+- Familiarity with data structures and algorithms;
+- Ability to produce clearly written and documented code;
+- Ability to thrive in a fast-paced and startup environment;
+- Good verbal and written English skills;
+- Knowledge of Trolltech QT is desired;
+- Knowledge of Open Access is desired;
+- Knowledge of GNU/ Linux architecture and environment is desired.","Interested candidates should send their resumes
+in PDF format to: job@... . Please mention the title of
+the position you are applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate CJSC are in the USA and EU."

@@ -1,0 +1,18 @@
+Senior Software Developer,"M-Possible is currently looking for a Senior Software
+Developer who will be responsible for all assigned software development
+projects.",NA,"- MS degree in Computer Sciences; 
+- At least 6 years of work experience in software development; 
+- Excellent knowledge of C++, STL and Win32 API; 
+- Familiarity with RDBMS;
+- Work experience with XML and COM technologies;
+- Ability to identify the problem and propose solutions on fly; 
+- Ability to work under pressure; 
+- Ability to supervise and direct other developers; 
+- Ability to prepare technical documentation; 
+- WinCE development experience is a plus; 
+- Knowledge of .Net framework (C#) is a plus; 
+- Knowledge of English language.","To apply, email your CVs to: resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"M-Possible is Armenian branch of i-mate Group and is a
+developer and supplier of high-end wireless integrated devices."

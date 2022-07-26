@@ -1,0 +1,32 @@
+Senior Software Engineer,"IconApps Inc. is looking for a Senior Software
+Engineer for long-term projects.","- Serve as a strong contributing technical member of the team;
+- Take a part in defining product and its architecture;
+- Design and develop database oriented big systems;
+- Design and develop either J2EE based web applications or iPhone, iPod
+and iPad applications;
+- Optimize existing systems;
+- Help and guide team members to achieve best results.","- Higher education in the relevant field, MS is preferred;
+- 8+ years of Java programming experience in the areas of:  
+a) J2EE, Spring Framework and Hibernate;
+b) MySQL and SQL language, MySQL clustering and replication;
+c) Client-server applications performance;
+or
+- 8+ years of system programming experience in the areas of:  
+d) C++ programming, algorithms, patterns and memory management;
+e) User Interface (UI) programming for desktop and mobile applications;
+- Work experience with large systems and potential bottlenecks;
+- Experience in working in MAC OS X or UNIX environments;
+- Strong problem-solving skills and ability to fit in the team;
+- Good analytical and communication skills;
+- Ability to learn quickly and pay attention to details;
+- Ability to work independently and under pressure;
+- Strong team player;
+- Good English language communication skills.","Please e-mail your resumes to:career@... with subject title ""Application for Senior Software
+Engineer"". E-mails with different titles might not be viewed/
+considered. Qualified candidates only! Please do not apply if you do not
+correspond to the above mentioned requirements.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IconApps Inc. is specialized in delivering mobile
+applications. For more information about the company, please visit:
+www.iconapps.com."

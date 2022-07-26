@@ -1,0 +1,37 @@
+System/ Network Administrator,"The candidate will be considered for the position of
+System/Network Administrator to be responsible for installation,
+operation and maintenance of network services, applications, server
+security infrastructure. Responsibilities will also include identifying
+infrastructure faults, configuration, resource utilization, performance,
+maintenance, and security operation.","Responsibilities will include, but not limited to
+the following:
+- Install, configure, operate and maintain the network services and
+infrastructure of ISP core network;
+- Install, configure operate and maintain the IP connectivity services;
+- Optimize systems performance; 
+- Perform information backup in accordance with established procedure;
+- Develop the technical specifications and manage the implementation of
+network services.","- University degree in Computer Science or Telecommunication Engineering;
+- Advanced knowledge of TCP/IP networks, L2/L3 networking and associated
+protocols; 
+- Advanced knowledge of Unix/Linux OSs;
+- Advanced knowledge of routing protocols (OSPF, BGP, RIP, etc.);
+- Strong knowledge and hands on experience on the provision of network
+services; 
+- Working knowledge of English;
+- Willingness and ability to learn new technical skills quickly; 
+- Work experience in the related field for at least 5 years; 
+- ISP experience is a definitive plus; 
+- Ability to work flexible hours as needed and work well under pressure
+and meet deadlines; 
+- High sense of responsibility; 
+- Ability to work as a team member.","To apply, please e-mail your CV to:careers@.... 
+In the subject line of your message, please mention the position you are
+applying for, otherwise your CV will not be considered. 
+Please, send only the English version of your resume. 
+No phone calls and personal visits, please. 
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"iCON Communications is an internet service provider in
+Armenia. For more information, please visit www.iCON.am."

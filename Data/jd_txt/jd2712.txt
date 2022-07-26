@@ -1,0 +1,41 @@
+Database Programmer,"The incumbent in the position of Database Programmer
+will serve under the general direction of Demonstration Project Team
+Leader. As a part of this statement of work, activities will be
+implemented to develop a Microsoft Access database to manage billing and
+collections for subscribers of municipal water utilities in Armenia. The
+job requires adherence to ME&A policies and procedures.","- Responsible for programming of the Municipal Water Utility Billing
+database, including:
+a) A tool for cataloging each subscriber to the municipalitys water
+utility;
+b) A tool for recording the monthly water usage and billing details of
+each subscriber;
+c) A tool for managing the collections;
+d) A tool for creating and viewing monthly water use and billing
+statistics for the municipality;
+- Develop a user manual for the software;
+- Install the first version of the software in a test municipality and
+provide instruction to the users;
+- Update and debug the software, if required, based upon feedback from
+the test municipality;
+- Participate in outreach and training events.","- Bachelors degree in Computer Sciences or in relevant disciplines;
+- Deep knowledge of Microsoft Access databases and VBA (Visual Basic for
+Applications), or equivalent;
+- At least 3 years of practical experience in database programming;
+- Technical knowledge of English language.","Interested and qualified candidates should send
+their CVs, a brief cover letter, explaining why they believe they are
+qualified for the position, and the contact information for 3 clients who
+are willing to provide references to: cew@... . Please refer to the
+specific position title in the subject line. Only short-listed candidates
+will be contacted for an interview. Applicants cannot be government
+employees or civil servants.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Clean Energy and Water (CEW) Program is a four-year
+initiative funded by the US Agency for International Development. The
+objective of the Program is to assist sustainable management of water and
+energy sectors in the Republic of Armenia (RA). Within the framework of
+the Program, technical assistance is provided to the RA Government to
+build river basin management planning capacities in Armenia and to
+demonstrate key water and energy efficient technologies at the local
+level in selected communities across Armenia. For more information about
+the Program please visit: http://www.cew.am ."

@@ -1,0 +1,31 @@
+ASP.NET Developer,"The successful candidate will become part of company's
+growing development team. He/ she will be working mainly on the Frontend
+tier of company's web applications.","- Design and develop various Web artifacts, including and not limited to
+features, solutions, db schemas, application frameworks and GUIs;
+- Design and build reusable modules to be used throughout company web
+sites;
+- Maintain and enhance company's home grown systems;
+- Build Custom UI Components;
+- Responsible for bugfixing/ technical support (level 2) of the existing
+applications in production.","- B.S. in Computer Sciences;
+- At least 2 years of work experience in ASP.NET;
+- At least 3 years of work experience in .Net Framework;
+- Proficiency in OOP/ OOD and good knowledge of Design Patterns;
+- Experience in development of ASP.NET Web applications using MVC3
+technology;
+- Design and implementation of .Net Web Services (WCF is preferred);
+- Design and implementation of Databases in SQL server 2008 and higher;
+- Good understanding of UI design principles;
+- Mastery of technical English language;
+- Good communication skills;
+- Good team player with the ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","Please email your professional CV to:armjobs@... specifying the job position name in the subject
+line. Please note that only shortlisted candidates will be contacted for
+an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours are from 10am to 7pm, with flexible
+rescheduling if needed. The job could include overtime work based on
+need.","CargoMatrix is a logistics software solutions provider
+based in New York, USA. The company was formed in 1999."

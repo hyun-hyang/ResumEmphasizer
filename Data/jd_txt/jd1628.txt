@@ -1,0 +1,53 @@
+Junior Technical Support Specialist,"Synergy Armenia is looking for a Junior Technical
+Support specialist who will provide technical support to the company
+clients regarding the software applications developed for them.","- Install and configure Tomcat, Java SDK, IIS, Tomcat connector and
+different databases servers, etc.;
+- Provide installation, deployments and maintenance of Synergys
+applications on the client and local servers;
+- Provide continuous monitoring of the installed and deployed
+applications;
+- Provide log analysis and performance reports;
+- Resolve problems or provide ""how-to"" instructions using a variety of
+reference manuals and on-the-job experience;
+- Update and revise reference materials and work procedures;
+- Install, maintain and troubleshoot servers running Synergy
+applications.","- BA in Computer Science;
+- Ability to produce analytical reports, communicate with clients, etc.;
+- Advanced verbal and written communication skills;
+- Knowledge and experience with all versions of Windows Operating
+Systems;
+- Basic Knowledge of MS SQL, MySQL and Oracle Databases;
+- Strong IT background;
+- Ability to work under pressure, manage time effectively and in
+multi-task environment and meet deadlines;
+- Ability to work in a team while being self-directed and highly
+motivated;
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Ability to analyze complex problems, interpret operational needs and
+develop integrated, creative solutions;
+- Strong interpersonal and organizational skills and ability to deal
+effectively in a team environment;
+- Fluency in English language;
+- Highly energetic and positive personality;
+- Effective oral and written communication skills;
+- Strong organizational skills;
+- Excellent interpersonal skills;
+- Ability to quickly grasp and support new concepts, systems and
+applications;
+- Good analytical and problem-solving skills and attention to detail;
+- Ability to work effectively in a team environment, as well as being
+comfortable managing own projects with limited supervision.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title Junior Technical
+Support Specialist, listing your qualifications, and indicating your
+contact details (phone, fax, and/or e-mail address where you can be
+reached) to Ms. Mariam Kanayan Human Resource Manager at:careers@...  . Candidates who meet these qualifications will
+be short-listed and interviewed. Selected candidates will be notified of
+the interview dates directly. The company thanks all who apply but only
+those selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

@@ -1,0 +1,57 @@
+Java Senior Developer/ Architect,"EPAM Systems is actively looking for Java developers
+for complex and long-term projects. The position entails working with
+Sun and IBM products, portal solutions, the latest Java technologies.","- Develop software according to requirements;
+- Take part in gathering requirements;
+- Take part in system architecture development;
+- Participate in planning;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills.","- Advanced knowledge of OOP and OOD;
+- Professional work experience in projects as a Java developer in J2EE
+(JSP, Servlets, JDBC, EJB, JMS, Struts) for more than 3 years;
+- Advanced knowledge of design patterns;
+- Professional work experience in the development of multi-layered
+client-server applications, client and server Web application
+components;
+- Professional work experience in Oracle and MS SQL databases;
+- Professional work experience in UML;
+- Experience in IBM WebSphere, WebLogic, JBoss, JRun;
+- Ability to develop quality code, apply proper language constructions
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Drive to increase your competencies and professionalism;
+- Ability to identify problems on the fly, demonstrate creativity,
+propose alternatives to problem solving;
+- Basic knowledge of English language;
+- Fluent knowledge of Russian language.
+Desired Qualifications:
+- Ability to responsibly accomplish work according to deadlines;
+- Ability to work under pressure, adapt to dynamic business environment,
+make decisions and take responsibility;
+- Energetic and capable of being a team leader;
+- Ability to appropriately make decisions on issues of different
+complexity for areas of responsibility;
+- Ability to express thoughts clearly;
+- Ability to work on many tasks without supervision.","Please, email your CVs to: yerevan-hr@....
+In the subject line of your e-mail message please mention the title of
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","In 2006 EPAM Systems merged with VDI, which had
+presence and development expertise in Armenia along with its global
+workforce. The combined company has 22 branches in 8 countries with
+4500+ employees. 
+EPAM is distinguished by its technology expertise, proven by such
+customers as SAP, Reuters, Microsoft, BEA Systems, EMC and many others.
+The company has a combined expertise in such horizontal solutions as
+CRM, ERP, DMS, CMS, SCM, EAI, BI.","According to Brown-Wilson Group Survey* EPAM Systems is
+the #1 software engineering outsourcing services provider in Central and
+Eastern Europe. Founded in 1993, EPAM maintains North American
+headquarters in Lawrenceville, NJ. 
+Currently there are 4500+ highly qualified IT professionals working at
+EPAM Systems. EPAM software development centers are located in Russia,
+Hungary, Belarus, Ukraine and Armenia. The company continues its growth
+and development. 
+Our mission is: ""Delivering excellence in software engineering"" to the
+benefit of our clients.
+*http://www.theblackbookofoutsourcing.com/top10itooffshoreeasterncentraleurope.html"

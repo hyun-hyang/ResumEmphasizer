@@ -1,0 +1,38 @@
+System/ Network Administrator,"The candidate will be considered for the position of
+System/Network Administrator to be responsible for design, sizing,
+installation, operation and maintenance of intranet services, IT
+applications, IT databases and server security infrastructure. The
+incumbent will also handle the  infrastructure faults, configuration,
+resource utilization, performance, maintenance, and security operations.","Responsibilities include, but are not limited to
+the following:
+- Install, configure, operate and maintain the IT services
+infrastructure of the Company;
+- Install, configure operate and maintain the IP connectivity services;
+- Monitor and optimize systems performance; 
+- Perform information backups in accordance with established
+procedures;
+- Develop technical specifications and manage the implementation of
+services like: web mail, domain name hosting, wireless routing, static
+IP addresses, etc.","- University degree in Computer Sciences or Telecommunications
+Engineering; 
+- Advanced knowledge of TCP/IP networks, L2, L3 switching, routing and
+associated protocols; 
+- Advanced knowledge on networks design, WAN and LAN networks
+topologies, and architectures; 
+- Advanced knowledge with Windows/Unix/Linux OSs;
+- Strong knowledge and hands on experience on the provision of IT
+services; 
+- Working knowledge of English language;
+- Willingness and ability to learn new technical skills quickly; 
+- Work experience in the related field for at least 5 years; 
+- ISP experience is a definitive plus; 
+- Ability to work flexible hours as needed and work well under pressure
+and meet deadlines; 
+- High sense of responsibility; 
+- Ability to work as a team member and independently.","To apply, please e-mail your CV to:careers@... .
+In the subject line of your message, please mention the position you are
+applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"iCON Communications, CJSC will be launching a new
+internet service in Armenia."

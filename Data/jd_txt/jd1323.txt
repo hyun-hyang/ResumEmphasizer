@@ -1,0 +1,18 @@
+C# .NET Developer,"CargoMatrix Armenia is searching for a C# .NET
+Developer.","- Design software based on business requirements;
+- Design secure software;
+- Code based on the company coding standards;
+- Good knowledge of SOA;
+- Design and develop WCF services;
+- Develop and use a company framework.","- Knowledge of software design patterns;
+- Experience with C# .Net 4.0; 
+- Net Framework 4.0; 
+- WCF; WCF Ria Services; Windows Services; 
+- Entity Framework 4.0;
+- MS SQL Server 2008; T-SQL; 
+- Design patterns (UML); 
+- Knowledge of Microsoft SharePoint is prefered.","Interested candidates should submit their CVs
+to: armjobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

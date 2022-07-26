@@ -1,0 +1,45 @@
+Senior Crystal Reports Developer,"The Senior Crystal Reports Developer will be
+responsible for implementing functional design specifications in Crystal
+Reports XI. The projects will require the specialist to
+interact/communicate with the customers directly in English language.","- Review functional design specification, and give feedback on aspects
+which need further clarity;
+- Review reports already created for Release 1, to learn about solutions
+which were found, and to consider using a similar style;
+- Understand and manage the project scope;
+- Provide guidance and supervision in hiring and management of
+additional report development personnel;
+- Prepare timeline for report design process;
+- Communicate regularly with Development team and other personnel to
+ensure problems are recognized and addressed before they endanger the
+success of the project;
+- Work closely with other Development team members to improve quality
+and consistency of all deliverables; provide guidance, as necessary;
+- Develop (or supervise development of) Crystal Reports as specified;
+- Do unit testing (or supervise other developers in unit testing) of
+reports to confirm that they work as expected in Development
+environment, both in Crystal Reports and when published to Crystal
+Server XI;
+- Publish reports in Crystal Servers QA environment for Systems and
+User Acceptance testing;
+- Respond quickly to issues which emerge in Systems and User Acceptance
+testing.","- Demonstrated knowledge in Crystal Reports XI and Crystal Server XI (or
+Crystal Enterprise X or Business Objects Enterprise Premium XI);
+- Excellent knowledge of English language, excellent verbal and written
+communication skills;
+- Proficient in using Microsoft Office tools, in particular, Word and
+Excel;
+- Proficient in using SQL and understanding relational data structures/
+models/ relationships;
+- 3+ years of Crystal Reports experience;
+- 1+ year of Crystal Enterprise experience;
+- 3+ years of Oracle PL/SQL experience;
+- Extensive experience on Charts;
+- Extensive experience on sharing data across sub reports;
+- Familiarity with Oracle analytical functions;
+- Must be proactive and possess the ability to work independently;
+- Ability/willingness to travel to US, for experience exchange, customer
+visits, and training purposes.","To apply for this position, please send your
+resumes to: Sergey.Barikyan@...,Vahe.Stepanyan@... or Artashes.Hakobyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

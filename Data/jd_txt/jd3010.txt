@@ -1,0 +1,40 @@
+DevOps Software Engineer,"Workfront is seeking a motivated and talented DevOps
+Software Engineer to assist with delivering results that create software
+solutions.","- Design, collaborate, and execute on software features in an industry
+leading SaaS ecosystem;
+- Learn continuously from other team members and peers to drive the
+career;
+- Demonstrate technical excellence through results, consistency, and
+mastery;
+- Coordinate with other business units to achieve product goals within a
+cross-functional matrix organization;
+- Enjoy coming to work everyday and to know that the candidate is an
+integral to the company's future and success.","- At least 5 years of experience in systems engineering or development
+position;
+- Bachelor's of Science in Computer Science or in a related discipline;
+commensurate experience is also accepted;
+- Knowledge of developing and debugging applications in various software
+languages, including Python, Perl, POSIX Shell;
+- Knowledge of Linux Systems Administration and Networking;
+- Knowledge of Database software preferably: Oracle, MySQL;
+- Familiarity with DevOps industry technology and frameworks: SaltStack,
+Puppet, Chef, Go, Travis CI, TeamCity, Jenkins CI;
+- Knowledge of component framework and modern application container and
+virtualization; encompassing: ESX, VirtualBox, LXC, Docker, Vagrant,
+Zookeeper;
+- Understanding of SOA, ESB, and distributed systems will be a plus;
+- Object Oriented Design and Analysis experience is desired;
+- Experience of Java EE, JavaScript, and AngularJS is a plus ;
+- Experience with mobile application build and testing on iOS and Android
+platforms;
+- Application and Lifecycle Management Integration experience (APM and
+ALM);
+- Experience of Maven, OSGi, Gradle, MapReduce, Redis, Couchbase, etc;
+- Experience of HTML, CSS, REST is a plus.","All qualified and interested candidates should
+submit their CVs/ Resumes online at: http://grnh.se/un2ar5 . Only
+shortlisted candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Workfront is a cloud-based Enterprise Work Management
+solution company based in Utah.
+ABOUT:  For more information please visit: http://www.workfront.com/."

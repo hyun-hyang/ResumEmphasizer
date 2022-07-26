@@ -1,0 +1,23 @@
+Algorithms/Math Developer,"AccuSoft-AM LLC is looking for a motivated developer
+for expanding current development team. The main focus is research and
+development of new algorithms in the area of image and data processing.","Participate in development and optimization of
+complex data-processing algorithms with implementation of those
+algorithms in C, C++, and C# programming languages/environments.","- Bachelor's/Master's degree in CS or related discipline;
+- Excellent mathematical background;
+- Strong mathematical background;
+- 3+ years of experience in development and optimization of complex
+data-processing algorithms under Windows platform using Microsoft Visual
+Studio (exceptional Linux experience can be considered here in lieu of
+Windows experience);
+- Excellent knowledge of C, C++, and C# languages;
+- Analytical, technical, and communication skills (English and Russian
+languages);
+- Ability to work on multiple projects at the same time;
+- Experience with Linux and embedded development is a plus.","If this position is of interest or you would
+like more information on the role, please email CV to:accusoft@... and mention in the subject line Algorithms
+Developer.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AccuSoft-AM LLC is the business partner of AccuSoft
+Corp.,(www.AccuSoft.com), USA. Founded in 1985, AccuSoft is a supplier
+of software systems in the area of image and data processing."

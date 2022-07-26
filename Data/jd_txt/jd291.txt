@@ -1,0 +1,20 @@
+J2EE Software Engineer/ Developer,"The incumbent will develop applications based on J2EE
+platform.","- Develop software for J2EE environments;
+- Install and configure development environment;
+- Read and understand an existing code.","- Strong knowledge of J2EE and specifications (JDBC, XML, JSP and
+HTML);
+- Work experience with Application servers (Websphere, JBOSS,
+WebLogic);
+- Work experience with Jakarta Tomcat Servlet Container;
+- Knowledge of operating systems (Linux and Windows);
+- Work experience with development environments and tools (Eclipse, Ant
+and Maven);
+- Knowledge of Struts Framework.","Please email your detailed CV to:nerses.voskerchyan@.... The attached CV shoult be named in the
+following format: Firstname_Lastname.ext, where ext will be the file
+extension.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The candidates passing the selection process will
+participate in a six months training in one of our partner companies in
+Germany. The preference will be given to candidates, who have already
+passed service in the army or are exempted from the military service.",Global Soft LTD is a software development company.

@@ -1,0 +1,35 @@
+Senior Software Engineer,"Primary responsibilities include high-quality
+programming and writing codes for different products using Java
+programming languages and SQL.","- Be efficient in the use of memory and CPU time;
+- Employ a good code writing style that includes sufficient comments;
+- Design and build the software systems;
+- Update/write technical documentation on codes and algorithms;
+- Draw class diagrams and flowcharts describing codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues;
+- Ability to learn and apply new technologies;
+- May have to travel to USA to work with team members.","- Master's or higher degree in Computer Sciences, Physics, Mathematics
+or related disciplines;
+- At least 1 year of experience in Java object oriented programming and
+SQL;
+- Work experience with MS SQL Server, Oracle or other databases;
+- Programming experience in Windows and Linux environments;
+- Demonstrated records of implementing high quality software products;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Ability to develop efficient codes;
+- Good English language skills including reading, writing, and
+speaking;
+- Knowledge in the optimization theory and simulation is desirable;
+- MS degree from ISE department of AUA is preferred;
+- PhD in Computer Science is desirable;
+- Knowledge of VB .Net, ASP .Net, .Net, MFC and other technologies are
+preferred.","Interested candidates should email their CVs
+and inquiries to Armen Nahapetyan at: nahapetyan.armen@... orGPI@.... Tel.094 589869.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Innovative Scheduling, Inc. develops software for
+transportation industry. The company is based in Gainesville, Florida.
+ABOUT:  Innovative Scheduling, Inc. develops computer models and
+software to help transportation industry managers solve network
+problems."

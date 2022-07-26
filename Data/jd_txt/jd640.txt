@@ -1,0 +1,15 @@
+C# Developer,"""ViaTechnologies"" LLC is seeking an experienced C#
+Developer.","- Make updates;
+- Support and maintain finished product;
+- Work with the group.","- Good knowlegde of OOP;
+- Good knowlegde of .NET platform;
+- Good knowlegde of C# language;
+- Excellent knowlegde of MS SQL (T-SQL);
+- Ability to work independently and in a team;
+- Knowledge of .NET Remoting, Windows services, Web services and ASP.NET
+is a plus;
+- Work experience is a plus;
+- Good knowledge of technical English language.","Interested candidates should send CVs to:viatechnologies@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""ViaTechnologies"" LLC is a software development company."

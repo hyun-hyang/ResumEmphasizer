@@ -1,0 +1,30 @@
+Java Software Developers/ UI Specialist,"Ogma Inc. a software development company in United
+states is seeking highly experienced and motivated individuals with at
+least 3+ years of experience in Java Software developers to join its team
+of developers in Yerevan Armenia.","- Participate in application design;
+- Actively participate in development cycle of the project;
+- Define and discuss requirement;
+- Design, develop, implement, document and support;
+- Communicate effectively with local management, users and external team
+members;
+- Produce high-level deliverables to effectively communicate design
+interaction and concepts;
+- Develop code according to the provided specifications;
+- Write technical and code level documentation.","- At least 3-5 years of work experience as a Software Developer in Java,
+PHP;
+- Experience in Web development;
+- Expert skills of Ajax, XHTML, CSS, JavaScript, HTML, OOP;
+- Database knowledge with MySQL; 
+- Excellent knowledge in SQL language;
+- Good knowledge of Web Services;
+- Good communication skills;
+- Excellent team player;
+- Fluent in English language (both writing and speaking);
+- Capability to deliver quality software products on timely manner;
+- Ability to travel abroad if required.","Interested candidates should email their resumes
+to: hbaghdas@.... Please send resumes only if you correspond to
+the required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications head office is based in Los Angeles,
+California. For additional information please visit: www.ogmainc.com."

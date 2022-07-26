@@ -1,0 +1,45 @@
+Educational Game Content Developer,"The Tumo Center for Creative Technologies is looking
+for an experienced and energetic specialist who will lead workshops and
+will be responsible for creating activities in the area of game
+development.","- Lead game development workshops;
+- Assist the content development team in the process of developing,
+testing and fine tuning all the game development activity content;
+research and suggest new approaches in activity creation focusing on game
+design;
+- Brainstorm and mock up activity ideas that would develop students game
+development skills, present them to the content development group and
+offer solutions of their integration to the existing curriculum;
+- Provide second tier support to users, coaches and examiners on content
+reviews;
+- Organize game-related events;
+- Supervise/ provide helpful feedback on game related workshops/
+projects;
+- Manage and supervise the game room;
+- Assist in testing and evaluating the educational content.","- Substantial experience in developing a video game;
+- Intermediate level knowledge of programming;
+- Knowledge of C#, JavaScript and C++;
+- Knowledge of game development tools (Unreal Engine, Unity, Source
+Engine);
+- Experience in education or working with kids is a plus;
+- Passion for playing and making games;
+- Ability to work both independently and in a team;
+- Ability to work productively on a regular basis;
+- Strong communication skills and self-motivated personality;
+- Versatility with technologies and ability to perform game design tasks.","Interested candidates should submit a resume by
+email to: jobs@... . In the subject line of the email, please
+mention Educational Game Content Developer. The email address from
+which the submission is received will be used to reply to the candidate
+with important information on next steps. Only candidates who are
+shortlisted for testing and interviews will be notified.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tumo is an after-school learning center in Yerevan where
+teenagers acquire digital media skills free of charge. Thousands of users
+attend Tumo on a regular basis and participate in its innovative and
+self-paced program. Tumos Yerevan facility is a state-of-the-art
+environment equipped with over 500 workstations and tablets running
+industry standard applications and educational content. The Tumo
+educational framework is based on a proprietary platform which promotes
+learning through interactive game-like levels, exposing users to
+increasingly challenging activities. To learn more about the company,
+please visit: www.tumo.org."

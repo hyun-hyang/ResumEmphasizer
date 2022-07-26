@@ -1,0 +1,28 @@
+Apprentice Web Developer,"NairiSoft is seeking an experienced Software Quality
+Assurance Specialist to join its team.","- Assist with the testing life cycle (creation of test scripts,
+functional, regression and performance testing, defect management,
+result reporting);
+- Be involved with the creation of test plans, test scenarios and use
+cases;
+- Translate business requirements into test cases;
+- Collaborate with development in the design and execution of the QA
+Life Cycle;
+- Work closely with the product development and client implementation
+teams to understand requirements, system specifications, and design.","- Bachelors or higher degree in Computer Sciences or a related
+discipline;
+- 1+ years of experience in a team development environment;
+- 1+ years of work experience in Software testing and quality
+assurance;
+- Experience with C#, ASP.NET and a basic understanding of the HTTP
+protocol;
+- Good knowledge of SQL language; 
+- Knowledge of relational databases;
+- Understanding of Software Testing and QA theory;
+- Experience in test automation is a plus;
+- Excellent English language skills.","Please email your detailed resume to:job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft, Inc. is an international internet
+infrastructure development and consulting company delivering bespoke
+business critical solutions using the latest advances in internet
+technology. It was established in 2000."

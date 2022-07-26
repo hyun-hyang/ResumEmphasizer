@@ -1,0 +1,25 @@
+Junior Software Backend Developer,"Qube is looking for highly motivated Junior Software
+Backend Developers to join engineering team and make life changing
+impacts by developing consumer and enterprise level applications.","- Work closely with the team leader and product owner for understanding
+the functional and system requirements;
+- Develop software code based on the existing requirements;
+- Read, understand and modify the existing code;
+- Actively participate in product and customer development meetings and
+come-up with creative ideas and solutions;
+- Participate in testing process through unit testing and bug fixes;
+- Learn new technologies and programming languages.","- Knowledge of C/ C++ programming, STL;
+- Strong analytical skills;
+- Knowledge of Data structures, algorithms;
+- Knowledge of Unix like operating systems usage (Linux or BSD);
+- Knowledge of object-oriented programming, design patterns is be a
+plus;
+- Knowledge of English language; ability to read and understand technical
+articles;
+- Knowledge of image processing algorithms (OpenCV) is a plus;
+- Multithreading skills;
+- Knowledge of boost libraries is an advantage.","All interested and qualified candidates are
+welcomed to send their CVs to: g.avetisyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Qube is a start-up that develops software and primarily
+focuses on processing applications development."

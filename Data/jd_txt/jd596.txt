@@ -1,0 +1,27 @@
+Web Developer,"GlobalSoft LLC is currently seeking experienced web
+developers with excellent and demonstrated problem solving skills.","- Write PHP and JavaScript code;
+- Work as part of a software development team;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance, if requested.","- Bachelor's degree in Computer Sciences or a related field;
+- At least 3-5 years of professional work experience in web
+development;
+- Experience in designing and delivering complex web based applications
+using PHP/MySQL, HTML, Javascript;
+- Knowledge of Apache Web Server for Unix and website application
+deployment and administration;
+- Experience with MySQL database design, programming and
+administration;
+- Familiarity with web technologies and web-based dynamic application
+development, especially JavaScript (DOM), XML and XUL is a plus;
+- Ability to work both as individual contributor and as part of a team;
+- Ability to learn quickly and to work under pressure;
+- Strong oral and written communication skills.","Candidates who meet these qualifications will
+be interviewed and will be required to take a test. 
+If interested, please email your resume listing your qualifications,
+software development related experience, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:global_soft@.... Please put Web Developer in the subject line of your
+email.
+Selected candidates will be notified of the interview dates directly.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,GlobalSoft LLC is a software development company.

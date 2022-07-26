@@ -1,0 +1,21 @@
+Web Developer,"Telasco Communications CJSC is looking for a
+hardworking individual to fill the position of Web Developer.","- Develop new Web applications and database-driven Web interfaces;
+- Develop external Web portal allowing users to input and retrieve
+information;
+- Integrate Web portal with online payment platforms and internal
+systems;
+- Maintain and enhance existing Web resources;
+- Perform complete testing of Web applications unit and system.","- Bachelors or Masters degree in Computer Science;
+- 3+ years of web development experience;
+- Strong knowledge of HTML, CSS, XML, AJAX, PHP, Perl, MySQL;
+- Understanding of web standards and cross-browser web development best
+practices;
+- Advanced knowledge of Linux family OS;
+- Ability to work collaboratively with designers and engineers;
+- Strong analytical skills;
+- Ability to learn quickly;
+- Strong attention to details;
+- Good knowledge of English language.","Please, send your application letter and CV to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

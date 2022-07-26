@@ -1,0 +1,67 @@
+Junior Database Administrator,"Synergy Armenia is looking for a Junior Database
+Administrator (DBA) who will be responsible for the performance,
+integrity and security of a database. Additional role requirements are
+likely to include planning, development and troubleshooting.","- Ensure that data remains consistent across the database;
+- Ensure that data is clearly defined;
+- Ensure that users access data concurrently, in a form that suits their
+needs;
+- Ensure there is provision for data security and recovery control (all
+data is retrievable in an emergency);
+- Ensure that DBA roles are increasingly identified by the databases, the
+processes they administer and the capabilities of the database management
+system (DBMS) in use;
+- Establish the needs of users and conduct monitoring of user access and
+security;
+- Conduct monitoring of performance and manage parameters to provide fast
+query responses to front-end users;
+- Consider both back-end organization of data and front-end accessibility
+for end-users;
+- Install and test new versions of the DBMS;
+- Write database documentation, including data standards procedures and
+definitions for the data dictionary (metadata);
+- Control access permissions and privileges;
+- Ensure that storage, archiving, back-up and recovery procedures are
+functioning correctly;
+- Work closely with IT project managers, database programmers, C# and
+Java developers;
+- Communicate regularly with technical, applications and operational
+staff to ensure database integrity and security;
+- Commission and install new applications and customize existing
+applications in order to make them fit for purpose.","- At least 1 to 2 years of IT operation with strong understanding of
+database structures, theories, principles, and practices; 
+- At least 1 to 2 years of Microsoft SQL Server experience;
+- Understanding of, and experience with, server-client computing and
+relational database environments;
+- Experience with data management and data processing flowcharting
+techniques;
+- Knowledge of reporting and query tools and practices;
+- Good understanding of the organizations goals and objectives;
+- Good interpersonal, written, and oral communication skills;
+- Technical documentation skills;
+- Ability to present ideas in user-friendly language;
+- Self-motivated and directed, with keen attention to detail;
+- Ability to prioritize and execute tasks in a high-pressure
+environment;
+- Experience in working with a team-oriented and collaborative
+environment; 
+- Knowledge of RDBMS: SQL Server (optional: Oracle and MSSQL);
+- Bachelors Degree;
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Excellent interpersonal and organizational skills.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Junior Database
+Administrator"", listing your qualifications, and indicating your contact
+details (phone, fax, and/ or e-mail address where you can be reached) to:
+Ms. Mariam Kanayan, Human Resource Manager, E-mail:careers@... . Candidates who meet these qualifications will
+be short-listed and interviewed. Selected candidates will be notified of
+the interview dates directly. We thank all who apply but only those
+selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

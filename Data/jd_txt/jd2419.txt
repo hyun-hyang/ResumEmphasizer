@@ -1,0 +1,28 @@
+PHP Developer,"The incumbent will participate in the creation and
+development of websites and applications.","- Participate in all stages of the software development process;
+- Read, understand and modify the existing code;
+- Develop and maintain software applications in accordance with given
+specifications;
+- Work collaboratively and effectively on team projects.","- BS degree in the relevant field;
+- At least 2 years of experience as a PHP Developer; experience as a
+MySQL Developer is preferable;
+- Advanced  knowledge of PHP5 (Symfony2 Framework);
+- Knowledge of AngularJS, Java Script (JQuery), HTML, CSS and XML
+programming languages is preferable;
+- Knowledge of MySQL5 (stored procedures, trigers and transactions);
+- Knowledge of Linux (Ubuntu);
+- Ability to setup all necessary environments;
+- Experience in service-oriented development;
+- Experience in working with OpenSource products is a big plus;
+- Knowledge of ZendFramework, CodeIgniter and other frameworks is a big
+plus;
+- Fast learner, responsible personality;
+- Ability to work within a team;
+- Good problem-solving skills and ability to work independently;
+- Good communication skills;
+- Fluency in English language;
+- Flexibility in learning new technologies.","All interested candidates are asked to apply by
+sending their CVs to:  tmcyc@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

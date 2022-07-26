@@ -1,0 +1,10 @@
+C++ Software Developer,"ArWest Communications is looking for a qualified
+Software Developer with work experience in developing Microsoft Window
+Based applications.",NA,"- Excellent knowledge of C++, MFC, Object Oriented Programming and
+Visual C++;
+- Knowledge of communication devices such as COM ports is preferred;
+- Work experience in C++ and MFC development.","To apply, please email your CV to:dmovsesyan@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ArWest Communications Corporation was formed in 2001 to
+design narrow-band radios utilizing DSP technology."

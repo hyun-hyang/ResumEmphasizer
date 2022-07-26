@@ -1,0 +1,13 @@
+Web Developer,"""Cross Hi-tech"" LLC is looking for a specialist who is
+flexible in work, has ability to learn quickly, can work in a team and
+understand problems from the point of view of clients.","- Maintain the curently working website;
+- Suggest and develop new modules and applications;
+- Implement upgrades to already working plugins;
+- Work with Content Manager to correctly fill and update the content of
+the web.","- Good knowledge of PHP, HTML, CSS, MySQL and JavaScript;
+- Knowledge of HTML5 and CSS3 is a plus;
+- Experience in work with different CMS (Magento,Joomla, E-Commerce).","To apply for this position, applicants are asked
+to send a CV to: liana.badalyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

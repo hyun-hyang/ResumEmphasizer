@@ -1,0 +1,51 @@
+Software Architect/ Technical Leader,"Altacode LLC is looking for a highly qualified
+Software Architect, who will also undertake Technical Leadership at the
+organization. The candidate must have enough knowledge in software
+architecture in order to conduct technical reviews of the completed
+projects. The candidate shall have skills in leading the professionals
+who are engaged in project implementation.","- Regularly contribute to and conduct technical reviews (Design Reviews,
+Code Reviews) within the organization;
+- Review coding standards, design principles and source code analysis
+tools through to the use of continuous integration, automated unit
+testing and code coverage tools;
+- Analyze and troubleshoot existing processes and optimize code in order
+to improve performance whenever required;
+- Be responsible for defining software specifications (functional,
+design, etc.) in addition to coding responsibilities;
+- Ensure systems are designed and developed in compliance with corporate
+security and privacy policies;
+- Analyze and design core architecture components, solve major technical
+problems;
+- Work closely with Project Manager, Team Leaders, Technical Project
+Manager and all the architects;
+- Ensure designs are fully documented, and software is developed using
+best practices.","- BA/BS in Information Systems and/or Software Engineering/ Computer
+Science or related field and 5+ year related experience, or an
+equivalent combination of training and experience;
+- Proficiency in web application development, familiar with
+Java/C++/C#/VB.Net, SQL Server2005/2008;
+- Proficiency in SOA/ESB/EAI and OOA/OOD, familiar with Design Patterns
+and UML;
+- Expert knowledge and understanding of a particular technology or
+platform;
+- Ability to function and lead in a team environment, including leading
+effective meetings;
+- Ability to provide technical leadership, including setting technical
+direction for a particular project and the mentoring and leading the
+team;
+- Ability to own and drive significant technical assignments;
+- Ability to anticipate and effectively deal with problems and
+roadblocks;
+- Ability to take the technical lead on a significant development
+project and deal with select management activities (such as possibly
+coordinating the activities of several team members);
+- Effective written and verbal communication skills;
+- Proficient knowledge of English language is essential for this
+position.","If qualified, please send your resumes to:resume@... mentioning Software Architect/ Technical Leader in
+the subject line of the email.
+Candidates applying for the vacancy shall consider that working hours
+will be shifted: starting from 12:00 to 21:00 o'clock.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Male candidates are encouraged to apply.,"Altacode LLC is an Armenian-based software development
+company working for US market of information technologies."

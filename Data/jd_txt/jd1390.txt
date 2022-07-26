@@ -1,0 +1,36 @@
+C++ Software Developer (Linux),"The primary objective of this position is to produce
+required product in conjunction with team members insuring it is of high
+quality and is timely.","- Participate in gathering and producing requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of C++ development, enterprise-class system architecture
+and design or equivalent combination of education, skills and
+experience;
+- Solid knowledge of Network protocols, network programming and IPC
+(Inter-Process Communication)
+- Knowledge of UNIX platform technologies and UNIX kernel;
+- Command of current technology;
+- Demonstrated record of implementing high quality software products
+delivered to market;
+- Strong problem-solving and self-development skills and ability to be a
+successful member of a team;
+- Good English language skills and ability to develop those skills;
+- Desire to learn new technologies.
+-Knowledge and application of software development methodology
+(preferably UML).","To apply please email your applications to:yer_job@.... Please mention the position you are applying for in the
+subject line of your e-mail.
+If any questions, please call: +(374 10) 26-56-01 ext. 7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. It was established in 1980 and is headquartered in
+Denver, Colorado.
+ABOUT:  CQG employs experienced, high-energy professionals who can work
+on their own initiative, contribute to our team effort and meet
+deadlines.
+All CQG employees enjoy flexible work hours, casual dress and great
+atmosphere of friendliness and support!"

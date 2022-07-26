@@ -1,0 +1,28 @@
+Senior Node.js Developer,"The incumbent will design and develop a full stack
+scalable Node.js framework with a small team of developers. He/ she will
+work with the team on a mobile consumer app using machine learning
+technologies.","- Design software architecture and specifications in collaboration with
+the System Architect, Software Engineers and Designers;
+- Develop production grade systems to support the Bazillion Beings app;
+- Work with and develop REST APIs to interface with third party services.","- BS or MS in Computer Science or in a related field;
+- At least 5 years of software engineering experience;
+- At least 3 years of experience in developing web applications;
+- Strong knowledge of JavaScript and hands on Node.js;
+- Strong knowledge of Software Engineering fundamentals, data structures,
+algorithms;
+- Strong knowledge of Java and/ or C++ is a big plus;
+- Experience with SQL and NoSQL data stores;
+- Experience with RESTful API design and development;
+- Experience with GitHub;
+- Good communication skills.","Please, send your resume and/ or LinkedIn URL
+to: jobs@... with ""Senior Node.js Developer"" in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Bazillion Beings is a US and Canada funded startup
+developing autonomous software agents that provide online services and
+interact socially with users and each other. The company is presented in
+Armenia by ""Zillion"" CJSC.
+
+
+ABOUT:  The office is situated in Cascade neighborhood."

@@ -1,0 +1,31 @@
+Senior Java Software Developer,"Energize Global Services CJSC is looking for a Senior
+Java Software Developer to be engaged in different long term projects.","- Participate in all cycles of software design and development;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Be able to develop high quality and clean code, apply proper language
+constructions and use quality algorithms.","- At least 4 years of work experience as a Senior Software Developer in
+Java;
+- Ability to lead a small development team is a plus;
+- Excellent knowledge of J2SE, J2EE;
+- Advanced knowledge of OOP;
+- Advanced knowledge of XML;
+- Knowledge in web services (REST, Soap and WS frameworks);
+- Database knowledge with MSSQL, MySQL and Oracle databases;
+- Knowledge of SQL dialects;
+- Persistence Layer knowledge (iBatis, Hibernate);
+- Web Frameworks: Struts 2, Wicket;
+- Knowledge of HTML, CSS, JavaScript;
+- Experience in writing technical documentation;
+- Excellent knowledge of English language;
+- Ability to solve problems.","Interested candidates are asked to email their
+last updated and detailed resume to: hr@... . Please
+indicate ""Senior Java Software Developer"" in the subject line of the
+e-mail, otherwise the resume will not be reviewed. Only shortlisted
+candidates will be invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

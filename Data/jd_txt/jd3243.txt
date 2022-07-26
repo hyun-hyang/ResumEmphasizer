@@ -1,0 +1,40 @@
+Senior Java Developer,"EPAM Systems, Inc. is seeking for Senior Java
+Developers to join the growing team in developing enterprise-level
+software solutions. The Company is looking for energetic people who are
+ready for teamwork and Agile software development.","- Lead or contribute to the software development effort subject to
+seniority/ experience;
+- Participate in all the cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes to the set standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Refactor and re-engineer the existing code base safely;
+- Communicate the knowledge to fellow team members; train and guide
+junior team members;
+- Analyze high-level requirements and work with team members to create
+quality results;
+- Participate in internal and external meetings.","- Bachelor's or Master's degree in a relevant field;
+- 5 years of experience in developing Java web-based applications;
+- Strong Java and Spring/ Spring MVC development experience in a project
+setting;
+- Experience with JSP, AJAX, JQuery and JavaScript;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with relational databases (such as MS SQL Server, MySQL);
+- Experience in the data model and object design;
+- Strong understanding of OOP principles;
+- Good knowledge of the English language;
+- Excellent communication and team working skills;
+- Ability to work independently.","To apply for this position, please submit your
+CV in the English language to: Marine_Melikyan@... , indicating the
+title of position in the subject line of email. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The Company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia. Learn more at: http://www.epam.com/."

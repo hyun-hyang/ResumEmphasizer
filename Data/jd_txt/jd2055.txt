@@ -1,0 +1,18 @@
+Web Developer,Idram LLC is seeking a motivated Web Developer.,"- Design and develop various Web solutions, DB schemas;
+- Design and build reusable modules to be used throughout company web
+sites;
+- Be responsible for bug fixing.","- B.S. in Computer Science;
+- Excellent knowledge of (X)HTML, CSS, JavaScript (AJAX, jQuery) and
+XML;
+- Knowledge of MS SQL database (creating databases, writing queries);
+- Problem solving skills;
+- Good communication skills;
+- Good team player, ability to accept criticism.","Please apply to this job by sending your CV or
+resume to: vacancy@... . Please mention the name of the position you
+are applying for in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Idram"" LLC is an operator of Idram Internet payment
+system, which operates in Armenia since 2004 (www.idram.am). The
+company's goal is to develop capabilities of money transfers in
+Internet-environment."

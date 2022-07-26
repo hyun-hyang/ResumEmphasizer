@@ -1,0 +1,24 @@
+"Head of Applied Software Development, Implementation and Testing","The Head of Subdivision will be responsible for
+organizing and coordinating the subdivisions activities, testing and
+launching new programs.","- Be responsible for program testing, write and test code for the
+required product; 
+- Summarize test results;
+- Prepare reports;
+- Coordinate launching;
+- Perform design and adaptations of banking tasks in banking program;
+- Liaise between banking departments and software development teams to
+ensure accurate implementation of specified design and functionality.","- Higher technical education, bachelor's degree in the field of
+information systems;
+- At least 3 years of experience in software development field;
+- Knowledge of banking technologies, legislation and security;   
+- Excellent Armenian and good Russian and English language skills; 
+- MS Office (excellent), MS SQL (good),Oracle PL/SQL (good),VBA (good);
+- Well-developed communication, organizational and analytical skills.","To apply for this position, please send your CV
+and a cover letter in Armenian or Russian languages to the following
+e-mail address: maro@... . Please mention the position title you
+are applying for in the subject line of your e-mail. Only shortlisted
+candidates will be contacted for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For detailed information about Unibank please visit:
+www.unibank.am."

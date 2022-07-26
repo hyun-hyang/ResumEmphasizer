@@ -1,0 +1,21 @@
+Web Developer/ Designer,"We are looking for a highly qualified person with deep
+knowledge and practical experience in Web Programming and Graphical
+Design.","- Design Web Application Interface and graphical items; 
+- Develop end-user navigation; 
+- Develop Web Applications in accordance with given Specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code; 
+- Work as part of a software development team;
+- Communicate with management and team members effectively.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 2 year of work experience in software
+development;
+- 2 years of work experience in .Net Framework - ASP.NET/C#; 
+- Good knowledge of Oracle, Sybase, MS SQL Server or DB2;
+- Experience with Macromedia Flash ActionScript and Adobe PhotoShop; 
+- Good English language skills.","To apply, please email your detailed resume to:job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Nairisoft, Inc. is an international Internet
+infrastructure development and consulting company delivering bespoke
+business critical solutions using the latest advances in Internet
+technology. It was established in January 2000."

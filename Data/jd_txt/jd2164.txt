@@ -1,0 +1,46 @@
+Junior Database Developer,"Company is looking for a person who is passionate about
+database development and is willing to go above and beyond in a fast
+paced environment. The position involves the creation and maintenance of
+Sybase ASE 15 and Microsoft SQL 2005/ 2008 databases, in development
+environment. The candidate must be able to analyze requirements, create/
+interpret data models - both logical and physical, code and tune SQL
+stored procedures. An ability to work as a part of a team and adhere to
+established development processes is required.","- Write complex stored procedures and perform code reviews and
+walkthroughs;  
+- Create databases, tables, triggers, functions and indexes;
+- Responsible for logical and physical database modeling;
+- Manage SQL 2005/ 2008 & Sybase ASE 15 databases and components and
+perform upgrades.","- Degree in Computer Sciences;
+- At least 1 year of experience with database design and development;
+- Hands-on experience and proficient knowledge of the following:  
+a) Database technologies: Relational database management system (RDBM);
+b) Database Server; 
+c) MS SQL Server; 
+d) Thorough knowledge of SQL Server Database Objects (Stored Procedure,
+Function, Triggers, view and so on) SQL Server Integration Service
+(SSIS), SQL Service Reporting Service (SSRS), SQL Server Analysis Service
+(SSAS) knowledge is desirable; 
+e) Sybase: 
+- Knowledge of Transact SQL scripting;
+- Proficiency in the understanding of SYBASE stored procedures;
+- Proficiency in query optimization;
+- Familiarity with Linux operating system;
+- Knowledge of the following development applications would be an asset:
+Sybase Central, DB Artisan, MS SQL Server Enterprise Manager, MS SQL
+Server Management Studio, MS SQL Server Business Intelligence Development
+Studio, SVN).
+The following would be an asset:
+- Knowledge of the Software Development Life Cycle; 
+- Experience in developing databases for real time, high performance and
+customer facing applications; 
+- Strong Object Oriented Design and Design Patterns knowledge/
+experience; 
+- Excellent written and oral communication skills; 
+- Excellent problem solving and debugging skills; 
+- Ability to work in a fast paced and team oriented environment;
+- Sybase & SQL Server Performance Tuning knowledge is desirable;
+- Knowledge of database backup and recovery procedures is desirable.","Please apply through:http://ch.tbe.taleo.net/CH06/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=267
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

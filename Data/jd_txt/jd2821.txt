@@ -1,0 +1,32 @@
+Android Developer,"The company is looking for an Android Developer who
+possesses a passion for pushing mobile technologies to the limits and
+will work with a team of Engineers to design and build the next
+generation of the company's mobile applications.","- Design and build advanced applications for the Android platform;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Work with outside data sources and API's;
+- Unit-test code for robustness, including edge cases, usability, and
+general reliability;
+- Work on bug fixing and improving application performance;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency.","- Bachelor's degree in Computer Science (or equivalent experience);
+- At least 5 years of software development experience;
+- At least 3 years of hands on Java and Android experience in a
+professional environment;
+- Source code control understanding (experience with Subversion and
+Eclipse is preferred);
+- Passion for mobile device technologies, especially Android;
+- Ability to quickly handle codes written by others.
+- Experience with Android SDK is highly desirable (it is not a necessity
+for the right candidate who is a quick learner).","All interested candidates are kindly requested
+to submit their CVs and cover letters to: ani.margaryan@... .
+Please indicate the name of the position ""Android Developer"" in the
+subject line of the e-mail. Company is grateful to all interested
+applicants; however, only shortlisted candidates will be contacted for
+the interview. If there is an Android application you have developed that
+you would like the company to consider along with your resume, please let
+them know.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"City-Mobil LLC is a transport company operating in the
+taxi market since 2009. Fore more info, please visit its website:http://www.city-mobil.ru/ ."

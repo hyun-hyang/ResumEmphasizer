@@ -1,0 +1,23 @@
+Software Engineers,"- Participate in implementation and execution of software tools.
+- Participate in design, implementation, and execution of software
+tools.
+- Participate in design and implementation of DB Core applications and
+internal engines.","- Develop, apply, and maintain software systems 
+- Develop software products according to provided implementation
+specification
+- Design new algorithms or apply known ones to solve practical tasks
+arising.","To find detailed information about required
+qualifications for Software Engineers positions currently available at
+UniCAD, please, check the following web site: http://www.unicad.am/jobs","Please, send your resume and cover letter tojob@.... Please, list the positions (or job IDs) you are applying
+for in your cover letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","To find detailed information about other available
+positions at UniCAD, please, check the following web site:http://www.unicad.am/jobs","UniCAD is a rapidly growing software start-up company
+specialized in the development of advanced Electronic Design Automation
+(EDA) CAD tools, which is located in Yerevan, Armenia. UniCAD is a fully
+owned subsidiary of E-Z-CAD that is situated in the heart of Silicon
+Valley in Mountain View, CA, USA. 
+UniCAD provides a unique opportunity to join a team of highly
+professional software developers utilizing the latest advances in
+software design for building state of the art EDA CAD tools."

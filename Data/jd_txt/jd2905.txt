@@ -1,0 +1,17 @@
+Frontend Developer,"PicsArt LLC is looking for a smart, extremely motivated
+Frontend Developer for developing PicsArts high traffic social network
+website.","- Develop applications in accordance with given specifications;
+- Read, understand and modify the existing code;
+- Work as a part of a software development team.","- Strong knowledge of pure HTML5/ CSS and Javascript;
+- Familiarity with modern JS concepts and frameworks such as JQuery;
+- Knowledge of NodeJS is a plus;
+- Desire to optimize already existing code;
+- Good English communication skills.","To apply for this position, please send last
+updated and detailed CV addressing relevant qualifications and experience
+to: jobs@... . In the subject line of your e-mail message, please
+write Application for Frontend Developer. No information inquiries will
+be handled over the phone. Only short listed candidates will be notified
+for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

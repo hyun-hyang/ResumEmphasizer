@@ -1,0 +1,17 @@
+.NET/ C# Developer,"The successful candidate will be developing robust and
+enterprise-level web systems in .NET environmnet.",NA,"- Over 1 year of hands-on experience in designing and building
+enterprise-level applications using Microsoft technologies such as .NET,
+C#, VB.NET, ADO.NET and ASP.NET;
+- Knowledge of COM/COM+ and SOAP is a plus;
+- Good understanding of Microsoft .NET technologies, architecture,
+configuration, deployment and performance metrics;
+- Good knowledge of SQL Server. Knowledge of MSCRM and BizTalk is a
+plus;
+- Good analytical skills. Excellent spoken and written communication
+skills (in English and Russian languages);
+- Good team player.","Interested candidates should email their
+detailed CV to: hr@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"INTESYS CSJC, a part of Intesys Group, is a global
+provider of software and offshore IT services."

@@ -1,0 +1,47 @@
+Senior System Administrator,"BetConstruct is looking for a Senior System
+Administrator with strong technical skills, who will be responsible for
+the administration, installing, configuring and maintaining operating
+systems and related software to ensure stable performance of the
+computing environment.","- Build high-performance and high-availability web environments;
+- Set up and manage physical and virtual server environments for the
+development, staging and production;
+- Manage incoming escalations and tasks from project managers, quality
+assurance, development, and customer support departments to configure
+VMs, http services, database services, applications and other objects
+that relate to environments; 
+- Work together with the team and external suppliers in troubleshooting/
+resolving application outages and other incidents to ensure performance
+and stability;
+- Perform monitoring, operate with, support and improve the company's IT
+infrastructure.","- 3 years of experience in installation, configuration and management of
+Apache, MySQL, PHP, Squid, NFS, BIND, iptables and NAT under Linux/ Unix
+systems;
+- Experience in configuration, deploying and maintaining PHP
+applications, like CMS/ CMF (Drupal, Joomla and Wordpress);
+- Ability to deploy, integrate, troubleshoot and maintain servers;
+- Strong knowledge of software load balancing configuration and
+maintenance; 
+- Knowledge of configuration of high load/ availability web systems;
+- Knowledge of failover, load-balancing, reverse proxy, SSL termination
+(Squid, Nginx, Apache, Stunnel and HAProxy); 
+- Knowledge of automated deployment and configuration scripts (Zabbix and
+Puppet); 
+- Knowledge of Linux Kernel based virtualization implementation (KVM) and
+management system implementation based on OVirt; 
+- Strong knowledge of Virtualization solutions KVM, VMWare.","Please, apply for this job by sending your
+resume to: careers@...  mentioning ""Senior System
+Administrator"" in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetConstruct develops, provides and manages a complete
+range of products for online and land-based gaming companies. While the
+company specializes in Sportsbooks, its product range also includes a
+great selection of Poker, Skill, Virtual and Casino Games, including Live
+Dealer. The company's robust back-end, along with content, marketing and
+risk management tools presents a powerful solution for any betting
+business. Today BetConstruct serves clients based in Europe, Russia,
+Central and South Eastern Asia and Africa. Backed by a powerful team of
+over 700 employees (traders, developers and other specialists) and
+informed by over 10 years of experience, BetConstruct provides true 24/7
+support to its clients and responds quickly to changes in regulatory and
+consumer requirements."

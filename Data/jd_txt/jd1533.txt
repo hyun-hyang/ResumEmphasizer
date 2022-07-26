@@ -1,0 +1,24 @@
+Senior Software Developer,"LinkGard Systems LLC is seeking a high qualified Senior
+Software Developer to power up the software project development team. The
+successful candidate shall demonstrate deep technical and professional
+skills, be ready to learn new technologies fast, be able to deal with
+tight deadlines.","- Work as a part of the software development team;
+- Participate in Object Oriented Analysis/ design;
+- Write software based on specifications/ design;
+- Write unit tests.","- Computer Science graduate or equivalent degree;
+- At least 4 years of work experience, preferably 5 or more;
+- Working knowledge and experience with C++ or C#;
+- Advanced Windows knowledge and experience;
+- Advanced .NET technology knowledge and experience;
+- Strong understanding of multi-threading and IPC;
+- COM knowledge is a plus;
+- Networking knowledge is a plus;
+- Strong reasoning and critical thinking;
+- Experience with at least one programming language;
+- Knowledge and experience in logic and discrete math;
+- Fluency in English language;
+- Enthusiastic and self-motivated personality;
+- Good team player.","To apply please send your CVs to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

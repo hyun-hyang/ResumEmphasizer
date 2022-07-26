@@ -1,0 +1,27 @@
+C++ Developer,"""OMD"" LLC is looking for a highly qualified and mature
+C++ developer who will participate in development of the company's
+OneTick product line.","Participation in all stages of product
+development.","The following requirements are minimal.
+- University degree in science or technology;
+- Very good knowledge of C++, OOP, generic programming, STL;
+- 3+ years of solid C++ development experience. Less experience is
+acceptable if the candidate shows strong growth potential. Candidates
+who have worked with both MSVC++ and gcc are strongly preferred;
+- Comfortable with Unix environment and command line tools;
+- Knowledge of fundamental algorithms and data structures;
+- Demonstrated ability to deliver results;
+- Good knowledge of technical English.
+In addition, the following qualifications are desirable:
+- Familiarity with financial markets concepts;
+- Network programming experience;
+- Multithreaded programming experience;
+- Java/C#/scripting experience.","It should be clear from your resume how and
+where the technical skills were acquired and utilized.
+Please, send your resume to: jobs_am1@.... The subject must
+contain ""C++ Developer"". Only short-listed candidates will be
+interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

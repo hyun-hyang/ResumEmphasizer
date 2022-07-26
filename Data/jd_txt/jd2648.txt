@@ -1,0 +1,17 @@
+Senior PHP Developer,"E-Time Armenia is looking for a Senior PHP Developer to
+work on new and existing projects.","- Develop features according to technical specifications;
+- Design and develop enterprise web applications;
+- Design and optimize databases;
+- Communicate effectively with local management and external team members
+in Russian language.","- At least 5 years of work experience in PHP5, PostGres, JavaScript;
+- Strong understanding of OOP and Design Patterns;
+- Experience with HTML(5), Jquery and CSS;
+- Excellent knowledge of Russian language on both communication and
+technical levels.","Interested candidates are asked to e-mail their
+professional CV to: edvard.arakelyan@... , specifying the job
+position name in the subject line. Please note that only shortlisted
+candidates will be contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.e-time.ru ."

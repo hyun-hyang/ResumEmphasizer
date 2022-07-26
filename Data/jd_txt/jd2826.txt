@@ -1,0 +1,23 @@
+iOS Developer,"T. Lab is looking for a hardworking individual to fill
+the position of iOS Developer. The successful candidate will apply
+experience with mobile technology/ solutions and business operations of
+start-ups.","- Architect, build and manage set of iOS applications;
+- Work with team members on server-side integration;
+- Work with Designers to help define and implement User Interface
+improvements;
+- Work with customer teams to understand requirements and expectations;
+- Implement conversion experiments (A/ B tests);
+- Participate in task estimates;
+- Ensure high quality in deliverables.","- Passion for social innovation and new technology tools;
+- Experience in iOS application development using iOS SDK;
+- Strong foundation in Objective-C and Xcode;
+- Knowledge of Object Oriented concepts;
+- Good understanding of best practices for mobile UI/ UX;
+- Excellent attention to detail;
+- Good knowledge of English language, both written and spoken.","Those who meet above listed requirements and
+qualifications, are asked to send their application letters and CVs to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"T. Lab is a newly established software lab of Telasco
+Group, represented in Yerevan by Armenian Representative Office of
+Telasco Communications."

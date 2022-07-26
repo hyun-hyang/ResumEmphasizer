@@ -1,0 +1,23 @@
+Junior Online Marketing Developer,"The incumbent will be part of Company's online
+marketing team for Insparx/ be2 and will be mainly responsible for
+maintaining 3rd party tracking and supporting CRM email setup.","- Set up/ maintain tracking fast with checked quality;
+- Coordinate and prioritize new tracking requests and check them;
+- Push tracking code snippets live within hours;
+- Track helpdesk for managers and external partners;
+- Test new layout variations;
+- Set up new HTML code;
+- Small design tasks for HTML mails;
+- Check HTML quality with Litmus.","- Knowledge of HTML;
+- Basic PHP and JavaScript skills;
+- Basic idea of online marketing techniques;
+- Good communication skills in English language;
+- Ability to learn fast; 
+- Good team player;
+- Attentiveness to details and punctuality.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""be2 Ltd."" is an online matchmaking company which offers
+its service in 38 countries, to more than 20 million members. For more
+information about the company's product and activities, please visit:
+www.be2.com or www.be2.com/corp."

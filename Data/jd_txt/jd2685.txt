@@ -1,0 +1,49 @@
+"Short-term IT Specialist, EU Targeted Initiative for Armenia","GIZ is looking for a Short-term IT Specialist for
+development of a data base of a holistic remittances price comparison
+website. The website will present transparent, i.e. understandable
+information on money transfers, methods, mechanisms and details. It will
+communicate the information in a comprehensible language, in
+understandable and friendly manner. The visitors will be provided with
+opportunity to see available options and get an idea about active RSPs,
+learn transfer methods, compare prices and transfer rates, to find out in
+which parts of the country the receiving services are available. The
+website will have the opportunity of integration with outer similar
+platforms.","Based on the conducted analysis and discussions held with stakeholders
+the following goals are expected to be achieved:
+- Create a database based on volumes of remittances sent by individuals
+to Armenia, which indirectly shows the number of Armenian migrants in
+these countries;
+- Create a separate website including the database and other relevant
+information.","- Experience in creating at least 2 websites of similar nature and
+scope;
+- In depth knowledge of HTML, MySQL and PHP;
+- At least 5 years of similar IT experience;
+- Good knowledge of English and Armenian languages; knowledge of Russian
+language will be considered as an asset.","Applicants should submit an offer, comprising
+the technical offer and the price offer, as a package containing 2
+envelopes. The technical offer should contain the following information:
+background, contact information, brief profile of the applicant (previous
+work and experience) related to the assignment, assignment outline and a
+CV. The price offer must always be separate from the technical offer and
+placed in a separate envelope. The envelopes containing the offers must
+be labelled. The closed package must be stamped or signed at the place it
+is closed. The offer must be submitted to Deutsche Gesellschaft fuer
+Internationale Zusammenarbeit (GIZ) GmbH country office at: 4/ 1
+Baghramyam Ave., 0019 Yerevan, to the reception.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The Consultant will hold up to 40 days within 4 months
+for implementation of the tasks under the subheading 4. He/ she will
+contribute to an interim report to GIZ in 2 months following the kick-off
+of activities and also to a final report to GIZ in 4 months following the
+kick-off of activities.","The action under the EU-Armenia Mobility Partnership is
+funded by the European Commission and implemented by a consortium formed
+of partner EU Member States with France assuming the role of the
+coordinator of the consortium. The French government has designated the
+Office Franais de lImmigration et de lIntgration (OFII) as their
+operational agency in charge of implementation of the action and
+leadership of the consortium. Equivalently, the Deutsche Gesellschaft fr
+Internationale Zusammenarbeit (GIZ) is commissioned by the German
+Government (Federal Ministry for Economic Cooperation and Development -
+BMZ) with the implementation of Component 3 (migration and development)
+of the Targeted Initiative for Armenia (TIA)as a junior partner of OFII."

@@ -1,0 +1,18 @@
+Database Administrator,"""K-Telecom"" is looking for a Database Administrator to
+be responsible for maintaining 24/7 availability of the DB, backup and
+recovery.","- Maintain Oracle systems operations high availability ;
+- Install, tune, optimize and troubleshoot Oracle instances;
+- Backup and Recovery strategies;
+- Lead SQL queries and reports.","- 1 year of experience in Database Administration (preferable Oracle);
+- 2+ years of Technical Support experience;
+- Strong proven experience with PL/SQL;
+- Strong knowledge of Oracle Backup/ Recovery Methodologies and
+Strategies;
+- Unix Administration skills are a plus;
+- Strong knowledge of RDBMS;
+- Relevant university degree;
+- Fluency in Armenian and English languages.","Please, send your CV to:datadminjob@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""K-Telecom"" CJSC (VivaCell) was established in Armenia
+in January, 2005, as a mobile network company."

@@ -1,0 +1,40 @@
+Senior J2EE Core Developer,"Broncoway is looking for highly experienced Java
+Developers for a long-term project. The job requires close interaction
+with the specification design team and traveling to the Belgium. The job
+might require an initial internship of about three months in Brussels.
+All candidates will need to undergo a test period of 15 days to three
+months for internship in Brussels. If the tests are successful their
+contracts will be turned into permanent contracts.","- Work in close collaboration with the Project Manager to understand the
+application requirements; 
+- Contribute to the development of the core modules of a large risk
+management platform in Java.","- Excellent command of English language;
+- Team player, quality-minded and hard worker;
+- Good knowledge of the J2EE platform;
+- Good cvs user;
+- Good ant user.
+Professional skills:
+Excellent knowledge and in-depth experience in: 
+- J2EE/EJB (especially message driven bean);
+- jms;
+- jdbc;
+- object relational mapping tools (hibernate);
+- spring;
+- understand UML;
+- design patterns/j2ee development best practices;
+- unit testing (JUnit);
+- major J2EE application server, preferably IBM Websphere;
+- development and deployment of clustered applications; 
+- xml and associated technologies (xsd, data binding, etc.).
+Desired qualifications:
+- Ability to produce high quality code;
+- Ability to respect deadlines;
+- A team player and capable of excellent communication with other
+(remote) team members;
+- Creative and come up with new solutions and ideas;
+- Open to travel to Europe. The job might require an initial internship
+of about three months in Brussels.","Please send your resume to:resume@... and mention in the subject line Senior J2EE Core
+Developer.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Broncoway is a Yerevan-Brussels-Boston based software
+development startup."

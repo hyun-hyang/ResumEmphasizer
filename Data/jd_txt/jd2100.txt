@@ -1,0 +1,22 @@
+Web Developer,"We are looking for a Web Developer to join our team.
+Under the direct supervision of the company president the candidate must
+work on the development of web software related to employment, education
+and career.","- Write and test the written PHP and MySQL code using internationally
+accepted design patters;
+- Work both independently and as part of a software development team when
+necessary;
+- Provide technical support and assistance, if requested.","- At least 2 years of work experience in the field of Web development is
+preferable;
+- Knowledge of PHP, MySQL, HTML, CSS, AJAX, JavaScript, Smarty and
+jQuery;
+- Knowledge of OOP techniques;
+- Good knowledge of Armenian language and basic knowledge of English.","To apply for this position, please open
+www.careerhouse.com website, register as a regular user (unless you have
+previously registered), fill out your Resume (including your recent
+photo), then open this announcement there, click on the ""Apply"" button in
+the upper right corner of the announcement and proceed to receive the
+confirmation message. Only shortlisted applicants will be contacted for
+the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

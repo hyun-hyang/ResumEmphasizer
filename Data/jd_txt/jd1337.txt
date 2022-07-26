@@ -1,0 +1,29 @@
+Software Developer,"ADC is seeking for a highly experienced software
+development professional to join the ADC development team. The incumbent
+reports to the Chief Technology Officer.","- Participate in whole development cycle, including initial requirement
+discussions, design, implementation and documentation;
+- Deliver robust, scalable, quality software products on time;
+- Develop new features according to requirements;
+- Write technical and code level documentation;
+- Troubleshoot existing modules and fix problems;
+- Review and optimize existing code;
+- Assist team members.","- University degree in the appropriate field;
+- Strong educational background and work experience in a software company
+for at least 3 years;
+- Strong knowledge of programming techniques and software development
+process;
+- Hands on PHP and Java backend development experience;
+- Hands on HTML, JavaScript, CSS frontend development experience;
+- Strong knowledge of MySQL;
+- Ability to work under pressure in a fast changing environment;
+- Ability to work in closely with team members.","Please send your CV/ Resume in  Armenian and
+English and  application document (cover letter) to: hr@.... In the
+subject line of your e-mail message, please mention the title of the
+position you are applying for. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Datacom Company (ADC) is a Norwegian-Armenian
+telecommunications company providing internet and datacom services both
+to the residential and business sectors in Armenia. Visit www.adc.am for
+more information."

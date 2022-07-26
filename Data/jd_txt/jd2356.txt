@@ -1,0 +1,30 @@
+JavaScript Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of a JavaScript Developer.","- Work as a part of a software development team;
+- Maintain current knowledge of information technology trends with
+ability to research and evaluate new applicable directions and
+technologies; 
+- Provide effort estimates for assigned work tickets;
+- Complete assigned work in reasonable time frame;
+- Interact with business associates to clarify their requirements;
+- Participate in Daily Stand Ups and other SCRUM workflow meetings;
+- Assist other team members as required;","- Computer Science or Engineering degree or equivalent working
+experience;
+- Thorough knowledge of information systems theories, concepts, methods,
+and techniques;
+- Excellent JavaScript skills. Familiarity with frameworks such as
+jQuery;
+- Advanced knowledge of DOM Manipulation and AJAX;
+- Strong Web Development skills in HTML5, CSS3, SVG, XML, XSLT and
+templating;
+- Ability to work independently and as part of a team with minimal
+supervision;
+- Experience working in Agile/ SCRUM project environment is a plus;
+- Ability to provide technical and problem solving leadership to other
+staff is a plus;
+- Knowledge of Knockout.js or Angular.js is a plus;
+- Good communication skills in English language.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11700"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

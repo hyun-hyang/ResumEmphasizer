@@ -1,0 +1,16 @@
+Java Developer,Creating and developing software products for Network.,"- Excellent knowledge of Object Oriented programming and design.
+- Excellent knowledge of Java (JSP, Servlet, Swing, JDBC, RMI).
+- 4+ years programming experience.
+- Good knowledge of HTML, JavaScript, PHP, XML.
+- Relational Databases (Oracle, SQL and MySQL) experience is preferable.","- Relevant university degree Yerevan State University or State
+Engineering University of Armenia.
+- Good skills in both English and Armenian languages; 
+- Good knowledge of computers;
+- Excellent communication skills;
+- Team worker;
+- Previous experience is necessary.","Please send your CV (Resume) to the e-mail
+address lustianna@... (Please indicate in subject ""Java
+Programmer position""). Candidates will be asked to pass an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,43 @@
+Senior Java Developer,"Synergy Armenia is currently looking for a Senior Java
+Developer to join its Agile Scrum team. The incumbent will have the
+opportunity to design his/ her career path and grow working in a
+supportive and driven team. This is a chance to become an Oracle Java
+certified professional sponsored by the company.","- Responsible for hands-on development of company's product;
+- Deliver high-quality tested production, as part of the Agile Scrum
+team;
+- Design, automate and tune continuing delivery and deployment of
+products;
+- Contribute to automation of performance and acceptance testing;
+- Participate in daily meetings, reviews, planning;
+- Lead product release cycles, code repositories; branch, label and
+package ensuring best practices;
+- Ensure successful completion of sprints within scope, budget, time and
+quality parameters;
+- Assist and mentor other team members to ensure strong team
+performance;
+- Develop relationships with internal teams to coordinate efforts towards
+mutual goals;
+- Lead and work with a team of high performing software development
+professionals.","- At least 5 years of experience developing web-based applications in
+Java (using any tool/ framework);
+- At least 5 years of experience working with Relational Database (MSSQL,
+Oracle, MySQL);
+- At least 5 years of experience in front-end languages (HTML, HTML5,
+JavaScript, CSS3);
+- Working knowledge of any modern OS (Mac OS, Linux, UNIX, MS Windows);
+- Bachelors and/ or Masters degree holder;
+- Sun/ Oracle Java certified personality is preferred;
+- Experience leading teams of engineers is preferred;
+- Experience in an Agile software development environment  scrum,
+kanban, etc. is a plus;
+- Knowledge of other JVM languages (Groovy, Ruby or Scala) is a plus;
+- Experience in mobile application development is a plus.","Those meeting the requirements mentioned above
+are asked to apply by sending a CV to: careers@... . The
+company is looking forward to receiving interested candidates' resumes
+and going over the position in more detail with them.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

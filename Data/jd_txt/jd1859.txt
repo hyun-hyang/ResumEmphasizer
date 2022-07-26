@@ -1,0 +1,35 @@
+Linux System/ Web Server Consultant,"The Contractor will carry initial setup and maintenance
+of the Linux network as per need. This is a flexible/ need based job
+which can be easily combined with a permanent job, as it assumes rare
+physical presence of the contractor.","- Advise on most appropriate Linux distro and software usage based on the
+task role;
+- Perform time to time maintenance on Linux environments including
+account creation, application deployments, script creation and backups;
+- Peform initial setup of a web development and mail server workstation;
+- Provide appropriate consulting concerning System Administration if
+necessary;
+- Troubleshoot and resolve hardware and software issues when necessary;
+- Monitor servers, storage, applications and services as per need;
+- Install and configure LAN server and client software, as well as
+provide maintenance when necessary;
+- Deploy hardware, O/ S and application patches/ updates utilizing best
+practices.","- Relevant graduate degree;
+- Experience in Linux and Web Administration;
+- Experience and knowledge in fundamental networking principles;
+- Ability to write and maintain scripts; 
+- Good troubleshooting and problem resolution skills;
+- Good knowledge in Linux based infrastructure design and
+administration;
+- Knowledge of technical English language;
+- Attentive to details, punctual, with high sense of responsibility.","To apply for this position, please open
+www.careerhouse.com website, register as a regular user (unless you have
+previously registered), fill out your Resume (including your recent
+photo), then open this announcement there, click on the ""Apply"" button in
+the upper right corner of the announcement and proceed to receive the
+confirmation message. Only shortlisted applicants will be contacted for
+the interview.
+Should you have any questions regarding registration process, please call
+Career House: +(374 10) 51 90 62.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

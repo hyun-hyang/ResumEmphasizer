@@ -1,0 +1,18 @@
+PHP Developer,"Baldi Retail is seeking for a PHP Developer to deal
+with the companys web projects.","- Develop both internal systems and entire external websites from start
+to finish, including e-commerce sites;
+- Responsible for development across several web stores for the company;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Responsible for writing API's, scalability and maintainability
+improvements.","- At least 3 years of working experience in the relevant field;
+- Knowledge of PHP5, (X)HTML, XML, CSS, SQL/ MySQL, JavaScript/ jQuery;
+- Experience with Bitrix CMS is preferred;
+- Knowledge of Zend, Symfony Frameworks;
+- Knowledge of OOP and MVC Frameworks;
+- Knowledge of CMS products and systems.","Interested candidates are encouraged to send
+their detailed CVs to: hr@... mentioning ""PHP Developer"" in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

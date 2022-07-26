@@ -1,0 +1,27 @@
+Senior Web Developer,"T Lab is looking for a hardworking individual to fill
+the position of Senior Web Developer. The successful candidate will apply
+experience with web technology/ solutions and business operations of
+start-ups.","- Develop, modify and maintain web solutions using a variety of
+technologies;
+- Integrate web resources with payment platforms and other external
+systems; 
+- Execute on project deliverables according to project plans;
+- Implement conversion experiments (A/ B tests);
+- Participate in task estimates;
+- Ensure high quality in deliverables.","- Experience in all aspects of the web development life cycle;
+- Senior level technical skills in PHP, MySQL, AJAX and Web Services;
+- Excellent knowledge of relational database design and multi-tier web
+application architecture; 
+- Strong knowledge of standards based front-end development of HTML,
+XHTML, CSS;
+- Understanding of browser capability and accessibility requirements;
+- At least 3 years of experience developing for medium to large business
+sites;
+- Understanding of standard expected interfaces and basic user behaviors;
+- Experience with version control systems (SVN, Git) is a big plus.","Those who meet above listed requirements and
+qualifications, are asked to send their application letters and CVs to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"T Lab is a newly established software lab of Telaso
+Group, represented in Yerevan by Armenia Representative Office of Telasco
+Communications."

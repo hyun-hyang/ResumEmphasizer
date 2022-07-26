@@ -1,0 +1,14 @@
+Layout Design Engineer,"We are looking for a Layout Design Engineer who will
+make advanced nonvolatile memory IP products layout design.",NA,"- BSEE or equivalent. MSEE or equivalent is preferred;
+- Work experience in Layout design CAD tool is a plus;
+- Good English language skills (written and oral);
+- Good knowledge of semiconductor physics (CMOS is preferred) and memory
+circuits; 
+- Good understanding and experience in circuits used in nonvolatile
+memory IP (decoders, sense amplifiers, charge pumps and voltage
+references) is preferred;
+- Understanding of foundry device models and design verification
+procedures (DRC/ LVS, etc.).","Please email your resumes to:hr.armenia@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

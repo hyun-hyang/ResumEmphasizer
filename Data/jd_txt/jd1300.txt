@@ -1,0 +1,36 @@
+C++/ C#  Senior Software Developer,"The primary objective of this position is to produce
+required product in conjunction with team members insuring it is of high
+quality and is timely.","- Actively participate in numerous C# projects;
+- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Share knowledge, mentor peers, listen and hear team members view
+points and provide a fair evaluation of differing opinions;
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 2 years of C++/C# development, enterprise-class system
+architecture and design or equivalent combination of education, skills
+and experience;
+- Good knowledge of SQL is an advantage;
+- Demonstrated record of delivering high quality software products to
+market;
+- Extensive knowledge of Windows platform technologies including Win32
+API, COM, threading and sockets is desirable;
+- Awareness of current technology;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Basic English language skills and ability to improve those skills;
+- Desire to gain experience with distributed application architectures,
+UNIX platforms, interaction with offshore development teams;
+- Desire knowledge and application of formal software development
+processes or methodologies, formal design notations like UML.","Interested candidates should email resumes to:yer_job@.... If you have questions, please call: +(374 10) 26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. It was established in 1980 and is headquartered in
+Denver, Colorado. 50 Senior Software Developers already work in Yerevan
+office. For additional information about the company, please visit its
+website: www.cqg.com."

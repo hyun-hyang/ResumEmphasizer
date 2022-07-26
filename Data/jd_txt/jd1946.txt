@@ -1,0 +1,17 @@
+Software Developer,"Danapharm LLC is seeking a specialist with deep
+knowledge and practical experience in programming. The selected candidate
+will participate in all company projects.","- Create innovative and elegant design of trade automation software; 
+- Develop software applications;
+- Optimize and reengineer existing source codes;
+- Create, develop and maintain web projects.","- Bachelor's degree in Computer Sciences (Master degree is a plus);
+- At least 3 years of work experience as a Programmer;
+- Excellent knowledge of ASP.NET, C++, .NET Framework 2.0, PhP and
+JavaScript;
+- Experience in creating multi-tier web applications;
+- Experience with databases, building and administration of networks;
+- Good knowledge of Russian and English languages.","Please send your detailed resume with photo to
+e-mail: resume@... , with a note of ""Software Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Danapharm is a pharmaceutical company founded by a group
+of physicians and pharmacists in 2004."

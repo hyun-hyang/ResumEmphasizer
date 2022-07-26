@@ -1,0 +1,19 @@
+iOS Developer,Dorado Web is seeking an iOS Developer.,"- Build applications for the iOS platform;
+- Plan, estimate and manage time accurately and independently;
+- Develop user interfaces that are intuitive, usable, visually appealing
+and easy to learn;
+- Deliver materials on time and of a high quality.","- University degree;
+- Experience with Objective-C; experience in developing applications for
+iOS and Xcode;
+- Knowledge of the common design patterns, frameworks and libraries for
+iOS;
+- Initiative taking person with problem-solving skills;
+- High sense of responsibility.","To apply for this position, please submit a
+brief CV or resume in the Armenian or English language to:
+hr@... mentioning the position you are applying for in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Dorado Web"" LLC is a web development company offering a
+wide range of services to its customers. For more information, please
+visit: www.web-dorado.com."

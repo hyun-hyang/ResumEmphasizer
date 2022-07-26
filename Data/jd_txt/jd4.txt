@@ -1,0 +1,53 @@
+Software Developer,"Synergy International Systems, Inc./Armenia seeks to
+fill the long-term position of Software Developer. The responsibilities
+of this position are focused on core software development tasks in
+Synergy International Systems, Inc. Synergy's main focus is on
+developing integrated state-of-the-art Web Database and Web Portal
+systems for business intelligence, knowledge management and e-Government
+solutions. 
+This position will be filled by a software developer with a proven
+history of producing quality software product in a commercial setting.
+Experience in a dynamic workplace with solid software developing
+practice is required. Ideally, this position will be filled by a
+candidate who has experience in all aspects of the software development
+process; including design, implementation, testing and delivery.","Specific tasks and key responsibilities include
+but are not limited to the following:
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform implementations in a timely fashion;
+- Perform quality assurance tasks, such as testing of the software
+products.","- Degree in Computer Science, Information Technology or related
+discipline (Bachelor's Degree in the relevant field required, Master's
+Degree preferred); 
+- At least 3 years of successful experience in software development;
+- Extensive development experience with current industry technologies
+including Java, SQL, etc. and related tools;
+- Working experience with and design of complex database systems (stored
+procedures);
+- Experience in J2EE development (JSP/ Servlets);
+- Knowledge of one of programming languages (C++/Visual C++; VB);
+- Knowledge of HTML/XML, ASP/PHP.
+Additional Characteristics:
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Excellent interpersonal and organizational skills;
+- Fluency in English.","If interested, please send your resume with a
+cover letter listing your qualifications, software development related
+experience, and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) to: Ms. Anahit Sargsyan, Office
+Manager at: mail@... or mailarm@.... Phone: (374 1)
+56 76 81.
+Candidates who meet these qualifications will be interviewed and will be
+required to take a test. Selected candidates will be notified of the
+interview dates directly.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated information management
+systems."

@@ -1,0 +1,44 @@
+Systems Administrator,"IREX seeks a qualified System Administrator based in
+the Yerevan office. The incumbent will report to the IREX Armenia
+Director and Core Media Support Program Chief of Party.","- Organize LAN and WAN;
+- Maintain LAN/ WAN and other technical components;
+- Manage Servers (DNS, Mail, Web, Proxy and others under UNIX/ Linux);
+- Create/ update IREX Websites (utilizing web programming futures - PHP,
+Perl, MySQL, etc.);
+- Help/ assist IREX staff with IT issues; 
+- Manage IREX Mailing Lists;
+- Install/ upgrade software and hardware on IREX computers and other
+equipment;
+- Organize trainings for IREX staff with different topics related with
+IT;
+- Prepare emergency plans in case of connection, power, software and
+hardware failures;
+- Prepare manuals, on-line materials, helps and docs for IREX staff
+about different IT issues;
+- Perform other relevant duties as assigned.","- University degree in IT;
+- Strong knowledge of IT with minimum 3 years of work experience;
+- Experience in UNIX/Linux Servers management;
+- Experience in network design and maintenance;
+- Ability to work with different ISPs;
+- Experience in data Backup and Restore;
+- Good knowledge of troubleshooting and help-desk; 
+- Experience with an international organization;
+- Fluency in English, Armenian and Russian languages.","Applications will be reviewed on a rolling
+basis. Applications must include a cover letter and a resume and should
+be addressed to:
+IREX
+29 Sayat Nova Avenue
+Yerevan 0001, Armenia.
+E-mail: resumes@...
+Attn: Liana Mikayelyan, Administrative Assistant.
+No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IREX is an international nonprofit organization
+providing leadership and innovative programs to improve the quality of
+education, strengthen independent media, and foster pluralistic civil
+society development. 
+Founded in 1968, IREX has an annual portfolio of $50 million and a staff
+of over 500 professionals worldwide. IREX and its partner IREX Europe
+deliver cross-cutting programs and consulting expertise in more than 50
+countries."

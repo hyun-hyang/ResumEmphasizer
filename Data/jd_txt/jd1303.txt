@@ -1,0 +1,52 @@
+Website Developer/ Designer,"The present Terms of Reference aims to provide a
+framework for (re-) creation of the UN Armenia Official bilingual
+website. The website is expected to be of modern, simple and practical
+design, user-friendly, with smooth navigation, good information resource
+and working tool for the UN Agencies, partners and general public about
+United Nations in general and UN Armenia in particular.
+The implementation of the work of the incumbent should be under
+supervision and guidance of the UN Communications Group Chair and in
+close cooperation with UNCG members.
+The description and timeline for the work to be performed under the
+present Terms of Reference will be the following:
+1st phase: Re-design of the already existing bilingual (English and
+Armenian) website - 1 month; 
+2nd phase: Restructure the whole navigation system, new architecture.
+Create data bases (publications, photos, etc.) - 2 months;
+3rd phase: Updated data transfer from the old to the new website, which
+will also have additional new content - 2 months;
+4th phase: Guidelines, manual and training for website administration - 1
+month;
+5th phase: Technical support, hosting arrangements, corrections, tuneup,
+and perform other tasks related to website (this will be after the
+website is handed over to UN Armenia) 2 months.
+Technical note:
+UN Armenia website should be of modern design, with simple and
+user-friendly interface and menu. Smooth navigation should be ensured.
+Usability is one of the most important aspects. The website should be
+compatible with most of Web browsers, particularly with Internet Explorer
+(starting from v.6.0), Mozilla Firefox (starting from v.2.0), Opera
+(starting from v.9). It should also be compatible with various screen
+sizes and resolutions. Accessibility issue for the disabled people should
+be considered as much as possible. Use of client-side technologies, which
+require installation of Browser add-ons, is not recommended.
+As the information will be presented in English and in Armenian the user
+should see the same page when switched to the other language. The website
+should be implemented in Unicode. Each topic in the Web Site should have
+link to printable version. Source codes should be under UN Armenia
+ownership.",NA,"- University degree in Computer Science, Programming or relevant field;
+- Advanced knowledge of the modern web development technologies, HTML,
+ASP, PHP, SQL, JavaScript and knowledge of web design;
+- 3-4 year relevant work experience in IT sector and/or web developer
+(experience with UN or other international organization is an asset);
+- Proven experience in web development field, solid portfolio of
+accomplished web projects (applicant has
+to present at least 5 Web Sites at similar scope developed);
+- Good communication skills;
+- Fluency in Armenian, English and/or Russian languages.","Applications can be submitted throughhttp://www.undp.am website, or delivered hard copies to the UN House
+Security Desk, 14, P. Adamyan str., Yerevan. A complete application
+should consist of full CV and copy of diploma(s)/ certificate(s). Only
+shortlisted applicants will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Women candidates are encouraged to apply.,NA

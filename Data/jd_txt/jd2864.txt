@@ -1,0 +1,16 @@
+Junior Mobile Developer,The incumbent will develop mobile applications.,"- Develop mobile applications; 
+- Implement features;
+- Fix bugs.","- Basic knowledge of mobile development concepts;
+- Basic knowledge of C/ C++ or Objective C;
+- Basic knowledge of Object-Oriented Programming;
+- Basic knowledge of Model-View-Controller;
+- Basic knowledge of Component Object Model;
+- Basic knowledge of Java is a plus;
+- Fast learner;
+- Good team player.","Interested candidates are asked to email their
+resumes to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom develops own unified communication
+technology and own product. For more information about the company,
+please visit: www.zangi.com."

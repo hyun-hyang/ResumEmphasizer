@@ -1,0 +1,15 @@
+Software Engineer,"Kimbara Entertainment Software Company is looking for
+a skilled and motivated Software Engineer.","- Build social networking application;
+- Manage web based content and blogging tools.","- BS or MS in Computer Sciences or a related field;
+- Excellent verbal and written communications skills;
+- Ability to implement a UI across different browsers (IE6, Mozilla/
+Firefox and Safari);
+- Ability to learn quickly;
+- Prior experience in development, including deployment of social
+networking web sites;
+- Experience in developing AJAX applications;
+- Experience in deployment of large web sites;
+- Experience in developing applications with PHP, MySQL, SQL and HTML.","If interested, email your CV to:kimbara.ent@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

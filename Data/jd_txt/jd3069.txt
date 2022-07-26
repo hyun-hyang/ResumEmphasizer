@@ -1,0 +1,14 @@
+Senior Programmer,3Dtuning is looking for Senior Programmers.,"- Work productively as a key member of team;
+- Enhance existing code by identifying areas for improvement;
+- Participate in requirement gathering and task definitions with the
+colleagues abroad;
+- Actively participate in estimations and planning of the defined tasks.","- At least 4 years of experience in backend work process;
+- Solid professional work experience in Node.JS, MongoDB, Redis, Express,
+Angular.JS, Elastic Search, WebSockets and HTML5;
+- Good English language proficiency in both written and verbal
+communications.","If interested, please, send a last updated
+detailed resume to: narek.payaslyan@... . In the subject line of
+your message, please mention ""Senior Programmer/ 3DTuning"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please, visit:http://www.3dtuning.com/."

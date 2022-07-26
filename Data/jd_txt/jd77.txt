@@ -1,0 +1,49 @@
+Linux Administrator/ Developer,"EZ Publishing and RUNSIGN are looking for a highly
+skilled thinker and doer to assist in new product development, system
+administration and technical support, who must have at least 3 years
+working experience.","Candidate must have:
+- Strong technical, analytical, communication and organizational
+skills;
+- Ability to meet deadlines;
+- Ability to work in and support a team environment;
+- Ability to work unsupervised, proactively identify problems and take
+appropriate action to produce or recommend solutions;
+- Good English communication skills.","- HTML, Shell, Linux, Apache, PHP, NFS, RedHat, SendMail, Bash.
+Candidate must have experience working on projects using all of the
+following: 
+- Advanced HTML;
+- Java scripting;
+- Shell scripting;
+- Perl;
+- PHP programming;
+- MySQL;
+- C, C++ and Java;
+- Must be able to take a project description and make it come to life;
+- Ability to ensure configuration and security standards are deployed
+and documented on all Linux servers including reviewing and applying the
+latest security patches on a regular basis;
+- Solid knowledge of server/array/network storage components, NFS;
+- Ability to configure, compile, install and debug new software;
+- Must be willing to work to meet deadlines as necessary;
+- Must be able to shift gears quickly and work in a fast-paced, fluid
+environment;
+- Must possess at least three years of advanced Linux system
+administration experience including: 
+- RedHat Linux;
+- Full HTML, Javascript knowledge. Be able to grab a Photoshop file and
+create HTML by hand;
+- Apache, fully compiling from source and configuring;
+- DNS;
+- Sendmail;
+- SMTP, IMAP, IPOP3 and other protocols;
+- MySQL;
+- Understanding of ODBC connection requirements and interdependencies;
+- BASH shell and SSH;
+- SSL;
+- DHCP;
+- Working with, installing, and debugging Tomcat/Jboss;
+- Create RedHat RPMs from scratch and from SRPMs.","To apply, e-mail your resume and salary history
+to: resume@... to be considered for this position.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

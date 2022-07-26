@@ -1,0 +1,32 @@
+Web Game Developer,"The Web Game Developer will work in the game
+development team to develop and maintain front-ends of proprietary gaming
+applications using Javascript and HTML5. The incumbent will create gaming
+applications designed to run a common Javascript code base for use on web
+and mobile platforms, including Android, iPhone, Blackberry, Symbian and
+Windows Mobile. He/ she will apply best practice methodologies to ensure
+development of scalable, high-quality and feature-rich games.","- Participate in whole development cycle, including initial requirement
+discussions, design, implementation and documentation;
+- Deliver robust, scalable and quality software products on time;
+- Develop new features according to requirements;
+- Write technical and code level documentation;
+- Troubleshoot existing modules and fix problems;
+- Review and optimize existing code;
+- Assist team members.","- Bachelor's Degree in Computer Sciences or Engineering;
+- At least 3 years of work experience in software development;
+- Extensive knowledge of Javascript, preferably in web game development;
+- Extensive knowledge of HTML and especially HTML5;
+- Knowledge of CSS3 is an advantage;
+- Strong demonstrable skills in software architecture, object oriented
+design and API design;
+- Experience with jQuery or similar JavaScript framework;
+- Experience with HTML5, Canvas, WebSockets and WebGL in game development
+is highly desired;
+- Team player with the ability to share knowledge and contribute
+solutions;
+- Written and verbal English language skills.","Please send your CV to: careers@...
+, indicating the position title in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Game Theorem develops proprietary software systems and
+provides a complete suite of Next Generation Network Services for mobile
+network operators."

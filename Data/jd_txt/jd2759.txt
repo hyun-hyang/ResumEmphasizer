@@ -1,0 +1,18 @@
+.Net Web Developer (MVC4),"The candidate for this position must be experienced in
+business logic architecture and object-oriented programming for large
+web-based information retrieval systems and database-driven web
+applications.","- Design, develop and implement client-facing web applications using .NET
+specifications and proven design patterns; 
+- Responsible for designing new application features and functionality,
+writing API's, scalability and maintainability improvements;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products.","- At least 2 years of work experience in web-based technologies; 
+- Strong understanding of object-oriented (OOP) development;
+- Hands-on experience in and proficient knowledge of the following: web
+technologies - .NET, MVC4 , C#; tools - MS Visual Studio 2010, MS Team
+Foundation;
+- Knowledge of WCF, jQuery, AngularJS is a plus.","Interested applicants should submit their CVs
+to: cv@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,38 @@
+Senior Java Developer,"Virtual Solution Global Services LLC is seeking a
+motivated Senior Java Developer for Web based applications development.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop applications according to technical documentation;
+- Install and configure necessary environment for the developed
+applications. Provide support in web servers, databases and applications
+maintenance.","- At least 3 years of work experience as a Software Developer;
+- Excellent knowledge of Java and OOP;
+- Excellent knowledge of Web development;
+- Web Frameworks: Struts, JSP/Servlet and Java Server Faces;
+- Persistence layer: Hibernate and IBATIS;
+- Integration technologies: Spring Framework;
+- Databases: base knowledge with MySQL and Oracle databases;
+- Excellent knowledge of SQL language (writing queries, creating
+databases, dumping, importing without a graphical user interface);
+- Database modeling skills;
+- Good knowledge of (X)HTML, CSS, JavaScript and XML;
+- Optional technologies: Velocity, Jasper Reports and Facelets;
+- Servers: Tomcat, Apache2;
+- OS: Linux Ubuntu;
+- Good communication skills;
+- Good English language skills;
+- Ability to work on project with a development team;
+- Ability to lead a small development team is a plus;
+- Ability/ willingness for business trips is a plus;
+- Problem solving skills.","Interested candidates should e-mail their
+resumes to: info-am@... . In the subject line of your
+e-mail message, please mention the title of the position you are applying
+for. Please send resumes only if you correspond to the required
+qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+Virtual Solution GmbH, German software development company. For
+additional information about the company, please visit its website:
+www.virtual-solution.com."

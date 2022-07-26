@@ -1,0 +1,58 @@
+Senior System Administrator,"Sas Group is seeking a Senior System Administrator to
+effectively administrate, configure, operate and maintain Core IT
+infrastructure and related systems software; to manage - install &
+upgrade servers and provide personnel with support on Core Critical IT
+Tasks.","- Manage the day-to-day operations of Critical IT related server and
+services;
+- Develop new system and application implementation plans;
+- Administer and manage a network server environment based on Microsoft
+Windows server (*nix platforms is a plus);
+- Ensure high availability and acceptable levels of performance of
+mission critical servers and host computers;
+- Provide backup and restoration of host operating systems and host-based
+applications;
+- Perform software/ hardware troubleshooting, reveal and repair software
+problems;
+- Plan security measures; 
+- Plan the appropriate system needs of a company;
+- Ensure that all the separate elements of the system work together
+properly;
+- Consult staff/ users on software problems.","- Excellent knowledge of Windows and Linux based Server Administration;
+- Administration of services and applications on both *nix and Windows
+based Servers;
+- Practical Knowledge of Microsoft IIS 6 & 7;
+- Excellent knowledge of VMware ESXi HyperVisor;
+- Work experience with VMWare Vsphere;
+- Knowledge of principals Remote Desktop Services and RemoteApp;
+- Excellent knowledge of Active Directory Domain Services (AD DS)
+Administration;
+- Excellent knowledge of Active Directory OU (Organizational Units)
+Administration and distribution;
+- Excellent knowledge of Group Policy modeling, management and
+Administration;
+- Excellent knowledge of Microsoft Exchange 2007/ 2010 Administration;
+- Knowledge of Microsoft SCCM 2012 (Systems Center Configuration Manager
+2012 ), WSUS and other Windows Services;
+- Excellent knowledge of Dynamic Host Configuration Protocol (DHCP) and
+Domain Name System (DNS);
+- Work experience with Network Attached Storage (NAS). Deep understanding
+of Windows shares and permissions;
+- Excellent knowledge of TCP/ IP protocol, firewalls, and network
+security in general;
+- Knowledge of VoIP systems and phones configuration. Work experience
+with SIP Trunks;
+- Work experience with Firewalls and Internet Failover Technologies (eg.
+Kerio Control);
+- Excellent knowledge of Backup processes. Hands on experience with Veeam
+Backup software is a plus;
+- Knowledge of Routing principals is a plus;
+- Work Experience with Cisco Routers is a plus;
+- Knowledge of 1C and Armenian Software Administration is a plus;
+- Strong analytical and problem-solving skills to enable effective
+security incident and problem resolution;
+- Ability to work well under minimum supervision.","Interested candidates are encouraged to send a
+CV to: career@... with a note of ""Senior System Administrator"" in
+the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

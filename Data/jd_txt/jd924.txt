@@ -1,0 +1,19 @@
+Analog Design Engineer,"Synopsys Armenia is looking for an Analog Design
+Engineer.","- Be involved in design of custom analog cells;
+- Port existing design to another technologies;
+- Process specific adjustments.","- BS or MS in Computer Science, Microelectronics or Semiconductor
+Engineering;
+- 1+ years of experience in corresponding area;
+- Knowledge of Analog Design;
+- Knowledge of MOS device physics;
+- Knowledge of Layout Design;
+- Basic knowledge of CMOS fabrication;
+- Good English language skills;
+- Good communication skills.","Please e-mail your detailed CV to:dianan@... with CC to: arama@... indicating the
+position title in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

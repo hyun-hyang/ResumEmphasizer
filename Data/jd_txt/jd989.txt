@@ -1,0 +1,26 @@
+PHP/ MySQL Web Developers/ Programmers,"NexusLab is looking for respectful, professional and
+motivated PHP Developers with strong work ethics. Major projects include
+development of highly flexible and cutting edge set of web-based business
+software modules.","-	Produce and maintain clean, high quality standard compliant website
+applications;
+-	Develop codes that are cross-browser and cross-platform compatible;
+-	Assist with planning and development of rich user interfaces for new
+web-based applications in accordance to design specifications;
+-	Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards, modern web browser capabilities and W3C
+standard compliance and accessibility issues.","-	Advanced working knowledge in PHP, MySQL, HTML/DHTML, XML, CSS and
+JavaScript;
+-	Knowledge of AJAX is highly preferred;
+-	Strong problem-solving skills and ability to work under pressure;
+-	Hard-working, motivated, innovative personality and ability to work
+independently and within a team and interact professionally with diverse
+group of people.","All applicants must submit a portfolio of their
+work and a resume to: careers@...
+Tel in Armenia: 010-54-87-36
+Tel in USA:	818-990-1416
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NexusLab is a US-based web/software development company
+that is expanding its operation. For more information on the company,
+please visit:
+www.nexuslab.com/careers."

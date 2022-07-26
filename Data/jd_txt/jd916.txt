@@ -1,0 +1,66 @@
+User Interface/ Web/ Graphic Designer,"The UI Designer will be responsible for developing the
+user interface for a complex web application with a lot of data entry
+screens, workflows, views and reports. The candidate must be extremely
+detail oriented.","- Be responsible for developing the user interface for a complex web
+application with a lot of data entry screens, workflows, views and
+reports; 
+- Elegantly implement page designs in standards-compliant dynamic XHTML,
+CSS, Accessible HTML and Ajax;
+- Create front end design structure and some design elements based on
+existing creative designs;
+- Design for i18n support;
+- Create rapid prototypes of interfaces to be used as a blueprint for
+content and technical development;
+- Manage the overall visual design for the application, including all
+branding and navigational elements;
+- Collaborate with the company's designers to define the information
+architecture, advocating Web interaction design best practices with a
+focus on consistency and usability;
+- Work closely with back-end developers to find ways to push the limits
+of existing Web technology in service of creating the best possible user
+experience.","- Bachelors degree;
+- Minimum of 3 years of experience working in a team on a complex-phased
+new technology medium sized web projects;
+- Fluent knowledge of English language;
+- Participated on project with extensive UI review processes and
+changes;
+- Experience using graphical tools such as Photoshop and Corel;
+- Experience using technologies such as DHTML, CSS and JavaScript;
+- Experience with bleeding edge technologies such as Ajax and Flex
+(Action Script);
+- Experience working on sites that have a Java back-end; working
+knowledge of JSP (nice to have); 
+- Experience on projects where slick UIs and high performance pages are
+a key;
+- Can understand and explain cross browser challenges, performance
+challenges based on UI decisions etc. 
+Additional Characteristics:
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Excellent interpersonal and organizational skills.","Please note that the candidates must submit
+references/links to best examples of work to be considered (URL links,
+prototype images, graphical images, etc.). And they must be able to
+provide examples for the interview. 
+If interested, please send your resume with a cover letter listing your
+qualifications, related experience, and indicating your contact details
+(phone, fax, and/or e-mail address where you can be reached) to:
+Ms. Hasmik Hovsepyan, Human Resource Manager
+E-mail: mail@...  
+Phone: (374 10) 56 76 81.
+Candidates who meet these qualifications will be short-listed and
+interviewed. Interviews will be conducted starting from 14th July 2008.
+Selected candidates will be notified of the interview dates directly. We
+thank all who apply but only those selected for an interview will be
+contacted.
+Please note that initial consideration will be given to the applications
+received prior to the date indicated above. Thereafter, applications will
+be reviewed on an as-needed basis.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

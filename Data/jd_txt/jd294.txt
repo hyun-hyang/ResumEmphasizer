@@ -1,0 +1,22 @@
+Programmer/ Developer,"KPMG Moscow Office is looking for a Programmer/
+Developer to work at its Yerevan office.","- Develop applications for automation of business processes of the
+company with the use of Microsoft technologies (.NET 2.0, ASP.NET 2.0
+and MS Office);
+- Participate in all stages of new applications development cycle
+(setting the objective, realization, testing, implementation and
+documentation);
+- Support internal web-servers (MS IIS) (MS SQL Server 7.0, 2000,
+2005);
+- Support applications developed earlier and provide technical support
+to internal users (second, third line).","- Experience in development of web-applications with the use of ASP,
+.NET, ASP.NET, JavaScript, DHTML, DOM and XML/ XSLT;
+- Possess skills for automation of Microsoft Office documents;
+- Knowledge of the basics of database design and SQL syntax skills;
+- Ability to participate in all stages of the application development
+cycle;
+- Ability to work in a team and individually;
+- Knowledge of technical English language.","Please email your CV to: hr@.... Please put
+""Programmer"" in the subject line of your email. Tel: 007 495 937-4477
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

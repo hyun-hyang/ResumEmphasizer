@@ -1,0 +1,19 @@
+Senior C# Developer,"The candidate will join the company's team to work on
+software development and support projects.","- Participate in all stages of different application design, development,
+implementation and support;
+- Responsible for software development for new applications and
+pre-developed C# applications.","- Bachelor's degree in Computer Science;
+- At least 3 years of C# programming experience;
+- Knowledge of SQL database design and programming is a plus;
+- Proficiency in OOP/ OOD and good knowledge of design patterns;
+- Practical working knowledge of WCF is a plus;
+- Ability to keep deadlines;
+- Good team player, ability to accept criticism;
+- Good communication skills;
+- Good knowledge of Armenian, Russian and English languages.","All interested candidates should send their CVs
+to: arca@... mentioning in the subject ""Senior C# Developer. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information, please visit the company's website at:
+www.arca.am."

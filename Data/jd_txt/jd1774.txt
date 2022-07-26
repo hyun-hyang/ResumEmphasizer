@@ -1,0 +1,34 @@
+C/ C++ Senior Software Engineer,"ASDG LLC is seeking an experienced C/ C++ Software
+Engineer. Within a software development team, the successful candidate
+will be responsible to develop and integrate a wide range of networking
+software, L2/ L3 switching protocols and management applications.","- Work with team to define and design system solutions;
+- Create/ maintain requirements and design User's manual specifications;
+- Produce clearly written and documented code;
+- Develop flexible software intended to run on different hardware
+platforms;
+- Integrate third party (commercial) solutions to company's products;
+- Communicate with team members on project progress, technical issues,
+etc.","- Bachelor's or higher degree in Computer Science or in a similar
+discipline;
+- At least 5 or more years of work experience in software application
+development on C/ C++;
+- Knowledge of GNU/ Linux architecture and development environment (build
+system and scripting);
+- Experience with source code/ platform cross-compiling and porting;
+- Knowledge of TCP/ IP network protocols stack/ communication protocols;
+- Experience with L2/ L3 networking protocols, switch and routing
+management;
+- Experience in developing embedded systems on Linux kernel and Linux
+based OS;
+- Familiarity with the embedded software development process;
+- Telecommunication experience;
+- Strong problem solving skills;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Good English language skills;
+- Readiness to travel to USA to work with other team members.","If interested, please email your Resume to:info@... . Please indicate ""C/ C++ Senior Software Engineer"" in
+the subject line of your e-mail, otherwise your Resume will not be
+reviewed. Only shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

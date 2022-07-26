@@ -1,0 +1,46 @@
+Business Intelligence Database Administrator,"The Business Intelligence Database Administrator will
+be responsible for managing and maintaining database servers and ACRM
+applications. The incumbent will be also responsible for the performance,
+integrity and security of BI databases.","- Perform backup and restore of databases; 
+- Check database logs on a daily basis;
+- Monitor scheduled existing jobs and ensure their successful processing;
+- Trace and optimize DB user activities;
+- Manage user profiles and accesses and passwords;
+- Manage database storage and forecast the database growth;
+- Coordinate with suppliers/ vendors on installation and upgrade of
+databases;
+- De-fragment data files;
+- Tune SQL statements;
+- Optimize database parameters;
+- Review the tables and indexes location and sizing;
+- Ensure an optimal data distribution and database load balancing;
+- Provide and update database maintenance procedures;
+- Document all databases' parameters, standards, definitions, data
+dictionary and schemas;
+- Provide installation, administration, maintenance and support of SAS
+Enterprise BI platform;
+- Perform integration of SAS Enterprise BI platform with systems and
+other third-party software.","- Bachelors degree in a professional field (Engineering or Information
+Technology is preferred) or comparable experience;
+- 2 years of work experience as Database Administrator with an emphasis
+on database performance tuning and optimizations;
+- Good knowledge of MS SQL Server databases;
+- Good knowledge of SQL languages and optimizations;
+- Good knowledge of IP networking, Windows and UNIX operating systems;
+- Good technical knowledge of telecom business related database
+requirements is a plus;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner with internal and external
+contacts;
+- Ability to maintain the highest level of professionalism, ethical
+behavior and confidentiality;
+- Good knowledge of Russian and English languages;
+- Adaptability/ flexibility;
+- Technical learning skills;
+- Problem-solving skills.","Interested candidates are asked to submit their
+CVs to: databaseadministrator@... . Only shortlisted candidates will
+be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

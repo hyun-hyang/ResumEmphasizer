@@ -1,0 +1,37 @@
+Senior Software Engineer  Java/DBMS,"The ideal candidate leverages his/her knowledge in
+software design and implementation to develop J2EE web-based application
+components for interfacing with RDBMSs.","- Design and implement RDBMS schemas and data access components;
+- Develop strategies for deployment of high performance RDBMS
+operations;
+- Design and code software components for J2EE web applications;
+- Develop high performance and scalable algorithms;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information;
+- Interact and train QA Engineers in all technical aspects of the
+projects.","- BS in Computer Science. MS or PhD is preferred;
+- 3-10 years of programming experience especially in Java. Minimum 3
+years of work experience in J2EE development. Previous experience with
+one or more production/mission critical web applications is highly
+desirable;
+- Expert-level knowledge in administering and performance tuning of one
+or more commercial or open source RDBMSs (Oracle, MS SQL, or MySQL);
+- Experience with Java/RDBMS ORM technologies and DBMS design and
+programming within web applications;
+- Extensive knowledge of OOD/OOP. Knowledge of good software engineering
+practices and product development process. Ability to plan and estimate
+the required software development effort and time;
+- Strong software design and analytical skills;
+- Familiarity with web technologies and web-based dynamic application
+development, especially Java Servlets, JSPs, and Web Services;
+- Software tools and technologies skills: Expert level knowledge of Java
+development tools, multithreaded programming, network programming, and
+distributed applications;
+- Ability to work both as individual contributor and as part of a team;
+ability to learn quickly and to work under pressure;
+- Strong oral and written communication skills;
+- Ability to design and implement new software components and
+independently devise solutions.","Please send your detailed CV to:ra-careers@... indicating the position title in the e-mail
+subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,32 @@
+Java Developer,"Monitis is looking for a Java Developer who will join
+the company's team to develop and extend Monitis products.","- Develop features according to technical specifications;
+- Participate in the software design and development;
+- Contribute to the quality of coding and assure the conformance of
+source codes;
+- Provide necessary technical and design documentation;
+- Analyze requirements and work with the team members to create quality
+results;
+- Communicate effectively with management and team members.","- University degree in the relevant field of studies;
+- At least 3 years of practical experience in Java development;
+- Experience with JSP/ Servlets, JDBC, thread management and development
+of asynchronous java processes; experience with Java8 is a plus;
+- Solid understanding of object-oriented programming (OOP); 
+- Understanding of the JVM and the internals of the architecture;
+- Experience with ORM tools such as Hibernate;
+- Experience with web servers such as Tomcat/ Apache;
+- Experience with JavaScript, HTML and CSS;
+- Experience with HTML5/ CSS3 is a plus;
+- Experience of working with MySQL;
+- Experience in working in the Linux environment is a plus;
+- Experience with Android and/ or iOS development is a plus;
+- Ability to work in a team;
+- Good knowledge of the English language, both on the communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: hr@... . Please indicate the
+position title in the subject line of your message. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis, a TeamViewer company, is an all-in-one
+cloud-based IT monitoring and analytics platform. For more information
+about the company please visit: http://www.monitis.com/about-us."

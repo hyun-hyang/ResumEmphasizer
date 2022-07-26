@@ -1,0 +1,22 @@
+ASP.Net Developer,"NairiSoft Inc. is looking for a highly qualified
+person with deep knowledge and practical experience in web programming.
+The selected candidate will be involved in all stages of the development
+life cycle.","-	Develop web applications in accordance with given specifications;
+-	Assure full conformance of source codes to provided coding standards;
+-	Read, understand and modify the existing code;
+-	Work as part of a software development team;
+-	Communicate with management and team members effectively.","-	Bachelors or higher degree in Computer Sciences or a related
+discipline with at least 4 years of work experience in software
+development;
+-	2 years of work experience in .Net Framework - ASP.Net/C#;
+-	Knowledge of other languages (C++, VB, Java) and web technologies is a
+plus;
+-	Good knowledge of Oracle, Sybase, MS SQL Server, DB2;
+-	Work experience with client/ server applications;
+-	Good English language skills.","Please email your detailed resume to:job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft, Inc. is an international Internet
+infrastructure development and consulting company delivering bespoke
+business critical solutions using the latest advances in Internet
+technology. It was established in January 2000."

@@ -1,0 +1,28 @@
+Android Developer,"Energize Global Services is looking for an Android
+Developer for its long-term projects.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Effectively communicate with local management team members;
+- Develop applications according to technical documentation;
+- Develop test cases;
+- Install and configure necessary environment for the developed
+applications.","- At least 2 years of work experience as a Software Developer;
+- At least 2 years of work experience as an Android Developer;
+- Excellent knowledge of Java and OOP;
+- Excellent knowledge of Android SDK;
+- Knowledge of SQLite database (creating databases and writing queries);
+- Good knowledge of (X)HTML, CSS, JavaScript and XML;
+- Build environment: Knowledge of Maven and Eclipse;
+- OS: Knowledge of Linux Ubuntu;
+- Good knowledge of Linux Operating System: system administration;
+- Ability to work on project with a development team;
+- Problem solving skills;
+- Good communication skills;
+- Good knowledge of English language.","If interested, please email your last updated
+and detailed Resume to: hr@... . In the subject line of
+your message, please mention the position you are applying for. Only
+shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

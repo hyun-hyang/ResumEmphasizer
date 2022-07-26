@@ -1,0 +1,42 @@
+Software Engineer/ QA,"Energize Global Services CJSC is looking for a Software
+Engineer/ QA who will be responsible for the delivery of platform low
+level software. The mission of Software Engineer/ QA is not limited to
+the development of the platform software but also includes the testing of
+this platform software. It also includes the review of documentation, the
+participation to study and analysis phases during the development of new
+products and the follow up of those products once they are installed in
+the field.","- Review the product documentation;
+- Define, write and execute test scripts (both white and black box
+testing);
+- Analyze the problems found during test execution or reported by
+customers and reporting on them;
+- Assist in integration of products in current infrastructure;
+- Develop test tools or small applications;
+- Coordinate test projects inside the group.","- Master's or professional Bachelor's degree in IT, Electronics or
+Electro-Mechanics;
+- 4 years of relevant work experience;
+- Strong motivation towards performing testing activities, including
+non-regression testing;
+- Proven testing experience (e.g. able to translate functional
+specifications into test cases/ test requirements);
+- Experience with embedded systems is advised;
+- Knowledge of the software development cycle and ability to demonstrate
+it by the applicant. By preference, the applicant has experience with
+working in an agile environment;
+- Practical knowledge of Linux;
+- Knowledge of Python and C languages;
+- Knowledge of Visual Basic is an asset;
+- Knowledge of security aspects is an asset;
+- Good communication skills (oral and written);
+- Fluent knowledge of English language.
+- Analytical thinking;
+- Concern for quality;
+- Ability to adapt easily to the new environment.","If interested, please email your last updated
+and detailed Resume to: hr@... . In the subject line of
+your message, please mention the position you are applying for. Only
+shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

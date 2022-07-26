@@ -1,0 +1,47 @@
+Mid-Level Software Developer,"The Mid-level Developer will focus on core software
+development tasks and the front end customizations of web portals
+developed by the company. The core Software Development will include
+tasks in areas involving application programming, testing, documentation
+and delivery.","- Translate design requirements and specifications into robust
+implementations; 
+- Design, proto-type, develop and manage the technical aspects of the
+software; 
+- Perform the assigned tasks and quality assurance tasks (developer's
+testing) in precise and timely manner; 
+- Document the software products that will be produced; 
+- Develop user interface ideas; 
+- Work closely with the Requirements and Quality Assurance Teams during
+User Acceptance Testing; 
+- Develop, test and maintain high-quality and secure Web database and Web
+portal applications;
+- Troubleshoot and resolve issues with production software and services;
+- Collaborate with QA and documentation personnel in developing test
+planning and user documentation; 
+- Conduct the broad research of the technologies available in the market
+and deliver cutting edge solutions to employ in the daily work of his
+team.","- Master's degree in a relevant field;
+- From 3 to 5 years of work experience in Java development; 
+- Strong knowledge of OOA/ OOD; 
+- Good understanding of UML diagrams; 
+- Strong Core Java programming skills; 
+- Strong knowledge of Java server side web technologies (Servlets/ JSP);
+- Experience in development of Java based standalone applications, and/
+or web-based systems, and/ or web services; 
+- Experience in development of client-side applications: JavaScript/
+Ajax/ HTML/ CSS; 
+- Knowledge of and experience in .NET, ASP.NET, C#, VPS and WCF;
+- Experience in complex database systems MySQL, MS SQL and ORACLE; 
+- Experience in development of systems based on RDBMS is desirable; 
+- Ability to solve development problems; 
+- Experience in a relevant field is crucial; 
+- Fluency in technical English language.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Mid-level Software
+Developer"", listing your qualifications and indicating your contact
+details: phone, fax, and/ or e-mail address where you can be reached to:
+Ms. Mariam Kanayan Human Resource Manager at:  careers@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

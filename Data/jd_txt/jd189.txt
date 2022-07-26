@@ -1,0 +1,25 @@
+IT Specialist/ System Administrator,"Armex is seeking to hire a dedicated and responsible
+person to manage its trading system, as well as implement other IT
+related tasks on a permanent basis. Some initial trading system specific
+training will be provided.","- Manage Armex automated trading system on a daily basis;
+- Carry out management and maintenance of Armex LAN on a daily basis;
+- Manage Armex databases on a daily basis;
+- Carry out database analysis and improvement;
+- Assist in maintaining Armex web-site;
+- Perform other job related tasks as assigned.","- University degree in computer science;
+- Knowledge of SQL and MySQL;
+- Familiarity with Microsoft and Linux based servers;
+- Knowledge of C++ and MS Visual Basic;
+- At least 2 years of experience in system administration;
+- Experience in developing applications is a plus;
+- Knowledge of web-programming and web-server management is a plus;
+- Team oriented, organized and willing to learn new skills.","Interested candidates are invited to send a
+detailed CV and a cover letter to: info@.... No phone calls,
+please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Armex is an equal opportunity employer. Female
+candidates are encouraged to apply. Male candidates are required to have
+their military duty issues cleared.","Armex provides trading floor for organized trade in
+securities, as well as carried out listing of open joint-stock companies
+and disclosure of company information to public."

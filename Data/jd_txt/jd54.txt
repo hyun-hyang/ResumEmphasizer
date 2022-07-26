@@ -1,0 +1,18 @@
+Software Developer,"The position assumes participation in the full
+development and deployment cycle of software products and solutions
+developed by the company in collaboration with RenderX, Inc.","We expect a successful candidate to be able to 
+- design and develop software products,
+- create programs for heterogeneous environments (MS Windows, Unix),
+communicating by means of network protocols
+- author and maintain internal and end-user documentation.","Applicants should have exposure to and
+previous experience with:
+- programming languages: C, Perl (or Ruby, Python), and Java (or C#) 
+- data processing technologies: XML, relational databases.
+We are particularly interested in candidates with experience in Oracle,
+DBMS application programming, J2EE architecture and applications
+development, and .NET Framework-based technologies.","Send your cover letter and curriculum vitae tohuman-resources@... in plain text or PDF. Please no phone calls or
+faxed inquiries.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zenteq is a software company affiliated with RenderX,
+Inc."

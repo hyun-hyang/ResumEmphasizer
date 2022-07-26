@@ -1,0 +1,15 @@
+.NET Developer,"Armeconombank is seeking a .NET Developer to work in
+the IT Department of the Head Office.",NA,"- Higher Education; B.S. in Computing Science or any related technical
+fields;
+- Knowledge of .Net Framework (C#);
+- Knowledge of  MS SQL Server 2008 (T-SQL);
+- Understanding of ASP.NET;
+- Understanding of OOP/ OOD;
+- Fluency in the Armenian language; good knowledge of the Russian and
+English languages.","All candidates can fill in the application form
+in www.aeb.am, if needed attach a CV and submit to: hrm@... . Please
+mention the position title in the subject field of the email. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

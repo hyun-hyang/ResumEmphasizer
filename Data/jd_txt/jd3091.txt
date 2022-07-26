@@ -1,0 +1,32 @@
+Java/ ATG Developer,"ATG Armenia is seeking a Java/ ATG Developer to be
+responsible for the development of Java applications.","- Develop a subsystem or full-systems using technologies assigned by the
+Technical Architect (depending on the project size);
+- Develop a clean, accurate and effective code;
+- Perform Unit testing for the delivered code;
+- Collaborate with the front-end team and other technical people to
+integrate back-end and front-end issues;
+- Participate in project meetings including post project analysis and
+provide insightful input and ideas and
+effectively communicate the project status and challenges;
+- Ensure bugs are rectified and manage the preparation of documentation
+explaining the steps taken to overcome the bugs;
+- Ensure accurate documentation throughout projects;
+- Research and experiment with new technologies and share your
+discoveries with the teams;
+- Contribute to internal projects on the required basis.","- Knowledge of Java programming and related technologies such as
+servlets, JSP, EJB, J2EE;
+- Proven exposure to development methodologies such as TDD;
+- Experience in Unit Testing, Build Tools (ant, Gradle), Version Control
+Systems (GIT, SVN);
+- Knowledge of continuous Integration (Jenkins, Maven);
+- Experience with ATG 10.x or 11.x (Data Anywhere, Dynamo Application
+Framework, Merchandising, web services, personalization, Search) and
+E-Commerce;
+- Multi-channel/ Multi-locale skills are desirable;
+- Experience in integration with Order Management Systems, CRM Systems,
+ERP Systems is desirable.","Interested candidates should send a CV and a
+motivation letter in the English language to: atg.armenia@... .
+Qualified candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

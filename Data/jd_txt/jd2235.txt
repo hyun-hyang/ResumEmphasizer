@@ -1,0 +1,26 @@
+Software Developer,"The Software Developer will take part in design and
+development of projects.",NA,"- Bachelor's degree in Computer Sciences, Information Services or a
+related field; higher degree is a plus;
+- At least 2 years of extensive development experience, and at least 1
+year of experience with the following technologies:
+a) .NET Framework 3.5 and higher;
+b) C# 3.0 and higher; 
+c) ASP.Net and WEB technologies; 
+d) MS SQL Server 2008;
+- Knowledge of the following packages and/ or technologies:
+a) WCF and Services;
+b) Security; 
+c) LINQ and also ADO.NET;
+- Experience with technologies such as XML, Subversion and related
+tools;
+- A thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Excellent communication and writing skills;
+- Experience in writing product specifications and technical
+documentation;
+- Good communication skills in Russian and English languages.","Interested candidates are kindly requested to
+email CV/ resume in English language with a photo to: support@...
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

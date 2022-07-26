@@ -1,0 +1,58 @@
+Unix Systems Administrator,"ArmenTel is looking for candidates to fulfill the
+position of Unix Systems Administrator.","- Administer Unix systems or assist in the administration of larger
+systems;
+- Initiate some new responsibilities and help to plan for the future of
+the systems;
+- Manage novice system administrators or operators; 
+- Evaluate and/ or recommend purchases;
+- Work under the general supervision of a system administrator or
+systems manager.","- University degree in Computer Sciences or a relevant area;
+- Post-graduate degree is optional;
+- Cisco certification (CCNA, CCNP or CCIE) is strongly advised;
+- Ability to write purchase justifications, train users in complex
+topics, make presentations to an internal audience and interact
+positively with upper management;
+- Independent problem solving and self-direction skills;
+- Ability to work with most aspects of UNIX systems administration; for
+example, configuration of mail systems, system installation and
+configuration, printing systems, fundamentals of security and installing
+third-party software;
+- A solid understanding of a UNIX-based operating system (paging and
+swapping, inter-process communication, devices and what device drivers
+do, file-system concepts (""inode"" and ""superblock""));
+- Familiarity with fundamental networking/ distributed computing
+environment concepts;
+- Ability to configure NFS and NIS, use nslookup or dig to check
+information in the DNS as well as understand basic routing concepts;
+- Ability to write scripts in some administrative language (Tk, Perl and
+a shell);
+- Ability to do minimal debugging and modification of C programs;
+- Strong inter-personal and communication skills;
+- Capability to write proposals or papers, act as a vendor liaison, make
+presentations to customer or client audiences or professional peers, and
+work closely with upper management is optional;
+- Ability to solve problems quickly and completely is optional;
+- Ability to identify tasks which require automation and automate them
+is optional; 
+- A solid understanding of networking/ distributed computing environment
+concepts. Understand principles of routing, client/ server programming
+and the design of consistent network-wide file system layouts; 
+- At least one year of work experience in a relative functional area;
+- Ability to work as part of a team is mandatory.","Qualified and interested candidates are kindly
+requested to email applications to: hrm@.... A complete
+application package should consist of:
+- A CV;
+- A letter of motivation (in English), explaining your eligibility and
+level of interest for the position you are applying for;
+- An application form.
+In the subject line of your e-mail mention the title and announcement
+code of the position you are applying for (for example: Unix Systems
+Administrator USA/06). 
+Only short-listed candidates will be contacted.
+The Application Form can be downloaded from the following link:
+www.armentel.com/eng/career/doc/Application.zip
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ArmenTel is a telecommunications provider in Armenia.
+For additional information about our company, please visit our website:
+www.armentel.com."

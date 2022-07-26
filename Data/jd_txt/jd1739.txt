@@ -1,0 +1,21 @@
+ASP.NET Senior Web Developer,"As a Senior ASP.NET MVC Developer, the incumbent will
+help build the company's next-generation web services where millions of
+users connect on a daily basis to learn, contribute and interact. The
+company utilizes a state-of-the-art .NET/ MVC/ AJAX development
+environment. The holder of the position will work in the areas of
+collecting specifications, prototyping, application development and
+production support.","- Design and implement solutions according to business requirements;
+- Work within an Agile development environment;
+- Produce technical documentation; 
+- Keep track of lessons learned and share those lessons with team
+members.","- At least 3 years of experience with ASP.NET and C#;
+- Knowledge of MVC is a big plus;
+- Knowledge of AJAX, jQuery and HTML;
+- Database proficiency in Microsoft SQL Server;
+- Experience with Linq2Sql or EF ;
+- Knowledge of Web services is an advantage;
+- Strong analytical and problem solving skills;
+- Proactive and a self-motivated learner.","Please send your CV to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

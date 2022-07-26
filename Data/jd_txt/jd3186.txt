@@ -1,0 +1,23 @@
+Senior PHP Developer,"e-Works LLC is looking for a Senior PHP Developer to
+join the team working on international projects.","The job responsibilities of the Senior PHP
+Developer include but are not be limited to the following: 
+- Develop and maintain web applications in accordance with given
+specifications;
+- Participate in project planning;
+- Work collaboratively and effectively on team projects;
+- Be flexible in learning new technologies.","- At least 5 years of work experience as a PHP Software Developer;
+- Strong knowledge of PHP5, JavaScript (JQuery, AngularJS), HTML5, CSS3,
+Bootstrap; Strong knowledge of Yii framework; knowledge of other
+frameworks is a big plus;
+- Strong knowledge of MySQL and MongoDB;
+- Experience with Magento is a big plus;
+- Good problem-solving skills and the ability to work independently;
+- Good oral and written communication skills; fluency in the English
+language.","To apply for this position, please send your
+cover letter and resume to: jobs@... mentioning the title of the
+position in the subject line of the email. Only short-listed candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""e-Works"" LLC is a professional French-Armenian Internet
+strategy and web design company based in Yerevan, Armenia."

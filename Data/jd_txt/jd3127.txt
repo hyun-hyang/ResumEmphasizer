@@ -1,0 +1,32 @@
+Mid-Level iOS Developer,"Joomag AM LLC is seeking a highly motivated Mid-Level
+iOS Developer who will become a part of the Company's team and contribute
+to all the aspects of the ongoing software development from the
+initiation to developing, testing and launching.","- Design and build advanced applications for the iOS platform;
+- Ensure the performance, quality and responsiveness of applications;
+- Collaborate with cross-functional teams to define, design and ship new
+features;
+- Work on bug fixing and improving the application performance;
+- Discover continuously, evaluate and implement new technologies to
+maximize the development efficiency.","- At least 2 years of experience in iOS Development;
+- Bachelor's/ Masters degree in Computer Sciences, Engineering or a
+related discipline;
+- Proficiency with Objective-C and Cocoa Touch; Swift knowledge is a
+plus;
+- Strong knowledge of OOP concepts and coding algorithms;
+- Experience with offline storage, threading and performance tuning;
+- Experience working with iOS frameworks such as Core Data, Core
+Animation, Core Graphics and Core Text;
+- Understanding of code versioning tools such as Git, Mercurial or SVN;
+- Understanding of Apple's design principles and interface guidelines;
+- Experience of having published one or more iOS apps in the app store;
+- Experience with third-party libraries and APIs;
+- Working knowledge of the general mobile landscape, architectures,
+trends and emerging technologies;
+- Solid understanding of the full mobile development life cycle;
+- Good knowledge of the English language.","All the interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

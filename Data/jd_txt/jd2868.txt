@@ -1,0 +1,25 @@
+Senior Web Developer,"Sourcio CJSC is seeking experienced Senior Web
+Developers for the development of features for its US partners' product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical documentation.","- University degree in the appropriate fields of study;
+- At least 4 years of practical experience in Web development;
+- Good knowledge of DHTML, advanced knowledge of Javascript and its
+libraries (Angular.js, Backbone.js, etc.);
+- Good knowledge of PHP;
+- Good knowledge of OOP principles;
+- Knowledge of Java is an advantage;
+- Working experience  in Linux environment (Ubuntu, Suse) is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language both communication and technical
+level.","All interested and qualified candidates are
+welcome to send their CVs to: info@... .  Please indicate the
+position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio is an off-shoring and outsourcing solutions
+provider based in Armenia. For more information about the company, please
+visit: www.sourcio.com."

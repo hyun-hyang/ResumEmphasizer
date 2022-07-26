@@ -1,0 +1,39 @@
+Senior QA Engineer,"BetArchitect LLC is seeking a Senior QA Engineer to
+join the team in developing enterprise level software solutions. The
+company is looking for an energetic person who is ready for new
+challenges and has a good understanding of Software Quality Assurance.","- Perform functional, regression, usability testing on web based and
+desktop applications;
+- Test case creation/ execution and maintenance;
+- Responsible for issue identification and reporting;
+- Ensure the quality of software releases and patch builds through manual
+and automated testing;
+- Research and track open issues related to projects;
+- Ensure the requirements full coverage with test cases;
+- Handle other tasks as assigned;
+- Interact with various stakeholders;
+- Responsible for product management, development and operations.","- BS in Computer Science or in any related technical field;
+- At least 2 years of experience in Software Quality Assurance;
+- Broad experience using load testing tools (JMeter/ LoadRunner/ VS Web
+Performance and Load Test environment);
+- Good knowledge of software quality assurance and defining quality
+strategies for projects;
+- Advanced knowledge of system development lifecycle, methodology and
+testing knowledge;
+- Solid understanding of QA processes and methodology;
+- Good English language writing and reading skills;
+- Strong analytical, problem-solving and communication skills;
+- Expert ability to apply concepts of system, regression, product,
+integration and acceptance testing;
+- Ability to apply unit testing is a plus;
+- Experience of automation testing tools (Selenium, Coded UI etc.) and
+frameworks (WebDriver, NUnit, MSTest etc.) will be a plus;
+- Experience with Visual Studio 2012 and C# is an asset.","Interested candidates are asked to send a Resume
+(CV) in English language directly to: hr@... . Please,
+indicate ""Senior QA Engineer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

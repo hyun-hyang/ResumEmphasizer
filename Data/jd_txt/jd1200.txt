@@ -1,0 +1,22 @@
+System Administrator/ Developer,"Armenian Card is looking for a motivated, self-driven
+and professional candidate for the position of System Administrator/
+Developer.","- Be responsible for third-party software maintenance, testing and
+implementing of the new versions, patches and upgrades; 
+- Maintain and support operating systems and DBMS; 
+- Optimize DBMS performance; 
+- Manage project with the partners and third-party software vendors.","- At least 2 years of work experience as a Software Developer;
+- At least 1 year of work experience with databases (Oracle or MS SQL
+Server);
+- Good knowledge of OOP;
+- Good knowledge of DotNet and SQL languages;
+- Basic knowledge of web technologies;
+- Knowledge of PL/SQL, T-SQL language;
+- Problem solving skills;
+- Knowledge of Armenian, English and Russian languages.","Qualified and interested candidates are kindly
+requested to submit CV, Cover Letter and salary expectations to:arca@... mentioning the position title applying for in the subject
+line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Company address: Garegin Nzhdeh 32/1, Yerevan.
+For additional information about the company, please visit its website:
+www.arca.am."

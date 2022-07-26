@@ -1,0 +1,25 @@
+PHP Programmer,"Panther Application Dev LLC is looking for a highly
+motivated PHP developer to join their team.","- Read, understand and modify the existing code;
+- Develop and maintain applications in accordance with given
+specifications;
+- Work collaboratively and effectively on team projects.","- At least Bachelor's degree in IT;
+- At least 3 years of proven work experience in PHP (5.0 and on)
+development, design and coding;
+- Good knowledge of HTML, CSS, AJAX and JavaScript frameworks;
+- Good understanding of OOP;
+- Good knowledge of MySQL;
+- Good knowledge of English language;
+- Fast learner;
+- Positive personality.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""PHP Programmer"",
+listing your qualifications and indicating your contact details: phone,
+fax, and/ or e-mail address where you can be reached to: Mr. Loris
+Lalayan, Director  at: loris@... . Candidates who
+meet these qualifications will be short-listed and interviewed. Selected
+candidates will be notified of the interview dates directly. We thank all
+who apply but only those selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Panther Applications Dev LLC is a software development
+company specialized in provision of outsourcing development to its
+affiliate in Denmark."

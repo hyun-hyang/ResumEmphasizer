@@ -1,0 +1,20 @@
+Senior Java Software Engineer,"In this role the incumbent will be responsible for high
+quality software development with appropriate speed. He/ she should be
+able to work independently and design and implement solutions with unit
+tests coverage, in regards to the best practices and industry standards.
+The incumbent should be a strong team player and will be encouraged to
+provide support to the team members.","- Responsible for developing and building high quality web applications;
+- Develop web applications with Java, Spring, Hibernate and MYSQL;
+- Implement user web interface technologies.","- Strong Java skills;
+- Excellence in J2EE, Spring, Hibernate, MYSQL; knowledge of MoNGoDB is a
+plus;
+- Experience in Front-end development (Javascript, JQuery); experience in
+AngularJS is a plus;
+- Good communication skills;
+- Good knowledge of the English language;
+- Understanding of an agile methodology (Scrum);
+- Familiarity/ experience with TDD (Test Driven Development).","Interested candidates are asked to send their
+CVs to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Please visit: www.essentialsln.com for more information.

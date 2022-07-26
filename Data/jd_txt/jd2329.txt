@@ -1,0 +1,19 @@
+Senior Java Developer,"Damaris AM is looking for a qualified Senior Java
+Developer to participate in Damaris 3G developments.","- Participate in Damaris Web projects;
+- Responsible for development of Backend and Frontend.","- At least 3 years of work experience;
+- Experience in team work;
+- Good knowledge of OOP principles;
+- Good knowledge of MVC pattern;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Ability to handle the whole project and lead a small team;
+- Very good knowledge of JSP/ Servlet, J2EE, JSF, Hibernate and Spring;
+- Good knowledge of JavaScript, HTML and CSS;
+- Knowledge of Struts and HTML5 is a plus;
+- Database proficiency in SQLServer and Oracle is a plus.","All interested candidates should send their last
+updated resume to: hr@... . Please mention in the subject line the
+position you are applying for. Only shortlisted candidates will be
+contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM LLC is a subsidiary of French ""Damaris SA""
+company which is engaged in Document Management and Archiving."

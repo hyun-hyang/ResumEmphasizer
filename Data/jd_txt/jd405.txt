@@ -1,0 +1,59 @@
+Systems Administrator,"ArmenTel is looking for candidates to fulfill the
+position of Systems Administrator.","- Administer systems alone or assist in the administration of larger
+systems. Initiate some new responsibilities and help to plan for the
+future of the systems;
+- Manage novice system administrators or operators; 
+- Evaluate and/ or recommend purchases;
+- Work under the general supervision of a system administrator or
+systems manager.","- University degree in Computer Sciences or a related area;
+- Post-graduate degree is optional;
+- Cisco certification (CCNA, CCNP and CCIE) is strongly advised;
+- Ability to follow instructions well;
+- Strong interpersonal and communication skills;
+- Capability to train users in applications and UNIX fundamentals and
+writing basic documentation;
+- Ability to work with most of UNIX commands/ utilities. Familiarity
+with most basic system administration tools and processes (for example,
+can boot/ shutdown a machine, add and remove user accounts, use backup
+programs and fsck, maintain system database files (groups, hosts and
+aliases)). Fundamental understanding of a UNIX-based operating system
+(for example, understands job control, soft and hard links, distinctions
+between the kernel and the shell);
+- Strong inter-personal and communication skills;
+- Ability to write purchase justifications, training users in complex
+topics, making presentations to an internal audience, and interacting
+positively with upper management;
+- Independent problem solving and self-direction skiils;
+- Ability to work with most aspects of UNIX systems administration (for
+example, configuration of mail systems, system installation and
+configuration, printing systems, fundamentals of security, installing
+third-party software);
+- A solid understanding of a UNIX-based operating system (understand
+paging and swapping, inter-process communication, devices and what
+device drivers do, file system concepts (""inode"" and ""superblock"");
+- Familiarity with fundamental networking/ distributed computing
+environment concepts. Ability to configure NFS and NIS, use nslookup or
+dig to check information in the DNS and understand basic routing
+concepts;
+- Ability to write scripts in some administrative language (Tk, Perl and
+a shell);
+- Ability to do minimal debugging and modification of C programs;
+- Able to work as part of a team is mandatory;
+- At least one year of work experience in a relative functional area.","Qualified and interested candidates are kindly
+requested to email applications to: hrm@.... A complete
+application package should consist of:
+- A CV;
+- A letter of motivation (in English), explaining your eligibility and
+level of interest for the position you are applying for;
+- An application form.
+In the subject line of your e-mail mention the title and announcement
+code of the position you are applying for (for example: Systems
+Administrator SA/06). 
+Only short-listed candidates will be contacted.
+The Application Form can be downloaded from the following link:
+www.armentel.com/eng/career/doc/Application.zip
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ArmenTel is a telecommunications provider in Armenia.
+For additional information about our company, please visit our website:
+www.armentel.com."

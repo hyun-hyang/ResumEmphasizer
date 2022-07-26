@@ -1,0 +1,25 @@
+Billing Database Administrator,"The incumbent is responsible for managing and
+maintaining database servers and applications, monitoring system
+performance; providing support to all system development and operations
+by providing respective accesses.","- Plan and establish database backup and recovery procedures;
+- Process database startup and shutdown procedures;
+- Manage and monitor database security and access control;
+- Maintain database and table space allocation, and forecast future
+growth;
+- Install database new releases and upgrades;
+- Perform database fine tuning and optimize data access;
+- Perform database analysis and capacity planning;
+- Document database maintenance procedures;
+- Manage users database accesses.","- BS in Computer Science, Computer Engineering or equivalent;
+- 3 years of work experience in database administration;
+- Database knowledge (Oracle, SQL Server);
+- Experience with SQL, PL/SQL;
+- Good knowledge of MS Office tools (Word, Excel, Access);
+- Fluent in Armenian, Russian and English languages;
+- Ability to participate and contribute as part of a team;
+- Ability to perform an overloaded work within limited period of time.","To apply, please email your resume to:personnel@... . Only shortlisted candidates will be
+invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Karabakh Telecom is the telecommunication operator in
+the NKR."

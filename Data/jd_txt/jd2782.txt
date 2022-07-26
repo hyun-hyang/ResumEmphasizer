@@ -1,0 +1,61 @@
+Systems Administrator,"The Systems Administrator should administer the
+operations of computer systems related to operating systems, servers, and
+end-user workstations. Although the incumbent will not be responsible for
+writing new application software, he/ she should demonstrate
+understanding of how software behaves in order to deploy, configure and
+troubleshoot systems. Additionally, the Systems Administrator should
+research new technologies and leverage optimization techniques to ensure
+that systems operate efficiently.","- Build and maintain web, virtual, and client server environments for the
+enterprise;
+- Maintain the operations of all virtual, web, and client systems to
+ensure availability;
+- Troubleshoot and resolve any IT service issues related to operating
+systems and servers;
+- Partner with the infrastructure team to troubleshoot and resolve
+network related issues;
+- Implement and maintain a systems business impact assessment to
+prioritize system recovery in the event of a failure;
+- Train the technical support staff on solving common systems-related
+problems;
+- Build and implement software standards for servers, operating systems,
+and end-user workstations;
+- Leverage optimization techniques to maximize the efficiency of all
+computer systems;
+- Work with third-party vendors and consultants on developing
+system-specific skills.","- Strong logical and analytical thinker;
+- Attention to detail;
+- Ability to find the root causes of problems and quickly determine
+efficient solutions;
+- Ability to anticipate risks and mitigate at the moment;
+- Ability to feel comfortable under high-stress and exhibit poise and
+focus;
+- Strong verbal and written communication skills;
+- Good negotiation skills, and capability to handle multilevel
+communications channels;
+- Ability to take the lead, to work patiently and under pressure with
+little or no supervision;
+- Good negotiations skills, and capability to handle multilevel
+communications channels;
+- Proficiency with relevant business systems, operating systems, and
+servers;
+- Knowledge of networking concepts (e.g. systems, protocols, directory
+services);
+- Skilled personality in light programming, project management of small
+initiatives, and troubleshooting;
+- Experience with the following products: Windows Microsoft Servers 2003/
+2008R2, Symantec VERITAS Backup for Windows Servers, Microsoft SharePoint
+2012 and higher, Microsoft SQL Server, System Center 2012, MS Exchange
+2010-2013, HP and IBM Servers;
+- Experience with the following products is a plus: IBM Lotus Notes 6.x
+or higher, Blackberry Enterprise Server, Microsoft Network management;
+- Project management skills, and strong ability to prioritize tasks;
+- Fluency in Russian language, working knowledge of English language;
+- BS in Computer Science or equivalent;
+- 3-5 years of experience in IT service delivery.","Those who meet the requirements above and are
+confident that their background and experience qualify them for this
+position, are asked to e-mail their detailed CV to FINCA at: hr@...
+. Please specify the subject line of the email as ""Systems Administrator
+- Name Surname"" naming the CV by your name and surname.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

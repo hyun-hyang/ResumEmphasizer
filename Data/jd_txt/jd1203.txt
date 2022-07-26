@@ -1,0 +1,24 @@
+Senior Developer for Real-Time Trading Applications,"Firmplace Corporation, Yerevan Branch is currently
+seeking a Senior Developer for Real-Time Trading Applications for its
+new large global project. 
+New project for Real Time trading should be developed. The incumbent
+will be designing and implementing trading solution that delivers
+millions of transactions in the time critical environments.","- Participate in development of new projects;
+- Design and implement solutions according to business requirements; 
+- Participate in a variety of meetings with customers and team; 
+- Keep track of lessons learned and share those lessons with team
+members.","- Bachelor's degree in Computer Science or equivalent; 
+- Strong software development and coding skills, preferably using
+C/C++;
+- OO analysis and design skills;
+- Development experience for trading and/ or real time programming
+skills;
+- Continuous strive for personal skill set and knowledge base
+improvement;
+- Very good knowledge of English (writing and speaking)
+language;
+- Ability to express thoughts clearly.","Please send your CV to: jobs@... .
+Only shortlisted candidates will be invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,44 @@
+IT Specialist,"The IT Specialist will be a member of the Information
+Systems Department team to be in charge of IT field support.","- Assist to ISD Manager to determine user training requirements across
+Finca Armenia;
+- Handle printers, the copy machine and work centers work;
+- Provide the users with the support in the event of the system
+failures;
+- Provide ongoing guidance, trouble-shooting support and response to user
+questions with software and hardware;
+- Give trainings to the company's users if necessary, as per the plan and
+schedule;
+- Provide IT support to the Finca local, regional and international
+staff;
+- Responsible for Help Desk operations;
+- Install new hardware and software in accordance with established
+policies and procedures;
+- Ensure sound IS Department management of servers, computers, UPS,
+software and office networks;
+- Ensure the security and integrity of networks, databases, and file
+storage;
+- Assist to provision of the preventive and corrective maintenance
+services;
+- Maintain an up-to-date inventory and equipment transfer lists of all
+the computer equipment that would include the location for each item and
+the name of the person-in-charge;
+- Maintain internal and external communication systems, Internet
+facilities;
+- Responsible for computer hardware and electronic equipment installation
+and repair.","- University diploma in Computer Engineering or a relevant qualification
+certificate;
+- Administration experience, in MS Windows/ FreeBSD based Office and
+Network systems;
+- Knowledge of TCP/ IP networking;
+- MS SQL server, SQL script, programming experience;
+- Banking experience is preferable.","Those who meet the requirements mentioned above
+and are confident that their background and experience qualify them for
+the position, should e-mail a detailed CV and a motivation cover letter
+to: hr@... , mentioning the position you are applying for in the
+subject line of the e-mail. The company will start the selection process
+as soon as a sufficient number of qualified applications is received.
+Therefore, early applications are welcomed. Only short-listed candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

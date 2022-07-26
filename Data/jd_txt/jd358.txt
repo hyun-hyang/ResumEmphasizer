@@ -1,0 +1,20 @@
+Senior Software Engineer,"LinkGard Systems, LLC is seeking highly experienced
+Senior Software Engineers (five engineers in total) who can design and
+develop Enterprise Resource Management applications using SOAP
+technology.","- Work as part of a software development team;
+- Design and analyze software applications;
+- Develop applications using C# and other .NET languages;
+- Write documentation in English language.","- University degree;
+- Experience in designing Web Services (SOAP, WSDL, etc.);
+- Excellent knowledge of XML;
+- Excellent knowledge of English language;
+- At least 3 years of work experience with MS development tools
+(especially in C#);
+- Knowledge of C/ C++ is a big plus;
+- Ethical, energetic and highly motivated personality.","To apply, email your cover letter and resume
+to: jobs@.... Please put ""LG019"" in the subject line of your
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held IT company. For
+more information visit: www.linkgard.com."

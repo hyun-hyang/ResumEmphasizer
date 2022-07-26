@@ -1,0 +1,23 @@
+Senior OpenGl ES Developer,"PicsArt Photo Studio needs a smart, extremely motivated
+Senior OpenGl ES Developer who is willing and able to  quickly contribute
+to PicsArt.","- Work with OpenGL ES and Metal (iOS) mostly;
+- Work on creating an application framework based on OpenGL and Metal.","- At least 3 years of software development experience;
+- Excellent system analysis and design skills;
+- Excellent communication, interpersonal, problem-solving and
+relationship management skills;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Experience in Core Graphics is a plus;
+- Experience with C/ C++ is a plus;
+- Experience with image processing is a plus;
+- Ability to write an elegant and readable code;
+- Good knowledge of the technical English language;
+- Readiness to work in a start-up environment with a highly goal-oriented
+team.","To apply for this position, please send a CV
+addressing relevant qualifications and experience to: jobs@... . 
+In the subject line of your email message, please write ""Application for
+Senior OpenGl ES Developer"". No information inquiries will be handled
+over the phone. Only short-listed candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,26 @@
+Software Test Engineer,"Synopsys Armenia is seeking a Software Test Engineer
+to work on problems of diverse scope where analysis of situation or data
+requires evaluation of identifiable factors. The incumbent exercises
+judgment within generally defined practices and policies in selecting
+methods and techniques for designing solutions.","- Design and develop automated tests for a custom design platform, these
+tests range from simple functions;
+- Consult with R&D and CAE teams on product functions and definitions,
+design tests for future releases;
+- Create and maintain scripts for test generation and monitoring; 
+- Work within a team structure to ensure efficient communication and
+growth for the team; 
+- Be responsible for quality and stability of the released product.","- BS/MS degree preferably in semiconductor engineering,
+microelectronics, Computer Science or similar area;
+- 3+ years of work experience in corresponding area (SQA);
+- Knowledge of IC design/EDA tools, technical documentation, utilities;
+- Proficiency with Unix, and a strong understanding of custom design
+flow, VLSI, and/or CAD engineering;
+- Ability to capture design flows for an analog and mixed signal
+platform;
+- Strong verbal and written English language knowledge.","Please email your detailed CV directly to:dianan@... indicating the position title in the subject line of
+your email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

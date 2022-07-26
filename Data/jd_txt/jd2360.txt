@@ -1,0 +1,31 @@
+Ruby Developer,"At Netsoft USA, the Ruby Developer will be part of a
+project team and help build applications from the ground up.","- Work in a technical team to craft and develop technical solutions that
+meet customer??s requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Code Ruby on Rails applications;
+- Understand business and functional requirements, and translate them
+into amazing technical solutions;
+- Identify company paid training opportunities to expand technical
+horizon;
+- Truly enjoy a job for a living.","- Insane coding skills;
+- Excellent command of English language, both written and spoken;
+- At least Bachelor??s degree in Computer Science or a related field;
+- 1-2 years of professional experience developing Ruby on Rails
+applications;
+- Strong Ruby experience;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with AJAX, JQuery and Javascript;
+- Experience with relational database (MS SQL Server, Oracle, etc.);
+- Experience in data model and object design;
+- Experience in any Open Source language is a plus.","Please send your CV to:Yerevan.Careers@... clearly indicating ??Ruby Developer?? in
+the subject line of your e-mail. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The Company provides:
+- Merit based profit sharing;
+- Fully paid Health Benefits;
+- Company paid training;
+- Flexible time.","Netsoft USA specializes in creating custom business
+solutions for a diverse client base."

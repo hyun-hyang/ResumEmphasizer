@@ -1,0 +1,23 @@
+Senior Web Developer,"""Mobbis"" LLC announces the recruitment of specialists
+to the position of Senior ASP.NET/ C# Developer with good knowledge of
+Web technologies, to be engaged in long term projects, which are
+implemented by ""Mobbis"".","- Participate in application design and development;
+- Provide necessary technical documentation;
+- Communicate effectively with management and team members;
+- Develop and implement projects according to technical specifications;
+- Maintain existing projects;
+- Participate in the development of new projects.","- University degree in the appropriate field of studies;
+- At least 3 years of work experience;
+- Knowledge of ASP.NET and C#;
+- Work experience with HTML, CSS and JavaScript;
+- Database proficiency in MSSQL;
+- Knowledge of DHTML: JavaScript, AJAX, CSS2, CSS3, HTML4 and HTML5;
+- Knowledge of OOP (Object-oriented programming) principles;
+- Knowledge of other programming languages, such as Java is an
+advantage;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Ability to work in a team.","Send your CV to: info@... or call 010
+220355.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

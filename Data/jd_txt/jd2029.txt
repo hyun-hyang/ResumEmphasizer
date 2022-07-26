@@ -1,0 +1,27 @@
+Java GUI Developer,"The incumbent will design and develop Eclipse/ Java
+based Graphical User Interface (GUI) software.","- Specify and develop new GUI components and dialogs for the
+configuration of Sonics IP;
+- Support existing GUI components and dialogs for the configuration of
+Sonics IP;
+- Code using Eclipse RCP and Plug-in Development techniques;
+- Create technical and design documentation;
+- Perform other tasks as assigned.","- Solid understanding of OOP data structure principles;
+- Good knowledge of Java (J2SE);
+- Experience in Eclipse IDE;
+- Experience in Eclipse RCP is an advantage;
+- Experience in SWT, XML/ JAXB and JUnit is desired;
+- Knowledge of Linux/ Unix environment;
+- Knowledge of basic hardware concepts is an advantage;
+- Readiness to learn new languages and technologies;
+- Good communication skills;
+- Good English language skills;
+- BS in CS/ CE, MS is a plus.","If you meet the requirements above and are
+confident that your background and experience qualify you for the
+position, please e-mail your detailed resume to: armenia@... ,
+mentioning the position you are applying for in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sonics Armenia Holdings Inc. is a Branch of Sonics Inc.,
+headquartered in Milpitas, California with offices worldwide. For more
+information, please visit www.sonicsinc.com and www.sonicsinc.com/blog."

@@ -1,0 +1,52 @@
+Senior Java Web Developer,"Energize Global Services CJSC is looking for a Senior
+Java Web Developer for an international project on e-payment systems for
+the optimization of automated front-office production controls. Business
+trips to Europe and French language courses are available.","- Design, implement and troubleshoot web content management solutions
+using technologies such as Java, HTML5/ CSS, JavaScript;
+- Responsible for documenting designs, development, testing approaches,
+knowledge and best practices;
+- Deliver development assignments as specified and within the project
+schedule deadlines;
+- Test all fixes on the development and/ or staging servers before
+deploying into production, and coordinate user acceptance testing with
+the users;
+- Attend meetings with the users as needed to review the development
+requests, solicit clarifications on the requests, propose/ demonstrate
+solutions, and review status of work-in-progress;
+- Refactor the Web GUI: aggregate and show a consolidated view of all the
+controls on one unique view. Improve end-user experience;
+- Generalize the test automation: consolidate a view presenting an
+analysis of error codes returned, response time and activity;
+- Create a history of the usage metrics and extrapolate their ""standard
+activity"";
+- Implement new alerting mechanism when significant gap with standard
+activity is noticed.","- At least 3 years of professional web application engineering
+experience. High degree of familiarity with Web development
+technologies;
+- Solid Java/ J2EE development experience. Experience with server-side
+web technologies using J2EE;
+- Solid experience in OOP/ OOD;
+- Solid experience in HTML5, CSS3, JavaScript, JQuery, AngularJS;
+- Knowledge of openEJB;
+- Knowledge of Tapestry is preferable;
+- Working experience under Linux, Shell Linux operating systems;
+- Solid knowledge of MySql;
+- Experience with source control management and Maven build tools;
+- Strong debugging skills;
+- Ability to write engineering specifications;
+- Ability to work on competing priorities and adapt to changes in project
+scope;
+- Excellent interpersonal, verbal and written communication skills, as
+well as follow-through are essential;
+- Bachelor's or Master's Degree in Computer Science is preferred;
+- Fluent verbal and written knowledge of English language (for daily
+calls with foreign customers and business trips);
+- Good knowledge of French language is a plus.","If interested, please email your last updated
+detailed resume to: hr@... . In the subject line of your
+message, please mention ""Senior Java Web Developer"". Only shortlisted
+candidates will be invited for an interview and test.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

@@ -1,0 +1,56 @@
+IT Specialist (Implementation and Support of Large Scale,"Chemonics International Inc. implements the USAID
+Armenia Pension Reform Implementation Program (PRIP) which aims at
+contributing to successful implementation of Pension reforms in Armenia.
+PRIP seeks a qualified professional for the full-time IT Specialist
+position, which requires experience with implementation and support of
+large scale databases. IT Specialist will provide expertise in analyzing
+requirements for database solutions, developing, implementing and
+maintaining applications, documenting system components and user
+instructions and serving as a technical advisor to the staff.","- Establish the needs of users and monitor user access and security;
+- Map out the conceptual design for a planned database in outline;
+- Consider both back-end organization of data and front-end accessibility
+for end-users;
+- Refine the logical design so that it can be translated into a specific
+data model;
+- Further refine the physical design to meet system storage
+requirements;
+- Write database documentation, including data standards, procedures and
+definitions for the data dictionary (metadata);
+- Control access permissions and privileges;
+- Develop, manage and test back-up and recovery plans;
+- Ensure that storage, archiving, back-up and recovery procedures are
+functioning correctly;
+- Responsible for capacity planning;
+- Work closely with information systems team members, technical staff and
+database programmers;
+- Communicate regularly with technical, applications and operational
+staff to ensure database integrity and security;
+- Perform other relevant tasks as assigned by the DCOP/ information
+systems team leader.","- Master's degree in Engineering;
+- Previous professional experience in implementation of new software
+platforms and information systems;
+- At least 5 years of experience in implementation and support of large
+scale databases;
+- Strong understanding of database structures, theories, principles and
+practices;
+- Understanding of, and experience with, server-client computing and
+relational database environments;
+- Experience with data management and data processing flow-charting
+techniques;
+- Technical documentation skills;
+- Experience in developing and maintaining relational structures
+including backup/ recovery and log shipping procedures;
+- Ability to communicate clearly and effectively;
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian and English languages.","Interested candidates are asked to send a CV and
+a cover letter including three professional references to: hr@... ,
+indicating the position title in the subject line of the e-mail. Only
+finalists will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The PRIP project intends to assess software platforms at
+the State Social Security Service of the MLSA of the Republic of Armenia
+(SSSS) and Nork Information-Analytical Center (Nork). PRIP will make
+recommendations to rationalize a software strategy, ultimately ensuring
+access to information relevant to payment processing for all pension
+benefits."

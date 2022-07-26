@@ -1,0 +1,29 @@
+Software Engineer,"Pegasus Logic is looking for a Software Engineer to
+join company's technology group for LabView Software development.","- Develop software with National Instruments technologies;
+- Document and develop client-facing and internal multiplatform LabVIEW
+applications;
+- Implement and support complex and reliable applications with National
+Instruments technologies;
+- Adhere to consistent software development process and develop
+re-usable, efficient, scalable, maintainable and reliable code. Utilize
+unit and component testing for higher quality code;
+- Communicate closely with Team Lead on task definition and planning.","- University degree in Computer Sciences or a related field;
+- At least 5 years of experience with production software design and
+development;
+- Expert knowledge and experience of the following: 
+a) Advanced C/C++, embedded firmware development;
+b) Data structures and algorithms;
+c) Experience with Microcontroller (ATMEL, PIC) application development;
+d) Knowledge of signal processing algorithms and data processing;
+e) Knowledge of software development libraries;
+- Good problem solving and debugging skills; 
+- Knowledge of the Software Development Life Cycle and UML;
+- Good time-management and organizational abilities that facilitate
+structured teamwork; 
+- Good written and oral communication skills; 
+- Interest in the industrial automation and semiconductor testing
+processes would be an asset.","Please, send your CV with a photo to:career@... . Please indicate Software Engineer in the
+email subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

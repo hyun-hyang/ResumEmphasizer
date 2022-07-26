@@ -1,0 +1,32 @@
+Linux C++ Software Developer,"The primary objective of this position is to produce
+the required product in conjunction with team members ensuring it is
+timely and of high quality.","- Participate in gathering and producing requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Work productively as part of a software development team;
+- Communicate effectively with the management and with team members;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of hands-on experience with C++ development in Linux
+environment, enterprise-class system architecture and design or
+equivalent combination of education, skills and experience;
+- Solid knowledge of network protocols, network programming and IPC
+(Inter-Process Communication);
+- Demonstrated record of implementing high-quality software products
+delivered to market;
+- Strong problem-solving and self-development skills and ability to be a
+successful member of a team;
+- Good English language skills and ability to develop those skills;
+- Desire to learn new technologies;
+- Knowledge of application of software development methodology
+(preferably UML);
+- Command of current technology.","Interested candidates are asked to send their
+applications to: yer_job@... . Please mention the position you are
+applying for in the subject line of the e-mail. If any questions, please
+call: (010) 26-56-01 ext. 7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it was founded in
+1980. Currently it has over 500 employees worldwide in 15 offices. Its
+Yerevan office was opened back in 2004. For more information please go
+to: www.cqg.com."

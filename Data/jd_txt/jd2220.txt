@@ -1,0 +1,19 @@
+Linux (Ubuntu) Administrator,"Ginosi.com is looking for an experienced Linux (Ubuntu)
+Developer with at least some basic PHP knowledge. This is the ideal role
+for a real expert with significant experience in Linux system scripting.
+The incumbent will be mentored by two other talented developers who work
+on the software. The software stack has 3 key components: a Backoffice, a
+website and an XML interface connectivity.","- Set up a complete LAMP environment;
+- Maintain security;
+- Write scripts;
+- Responsible for automation;
+- Develop software;
+- Support developers;
+- Maintain the software.","- University diploma;
+- At least 3 years of work experience on Linux systems;
+- Amazing bash skills;
+- Knowledge of SVN, scripting automation, caching and cron;
+- Strong MySQL skills.","Please apply by sending your CV to:amur@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Ginosi is an online accommodations booking company.

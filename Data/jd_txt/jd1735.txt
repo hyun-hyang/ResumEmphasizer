@@ -1,0 +1,63 @@
+IT Systems Administrator,"The purpose of the IT Systems Administrator is to
+implement and support IT systems and infrastructure, provide ongoing
+support to existing and future infrastructure projects. The IT Systems
+administrator will be responsible to manage, monitor and maintain
+production systems, plan, implement, maintain and update systems and
+resources. The incumbent in this role will be responsible for all aspects
+of the distributed systems environment, with a focus on Red Hat Linux,
+Windows, VMware, netbackup, knowledge of windows essential services like
+active directory, DNS, DHCP etc. and hardware. The responsibilities of
+this role include project participation, project implementation and
+day-to-day administration.","- Assist with the preparation and maintenance of systems design
+documentation;
+- Perform and/ or direct installations and upgrade to operating systems
+and layered software packages;
+- Monitor and tune the system to achieve optimum level of performance;
+- Ensure data/ media recoverability by implementing a schedule of system
+backups and database archive operations;
+- Conduct routine hardware and software audits of operating system
+workstations and servers for compliance with established standards,
+policies, configuration guidelines and procedures;
+- Develop and maintain a database/ library of all supporting
+documentation;
+- Monitor, troubleshoot and escalate production issues;
+- Apply security and application patches to Windows and Linux platforms;
+- Be responsible for VPN client support;
+- Manage and control all aspects of the Windows 2008 domain controller
+implementing domain and local policies, implementing GPOs, software
+deployment, managing users and resources.","- Proficiency in the operation and maintenance of computers, servers
+including Red Hat Linux, Windows Operation Systems (XP, Win 7,
+Win2003/2008), IIS, DHCP, DNS, MS Office Suite, Active Directory, GPO,
+Windows 2008 Certificate server, Microsoft Communicator, Microsoft SCCM,
+Microsoft Windows cluster 2008, Exchange Server 2010, e-mail archiving
+(EV), LDAP, Knowledge of HP server hardware, iLO and HPSim and server
+firmware/ hardware upgrades;
+- Bachelors degree or equivalent experience in technical related field;
+- Experience in a high volume Information Technology industry;
+- Familiarity with Cisco equipments and remote connectivity;
+- Knowledge of TCP/ IP networking, cabling, LAN/ WAN protocols, routing
+protocols and network design;
+- Excellent organizational, communication, analytical and interpersonal
+skills;
+- Ability to deliver clear and concise system documentation and manage
+inventory;
+- Ability to carry a 24/7 on call pager rotating with other team
+members;
+- Proficient in VMWare ESX 4.x (vSphere) and VCENTER;
+- Familiarity with RHEL 5.x;
+- Ability to troubleshoot, find/ research solution and bring tier 2
+issues to a satisfactory resolution;
+- Ensure timely delivery of projects and applications;
+- Ability to prioritize and meet deadlines;
+- Ability to maintain and monitor the System;
+- Ability to manage systems infrastructure including fine tuning,
+performance, capacity planning, reorganization and quality assurance;
+- Ability to support users from both a hardware and software perspective,
+including trouble shooting, problem isolation and solution implementation
+for above responsibilities;
+- Create job report and update documents;
+- Provide high quality customer service to internal and external
+customers.","Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=240
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

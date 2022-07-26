@@ -1,0 +1,62 @@
+Senior iOS Developer for Video Apps,"R&D Arts Armenia is looking for a motivated and
+experienced candidate to take over the position of Senior iOS Developer.","- Responsible for iOS mobile development;
+- Participate in technical discussions, attend meetings, standups and
+follow the Agile process for development;
+- Implement, debug, test, and enhance critical mobile application
+features; 
+- Ensure a high quality of implementation via code reviews and unit
+testing; 
+- Provide timely feedback to PM on product requirements; 
+- Collaborate with QA on bug fixes and test case reviews.","- Technology-wise, with knowledge of Objective C, C and C++; 
+- Proficient (on the level of tweaking) with XCode 4.X. and XCodebuild;
+- Understanding of networking protocols, such as TCP/ IP and UDP (Unicast
+and Multicast);
+- Knowledge of HTTP request processing is expected;
+- Versed in Restful API and XML/ JSON data serialization;
+- Understanding of HTTPS and basic security mechanisms;
+- Knowledge of encryption methods (DES, AES, etc) is a big plus;
+- Well versed in multi-threading programming and knowledge of basic
+techniques of code optimization;
+- Knowledge of Video Technologies (AVFoundation and/ or ffmpeg in
+particular), Open GL and Sensor Blending for Android is a big bonus;
+- Ability to understand and produce Cocoa/ Cocoa Touch (Objective C) and
+Carbon-style (C/ C++) code, as well as hybrid model;
+- Personality-wise, inquisitive and quick to discover and understand new
+technologies;
+- Ability to identify and quickly resolve most of the problems without
+external supervision, merely using available information sources (Google,
+StackOverflow, forums, developer community pages, etc);
+- Justifiably proud of code you write and technical approaches you
+employ;
+- Ability to do good job with minimal supervision, and capable of making
+and justifying project-wide architectural decisions;
+- Ability to deal well with clients on the social level and explain
+things to non-experts in a simple and understandable way.","When applying, please answer the following
+questions to help company better understand your level of expertise:
+- Explain differences between Formal and Informal Protocols;
+- Explain basic methods of Thread Synchronization;
+- How to build Singleton Object using Objectve-C. Where is it recommended
+to use Singletons?
+- Explain reflection and introspection. In what cases the use of
+reflections must be prohibited?
+- Explain differences between Synchronized and Non- Synchronized objects.
+Write brief examples using Objectve-C 2.X;
+- Identify a shortcoming in an NSThread Class. Show a better way and
+explain why it is better.
+- In your own words, describe what Single Sign On (SSO) is and how would
+you implement basic SSO functionality;
+- What are basic HTTP methods?
+- In your own words, describe what Transparent Proxy is and how is it
+used in Security Applications;
+- In your own words, please explain the difference between Thread and a
+Queue;
+- In your own words, please explain the lifecycle of iOS Application;
+- What is Media Track?
+- In your own words, please explain the function of encoder and decoder.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","In exchange for your qualifications, you can expect a
+fair wage, being able to work remotely on a flexible schedule, and a
+chance to create software the right way.","R&D Arts Armenia is a subsidiary of Canadian base R&D
+Arts Inc. Company's main focus is research and development in mobile
+computing."

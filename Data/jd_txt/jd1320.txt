@@ -1,0 +1,35 @@
+Microsoft .NET (C#) Developer,"Dom-Daniel Armenia is looking for Microsoft .NET
+Developers to be responsible for designing, developing and managing
+solutions based on Microsofts platforms and .NET Framework. Limited
+regional and international travel may be required.","- Work with business team to clarifying clients requirements, understand
+their business practices, processes and the nature of their business;
+- Analyze problems and make technical recommendations;
+- Participate in the requirements analyses phase;
+- Design and develop .NET solutions independently or as a part of a
+team;
+- Be partly involved in technical pre-sales and support and, where
+appropriate, maintain contact with client organizations.","- Good knowledge and extensive experience in Microsoft .NET (C#),
+Microsoft SQL Server, Microsoft SharePoint;
+- Good knowledge of ASP.NET;
+- Good understanding of distributed web and messaging systems;
+- Basic knowledge of IP networking;
+- Good knowledge of written and oral English and Russian;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism; 
+- Ability to responsibly complete assigned tasks according to deadlines;
+- Ability to express thoughts clearly;
+- Ability to work without supervision according companys policies and
+practices.
+Desired Qualifications
+- Experience with Microsoft platforms and technologies;
+- Vendor certifications (Microsoft, SAP, SAS, IBM or any other).","Please submit a resume along with a cover letter
+to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing total IT solutions to medium and large size
+enterprises. Dom-Daniel is expanding its offerings to customers and has
+long term supply and support agreements with various enterprises.
+Dom-Daniel is Microsoft Gold Certified Partner and Microsoft Large
+Account Reseller (LAR)."

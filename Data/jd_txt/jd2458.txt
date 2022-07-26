@@ -1,0 +1,22 @@
+WPF Developers,"AltaCode LLC is seeking for highly motivated and
+qualified WPF Developers. The incumbent should be a self-starter with
+deep knowledge and practical experience in object-oriented programming.
+He/ she should have strong skills in C# and strong background in
+database, T-SQL, SQL Profiling, performance tuning, fault-finding and
+stored procedures.","- Develop WPF applications in accordance with given specifications;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the code written by others;
+- Participate in business analysis.","- Proficiency in object-oriented programming;
+- At least 5 years of work experience in .Net Framework - C#;
+- At least 2 years of work experience in WPF and Silverlight;
+- At least 2 years of work experience in SQL database design,
+programming; 
+- Fluent written and verbal communication skills;
+- Intermediate level of English language;
+- Good team player; ability to accept criticism.","Interested candidates should send their CVs/
+resumes to: resume@... . Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

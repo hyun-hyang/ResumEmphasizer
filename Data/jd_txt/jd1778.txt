@@ -1,0 +1,29 @@
+SharePoint Developer,"The incumbent will design, develop and implement CBA
+automated systems software. He/ she will also develop and maintain
+implemented systems.","- Develop software (medium-difficulty systems and subsystems) according
+to specification and Base model;
+- Develop or modify separate models of the system or subsystems according
+to specification;
+- Perform works related to software programs implementation;
+- Design systems based on SharePoint 2010 system.","- Higher Technical education with 1 year of professional experience at
+the Central Bank or 2 years of professional experience elsewhere;
+- Profound knowledge of Programming and relation database management
+systems;
+- Profound knowledge of object targeted programming and programming in
+SharePoint 2010 environment;
+- Profound knowledge of design of business processes in SharePoint 2010
+environment (sequential workflow and state machine workflow);
+- Profound knowledge of .NET Framework;
+- Intermediate level of operational systems;
+- Intermediate level of algorithm theory;
+- Intermediate level of mathematical methods and modeling;
+- Intermediate level of global and local nets and net reports;
+- Basic knowledge of computing machinery structure;
+- Knowledge of Armenian, Russian and English languages.","The application form, questionnaire and
+information on competitions at Central Bank of Armenia are available at:http://www.cba.am/am/SitePages/accvacancies.aspx or can be obtained at
+the Central Bank of Armenia. The application form can be sent by e-mail
+to: hrm@... . For further information and clarification you can call:
+59 26 34, internal lines: 26 13.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,27 @@
+Database Developer,"The incumbent will be responsible for fraud and revenue
+reporting system development, data analysis, system development for fraud
+detection and revenue assurance purposes.","- Develop reports to query data from core systems and data warehouse; 
+- Develop/ maintain reporting system with prescheduled data querying
+mechanism; 
+- Develop/ maintain fraud management system outside core systems, basing
+on queried data, fraud detection and revenue assurance reconciliation
+models;
+- Develop mechanism to integrate reporting with Fraud Management System;
+- Analyze daily Call Detail Records and other relevant data; 
+- Extract and analyze finance department reports.","- Bachelor's degree in Computer Sciences or a related discipline; 
+- At least 1 year of database development experience in Oracle and MS SQL
+Server environment;
+- Strong knowledge of PL SQL/ T-SQL languages; 
+- Good knowledge of MS Office (specially MS Excel and MS Access); 
+- Strong analytical skills and ability to make logical decisions; 
+- Experience in telecommunication is highly desired; 
+- Excellent oral and written communication skills; 
+- Good team player; 
+- Good knowledge of oral and written English language.","If you meet the requirements, we encourage you
+to send your CV and Motivation Letter to: hr@... . Please
+indicate the name of the position in the subject line of your e-mail.
+Company thanks all interested applicants; however, only shortlisted
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

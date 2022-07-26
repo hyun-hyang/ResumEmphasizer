@@ -1,0 +1,30 @@
+QA Engineer with Linux skills,"The role requires dedicated and responsible person. We
+are looking for a QA engineer with Linux skills that can work together
+with our QA team. The role includes a lot of communication to our other
+development centers and operation centers which are located in Europe.
+The test center at Lycos Armenia is responsible for all testing that is
+done on our products. The tests that are included are for example
+functional testing, stress testing, load testing, user interface testing
+etc.","As a QA engineer with Linux skills you will be
+responsible for the installation testing, test script development and
+more QA related work. You will also work early in the development phase
+and your input is important for the development team.","- Strong knowledge of Linux;
+- Experience of development in C++ or Java;
+- Experience of QA related work is good but not quired;
+- English knowledge;
+- Good communication skills.","Please send your CV to info@....
+You can also visit company recruitment web site at www.lycos-europe.am
+for more information.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is one of the leading European Internet
+destinations, operating a pan-European network of websites in nine
+languages. Covering Germany, France, Great Britain, Sweden, Denmark,
+Italy, the Netherlands, Spain and Russia, Lycos Europe is the no. 2
+portal in terms of reach in Europe. With more than 25 million regular
+unique users, Lycos generates more than 2.5 billion page views each
+month.
+As a general interest portal for a wide audience, the company offers a
+full range of services such as communication tools (Email, Mobile
+services, Messenger), communities (Chat, Dating), homepage building/web
+hosting, shopping, search and selective content channels."

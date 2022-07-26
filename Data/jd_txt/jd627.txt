@@ -1,0 +1,29 @@
+Java Developer,"SCDM LLC is looking for highly experienced Java
+developers for a long-term project. They will work as a member of a team
+based on the guidelines and technical assistance of Austrian partners for
+developing special software in financial analysis field. The incumbent
+will work in close collaboration with the Project Manager to understand
+the application requirements and be able to validate that the
+development answers the business requirements.","- Leverage his/her knowledge in software design and implementation to
+develop J2EE web-based applications;
+- Design and code software components for J2EE Web Applications;
+- Be responsible for development of high performance and scalable
+solutions;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information;
+- Interact and train QA engineers in all technical aspects of the
+projects.","- Two years of experience in Java web programming and database
+management;
+- Excellent command of English language;
+- Knowledge of Economics and Finance is a plus;
+- Team player, quality-minded and hard worker;
+- Ability to produce high quality code;
+- Ability to respect deadlines;
+- Capability of excellent communication with other (remote) team
+members.","To apply, please send your CV and Cover Letter
+to: resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCDM LLC founded in 2005 provides software development
+and data management services to clients located abroad. For more
+information, you can visit: www.scdm.at."

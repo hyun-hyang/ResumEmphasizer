@@ -1,0 +1,36 @@
+Ruby Software Engineer,"As a Software Developer, you will be part of a team
+working for a company where software development is the business, rather
+than a company where it's merely considered a necessary expense that
+supports the business (such as IT for a bank). At Netsoft USA, your
+skills and creative processes are the profit generator, rather than an
+expense against the profit.","- Work in a technical team to craft and develop technical solutions that
+meet our customers requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Code applications in Ruby;
+- Understand business and functional requirements, and translate them
+into amazing technical solutions;
+- Identify company paid training opportunities to expand your technical
+horizon;
+- Truly enjoy what you do for a living.","- Insane coding skills;
+- Excellent knowledge of English language, both written and spoken;
+- At least Bachelors degree in Computer Sciences or a related field;
+- 1 to 2 years of professional experience in developing Ruby
+applications;
+- Strong Ruby development experience;
+- Experience with XML, HTML, CSS and cross-browser compatibility;
+- Experience with AJAX, JQuery and Javascript;
+- Experience with relational database (MS SQL Server, Oracle, etc.);
+- Experience in data model and object design.
+Desired Qualifications:
+- At least 2 years of professional experience in developing Java
+web-based applications;
+- Strong Java development experience.","Please email your professional CV to:narine.voskanyan@... , specifying the job position name in
+the subject line. Please note that only shortlisted candidates will be
+contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Company offers fully paid Health Benefits and company
+paid training.","Netsoft USA is specialized in creating custom business
+solutions for a diverse client base. For more information, please visit
+company's web site at: www.netsoft-usa.com."

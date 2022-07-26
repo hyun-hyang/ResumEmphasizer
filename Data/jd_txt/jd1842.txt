@@ -1,0 +1,27 @@
+DB Senior Developer,"The incumbent will be responsible for producing timely
+and high quality products in conjunction with team members.","- Create innovative and elegant software designs to meet current business
+needs; 
+- Ensure the integrity of component designs as they pass through all
+phases of the software development lifecycle;
+- Play a handson role in driving the successful implementation and
+enhancements of high-quality system components;
+- Work productively as part of a distributed software development team.","- Bachelor's degree in Computer Sciences or a related discipline;
+- At least 3 years of work experience with database architecture (design)
+in an MS SQL Server environment;
+- Experience in tuning and troubleshooting DB performance ;
+- Strong knowledge of Database theory;
+- Extensive knowledge of SQL Server, TSQL, stored procedures, triggers,
+indexing, replication, backup and recovery;
+- Good English language skills and ability to improve them;
+- Knowledge of current technology;
+- Experience with C# Objectoriented development in MS Windows
+environment is a plus.","To apply, please email your applications to:yer_job@... . Please mention the position title in the subject line
+of your e-mail. If any questions, please call: (010) 26-56-01 ext.7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it has been
+founded in 1980. The company has more than 500 employees worldwide in 15
+offices. Yerevan office was opened back in 2004. For more than 30 years
+CQG developed new technologies, offering real-time and historical data
+integrated with graphics and technical analysis tools for finance market.
+For more information please go to: www.cqg.com."

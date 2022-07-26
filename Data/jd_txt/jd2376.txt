@@ -1,0 +1,61 @@
+IT Specialist (IT Management),"Chemonics International Inc. implements the USAID
+Armenia Pension Reform Implementation Program (PRIP) which aims at
+contributing to successful implementation of Pension reforms in Armenia.
+PRIP seeks a qualified professional for the full-time IT Specialist
+position which requires experience with IT management. The IT Specialist
+will provide expertise in establishing the schedule and measurements that
+will be used to strategize the policies and activities towards advancing
+information systems for the implementation of pension reforms. As a
+member of the information systems team, the IT Specialist will work in an
+interactive environment with business and technical staff to ensure a
+high degree of collaboration in support of a successful overall solution.
+This is an exciting team member position in which strategic perspective
+and hands-on collaboration are required.","- Develop a detailed activity schedule;
+- Research the e-Pension systems internal structure and external
+business procedures;
+- Research Nork center systems internal structure and external business
+procedures;
+- Evaluate the operations and software platforms of SSSS and Nork
+Centers information systems;
+- Develop the technical specifications document required for integration
+of Family Benefit, Child Benefit and Job Seekers and Employers
+Registration Systems into the e-Pension system and migration of relevant
+information;
+- Develop recommendations for rationalization of software strategy of
+MLSA;
+- Perform other relevant administrative tasks as assigned by the DCOP/
+information systems team leader.","- Bachelors degree in a relevant field;
+- Previous professional experience in the design and implementation of
+information systems (desktop, server-client, web services);
+- Experience with IT management;
+- Previous professional experience in IT management and IT project
+management;
+- At least 10 years of experience in information system design and
+development;
+- Ability to prepare and present current-state and future-state analysis
+(written and verbal) to the software development team, senior management
+and other internal and external stakeholders;
+- Ability to facilitate team meetings and capture feedback from
+discussions to assist in project improvements;
+- Strong skills and ability to collect, organize, synthesize, and analyze
+data, summarize findings, develop conclusions and recommendations from
+appropriate data sources;
+- Excellent knowledge of development tools;
+- Excellent knowledge of Unified Modelling Language (UML), Extreme
+Programming (XP), Entity Relationship Diagrams (ERD);
+- Excellent knowledge of development and implementation of software
+engineering procedures and work instructions;
+- Ability to communicate clearly and effectively; 
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian and English languages.","Interested candidates are asked to send a CV and
+a cover letter including three professional references to: hr@... ,
+indicating the position title in the subject line of the e-mail. Only
+finalists will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The PRIP project intends to assess software platforms at
+the State Social Security Service of the MLSA of the Republic of Armenia
+(SSSS) and Nork Information-Analytical Center (Nork). PRIP will make
+recommendations to rationalize a software strategy, ultimately ensuring
+access to information relevant to payment processing for all pension
+benefits."

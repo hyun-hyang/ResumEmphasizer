@@ -1,0 +1,40 @@
+Senior Java Developer/ Team Lead,"SFL is looking for a full-time Senior Java Developer/
+Team Lead to join a team working on a complex and long-term project.","- Produce and maintain clean, high quality code;
+- Work as a part of a software development team;
+- Maintain current knowledge of information technology trends with
+ability to research and evaluate new applicable directions and
+technologies;
+- Mentor and coach development team members; provide expert advice and
+thought leadership for the team;
+- Lead the choosing of application technologies, development standards
+and CI infrastructure;
+- Lead all the phases of application development.","- Bachelor's degree in Computer Sciences or a related discipline with at
+least 3-5 years of work experience in software development; higher degree
+is a plus;
+- 2 years of work experience with Java/ J2EE;
+- Professional work experience in projects as a Java developer in J2EE
+(Spring, Apache Wicket, Struts, Hibernate, Elasticsearch, and ActiveMQ);
+- Good understanding of OOP programming principles and design patterns;
+- Work experience in development of multi-layered client-server
+applications;
+- Work experience in Oracle and MySQL databases;
+- Work experience in Selenium automated testing is a plus;
+- Knowledge in TDD principles is a plus;
+- Proven ability to work under stress in emergencies, with the
+flexibility to handle multiple high-pressure situations simultaneously;
+- Ability to work well under minimal supervision;
+- Strong team-oriented interpersonal skills;
+- Strong written and verbal communication skills;
+- Work experience in agile/ scrum projects is a plus;
+- Good knowledge of English language;
+- Strong customer/ client focus, with the ability to manage expectations
+appropriately; provide a superior customer/ client experience and build
+long-term relationships;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11620"" in the subject line of
+your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is provision of custom business
+solutions to clients from Western Europe and Armenia. More details can be
+found at: http://www.sflpro.com"

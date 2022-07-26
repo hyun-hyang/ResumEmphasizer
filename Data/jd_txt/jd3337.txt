@@ -1,0 +1,37 @@
+Mid-Level Android Developer,"CargoMatrix Inc. is seeking a Mid-Level Android
+Developer to join the mobile development team of the company.","- Design and build advanced applications for the Android platform;
+- Participate in project estimation, planning and progress tracking;
+- Work with internal and external APIs;
+- Unit test the code for robustness, including edge cases, usability, and
+general reliability;
+- Maintain existing applications, including debugging and improving the
+application performance.","- B.S. in Computer Science, Engineering or a related field;
+- Fluency in the English language as a primary or a secondary language;
+- At least 3 years of experience in Android development;
+- Strong knowledge of Java;
+- Experience in working with remote data via REST and JSON;
+- Experience with source control systems (TFS and/ or Git);
+- Experience in integrating with third-party libraries and APIs;
+- Solid understanding of the life cycle of the Android activity;
+- A strong team player with the potential to grow into a team leader.
+
+
+PREFERRED QUALIFICATIONS:
+- Familiarity with development design patterns;
+- Familiarity with Android Studio or IntelliJ;
+- Experience with mobile UI and UX design;
+- Working knowledge of emerging technologies and trends;
+- Experience with Visual Studio, .NET, ASP MVC or SQL Server;
+- Familiarity with Material Design guidelines and principles;
+- Strong technical writing/ software diagram skills;
+- Availability of having published at least one original Android
+application.","To apply for this position, please email your CV
+and cover letter to: armjobs@... specifying your name,
+surname and the position title in the subject line. You will be contacted
+only if your application is selected for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The working hours are from 10:00 a.m. to 7:00 p.m.,
+with the possibility for flexible hours when deemed necessary by
+management.","CargoMatrix is a logistics software provider based in New
+York, USA. The company was formed in 1999."

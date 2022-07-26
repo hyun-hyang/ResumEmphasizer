@@ -1,0 +1,28 @@
+Senior Android Developer,"Sourcio is seeking experienced Senior Android
+Developers for the development of features for its startup product Eye
+Care Plus.","- Participate in the application design;
+- Provide the necessary technical and design documentation;
+- Design, build, and maintain a high performance, reusable, and reliable
+Java code;
+- Organize and manage a small team.","- University degree in the relevant field of studies;
+- At least 3 years of practical experience in Java development;
+- At least 1 year of practical experience in building Android
+applications;
+- Good knowledge of OOP principles;
+- Good knowledge of databases (such as SQLite, Realm.io or MySQL) and the
+database design;
+- Experience in using RESTful API and JSON;
+- Experience in performance tuning;
+- Experience in building mobile games is a plus;
+- Proficiency in building animations and transitions is a plus;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of the English language both communication and the
+technical level.","All interested and qualified candidates are
+welcome to send their CVs to: info@... . Please indicate the
+position title in the subject line of your message. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.sourcio.com."

@@ -1,0 +1,25 @@
+Junior iOS Developer,"InConcept Labs is looking for a beginner but a talented
+iOS Developer who can take care of porting existing Android mobile
+applications into iOS. If you do not have an experience as an iOS
+Developer but have excellent knowledge of C++ and a great desire to learn
+quickly, you are also welcome to apply.","- Work in a mobile development team;
+- Develop new iPhone/ iPad applications connecting to the backend using
+REST API;
+- Work on bugfixing and improving the application performance;
+- Discover, evaluate and implement new technologies continuously to
+maximize the development efficiency.","- BS/ MS degree in Computer Science, Engineering or in a related
+discipline;
+- Excellent knowledge of OOP;
+- Knowledge of Objective C/ C/ C++ is highly desirable;
+- Solid knowledge of iOS SDK;
+- Knowledge of Android/ Java is an advantage;
+- Strong understanding of the full mobile development life cycle;
+- Good knowledge of the English language.","To apply for this position, please send your CV
+to: careers@... . Please write ""iOS Developer"" in the
+subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"InConcept Labs is a Yerevan based software development
+company founded in May 2014. The Company primarily focuses on the mobile
+and app development. InConcept Labs started as an outsourcing company
+which is now focusing on developing its own products."

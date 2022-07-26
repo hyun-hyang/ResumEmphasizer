@@ -1,0 +1,47 @@
+Senior Software Developer,"Senior Software Developer will research and develop
+software systems according to clients requirements, and continue
+debugging, enhancing and maintaining developed systems. Primary
+responsibilities include data analyzing skills in combination with
+developing and debugging software using C# and C++ programming languages
+and SQL.","- Collaborate with key team members in developing new products;
+- Study different existing products and help other team members in bug
+fixing;
+- Enhance existing programs by identifying areas for improvement; 
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Constantly update technical knowledge and skills;
+- Be efficient in the use of memory and CPU time;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/write technical documentation on codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues;
+- May have to travel to USA or other countries to work with other team
+members.","- Bachelor's or higher degree in Computer Sciences, Physics, Mathematics
+or related disciplines;
+- At least 5 years of work experience;
+- Good grades in undergraduate and other studies;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Working experience with MS SQL Server, Oracle and/or other databases;
+- Experience with writing SQL queries;
+- Good understanding of common data structures and ADTs;
+- Advanced knowledge and experience with C++, C#;
+- Ability to develop efficient codes;
+- Ability to work under pressure;
+- Good English language skills including reading, writing, and speaking.
+DESIRED QUALIFICATIONS:
+- Familiarity with web technologies such as web services, HTML, AJAX, CSS
+is highly desirable;
+- Advanced .NET knowledge and experience is highly desirable;
+- Familiarity with WPF, WCF, and Silverlight is a plus;
+- Familiarity with design patterns;
+- Knowledge of Java programming languages is a plus;
+- Ability to write programs using different programming languages and
+environments.","Interested candidates should e-mail their CVs
+and inquiries to Armen Nahapetyan at: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ardinnotech's head office is based in Florida, USA. The
+company specializes in development of computer models and software for
+railroad and transportation companies."

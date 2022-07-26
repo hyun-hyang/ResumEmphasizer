@@ -1,0 +1,36 @@
+Software Technical Writer,"""BetArchitect"" LLC is looking for a Software Technical
+Writer to be engaged in different long term projects.","- Study and analyse business requirements for new and existing products
+and systems;
+- Translate business requirements into technical language, creating
+documentation for functional requirements;
+- Create descriptions of systems and products for users;
+- Identify ways to assist product management in product planning through
+requirements development and analysis;
+- Create and update API documents APIs (documentation consists of
+installation guides, user guides, online help, application notes,
+technical notes, FAQs);
+- Gather information by working closely with Product Management,
+Developers, and QA Engineers;
+- Create documentation designs, plans and schedules;
+- Update documentation for minor software releases;
+- Create various technical documentation for users of the company's
+software.","- Graduate degree in the relevant discipline (Engineering is preferred);
+- 3 years of experience in writing software documentation for highly
+technical audience;
+- Excellent verbal and written communication skills in English language;
+- Ability to work with a team of Product Managers, Developers and QA
+Engineers through all stages of the software development cycle;
+- Organizational skills to work with the vast array of information
+gathered during elicitation and analysis and to cope with rapidly
+changing information;
+- Knowledge of information design and structured writing;
+- Most importantly, proactive, assertive personality and a team player.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Software Technical Writer"" in the subject line of the e-mail.
+Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

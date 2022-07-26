@@ -1,0 +1,13 @@
+Server Developer,"Internet gaming company is looking for a superb
+Windows server developer to join the team as we prepare to launch a
+completely new interactive client/server product.",NA,"- Extremely strong C++, Java application development experience under
+Windows;
+- A combination of background in network communications, utilization of
+databases, multi-threading;
+- Knowledge of C++, Java, XML and SQL; 
+- Knowledge of .NET programming is a plus;
+- 5-8 years of programming experience.","Please send your CVs with subject line included
+""server developer"" to resume@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

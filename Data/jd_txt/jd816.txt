@@ -1,0 +1,25 @@
+PHP/MYSQL Programmer,"TMCYC CJSC is currently seeking an experienced web
+developer with excellent and demonstrated problem solving skills.","- Write PHP/MYSQL and JavaScript code;
+- Work as part of a software development team;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance, if requested.","- Bachelor's degree in Computer Sciences or a related field;
+- At least 3-5 years of professional work experience in web
+development;
+- Experience in designing and delivering web based applications using
+PHP/MySQL, HTML, Javascript/AJAX;
+- Knowledge of Apache Web Server for Unix and website application
+deployment and administration;
+- Experience with MySQL database design, programming and
+administration;
+- Familiarity with web technologies and web-based dynamic application
+development, especially JavaScript (DOM), XML and XUL is a plus;
+- Ability to work both as individual contributor and as part of a team;
+- Ability to learn quickly and to work under pressure;
+- Strong oral and written communication skills.","Please put ""Software developer PHP/MYSQL"" in
+the subject line of your email.
+If interested, please email your resume listing your qualifications,
+software development related experience, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,TMCYC CJSC is a software development company.

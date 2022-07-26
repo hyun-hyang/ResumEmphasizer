@@ -1,0 +1,20 @@
+Junior Software Engineer,"The PicsArt Backend Engineering Team is seeking for a
+Junior Software Engineer to join its team.","- Participate in the development of highly scalable services;
+- Integrate services and technologies;
+- Work with modern technologies like NodeJS, Redis, MongoDB, Java etc.","- Bachelor's degree (or higher) in Computer Science or another field that
+has an emphasis on programming;
+- Outstanding attention to detail and strong communication skills;
+- Experience with web development (such as Javascript, HTML, CSS, AJAX,
+JQuery), backend Java development is a plus;
+- Knowledge of NoSQL databases is a plus;
+- Good knowledge of the technical English language;
+- Ready to work in a startup environment with a highly goal-oriented
+team.","To apply for this position, please send your
+last updated and detailed CV in PDF format, addressing relevant
+qualifications and experience, to: jobs@... . In the subject line
+of your email message, please write ""Application for Junior Software
+Engineer"". No information inquiries will be handled over the phone. Only
+short-listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

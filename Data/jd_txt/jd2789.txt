@@ -1,0 +1,18 @@
+Programmer,"ACBA-Credit Agricole Bank CJSC is looking for a
+Programmer to be responsible for working out, improving, checking and
+testing computer programs (software).",NA,"- University degree in the relevant field of studies;
+- Good knowledge of Visual Basic, VBA and SQL (Transact SQL);
+- Knowledge of SQL Server 2008;
+- Ability to adapt and learn quickly;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language on technical level;
+- Knowledge of .Net Framework (C#, VB.NET);
+- Knowledge of ASP.NET and ASP.NET MVC is desirable;
+- Knowledge of VB, VB.Net, SQL Server and Transact-SQL.","Interested candidates are asked to download the
+application form attached below, fill it in and e-mail to:aram.mamikonyan@... , gayane.mghdesyan@... or print it and bring
+to ACBA-Credit Agricole Bank CJSC at: Yerevan, 1 Byron str. Please,
+mention ""Programmer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

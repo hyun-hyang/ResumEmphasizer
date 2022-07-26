@@ -1,0 +1,77 @@
+IT Director/ System Administrator,"The Cafesjian Center for the Arts is seeking an
+experienced specialist who will provide leadership and management of the
+IT department to deliver technical solutions that support organizational
+goals and serve a broad range of needs. He/she will be responsible for
+making decisions on the procurement of all IT equipment, budgeting,
+helping the System Administrators on solving problems, designing IT
+solutions for various parts of the museum including the Visitor Center,
+Jazz Lounge, Cinema, and Museum Shop, and maintain correspondence with
+local and international vendors/suppliers. This person reports directly
+to the CEO.","-	Implement network security;
+-	Oversee contracts and agreements with Internet Service Providers,
+equipment vendors and suppliers;
+-	Oversee troubleshooting, system backups and disaster recovery;
+-	Manage data backup on the server;
+-	Interact with the staff on all levels to resolve IT- related issues
+and provide answers in a timely manner;
+-	Build and maintain vendor relationships, as well as manage the
+purchase of hardware and software products;
+-	Oversee installation and administration of telephone systems;
+-	Manage and assist system administration and software developers on
+different projects;
+-	Manage POS system (hardware, software);
+-	Maintain and manage Visual and Audio systems;
+-	Develop annual plan and operate budget for the department and monitor
+the implementation;
+-	Be responsible for research and evaluation of new technologies;
+-	Participate in staff meetings and related activities;
+-	Attend workshops to keep up to date with Information Technology
+issues.","-	IT related university degree or international IT certificates;
+-	At least 4 years of experience in the Information and Communications
+Technology field;
+-	Advanced knowledge of Microsoft Windows 2000/XP/Vista including the
+command prompt, registry, and scripting;
+-	Solid understanding of network security including NTFS permissions,
+Group Policies, WEP, and Firewalls;
+-	Extensive experience in installing and maintaining Windows 2003 Server
+domain controllers;
+-	Experience in installing and maintaining RAID systems;
+-	Experience in setting up and maintaining Cisco routers;
+-	Advanced knowledge of setting up and troubleshooting TCP/IP, DNS,
+DHCP, SNMP, POP3, NAT, etc.;
+-	Good knowledge of Mac OS X;
+-	Knowledge of computer networking, database and web-application
+technologies and other concepts;
+-	Knowledge of Audio  visual systems;
+-	Experience working with outside vendors and consultants;
+-	Effective writing and verbal communication skills;
+-	Fluency in Armenian and English languages;
+-	MCSE, MCSA, or MCP certificate is a big plus.","To apply for this position, please submit the
+following: 
+- A cover letter that addresses with specificity the applicants
+professional experience that makes the applicant best suited for the
+position;
+- A CV or Resume that lists the applicants educational background and
+provides a detailed summary of the applicants professional experience
+and relevant qualifications for the job for which they are applying;
+- A single page listing the contact information for at least three
+references (who will only be contacted once the applicant has given the
+approval). 
+The above information should be sent to: hr@.... Please mention in
+the subject field your e-mail and the name of the position for which you
+are applying. 
+No personal visits or phone calls, please. Only short listed candidates
+will be notified for the interview. 
+A background check will be conducted for the final three applicants to
+be interviewed. Thanks.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Cafesjian Museum Foundation of Armenia administrates
+and supports the Cafesjian Center for the Arts. The Foundation was
+co-founded in April of 2002 by the Republic of Armenia and the Cafesjian
+Museum Foundation of America. The purpose of the foundation is to develop
+a world class international museum of art as well as a cultural center
+for Yerevan. The Cafesjian Center for the Arts will open soon with the
+opening of the newly renovated Cascade complex, which includes a park,
+visitors center, art galleries, cinema and jazz lounge. For more
+information, please see its website at: www.cmf.am."

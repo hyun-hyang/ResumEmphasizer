@@ -1,0 +1,51 @@
+IT Security Officer,"The purpose of this position is to provide continuous
+independent assurance on the Panarmenian Banks (PAB) Information
+Security as regards confidentiality, integrity and availability of the IT
+infrastructure, processing systems and related resources in line with RA
+legislations, CBA regulations and PAB Information Security policy and
+supporting procedures.","- Analyze the current status of Information Security;
+- Do ongoing monitoring of changes and developments of the Information
+Systems of the PAB;
+- Define the requirements for the protection of the Information Systems
+of the PAB;
+- Evaluate and monitor the existing methods of information protection in
+PAB;
+- Promote Information Security awareness within the organization through
+guidance;
+- Consult and coordinate relevant programs to ensure Information Security
+compliant culture; 
+- Operate, maintain and improve IT facilities for business continuity;
+- Control over the implementation of plans to address identified
+deficiencies; 
+- Improve Information Security management systems;
+- Responsible for proactive anticipation of potential threats and
+vulnerabilities;
+- Provide guidance in coordination with IT contract staff.","- Full knowledge of the principles of architecture of Information
+Systems;
+- Full knowledge of networking technologies, design principles of
+corporate networks;
+- Full knowledge of the techniques and methods in the field of
+information protection;
+- Full knowledge of applied software in banking  (AS Bank, Lotus);
+- Basic knowledge of Windows and Unix operating systems at the
+administrator level;
+- Basic knowledge in the field of Servers Virtualization technologies;
+- Basic knowledge in VoIP;
+- Full knowledge of the legislation of the Republic of Armenia and the
+regulations of the Central Bank of Armenia in the field of Information
+Security (N71, N163);
+- Full knowledge of the requirements of the international standards and
+best practices for Information Security (ISO 27001, ISO 22301);
+- At least 5 years of professional experience in working with network
+security, information protection, data loss protection and unauthorized
+access protection systems;
+- At least 1 year of managerial experience.","Interested candidates are asked to submit a CV
+(with a photo) both in English and Armenian languages to:hr@... indicating the above title of the position in the
+subject line of the e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Panarmenian Bank OJSC aims to mobilize long term
+resources from the international financial institutions and other
+development-orientated private sources and allocate the proceeds to
+competitive private enterprises operating in Armenia."

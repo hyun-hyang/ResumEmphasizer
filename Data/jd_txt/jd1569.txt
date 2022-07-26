@@ -1,0 +1,19 @@
+.NET Developer,"As a .NET developer, the incumbent will help build the
+company's next-generation web services where millions of users connect on
+a daily basis to learn, contribute and interact. The company utilizes a
+state-of-the-art .NET/ MVC/ AJAX development environment. The holder of
+the position will work in the areas of collecting specifications,
+prototyping, application development and production support.","- Work within an Agile development process;
+- Perform coding on .NET platform;
+- Be responsible for unit testing, automated testing;
+- Write test cases and plans;
+- Produce technical documentation.","- Experience in C# and ASP.NET;
+- Working knowledge with JavaScript, CSS, HTML, and XML;
+- Knowledge of MS SQL server, developing queries and  stored procedures;
+- Experience in testing; QA is a big plus;
+- Be familiar with the software development process;
+- Knowledge in AJAX, JQuery, HTML5 is an advantage.","Please send CVs now for immediate consideration
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

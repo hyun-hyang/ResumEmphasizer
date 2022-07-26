@@ -1,0 +1,19 @@
+Java Developer,"SAT Solutions LLC is looking for a motivated Java
+Developer for Web-based, enterprise level applications development.","- Develop applications in accordance with given specifications;
+- Read, understand and modify the existing code;
+- Work as a part of a software development team.","- Solid Java/ J2EE development experience. Experience with server-side
+web technologies using J2EE;
+- Solid experience in OOP/ OOD;
+- Solid experience in HTML5, CSS3, JavaScript, JQuery;
+- Knowledge of databases; good knowledge of SQL, familiarity with MySQL
+and Oracle or MS SQL databases;
+- Good Knowledge of VB6 is a plus;
+- Bachelor's or Master's degree in Computer Science is preferred;
+- Good verbal and written knowledge of English language (for calls with
+foreign customers and business trips).","Interested candidates are asked to send a Resume
+in English language directly to: info@... . Please indicate ""Java
+Developer"" in the subject line of the e-mail. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

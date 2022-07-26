@@ -1,0 +1,18 @@
+Database Programmer,"The database programmer will work with a team of
+national and international experts in a program aimed at building water
+recourses databases for the State Water Cadastre Information System
+(SWCIF).","- Assist in designing Access-based databases;
+- Design and build database user interface and data entry forms;
+- Design and construct database reports;
+- Design and construct data import and export utilities;
+- Work with government agencies in developing the SWCIF.","- University degree in computer science, applied mathematics, or
+comparable field;
+- At least 5 years of experience in Microsoft Access.","Please send CV and cover letter in English, by
+e-mail or fax to:
+Water Management Program
+Attention of: Ms. Ani Chibukhchyan
+E-mail: Ani.Chibukhchyan@...
+Fax: 586013
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

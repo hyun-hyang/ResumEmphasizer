@@ -1,0 +1,21 @@
+Programmer,"The company needs a Programmer to work in the group of
+competence supporting ERP-systems on Microsoft Dynamics AX 2009 (Axapta)
+platform.","- Responsible for report planning, functional development;
+- Cooperate with the technical staff of the integrator;
+- Responsible for automation of financial-economic direction tasks;
+- Responsible for database structure development;
+- Responsible for client part development;
+- Responsible for testing of the developed functional;
+- Implement programs of own and third-party developers in the commercial
+operation.","- Knowledge of Microsoft SQL Server, Microsoft Visual Studio (Visual
+Basic, C#), knowledge of Microsoft Dynamics AX (X++);
+- Problem statement skills;
+- Ability to work in a team;
+- Sociability;
+- Responsibility;
+- Knowledge of Russian (cooperation with the integrator) and technical
+English (documentation) languages.","All interested candidates are encouraged to send
+their resume to: vasilian_as@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

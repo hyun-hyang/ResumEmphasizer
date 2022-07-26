@@ -1,0 +1,39 @@
+Web Developer,"""Rosgosstrakh Armenia"" ICJSC is looking for a Web
+Developer to perform responsibilities listed below.","- Design new software, ensure its development and implementation
+according to appropriate technical tasks;
+- Ensure the implemented software features and functions development and
+make appropriate improvements according to technical tasks; 
+- Provide documented software processes' compliance with software
+procedures throughout the project life cycle; 
+- Make reports on task  status and possible problems occurred; 
+- Perform software testing, and implement software problem solutions;
+- Prepare technical tasks intended for innovations; 
+- Set and control deadlines for tasks' accomplishment; 
+- Once innovations adopted, present them to target users and conduct
+their training if necessary;   
+- Control system operation;
+- Consult users about program utilization.","- University degree in Computer Sciences or a related field; 
+- Knowledge of programming; 
+- Experience in working with web applications;
+- At least 2 years of experience with writing test cases and scripts, as
+well as technical task making; 
+- At least 2 years of work experience with MySQL and MS SQL 2005, 2008;
+- At least 1 year of work experience with ASP.NET, PHP, Java Script, C#
+and HTML5; 
+- Knowledge of Linux Operating System;
+- Fluency in Armenian and Russian languages; knowledge of technical
+English language; 
+- Excellent communication skills;
+- Ability to train and support users;
+- Excellent analytical skills and flexibility; 
+- Sense of responsibility;
+- Educability; 
+- Effective time management and problem solving skills;
+- Experience in banking sphere (automation department) is desirable.","To apply, please send your resume to: hr@...
+, mentioning the position title ""Web Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia). For more information, please visit the website:
+www.rgs.am."

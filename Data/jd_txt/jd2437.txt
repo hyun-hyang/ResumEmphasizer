@@ -1,0 +1,39 @@
+Senior .NET Developer,"BetArchitect LLC is seeking for Senior .NET Developers
+to join the team in developing enterprise level software solutions. The
+incumbent should be an energetic person who is ready for new challenges
+and has a good understanding of Agile software development methodologies,
+practices and frameworks. The experience with Scrum framework is highly
+desirable, as the company practices Scrum.","- Participate in all cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Assist in the development of accompanying technical documentation,
+where necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Re-factor and re-engineer the existing code base safely;
+- Communicate the knowledge to fellow team members; train and guide
+junior team members;
+- Analyze high-level requirements and work with team members to create
+quality results;
+- Participate in the Sprint planning meeting.","- At least 3 years of desktop application development experience in .NET
+platform;
+- Experience in WPF technology;
+- Strong understanding of OOP principles;
+- Strong knowledge and experience of multi-threading applications
+development;
+- Experience in client-server applications development;
+- Strong understanding of WCF working principals;
+- Experience or any kind of exposure to VS 2008/ 2010/ 2012 and TFS;
+- Experience working with Microsoft SQL server 2008/ 2012;
+- Experience with unit testing;
+- Good knowledge of technical English language;
+- Excellent communication and teamwork skills;
+- Ability to work independently.","Interested candidates are asked to submit a CV
+in English language to: hr@... , indicating the position
+title in the subject line of the e-mail. Only shortlisted candidates will
+be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company,
+which, in cooperation with partner software companies, aims to build
+various software solutions."

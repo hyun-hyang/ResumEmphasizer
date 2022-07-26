@@ -1,0 +1,32 @@
+Software Engineer,"Software Engineer will take part in design and
+implementation of advanced software products for physical layout of ICs.","Research, design and implement efficient
+algorithmic applications for physical verification of complex ICs.","- MS in CS/ Physics/ Math or in a related field; PhD is preferred;
+- At least 3 years of experience in designing and developing software
+products;
+- Strong C++/ STL programming skills, good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux;
+- Previous experience in working on critical projects;
+- Strong knowledge of data structures and algorithms and their
+complexities;
+- Familiarity with Computational Geometry, Graph Theory, Optimization,
+Problems, Numerical Methods, Modeling; 
+- Ability to write comprehensive functional/ implementation
+specifications;
+- Previous experience in designing efficient algorithms for IC layout
+processing is highly desired;
+- Knowledge and experience in Physical Design Automation or related
+domains is preferred; 
+- Excellent communication skills; ability to effectively interact with
+cross-functional teams (R&D, Application, Marketing);
+- Excellent knowledge of English; both verbal and written;
+- Fast learning skills;
+- Formal training or test certification is a plus;
+- Other achievements like participation/ winning in math and
+programming in olympiads/ competitions is a big plus;
+- Availability of educational waivers of military obligation.","Please submit your CV throughhttp://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

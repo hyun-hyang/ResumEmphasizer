@@ -1,0 +1,35 @@
+System and Network Engineer,"The System and Network Engineer is responsible for
+effective provisioning, installation/ configuration, operation and
+maintenance of systems hardware and software and related infrastructure.
+The incumbent will participate in technical research and development to
+enable continuing innovation within the infrastructure.","- Provide expertise in planning, designing, installing, configuring,
+repairing, recovering, system monitoring and performance tuning of
+network systems, UNIX, Linux and hardware;
+- Provide support to the plan, coordinate and implement the
+organization's information security;
+- Engineer design and consult for LAN and WAN network systems;
+- Coordinate and assist in the operations and maintenance of LAN and WAN
+systems;
+- Install and maintain servers and workstations (Windows, Linux, Solaris
+9,10);
+- Install and administer the databases MySQL and Oracle;
+- Install and administer web and application servers, especially Apache,
+Tomcat, Glassfish, JBoss;","- Experiences relating to firewall, security, DHCP, Proxy Cache and VPN
+management;
+- Very good knowledge of English (writing and speaking) language;
+- Knowledge of German would be a plus;
+- Knowledge in creating documentation;
+- Ability to express thoughts clearly;
+- Configuration Management with OTRS IT SM would be a plus;
+- System and network monitoring with Nagios would be a plus;
+- Knowledge in installing SVN, Fedora Ldap, Maven would be a plus.","Interested candidates should email their
+resumes to: info-am@.... Only shortlisted candidates
+will be invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The applicant should be able to attend/ pass 1 month
+workshop in Germany.","The Virtual Solution Global Services LLC is a branch of
+the virtual solution Consulting GmbH, the German company with expertise
+in Web applications development based on Java and Open Source
+technologies. For additional information about the company, please visit
+its website: www.virtual-solution.am."

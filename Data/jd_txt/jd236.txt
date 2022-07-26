@@ -1,0 +1,55 @@
+Software Developer,"The responsibilities of this position are focused on
+core software development tasks in Synergy International Systems, Inc.
+This position will be filled by a software developer with a proven
+history of producing quality software product in a commercial setting
+with experience in all aspects of the software development process;
+including design, implementation, testing and delivery.","- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software; 
+- Perform the assigned tasks in the precise and timely manner; 
+- Perform quality assurance tasks, such as testing of the software
+products (developers testing);
+- Document the software products that will be produced.","- Degree in Computer Science, Information Technology or related
+discipline (Bachelor's degree in the relevant field, and Masters degree
+preferred); 
+- Good knowledge of Object Oriented Programming;
+- At least 5 years of successful experience in software development;
+- At least 3 years of work experience in development of Java based
+standalone applications and Java2 Enterprise based web-based
+applications and web services;
+- Strong knowledge of JSP/Servlets/JSF/JDBC;
+- At least 2 years of practical knowledge/programming of client-side
+Java Script/HTML/XML; 
+- Work experience with and design of complex database systems under
+MySQL, MS SQL, ORACLE;
+- Experience in a dynamic workplace with solid software developing
+practice is required.
+Additional Characteristics:
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Ability to communicate, read and understand technical documentation in
+English.","If interested, please send your resume with a
+cover letter listing your qualifications, software development related
+experience, and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) to:
+Ms. Anahit Sargsyan
+Office Manager
+E-mail: mail@... or mailarm@...
+Phone: (374 10) 56 76 81.
+Please, indicate the position you are applying for in the subject of the
+e-mail message.
+Candidates who meet these qualifications will be interviewed and will be
+required to take a test. Selected candidates will be notified of the
+interview dates directly.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Please note that initial consideration will be given
+to the applications received prior to the date indicated above.
+Thereafter, applications will be reviewed on an as-needed basis.","Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated information management
+systems."

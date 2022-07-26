@@ -1,0 +1,24 @@
+Java Developer,"The Java Developer will work on enhancement of existing
+projects and will participate in new projects.","- Investigate and maintain the written code base;
+- Participate in software design process;
+- Develop software modules meeting specifications, time and performance
+constraints;
+- Closely collaborate with the QA team aiming for high quality of the
+software products.","- In-depth knowledge of Object Oriented Paradigm and Design Patterns,
+Relational Databases, Client-server model;
+- Good knowledge of written and spoken English language;
+- Work experience with Java, SQL, JSP, JSTL, JavaScript, XML, XSL, HTML,
+CSS, Ajax, JSON;
+- Knowledge of Spring Framework, jQuery, JUnit;
+- Knowledge of LBS (Location Based Services) and Web Mapping technologies
+is a strong advantage;
+- Knowledge or experience of Android or iOS mobile application
+development is a plus;
+- Work experience of Bugzilla bug tracking system;
+- Good team player, open mindedness, proactiveness, self-determinedness.","Interested candidates should send their resumes
+in English language to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Slope Technologies LLC is a startup software development
+company providing own GIS (Geographic Information Systems) solutions for
+Web and mobile customers."

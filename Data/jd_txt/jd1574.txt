@@ -1,0 +1,39 @@
+Senior System Administrator,"The Sr. System Administrator will serve as part of the
+IT team responsible for the daily operations of LinkGard environment. The
+qualified individual will be responsible for a wide array of services
+including provisioning, installation, configuration, and maintenance of
+hardware, software and related infrastructure. The individual must also
+be ready to accept management duties as the company is interested in
+individuals who can grow into an IT Manager.","- Oversee Jr. System Administration staff in their technical duties;
+- Prepare reports for management indicating the overall health of the IT
+infrastructure;
+- Install new hardware/ software or re-install existing hardware/
+software systems in accordance with company requirements;
+- Develop and maintain installation/ configuration procedures and
+practices;
+- Contribute to and maintain company-wide IT management standards;
+- Monitor all systems in order to verify integrity and availability of
+all systems;
+- Be responsible for daily and weekly backups of critical data and
+systems;
+- Create/ delete/ change user accounts;
+- Regularly update systems with patches and perform upgrades where
+necessary;
+- Manage system performance and resource optimization;
+- Troubleshoot faulty hardware/ software systems;
+- Install systems to further enhance security;
+- Monitor the security of systems and networks, identify possible
+intrusions and effectively resolve possible security breaches;
+- Ensure strong network perimeter security by maintaining and monitoring
+firewall rules;
+- Manage IDS/ IPS systems;
+- Management of anti-virus system and policies.","- 3+ years of Linux sysadmin and support experience;
+- 3+ years of Windows XP/ Server 2003/ 2008 sysadmin and support
+experience;
+- 3+ years of experience in network administration;
+- Excellent knowledge of TCP/ IP protocol, firewalls, and network
+security in general;
+- Knowledge of various backup technologies.","Please send your CVs to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

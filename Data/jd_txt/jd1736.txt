@@ -1,0 +1,32 @@
+Software Developer,"The incumbent will be responsible for the development
+of applications and distributed applications. He/ she will also be in
+charge of developing applications to integrate existing vendor systems
+with each other and interfaces for 3rd parties to internal system. The
+Software Developer will also need to assess risk and impact on the
+existing system that may arise due to any requirement or functional
+change. He/ she will prepare easy usable install packages as well as
+modify all existing services based on new business or technical
+requirement or changes.","- Develop software applications;
+- Develop store procedures and queries;
+- Test new products and modules interfaces and functionality;
+- Keep source code control up to date;
+- Test and deploy applications;
+- Implement core modules.","- University degree in Engineering or IT;
+- Object-oriented programming, OOD, Design Patterns and SOA;
+- Fully competent and fluent with C# ASP. NET Framework and ADO.NET;
+- Knowledgeof Web Services (WCF, REST/SOAP/XML-RPC);
+- Competent in MS SQL and Transact SQL;
+- Experience with IIS web server;
+- Applications and Services design and implementation skills;
+- Database Architecture Design skills;
+- New and existing network protocols implementation skills;
+- MSSQL usage skills;
+- Open Source systems/ packages and application analysis, configuration,
+compilation, installation, modification and maintenance skills;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Knowledge of Armenian, Russian and English (also technical) languages.","Please submit your CV to:Software-Developer@... e-mail address. Only shortlisted candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

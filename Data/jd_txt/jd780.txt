@@ -1,0 +1,19 @@
+Senior PHP Developer,"Lycos Armenia is looking for motivated technical
+persons to take over a new position as a Developer. The incumbent will
+work on Lycos business solutions projects. During these projects the
+selected candidate will cooperate with colleagues from Germany.",NA,"- At least 2 years of experience in PHP, with good understanding of OO
+programming concept, web based technologies, JavaScript, XML, XSL, HTML,
+DHTML with at least 2 years of experience. Strong preference will be
+given to individuals possessing knowledge of AJAX; 
+- Good knowledge of Linux (debian preferable but not mandatory);
+- Ability to install, configure and benchmark Apache, Tomcat, DNS, NFS,
+Proxy servers, Mysql server, samba;
+- Pearl and Shell schripting skills are highly appreciated;
+- Academic degree of a minimum BS;
+- Knowledge of English language is desired (writing English skills are
+obligatory).","Please send your CV to: info@...,
+stating ""Senior PHP Developer"" in the subject line of your email. For
+additional information call: (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

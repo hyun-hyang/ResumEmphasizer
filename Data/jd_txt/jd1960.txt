@@ -1,0 +1,28 @@
+Senior Frontend Developer,"Monitis GFI is seeking experienced Frontend Developers
+particularly senior level for development of features for its partners'
+award-winning product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience;
+- Good knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4 and HTML5);
+- Good knowledge of OOP principles;
+- Good knowledge of WEB2 application design patterns;
+- Good knowledge of other programming languages such as PHP and Ruby;
+- Knowledge of Java programming language is a big plus;
+- Knowledge of GWT and ExtGWT is an advantage;
+- Knowledge of Photoshop or Corel Draw is a big plus;
+- Experience in using Eclipse IDE is preferable;
+- Experience with working in Linux environment (Ubuntu, Suse) is
+preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language both communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: hr@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.monitis.com."

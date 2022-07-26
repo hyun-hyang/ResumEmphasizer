@@ -1,0 +1,24 @@
+Java Developer,"Webb Fontaine Holding LLC is seeking Java Developers to
+be responsible for the development of Java applications.",NA,"- Bachelor's degree in Computer Science; Master's degree is a plus;
+- 2-3 years of experience with Java development;
+- Working knowledge and experience with:
+a) Java, Groovy;
+b) Grails, Spring, Spring Security, Spring Integration, Hibernate;
+c) HTML5/ jQuery;
+d) JMS, RabbitMQ;
+e) JUnit/ Mockito;
+f) RESTful Web Services;
+g) Ant/ Maven/ Gradle, Git;
+h) Oracle, MySQL;
+- Fluency in the English language (both written and verbal);
+- Ability to travel abroad, if required.","Interested candidates should send their CVs and
+motivation letters in the English language to:
+ashamirzayan@... . Qualified candidates will be contacted
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Webb Fontaine Holding SA is an IT company based in
+Switzerland that offers expertise, services and solutions in the field of
+e-Government and new technologies (www.webbfontaine.com). Webb Fontaine
+Armenia is a branch of Webb Fontaine Holding for the development of
+Java-based applications on a proprietary platform."

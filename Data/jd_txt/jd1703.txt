@@ -1,0 +1,23 @@
+Senior Software Engineer,"In this role the incumbent will be responsible for
+providing development of high quality functional and scalable solutions
+that meet expectations of Product owner and stakeholders, using the
+latest development technologies and methodologies and ensure that they
+meet high quality standards by taking over all related quality tasks.","- Estimate effort and design technical solutions from user stories;
+- Design solution architecture and module design for critical parts of
+each user story the teams commit to;
+- Deliver software which meets development standards for code quality,
+architectural guidelines, unit tests and testing frameworks.","- Experience of creating scalable J2EE applications, considering quality,
+redundancy, performance and availability;
+- High level of quality assurance expertise working with industry
+standards tools (JUnit, Selenium, JMeter etc.);
+- Good knowledge of JBoss, EJB, AJAX, MySQL, JSP/ Servlet, SOAP, Spring,
+HTML and Javascript;
+- Experience in agile methodology (Scrum);
+- Knowledge of Groovy/ Grails and MongoDB is highly desirable.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""be2"" Ltd is an online matchmaking company which offers
+its service in 37 countries, to more than 27 million members. For more
+information about the company, please visit: www.be2.com or
+www.be2.com/corp."

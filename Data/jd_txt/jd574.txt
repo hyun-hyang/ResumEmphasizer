@@ -1,0 +1,16 @@
+Software Developer,"Boomerang Software LLC is looking for Software
+Developers to be engaged in different long term projects.","- Develop software according to requirements;
+- Participate in meetings and discussions;
+- Complete work according to deadlines.","- Advanced knowledge of OOP and OOD;
+- Professional work experience in the development of client-server
+applications, client and server Web application components;
+- Minimum 1 year of experience in C++, C#, Assembler, Cobol;
+- Basic knowledge in MS SQL, Oracle databases;
+- Knowledge of .NET;
+- Ability to develop high quality and clean code, apply proper language
+constructions and use quality algorithms.","If interested, please email your CVs to:office@... or call 393221 x 22 for more information.
+Only short listed candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software"" LLC is a software development
+company."

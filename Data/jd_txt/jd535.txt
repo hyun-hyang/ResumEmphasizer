@@ -1,0 +1,26 @@
+Software Engineer,"EctoStar Inc. is looking for candidates to become part
+of the company's web applications development team. Candidates should be
+willing to work independently from home or personal office.","- Design and develop web applications either from scratch or based on
+open source products;
+- Provide technical support to production systems;
+- Work with Project Managers, Quality Engineers, Systems Analysts and
+other team members;
+- Work as part of a distributed software development team;
+- Read, understand and modify the existing code;
+- Provide technical documentation with deliverables.","- Bachelor's degree in Computer Sciences or a related field;
+- Over 3 years of web applications development; 
+- Experience in designing and delivering complex web applications using
+PHP;
+- Experience in XML, XLS, HTML, DHTML, CSS and JavaScript;
+- Experience in PHP and MySQL;
+- Strong understanding of OO programming concept;
+- Experience in administering Linux, Apache, MySQL is a plus;
+- Knowledge of AJAX is a plus;
+- Knowledge of Typo3, Drupal and other open source CMSs is a plus;
+- Good knowledge of English language is desired; writing English skills
+are obligatory.","Interested candidates should email resumes and
+expected compensation to: jobs@.... Candidates will be asked to
+take online tests.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,22 @@
+Software Development Head,"Metakortex is seeking goal-driven and
+achievement-oriented candidates with a high level of enthusiasm,
+confidence and professional poise.",NA,"- Minimum bachelors degree in Computer Science or related field;
+- Knowledge of English language;
+- 5-7 years of programming experience (2 years in lead role);
+- Extensive knowledge of object oriented programming concepts;
+- Extensive knowledge of web development and database technologies;
+- ASP.NET, C#, XML, MS SQL or Oracle;
+- Good organizational and time management skills;
+- Ability to meet deadlines;
+- Process oriented personality;
+- Good communications skills;
+Strongly preferred qualifications:
+- HTML, JavaScript;
+- SDLC and Project Management skills;
+- Version controlling;
+Desired qualifications:
+- C++, Java, AJAX, Lucene;
+- Configuration Management and release process knowledge.","To apply, please send your CVs to:Sergey.Barikyan@... or Vahe.Stepanyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Metakortex is a software development company.

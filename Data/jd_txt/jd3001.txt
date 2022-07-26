@@ -1,0 +1,34 @@
+Senior .NET Developer,"BetArchitect LLC is looking for a Senior .NET Developer
+with strong knowledge of .NET programming and database development
+concepts. He/ she will be involved in the entire life cycle of the web
+application development process, working on all tiers.","- Design and develop custom software solutions utilizing the latest .NET
+technologies;
+- Create architecture and implement innovative solutions;
+- Work with a team of developers to build, implement and deploy new
+complex applications using .Net 4.0 and ASP.Net MVC;
+- Develop applications according to technical documentation;
+- Guide junior developers in everyday task assessment.","- BS in Computer Science or in any related Technical field;
+- At least 4 years of work experience as a Senior .NET Developer;
+- Good knowledge of OOP;
+- Strong C#, ASP.NET MVC background;
+- Experience with ORMs (NHibernate/ Entity Framework 4);
+- Experience with Web Services and WCF;
+- Broad knowledge of ASP.NET architecture and development, as well as
+strong knowledge of using SOAP and REST;
+- Good knowledge of HTML, JavaScript, AJAX, XML and JQuery;
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Ability to work independently and in a team setting;
+- Ability to work on multiple projects with in deadlines;
+- Familiarity with software development process;
+- Good knowledge of Russian and English languages is an asset;
+- Desire and ability to work with a wide range of web application
+technologies and tools.","Interested candidates are asked to send a Resume
+(CV) in English language directly to: hr@... . Please,
+indicate ""Senior .NET Developer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

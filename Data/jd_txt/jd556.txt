@@ -1,0 +1,41 @@
+Systems/ Network Administrator,"EBRD Business Advisory Services Programme for Armenia
+is currently seeking candidates for the position of Systems/Network
+Administrator.","- Install, configure and maintain the organisations servers, server
+services and applications, LANs, network equipment, workstations and
+other IT equipment;
+- Monitor and manage performance and maintain security of servers,
+server services and applications, LANs, network equipment and
+workstations;
+- Perform periodic back-ups of BAS LAN and critical information;
+- Provide consultation on computer equipment;
+- Regular updating of software and antivirus in operating systems;
+- Define networking communications and designs and implement solutions;
+- Manage load configuration of central data communication processor and
+make recommendations for upgrading of data networks;
+- Maintain contacts with ISP regarding uninterruptible internet access,
+hosting and other issues as applicable;
+- Maintain contacts with IT equipment vendors regarding interruptible
+operation of organisations IT equipment;
+- Other IT related duties as required by National Project Director.","- Punctuality and ability to deliver assigned tasks according to the
+deadlines;
+- Ability to create and maintain UTP;
+- Understanding of IP protocol;
+- Experience in maintaining and technical service of computers and
+peripherals;
+- Ability to use scripting/programming languages is desirable;
+- 5 years of relevant work experience;
+- Fluency in Armenian and Russian languages, technical knowledge of
+English;
+- Good interpersonal skills, team player.","Interested persons should submit: 1) three
+reference letters, and 2) a Curriculum Vitae to Mr. Tigran Aghabekyan,
+National Programme Director at: info@.... Only short-listed
+candidates will be contacted. No phone calls and visits to BAS Armenia
+office.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The European Bank for Reconstruction and Development
+(EBRD) Business Advisory Services (BAS) Programme www.bas.am has been
+operational in Armenia since 2003. The EBRD BAS Programme assists micro,
+small and medium sized enterprises to improve their competitiveness by
+using mainly competent local consultants selected on a
+project-by-project basis."

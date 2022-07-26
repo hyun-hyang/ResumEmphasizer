@@ -1,0 +1,39 @@
+Software Engineer,"To understand processes going on in thunderstorm clouds
+and to forecast turbulences of space weather affecting the safety of the
+space missions, a network of particle detectors are operated by Cosmic
+Ray Division (CRD) of Alikhanyan National Scientific Laboratory (ANSL).
+The detectors are located in a few countries including the main center at
+the slopes of Aragats mountains and continuously produces big amount of
+time-series. It is crucial for the scientist to have a real-time access
+to the data recorded by all the detectors and correlate measurements made
+at different locations. To provide this functionality, CRD in
+collaboration with Institute for Data Processing and Electronics (IPE) at
+Karlsuhe Insitute of Technology (KIT) started to develop Advanced Data
+Extraction Infrastructure (ADEI), a web-based data visualization
+framework. Using intelligent caching techniques ADEI is providing an
+interactive interface able to visualize yearly variations and zoom down
+to millisecond ranges. The applicant is expected to join the company's
+team and contribute to the ADEI code base.","- Find and fix bugs in existing code;
+- Provide technical support and assistance;
+- Modify ADEI interface according to the requirements of CRD scientists;
+- Implement data analysis modules helping to understand the properties of
+the time series and correlation between them;
+- Optimize data analysis code by utilizing parallel resources of nowadays
+computers, like SIMD instructions, multicore CPUs, and GpGPU computing;
+- Participate in the design and implementation of a new HTML5-based
+interface;
+- Present product at international scientific conferences.","- At least 2 years of experience in Web Programming (AJAX);
+- Good knowledge of web technologies (HTML, CSS, JavaScript);
+- Knowledge of one-or-more scripting languages (PHP, Python, Ruby);
+- Experience in database programming and design (MySQL or PostgreSQL);
+- Basic Linux administration skills;
+- Knowledge of C is a plus, experience in parallel programming is a
+strong plus;
+- Knowledge of mathematical statistics is a plus;
+- Fluency in English language.","If interested, please, send your CVs to:artur@... . Mention the position you are applying for in the
+subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ANSL is one of the worlds scientific organizations in
+the fields of accelerator technology. To get more information, please
+visit http://crd.yerphi.am"

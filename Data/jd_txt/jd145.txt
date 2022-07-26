@@ -1,0 +1,59 @@
+Senior Developer Ad Technology,"To build up our Engineering Team in Armenia, we are
+currently looking for a motivated technical Senior Developer. You will
+belong to a young and dynamic team working on the advertising system
+(named DART Enterprise) and its existing interfaces. As a team leader
+you will work on very different projects like customisation of the
+system, building of complex new interfaces, further development of our
+reporting tools, technical support to our Sales departments, etc. You
+will drive projects in a rapidly changing environment and will have to
+work effectively with people across the organisation. You will be our
+expert regarding the architecture and functionality of our AdServer
+system and will have an excellent understanding of its technical
+capabilities. You will be our technical project manager for complex
+technical projects which require technical experience and a strong and
+varied knowledge. To be successful you need to have the ability to
+engage complex business and technical challenges confidently in order to
+make the right tradeoffs. 
+Are you an outstanding decision maker? Are you able to assign tasks with
+an excellent planning of skills and give precise instructions? Do you
+work goal oriented and have an excellent faculty of judgement and
+thinking?
+If yes, then you are definitely the right person for this job an","- Learn and understand the AdServing technology (DART Enterprise), its
+functionality and then understand the surrounding systems and the system
+architecture as it maps to our business needs;
+- Become an expert in customising and integrating the AdServer
+software;
+- Prepare the technical recommendations and define our technical
+specifications taking our business requirements into account for
+development projects, assign the resources correctly;
+- Completion of development projects within agreed time-frames. Perform
+work planning, development, and second level support for business
+departments.","- University degree in computer science or a similar education;
+- More than 5 years of experience in system development;
+- Genuine knowledge of enterprise systems;
+- Previous experience in ad systems is desirable;
+- Experience in Unix, Java, PHP, Perl, C, XML/XSL, advanced SQL
+knowledge and Web server technology;
+- Experience in administering Oracle, MS SQL Server and/or Apache would
+be advantageous;
+- Basic understanding of operation and administration of ad tech and
+enterprise systems;
+- Work experience as a technical project manager is beneficial;
+- Very good knowledge of written and spoken English language;
+- Pro-active, calm, thorough personality, who has fun solving technical
+problems;
+- Analytically strong, excellent organisational skills, ability to
+handle multiple priorities;
+- Good communication abilities in an international environment.","Please send your application letter and CV in
+English answering the 2 questions below to: info@....
+Question 1: Describe the stages of a small development project
+preferably by using a project you undertook as an example! 
+Question 2:  Explain what is most important in your opinion to make a
+project successful and define in detail what are the measurement
+criteria for success.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is a European Internet company that
+operates a pan-European network of websites in nine languages. Lycos
+Communities is developing and operating a chat in Europe along with a
+dating system, games and entertainment."

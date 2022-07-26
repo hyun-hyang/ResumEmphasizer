@@ -1,0 +1,22 @@
+C#/ .NET Developer,"The specialist must have experience in object oriented
+programming and developing client server applications.","- Develop and design software systems for the company;
+- Analyze new software requirements;
+- Perform object-oriented analysis, design and testing;
+- Create reports from DB. 
+Receivable includes: technical requirements documents, use cases and
+diagrams, class diagrams, activity diagrams, package diagram and project
+estimates.","- At least 2 years of work experience in database design, development and
+optimization technology;
+- Knowledge of C#, ASP.NET, SQL, PL/ SQL, MS SQL Server and Oracle;
+- Excellent written and verbal skills in Armenian language;
+- Problem-solving and decision-making skills;
+- Good time management and organizational skills;
+- Knowledge of accounting is a plus.","To apply, please send your resume to: hr@...
+. Please mention the position title ""C#/.NET Developer"" in the subject
+line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia). For more information, please visit the website:
+www.rgs.am."

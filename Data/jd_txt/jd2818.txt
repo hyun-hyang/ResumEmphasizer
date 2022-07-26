@@ -1,0 +1,35 @@
+Software Engineer in Vanadzor,"The Software Engineer in Vanadzor will work on small to
+large scale Computer Vision and Image Processing software, with desktop
+and mobile clients. He/ she should participate in all stages of software
+development life cycle from requirements gathering to implementation and
+testing. He/ she will be collaborating with management on defining
+software architecture, estimating technical challenges, development
+time-line and risks.","- Participate in software design, development, testing and documentation
+activities according to project requirements and guidelines (mainly
+iterative based approaches including XP and SCRUM practices) by
+delivering high quality code and documentation;
+- Participate in project communication with customer and team member on
+project planning/ reporting, progress, technical issues, etc.;
+- Participate in activities organized by Instigate Training Center for
+sharing the knowledge.","- At least 2 years of experience in software engineering;
+- At least 1 year of experience in C++ development using boost library;
+- At least 6 months of experience with QT Framework;
+- At least 6 months of experience with computer vision and image
+processing (OpenCV, etc.);
+- Excellent communication skills, intermediate knowledge of English
+knowledge; fluent communication skills in English language is a plus;
+- Ability to produce clearly written and documented code;
+- Strong time management and organizational skills and the ability to
+thrive in a fast-paced, start-up environment, paying attention to
+details;
+- Work experience of GNU/ Linux, Mac OS X and Windows development
+environments and frameworks including CMake/ Make, gcc, Visual Studio,
+Xcode;
+- Familiarity with OO Programming and MVC Environments;
+- Knowledge of OpenGL is a plus;
+- Experience in mobile development (iOS, Android, Windows Phone) is a
+plus.","Interested candidates should send their resumes
+in English language, in PDF format to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

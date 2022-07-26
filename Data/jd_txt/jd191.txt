@@ -1,0 +1,24 @@
+Software Development Manager,"Management and hands-on technical leadership of a team
+of up to 30 people, working concurrently on multiple components of
+multiple projects.","- Manage a team of exceptional software professionals;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets.","- Excellent communication skills. Excellent written and verbal
+communications skills in English;
+- MSc or equivalent University degree in Computer Science;
+- Software development leadership experience;
+- Software design and architecture of client/server Internet systems;
+- Software development of client/server systems;
+- Expert-level knowledge of either C/C++ and/or Java;
+- Excellent understanding of ALL of the following:
+- project management, including project management tools
+- object-oriented design and development methodologies;
+- source control, revision control and release methodologies;
+- quality assurance processes;
+- technical support.","Please send your CV (resume) with contact
+details to:jobs@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LVFH is a software development company based in
+Vancouver, Canada"

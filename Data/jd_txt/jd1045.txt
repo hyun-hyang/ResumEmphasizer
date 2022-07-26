@@ -1,0 +1,16 @@
+C++ Developer,"Energize Global Services CJSC is looking for a C++
+Developer to be engaged in different long term projects.","- Participate in development of new and existing projects in C++;
+- Participate in functional specs preparation/ review process;
+- Develop high quality and clean code, apply Agile-XP methodology.","- Advanced knowledge of OOP and OOD;
+- At least 2 years of work experience as a Software Developer in C++;
+- Knowledge of STL, MFC, Qt, Unit testing framework is a plus;
+- Good English language skills;
+- Knowledge of French and German languages is a plus;
+- Team player.","If interested, please email your CV to:hr@.... Only short listed candidates will be invited for
+an interview. Please, clearly mention in the subject line for what
+position you are applying.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT
+services for partners all over the world."

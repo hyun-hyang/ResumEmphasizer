@@ -1,0 +1,22 @@
+SCADA Programmer,"""Vallex"" group of companies is seeking for a qualified
+SCADA Programmer on technological process operating with SCADA system for
+working in a modern Processing Plant. The incumbent will work in Lori
+Region.","- Configure and program automation and controls systems involving HMI
+(human machine interface) and SCADA systems;
+- Perform other tasks, as required.","- Good working knowledge of SCADA packages such as WinCC, ability to make
+additions and modifications;
+- Knowledge of fiber and profibus networking;
+- Knowledge of Siemens Simocode and Micromaster VSDs;
+- General instrumentation knowledge, knowledge of flow, pressure,
+temperature and PH;
+- Knowledge of Siemens S7 software design, development, commissioning and
+fault finding;
+- At least 3 years of work experience;
+- Knowledge of ""Teghout"" CJSC company vision and values, social and
+environmental responsibility policies and goals.","Interested applicants should send their resumes
+and electronic copies of official diplomas by email to:plantvacancy@... . For additional information, please contact the
+company's staff at: (+374 10) 510 885, ext. 2588. Recruitment and
+selection process is competitive, based on interviews and test results.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

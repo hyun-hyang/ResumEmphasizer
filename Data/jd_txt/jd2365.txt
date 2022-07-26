@@ -1,0 +1,39 @@
+Analytical Group Database Analyst,"Chemonics International Inc. implements the USAID
+Armenia Pension Reform Implementation Program (PRIP) which aims at
+contributing to the successful implementation of Pension reforms in
+Armenia. PRIP project intends to develop analytical capacity for the
+State Social Security Service of the MLSA of the Republic of Armenia
+(SSSS) and seeks a qualified professional for the Analytical Group
+Database Analyst full-time position. The analytical group will provide
+input and forecasting for pension-related decision making; classify
+identified challenges to develop strategic solutions to improve the
+system and reduce risks; estimate the socio-economic and financial impact
+of proposed policies and perform projections/ forecasting, as well as an
+assessment of policy change implications.","- Perform assessment of the information systems current situation, as
+well as assessment and analysis of suggested changes and possible
+implications;
+- Study the current situation of information systems supporting pension
+administration and based on the findings submit suggestions on possible
+solutions;
+- Create reports based on database information;
+- Develop regular export data from database;
+- Pull data in any format and structure and create reports upon the
+request of the Head of the Service and Analytical Group Analysts.","- Bachelors degree in a relevant field;
+- Previous professional experience in IT;
+- At least 5 years of experience in system development;
+- Excellent knowledge of Development Tools;
+- At least 7 years of experience in SQL and PL/ SQL;
+- Excellent knowledge of Oracle Database and administration;
+- Good knowledge of statistics and charts;
+- Ability to communicate clearly and effectively;
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian and English languages.","Interested candidates are asked to send a CV and
+a cover letter including three professional references to: hr@...
+indicating the position title in the subject line of the e-mail. Only
+finalists will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Selection of the candidates will be conducted based on
+the above mentioned requirements as well as the commitment to continue
+working at State Social Security Service at least for two years after
+PRIP assignment.",NA

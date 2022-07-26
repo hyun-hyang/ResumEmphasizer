@@ -1,0 +1,29 @@
+Senior Software Developer (VOIP),"LinkGard Systems LLC is seeking a highly experienced
+Senior Software Engineer that will participate in the design and
+development of several Linkgard products, including its flagship Voice
+Archiving software solution. The primary responsibility is adding
+functionality based on SIP and RTP protocols. The company needs ethical,
+energetic, and highly motivated individuals with full software
+development life-cycle experience.","- Work as part of a software development team;
+- Design and analyze VOIP-related software applications;
+- Develop applications using C++;
+- Write documentation in English language.","- Over 5 years of work experience in software development;
+- Excellent understanding of the SIP signaling protocol, SIP user agent,
+proxy, registrar and SIP based applications;
+- Excellent OOP skills;
+- Excellent skills in C++ (Visual C++ is preferred);
+- Excellent skills in Microsoft SQL Server;
+- Knowledge of software configuration management tools such as SVN is a
+big plus;
+- Knowledge of continuous integration environments such as Cruise
+Control is a big plus;
+- Knowledge of developing under Linux/UNIX a big plus;
+- Knowledge of C#/.NET is a big plus;
+- Knowledge of COM/DCOM is a big plus;
+- Knowledge of MAPI/Extended MAPI is a plus;
+- Knowledge of Mac OS X is a plus.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (LG042)
+in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

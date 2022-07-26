@@ -1,0 +1,32 @@
+"Senior Software Engineer, DB Core group","DB Core group Senior Software Engineer will take part
+in design and implementation of DB Core applications and internal
+engines.","Design, develop, apply, and maintain software
+systems.","- BS/MS (at least last year student) in CS/EE;
+- 2+ years of experience in software development;
+- Strong C++ / STL programming skills;
+- Strong experience in developing applications using STL;
+- Experience in widely accepted methodologies such as OOP, OOD,
+familiarity with design patterns is a great plus;
+- Good knowledge of Linux, MS Windows;
+- Development experience under Linux is a great plus;
+- Strong knowledge of data structures, algorithms and complexity
+analysis;
+- Knowledge and experience in EDA software development is a great plus;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Good communication skills;
+- Self-motivation;
+-Knowledge of Technical English is a must (both verbal and written).","Please, send your resume and cover letter to:job@.... Please, list the positions (or job IDs) you are applying
+for in your cover letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","To find detailed information about other currently
+available positions at UniCAD, please, check the following web site:http://www.unicad.am/jobs.","UniCAD is a rapidly growing software start-up company
+specialized in the development of advanced Electronic Design Automation
+(EDA) CAD tools, which is located in Yerevan, Armenia. UniCAD is a fully
+owned subsidiary of E-Z-CAD that is situated in the heart of Silicon
+Valley in Mountain View, CA, USA. 
+UniCAD offers excellent compensation and comprehensive benefit package.
+UniCAD provides a unique opportunity to join a team of highly
+professional software developers utilizing the latest advances in
+software design for building state of the art EDA CAD tools."

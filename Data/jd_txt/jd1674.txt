@@ -1,0 +1,26 @@
+.NET Senior Software Developer,"Smart-Tech LLC is looking for a highly motivated person
+to join company's software development process and to produce required
+product in conjunction with team members. The company's flagship software
+products are: video surveillance system for ATMs and other self-service
+devices, electronic and cash payments processing system.","- Develop .NET applications in accordance with given specifications;
+- Participate in all cycles of software design and development;
+- Adhere to a consistent software development process;
+- Develop reusable, efficient, scalable, easily maintained and reliable
+codes;
+- Assure full conformance of source codes to the provided Coding
+Standards;
+- Assist in the development of accompanying technical documentation;
+- Provide technical support and assistance if requested.","- Team player;
+- 2+ years of experience in C#;
+- Excellent knowledge of .NET Framework;
+- Excellent knowledge of design patterns and algorithms;
+- Good knowledge of WCF and WPF is an advantage;
+- Good knowledge of C++, STL and WinAPI is an advantage;
+- Technical English and Russian language skills.","Please submit your detailed CV to: jobs@...
+indicating the position in the subject line of your e-mail. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Smart-Tech LLC is an international company based in
+Armenia with a branch in Moscow, Russia (www.nowotech.ru). For more
+information, please visit: www.smart.am."

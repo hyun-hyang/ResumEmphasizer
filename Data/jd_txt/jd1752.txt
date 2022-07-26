@@ -1,0 +1,29 @@
+Ruby Developer,"e-Works LLC is looking for a qualified Ruby Developer
+with at least 3 years of professional experience in application
+development.","This position will require but not be limited to
+the following roles:
+- Be responsible for commercial website application development and
+maintenance;
+- Work closely with project manager and client, ensuring projects are
+completed on time.","- Outstanding Ruby on Rails, Apache, MySQL and PHP skills;
+- Clean sheet relational database design together with very good SQL
+skills;
+- Experience of importing and manipulating data with SQL scripts;
+- Experience in HTML and CSS;
+- Thorough knowledge of website accessibility, guidelines and data
+protection practices;
+- Excellent communication skills;
+- Attention to detail and accuracy;
+- Ability to work quickly and to tight deadlines.
+Experience of the following would be a distinct advantage:
+- Java Script, AJAX and dynamic HTML;
+- Subversion;
+- Excellent knowledge of English language.","Please submit your CV only to the following
+address: eworkswebdesign@... mentioning the position title in the
+subject line of your e-mail. The CVs will be accepted only in case the
+applicants follow the above-mentioned requirements. No phone calls are
+accepted. Only short-listed candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"e-Works LLC is a French-Armenian Internet strategy and
+Web Design company based in Yerevan, Armenia."

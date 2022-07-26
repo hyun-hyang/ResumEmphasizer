@@ -1,0 +1,33 @@
+Database Administrator,"Database Administrator will be responsible for the
+database administration, maintenance and development.","- Install and maintain AS bank databases;
+- Be responsible for maintenance, administration and high availability of
+databases according to procedures of the organization;
+- Implement the backup of reserve, test and production databases
+according to procedures of the organization;
+- Review the databases logs as required by procedures of the
+organization;
+- Implement data analyses and administration per requests;
+- Explore the possible threats;
+- Create Tsql scripts upon necessity;
+- Support the implementation of mission of the organization and strategic
+planning and perform the tasks required by internal regulatory normative
+of the organization.","- Higher education in IT related fields;
+- At least 4 years of experience in a related field;
+- Strong knowledge of administration of MSSQL and TSQL development;
+- Certification in Database Administration related field and trainings is
+a plus;
+- Excellent communication skills;
+- Ability to conduct team and individual tasks.","Please send your CVs to: vacancy@... or
+deliver hard copies to: Amiryan Str. 4/6, Office 152, Yerevan, RA,
+""Aregak"" UCO CJSC. Please mention ""Database Administrator"" in the subject
+line, otherwise your CV will not be considered. Only shortlisted
+candidates will be invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Aregak"" UCO CJSC has started the activity as a
+microcredit program of United Methodist Committee (UMCOR) in 1997 and in
+2006 was registered as a Universal Credit Organization. ""Aregak"" UCO CJSC
+is providing financial services in all the regions of the Republic of
+Armenia and Nagorni Karabakh. The head office of the organization is
+located in Yerevan.
+For more information, please visit: www.aregak.am."

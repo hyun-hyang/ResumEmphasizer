@@ -1,0 +1,31 @@
+Front-End Developer,"""BetArchitect"" LLC is looking for a Front-End Developer
+to be engaged in different long term projects.","- Develop web applications; 
+- Participate in all cycles of software design and development;
+- Read, understand and modify the existing code;
+- Work as part of a software development team.","- BS in Computer Science or any related Technical field;
+- At least 3 years of experience developing large-scale customer facing
+web commerce front-end applications/ sites with high volume and
+high-reliability requirements;
+- Experience with UI development experience, including CSS, MVC
+JavaScript, AJAX, HTML/ DHTML/ XHTML, PHP and JQuery;
+- Strong knowledge and experience in n-tier web applications with
+knowledge of the different tiers including web servers, application
+servers, databases and infrastructure;
+- Familiarity with recent web technologies is a huge plus;
+- Desire to work in a highly iterative manner building quick prototypes
+and seeking feedback in informal demo sessions;
+- Ability to learn and adapt to new technologies;
+- Familiarity with software development process;
+- Java development experience is an asset;
+- Good knowledge of Russian and English languages is an asset;
+- Flexibility in learning and applying different programming languages
+and technologies.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Front-End Developer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

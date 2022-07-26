@@ -1,0 +1,32 @@
+Senior C/ C++ Software Developer/ Team Lead,"Energize Global Services CJSC is looking for a Senior
+C/ C++ Software Developer/ Team Lead.","- Develop and test applications for embedded applications;
+- Update existing documentation according to already done development;
+- Conduct, lead and coordinate software development activities throughout
+the project.","- BA degree in Computer Science or a related field; Master's degree is
+preferable;
+- At least 5 years of experience in application development;
+- Solid working experience of C/ C++ programming;
+- Knowledge of C (standard C library), C++ (STL, Boost libraries);
+- Experience in development under Linux embedded systems, buildbot, SVN,
+Eclipse;
+- Experience in operating systems: Windows activeX/ OCX, OS2, DOS;
+- Well acquainted personality with the life cycle of software
+development;
+- Familiarity with software architectures;
+- Work experience in an Agile environment is an advantage;
+- Knowledge of Embedded devices;
+- Very concerned person to deliver well validated/ tested software;
+- Fluency in English language, knowledge of French language is highly
+appreciated;
+- Analytical thinking;
+- Ability to solve problems;
+- Ability to listen/ comprehend.","Interested candidates are asked to e-mail their
+last updated and detailed resume to: hr@... . Please
+indicate ""Senior C/ C++ Software Developer/ Team Lead"" in the subject
+line of your e-mail, otherwise your resume will not be reviewed. The
+company thanks all interested applicants; however, only shortlisted
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world."

@@ -1,0 +1,20 @@
+Database Programmer,"Firmplace Corporation is seeking candidates for the
+position of Database Programmer to be responsible for definition and set
+up of studies, development of validation and derivation procedures,
+performing database testing, programming views and listings in PL/SQL
+per project requirements.","- Develop, design and maintain databases;
+- Program storage procedures and triggers per the provided
+specifications; 
+- Program data extracts and views;
+- Be responsible for data listings in support of data cleaning and study
+reporting requirements.","- BS or MS in Computer Science or a related field;
+- Experience in Database Development;
+- Good knowledge of SQL, PL/SQL;
+- Good knowledge of English language;
+- Ability to work under pressure;
+- Ability to work in the team;
+- Experience in Oracle is a plus.","All interested candidates should send their CVs
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

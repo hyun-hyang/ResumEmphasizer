@@ -1,0 +1,27 @@
+Software Quality Assurance Engineer,"be2 Ltd is looking for a Software Quality Assurance
+Engineer for long-term projects. The selected candidate will maintain
+wide range of manual and automated tests such as functional, regression,
+stress, load and performance to ensure the quality of product.","- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the website;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations.","- Higher education in relevant field;
+- Minimum 1 year of work experience as a QA Engineer;
+- Knowledge of software development process;
+- Knowledge of testing techniques and problems documenting;
+- Experience in developing scripts for automated testing;
+- An operational experience with bug-tracking systems;
+- An operational experience with MySQL database;
+- Ability to meet deadlines;
+- Knowledge of the English language;
+- Knowledge of HTML, XML, Java-script is desirable.","Interested candidates should email resumes to:jobsyerevan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 Ltd is an IT company that works in partnership with
+be2 presented in more than 30 countries on 5 continents. For information
+about the company, please visit www.be2.am, and for more information
+about the product, look: www.be2.com."

@@ -1,0 +1,49 @@
+"Quality Assurance Engineer, Validation Department","The Quality Assurance Engineer will be mainly
+responsible for automation and improvement of the software testing
+process.","- Improve existing test framework system (applications, modules) by: a)
+highering the performance (using grid, optimal use of CPU, etc.); b)
+embedding different 3-rd party testing tools into the company's testing
+system (memory and cache checkers, coverage tools, automated GUI testers,
+etc.); 
+- Work in contact with developers and decide how to achieve maximum
+coverage, work out corner cases of the tested feature; 
+- Develop test plans; 
+- Develop functional and feature regression tests and test suites
+including maximum possible test-cases to achieve highest code coverage
+and also all corner cases; 
+- Manage testing projects (assign tasks to project engineers, prepare
+time tables, documentation, etc.); 
+- Look through the results of test runs, inspect the reasons of failed
+tests and fix them; 
+- Look through testing tools logs, understand the reasons of crashes and
+errors;
+- Search and understand documentation about domain, software tolls, etc.","- At least 3 years of work experience in software testing or programming;
+- Programming background;
+- Good scripting/ coding skills; 
+- Good knowledge of Object Oriented programming;
+- Ability to study quickly new scripting languages; 
+- Ability to quickly understand the tested feature (mathematical model,
+parameters, etc.); 
+- Basic knowledge of C++ coding; 
+- Experience in working in UNIX environment; 
+- Good knowledge of UNIX shell scripting; 
+- Basic knowledge of grid engines; 
+- Good knowledge and experience of working with software testing tools:
+a) memory and cache testing tools (purify, valgrind, etc.); b) code
+coverage analyzers (Numega, gcov, Pure coverage, etc.); c) GUI testing
+tools (Rational Robot, Squish, etc.); 
+- Basic knowledge of third party EDA tools; 
+- Basic knowledge of design data formats (LEF, DEF, GDSII, Open Access);
+- Ability to organize and drive projects; 
+- Ability to develop complicated validation scripts and modules to use in
+the testing framework; 
+- Ability to write qualified documentation (in English language) for the
+projects and developed software by using the MS Office or Open Office
+environment; 
+- Team work capability.","Interested candidates are asked to submit a CV
+through: http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

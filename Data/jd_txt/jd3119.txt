@@ -1,0 +1,24 @@
+Software Developer,"""Rosgosstrakh-Armenia"" ICJSC is looking for an honest
+and hard-working Software Developer to join the IT team  and be engaged
+in Rosgosstrakh's current and future projects. The candidate should be a
+quick learner with experience in the object-oriented programming and
+development of client server applications.","- Participate in the software architecture;
+- Responsible for the software design, development and implementation;
+- Responsible for the software maintenance;
+- Participate in the development of required specifications/ technical
+tasks;
+- Study new and advanced information technologies and software
+environments and propose them to the management.","- University degree in Computer Sciences or a related field;
+- 3 years of experience with database design, development and
+optimization technology;
+- Excellent knowledge of OOP, T-SQL, PL-SQL, C#, ASP.NET;
+- Good knowledge of the Armenian and Russian languages; knowledge of the
+technical English language;
+- Problem-solving and decision-making skills;
+- Good time management and organizational skills;
+- Knowledge of accounting is a plus.","Interested candidates are asked to send resumes
+to: hr@... . Please mention the position title ""Software Developer"" in
+the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,20 @@
+PHP Programmer,"We are seeking an experienced PHP Programmer with
+excellent, demonstrated problem solving skills.",NA,"- 3-4+ years of professional programming related experience.
+Development Skills:
+- Experience in designing and delivering complex web based applications
+using PHP;
+- Experience with Style Sheets, HTML, JavaScript, XML, XSLT;
+- Knowledge of Apache Web Server for Linux and Web Site Application
+deployment and administration.
+Database Skills:
+- Experience with MySQL database design, programming and
+administration;
+- Knowledge of database Security;
+- Experience with SQL Server Reporting Services, Analysis Services,
+Integration Services preferred.
+- The candidate must be a responsible and motivated team player.","Please send resume to: techjobs@...
+or harutyun.avetisyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SADA Systems, Inc. is a Los Angeles, CA based computer
+technology consulting and development firm."

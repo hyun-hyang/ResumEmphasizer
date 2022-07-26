@@ -1,0 +1,30 @@
+Senior Java Developer,"IUNetworks LLC is looking for a motivated Senior Java
+Developer for web based, enterprise level applications development.","- Analyze given task and provide technical expertise;
+- Provide task estimates;
+- Develop software based on requirements;
+- Develop unit tests for developed software;
+- Identify possible risks and report them;
+- Accurately resolve and test assigned requests and report their
+statuses;
+- Provide technical documentation for developed software.","- Bachelor's degree; Master's degree is a plus;
+- At least 4 years of work experience in Java and Web development;
+- Experience with web development with Java EE platform;
+- Excellent knowledge of Java and OOP;
+- Knowledge of Java technologies: JSF, EJB, Hibernate, Spring and
+JAX-WS;
+- Knowledge of databases: excellent  knowledge of SQL, experience with
+Oracle and other relational database systems and database modeling
+skills;
+- Knowledge of (X)HTML, CSS, JavaScript and XML;
+- Ability to work on projects with a development team;
+- Problem solving skills;
+- Strong interpersonal skills, including effective writing and verbal
+communication skills.","Interested applicants should submit their CV-s
+to: job@... .  Please, mention ""Senior Java Developer"" in the
+subject line of your e-mail. Only short-listed candidates will be invited
+for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUnetworks LLC is an Information Technology company that
+provides integrated solutions of software development and hardware
+supply. For more information please visit the website:http://www.iunetworks.am/"

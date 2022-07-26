@@ -1,0 +1,30 @@
+Mobile Application Developer,"M Systems is seeking experienced  Mobile Application
+Developers for development of features both for its own projects and
+ordered by customers.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience;
+- Knowledge of fundamentals in object-oriented design, data structures,
+algorithm design, problem solving and complexity analysis;
+- Proficiency in, at least, one modern object-oriented language such as
+Objective C (preferred), C++, or Java;
+- Good understanding of iOS SDK, XCode and iOS Frameworks;
+- Good understanding of Android SDK, Android Frameworks and Fast UI
+building;
+- Experience in building complex iPhone/ Android Apps that have been
+successfully delivered to customers;
+- Knowledge of Photoshop or Corel Draw is a big plus;
+- Good analytical skills;
+- Good team player who is self motivated and well organized;
+- Strong oral and written communication skills;
+- Good knowledge of English language;
+- Knowledge of German language is an advantage.","All interested and qualified candidates are
+welcome to send their CV to: msystemsarmenia@... . Please indicate
+the position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"M Systems is a software technology company that has a
+mission to develop web and mobile products with heavy traffic."

@@ -1,0 +1,29 @@
+Frontend Developer,"M Systems LLC is seeking experienced Frontend
+Developers for the development of features for its partners' product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 1 year of practical experience;
+- Knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4, HTML5);
+- Knowledge of OOP principles;
+- Knowledge of WEB2 application design patterns;
+- Knowledge of other programming languages such as PHP, Ruby is an
+advantage;
+- Knowledge of Java programming language is a big plus;
+- Knowledge of GWT, ExtGWT is an advantage;
+- Knowledge of Photoshop or Corel Draw is a big plus;
+- Experience using Eclipse IDE is preferable;
+- Experience working in Linux environment (Ubuntu, Suse) is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language on both communication and technical
+levels;
+- Knowledge of German language is an advantage.","All interested and qualified candidates are
+welcome to send their CVs to: info@... . Please indicate
+the position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"M Systems LLC is a new software technology company which
+develops web and mobile products with heavy traffic."

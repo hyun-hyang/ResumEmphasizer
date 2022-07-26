@@ -1,0 +1,9 @@
+Programmer,"VoIPShop is seeking qualified and experienced
+candidates for the position of Programmer.",#NAME?,"- Knowledge of PostgreSQL;
+- Knowledge of PHP;
+- Knowledge of MySQL.","Applicants are kindly requested to e-mail their
+CVs to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VoIPShop Telecommunications Inc. is an international
+telecommunications carrier."

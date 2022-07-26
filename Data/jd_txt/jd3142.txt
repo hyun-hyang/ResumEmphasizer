@@ -1,0 +1,36 @@
+Android Developer,"Accontech LLC is currently looking for talented
+thinkers and software engineers for the position of Android Developer.
+The candidate will be highly involved in the ideation and brainstorming
+of new applications and will work quickly and efficiently to produce
+innovative solutions.","- Develop, iterate and maintain technology rich applications for Android
+platform;
+- Write well organised and high performance Java code meeting Object
+Oriented principles;
+- Gather requirements around functionality and translate those
+requirements into technical requirements;
+- Estimate overall timelines, risks and requirements;
+- Participate in design meetings to speak to the feasibility of design
+requirements;
+- Detect and correct issues and optimize performance of the app.","Particulars of experience are not as important
+to the Company as generally being a smart person. Smart people learn
+quickly, so please use the bullet points below as a guideline:
+- Positive attitude with ""can do"" mentality;
+- At least 1 year of experience in Android development;
+- Good knowledge of Android SDK (2.3 - 5.x) understanding differences of
+Android versions;
+- Good knowledge of Android UI design principles and understanding of how
+to deal with different screen sizes;
+- Knowledge of multi-threading principles and specifics of Android
+platform;
+- Experience with embedding and using 3rd party sources and libs;
+- Experience of consuming web services (REST) and data processing (XML,
+JSON);
+- Strong technical capacity and ability/ passion to learn;
+- Experience with networking frameworks is a plus;
+- Experience with SQLite or other SQL based database systems is a plus;
+- Experience in C will be a great plus.","All the interested candidates are welcome to
+send their resume to: talent@... . Please indicate the position
+title in the subject line of your letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,16 @@
+C# Software Developer,"Boomerang Software LLC is looking for a Software
+Developer to be engaged in different long term multi-technology projects.","Develop applications with C#, ASP.NET, ADO.NET and
+MS SQL.","- At least 4 years of work experience;
+- Excellent knowledge of ADO.NET, ASP.NET and C#;
+- Database knowledge with MS SQL;
+- Good knowledge of Classic ASP is preferred;
+- Good knowledge of JQuery is preferred; 
+- Excellent verbal and written knowledge of English language.","If interested, please email your CV with a 3x4
+size photo to: hr@... . In the subject line of your message,
+please mention the position you are applying for. Only shortlisted
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

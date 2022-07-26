@@ -1,0 +1,43 @@
+QA and Technical Support Specialist,"Ogma Applications CJSC is looking for qualified,
+serious, hardworking team players for the position of QA and Technical
+Support Specialist.","- Write technical and functional specifications and present them to the
+other team members, and occasionally to the management;
+- Work with customers from the US to provide product and service support
+and resolve product and service issues;
+- Attract potential customers by answering product and service questions
+or suggesting information about other products and services;
+- Act as a liaison between customers and company;
+- Quickly understand the tested features;
+- Develop test plans;
+- Develop manual test cases;
+- Work in contact with developers, QA team and decide how to achieve
+maximum coverage, work out corner cases of the tested feature;
+- Develop functional and feature regression tests and test suites;
+- Review the results of test runs, inspect the reasons of failed tests
+and be proactive in communication with developers in reporting and fixing
+the issues.","- Fluency in English language;
+- Excellent interpersonal and communication skills;
+- Ability to work with people in conflict situations;
+- Ability and willingness to search and understand documentation;
+- Ability to work under stress;
+- Pleasant and friendly mannerism;
+- Good social skills;
+- Flexible personality with teamwork abilities;
+- Sense of responsibility;
+- Advanced computer skills;
+- Software development knowledge/ background is a plus;
+- Experience in testing .NET web applications;
+- Experience in Agile SDLC is a plus;
+- Familiarity with Bug Tracking tools (JIRA/ Mantis is a plus);
+- Ability and willingness to write high level technical documentation or
+user scenarios for the product under test;
+- Ability and willingness to write high level release notes for new
+versions of the products.","Interested candidates are asked to submit their
+detailed CVs in English language to: career@... indicating the
+position in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications CJSC is a software development company
+based in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

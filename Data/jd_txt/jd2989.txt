@@ -1,0 +1,37 @@
+Senior PHP Developer,"Joomag AM LLC is seeking a highly motivated Senior PHP
+Developer who will become a part of the company's team and contribute to
+all aspects of the ongoing software development from the initiation,
+through to developing, testing and launching.","- Take part in development efforts on large-scale web-based projects,
+ensuring robust and lasting solutions are implemented;
+- Develop scalable, secure and high-performance backend functionality for
+web-based projects;
+- Write ""clean"", well designed code;
+- Troubleshoot, test and maintain the core product software and databases
+to ensure strong optimization and functionality;
+- Make innovations and build things that people will blog about.","- Strong knowledge of PHP, MySQL;
+- 3 and more years of software development experience in PHP;
+- BS/ MS degree in Computer Science, Engineering or a related field;
+- Demonstrable knowledge of web technologies: HTML, CSS, JavaScript;
+- Experience with subversion, GIT or other source control tools;
+- Experience with Apache web server;
+- Knowledge in typography, whitespace and other details that occur at the
+intersection of design and code;
+- Knowledge of OOP and Design Patterns.
+DESIRED SKILLS:
+- Experience with end-to-end product testing;
+- Ability to work independently and as a part of the team;
+- Passion for best design and coding practices and desire to develop new
+bold ideas;
+- Passionate, energetic, collaborative and positive approach to achieving
+company growth objectives;
+- Responsible and disciplined personality;
+- Result-oriented and initiative personality;
+- Knowledge of PHP frameworks;
+- Experience with Linux;
+- Excellent knowledge of English language.","All interested and qualified candidates are
+invited to send their CVs to: hr.armenia@... . Please indicate the
+announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC is a digital publishing company. More
+information can be found at: www.joomag.com."

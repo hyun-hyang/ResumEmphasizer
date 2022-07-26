@@ -1,0 +1,26 @@
+Web/ Frontend Developer,"The incumbent will be developing software applications
+working in distributed team.","- Participate in all the steps of the software project, from design to
+integration;
+- Create stunning Web applications, fix problems;
+- Always be in touch with newest Web technologies.","- More than 2 years of experience in Web development;
+- Ability to create professional Web pages using HTML/HTML5, CSS/CSS3
+technologies;
+- Strong knowledge of JS core and jQuery;
+- Knowledge of modern WEB frameworks (less.css, knockout.js, backbone,
+bootstrap);
+- Knowledge of any server side programming language is a plus (PHP, Java,
+.Net);
+- Highly motivated, passionate, adaptable personality, and eager to learn
+new technologies and methods;
+- Fluency in English language - reading/ writing/ speaking;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Fast learner, responsible personality.","To apply, please email your CV to:armenia.info@... . Please mention the position you are
+applying for in the subject line of your e-mail. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The business communication language in Macadamian is
+English, so the first interview will be in English.","Macadamian is a software development company based in
+Ottawa, Canada with the branch in Yerevan, Armenia. Please read more
+visiting www.macadamian.com."

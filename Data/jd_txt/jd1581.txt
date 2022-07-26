@@ -1,0 +1,50 @@
+Web Developer,"The Human Rights Unit of the OSCE Office in Yerevan
+aims to support the Public Council adjunct to the RA Ministry of Defense
+in increasing awareness of its activities and ensuring public outreach.
+Greater transparency and information available on the Public Council's
+website will also contribute to strengthened co-operation with other
+civil society organizations, the media and the RA National Assembly.
+Thus, the OSCE Office in Yerevan invites applications from highly
+qualified, energetic and experienced Armenian professionals for the post
+of the Web Developer. The incumbent will be responsible for maintaining
+and further developing the website of the Public Council.","- Maintain Intranet or Extranet-based applications using the experience
+with a variety of network technologies;
+- Research, track, and understand new web technologies to maintain
+service applications and intranet and external internet-related systems;
+- Build applications using Internet and Windows development tools;
+- Provide written design documents, test plans and test results;
+- Manage, develop, integrate and implement web related applications
+components;
+- Play a direct role in programming, maintenance, technical support,
+documentation and administration of web applications;
+- Establish and communicate standards to ensure continuity of web
+applications;
+- Work with outside vendors in developing tests to ensure feature
+functionality;
+- Make translations and edit relevant materials provided by the Council
+to be posted on the website;
+- Uploading materials;
+- Create links to other relevant websites;
+- Perform other related duties as assigned.","- University degree in Computer Science or a relevant field;
+- 3-5 years of relevant professional experience;
+- Programming knowledge in PHP, JavaScript;
+- Experience with Perl, SQL, HTML;
+- Web-based user interface development;
+- Understanding of complex database concepts;
+- Ability to create well designed, reusable objects;
+- Understanding of browser specific compatibility issues;
+- Excellent communication skills and ability to work in a team;
+- Fluency in Armenian, excellent knowledge of Russian and English
+languages;
+- Previous translation and/or editing experience would be an advantage.","If you wish to apply for this position, please
+use the OSCE's offline application link found under:http://www.osce.org/employment/21.
+Offline applications along with cover letters can be submitted directly
+to the OSCE Office in Yerevan at the following address: 64/1, Sundukyan
+St., Yerevan 0012, Republic of Armenia, or by e-mail quoting the vacancy
+post title ""Web Developer"" to: recruitpersonnel-am@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The OSCE, as an equal opportunity organization,
+encourages female candidates to apply. The OSCE Office in Yerevan will
+use a transparent and competitive screening process. It will only contact
+those applicants in whom there is further interest.",NA

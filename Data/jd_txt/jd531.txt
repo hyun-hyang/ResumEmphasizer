@@ -1,0 +1,32 @@
+Web Site Developer/ Designer,"The Web Site Developer/ Designer will work under the
+overall guidance and direct supervision of the Project Manager and with
+close collaboration with the CCPCG.","- Discuss the web site structure and design;
+- Develop and design a new web site;
+- Establish an administration panel for the site maintenance and
+update;
+- Develop and maintain online database (MySQL);
+- Create detailed system requirement specifications as well as system
+design and functional specifications;
+- Create a bilingual web site (English and Armenian) through Unicode
+standard;
+- Create site search and other database-driven parts containing both
+English and Armenian data.","- IT related higher education;
+- At least 3-4 years of experience in web site development;
+- Experience with XHTML, CSS, Adobe Photoshop and other Web related
+technologies;
+- Basic knowledge of JavaScript and Macromedia Flash;
+- Strong knowledge of PHP/ MySQL;
+- Strong problem-solving skills;
+- Strong knowledge of browser, screen and platform compatibility
+issues;
+- Good communication skills;
+- Team work approach;
+- Knowledge of Armenian and English languages. Knowledge of Russian is
+an asset.","A letter of motivation and full CV can be
+delivered hard copies to the CCPCG (Governmental Bld. #3, Yerevan, RA,
+Ministry of Nature Protection of RA, Floor 5, Room # 533) or submitted
+through fax: (37410) 583933 or e-mail: infocenter@... to the
+attention of the Project Manager.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

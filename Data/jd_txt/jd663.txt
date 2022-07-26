@@ -1,0 +1,13 @@
+EDA QA Engineering Manager,"The EDA QA Engineering Manager will be leading a team
+of 6-12 engineers working on the FPGA P&R system QA. Development
+platform is Linux/C++/QT/Squish/TCL.",NA,"- Minimum 5 years of relevant work experience;
+- MS or BS degree in CS or EE;
+- Excellent spoken and written English language knowledge;
+- Knowledge of C++, TCL, Make, Bash;
+- Good understanding of EDA flow.","To apply, please send your CV either in PDF or
+Open Office formats to: jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate is an ESL design company based in Yerevan,
+Armenia. For more information about the company, please visit:
+www.instigate.am."

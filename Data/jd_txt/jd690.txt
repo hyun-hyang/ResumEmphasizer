@@ -1,0 +1,18 @@
+Software QA Engineer,"Webb Fontaine Armenia is seeking for Software Engineer
+specialized in Software testing.","- Develop test plan;
+- Specify test design;
+- Automate test cases;
+- Find/verify product defect;
+- Record test results and generate periodical reports based on those.","- Excellent knowledge of English language;
+- Experience in Java;
+- A minimum of 1 year work experience in software development and
+testing;
+- Proven coding and debugging skills;
+- Knowledge and experience in SQL/Oracle is a plus.","Interested candidates should email their
+resumes to: amkrtchyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Webb Fontaine Holding SA is an IT company based in
+Switzerland that offers expertise, services and solutions in the field
+of e-Government and new technologies (www.webbfontaine.com). Webb
+Fontaine Armenia is a branch of Webb Fontaine Holding ."

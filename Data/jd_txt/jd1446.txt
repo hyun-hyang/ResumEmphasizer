@@ -1,0 +1,16 @@
+ASP.NET Software Developer,"Boomerang Software LLC is looking for a Software
+Developer to be engaged in different long term multi-technology projects.","Develop applications with C#, Silverlight, VB 6.0,
+VB.NET, MSSQL.","- At least 3 years of work experience in .NET Framework;
+- Good knowledge of WPF and Silverlight 4;
+- Experience in C#, ASP.NET and ADO.NET;
+- Experience in VB 6.0, ASP and ADO;
+- Database knowledge with MSSQL; 
+- Excellent knowledge of English language.","If interested, please email your CV and
+references to: hr@.... Please, clearly mention in the subject line which
+position you are applying for. Only short listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

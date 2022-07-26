@@ -1,0 +1,40 @@
+Web Designer/ Developer,"The incumbent will be responsible for the creation of
+the official website of REC Caucasus Armenian Branch Office, which will
+serve as a tool for raising public awareness, as well as will strengthen
+cooperation and information exchange between the key stakeholders of the
+project (government, civil society) as well as relevant regional
+projects and initiatives.
+The incumbent, under the supervision of Armenia BO, will be responsible
+for the creation, initial maintenance and development of the website and
+relevant training for REC Caucasus staff.  The website must have English,
+Armenian and Russian pages, and will be linked to the official websites
+of REC Caucasus. Updates of the website should be performed in a timely
+manner. 
+As a major expected output, public awareness on the activities of REC
+Caucasus in Armenia and in the region will be improved and strengthened.","- Create tri-lingual website;
+- Register and be responsible for the website hosting;
+- Update information on the website on initial stages in English,
+Armenian and Russian languages upon submission of the information by the
+project staff;
+- Design the website in accordance to corporate style of REC Caucasus.","- At least 3 years of experience in web development on nature, scale and
+complexity commensurate with the present terms of reference (see
+Technical Note);
+- Advanced knowledge of web design, coding and system administration.","All interested and qualified candidates should
+send their CVs to: Ms. Nune Harutyunyannune.harutyunyan@... . The email should consist of
+- A full CV accompanied by a recent identity photograph;
+- Links of created website(s).
+Only short listed applicants will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Technical Note: There should be three versions of the
+website  English/ Armenian/ Russian. Source Codes (PHP, HTML,
+JavaScript, etc.) will be property of  REC Caucasus. Pages should be
+platform, screen (min.: 1024x768) and browser (IE 4+, Mozilla Firefox)
+independent. The website should be updatable from any internet browser
+via Content Management System (CMS).","The Regional Environmental Center for the Caucasus (REC
+Caucasus)  is a non-commercial legal entity, registered in spring of
+2000, following the decision made at the Sofia Ministerial Conference in
+1995, to work for environment and sustainable development in the Caucasus
+region. The founding document of REC Caucasus - its Charter -  was signed
+by the governments of Armenia, Azerbaijan, Georgia and the European
+Union."

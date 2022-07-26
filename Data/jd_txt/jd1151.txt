@@ -1,0 +1,54 @@
+Network Administrator,"GNC-Alfa CJSC is seeking an experienced professional
+to fulfill the position of a Network Administrator.","- Configure, test and maintain LAN/WAN equipments and related services;
+- Identify, diagnose and resolve network problems;
+- Create and maintain comprehensive documentation for all implemented
+networks;
+- Provide pre-sales and post sales technical support;
+- Assist in preparation of proposals and solution presentation; 
+- Maintain and support companys LAN/WAN environment;
+- Be responsible for Windows and Linux systems, business applications,
+anti-virus protection, email and authentication administration;
+- Be responsible for daily maintenance and problem resolution, operating
+system patches and software upgrades and routine hardware configuration;
+- Participate in 24x7 on call rotation;
+- Obtain and maintain required certifications for partnership with key
+vendors.","- Bachelors degree (preferably engineering related);
+- 3+ years of working experience in network administration;
+- Hands-on experience implementing and administrating network devices,
+setting and maintaining polices and rights/ security within a Windows
+Server 2000/2003 environment: Firewalls; Cisco switches; Cisco routers;
+Cisco VPN; Wireless Access Points, HP, Dell server platforms and desktop
+and laptop installation and problem resolution in a Windows XP
+environment;
+- Previous responsibility for providing customer support;
+- Demonstrable level of competence including a thorough understanding of
+the OSI network model, Ethernet and TCP/IP networking; 
+- Practical level of experience of implementing and administrating
+common TCP/IP-based services, including DNS, DHCP, HTTP, FTP, SSH, SMTP,
+etc.;
+- Working knowledge of common network monitoring and security
+utilities;
+- Troubleshooting focused on determining hardware vs. software, hardware
+vs. firmware, software vs. operating system, network vs. application/
+systems, and patterned vs. non-repeatable problems;
+- Ability to prioritize and multitask;
+- Willingness to learn new technologies and maintain industry
+knowledge;
+- Excellent customer presentation skills;
+- Current CCNA or CCNP is strongly preferred; 
+- Ability to lift, carry and move all components of PC workstations,
+servers, network equipments, peripherals and other ancillary
+equipments;
+- Unquestioned principles and behavior;
+- Collaborative and responsible work habits.","To apply for this position, please submit a
+resume addressing relevant qualifications and experience and information
+on professional reference strictly to: a.grigoryan@... . No personal
+visits, deliveries or phone calls, please! Only short listed candidates
+will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"GNC-Alfa is a licensed network services operator in
+Armenia. Its network is based on Fiber-Optic Cable (FOC) infrastructure
+and designed to satisfy needs of fixed and mobile operators, Internet
+Service Providers and large enterprises in transport network services
+and high speed Internet."

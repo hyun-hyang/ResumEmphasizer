@@ -1,0 +1,39 @@
+Android Developer,"Citymobil is looking for an Android Developer who
+possesses a passion for pushing mobile technologies to the limit. The
+incumbent will work with the company's team of developers to design and
+build the next generation of the company's mobile applications.","- Design and build advanced applications for the Android platform;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Work with outside data sources and APIs;
+- Test automation using Robotium;
+- Work on bug fixing and improving application performance;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency;
+- Ability to quickly handle the codes written by others.","- Bachelor's degree in Computer Science or other related
+fields;
+- At least 3 years of software development experience;
+- At least 3 years of Android experience;
+- Hands-on experience with Java is a plus; 
+- Understanding of source code control;
+- Passion for mobile device technologies, especially
+Android;
+- Possession of projects on the Google Play Market.","All interested candidates are kindly requested
+to submit their CVs and the links of projects on the Google Play Market
+to: ani.margaryan@... , with cc to: a.alexandryan@...
+. Please indicate the title of the position ""Android Developer"" in the
+subject line of the e-mail. If there is an Android
+application you have developed that you would like
+Citymobil to consider along with your resume,
+please inform Citymobil about it.
+Citymobil is grateful to all interested applicants; however, only
+short-listed candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","While experience with the Android
+SDK is highly desirable it is not a necessity
+for the right candidate who is a quick
+learner.","Citymobil LLC is a Moscow-based company, founded in 2007.
+Citymobil is available in Moscow, Krasnodar, Rostov-on-Don and Kazan.
+Citymobil allows you to book and hail a taxi from your smartphone or via
+website. For more information about the Company, please visit:
+http://www.city-mobil.ru/."

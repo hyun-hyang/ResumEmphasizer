@@ -1,0 +1,32 @@
+C#/ ASP.NET Developer,"The successful candidate will become part of the
+company's growing development team. He /she will be working mainly on
+various parts of company's web applications.","- Design and develop various Web artifacts including and not limited to
+features, solutions, db schemas, application frameworks and GUIs;
+- Design and build reusable modules to be used throughout company web
+sites;
+- Maintain and enhance companys home grown systems;
+- Build Custom UI Components;
+- Be responsible for bug fixing/ technical support (level 2) of the
+existing applications in production.","- B.S. in Computing Science;
+- At least 2 years of work experience in ASP.NET;
+- At least 3 years of work experience in .Net Framework;
+- At least 2 years of work experience in SQL database design and
+programming;
+- Proficiency in OOP/ OOD and good knowledge of Design Patterns;
+- Knowledge and Experience in LINQ/ Entity Framework 4;
+- Design and implement .Net Web Services; WCF is preferred;
+- Develop ASP.NET Web applications using MVC3 technology;
+- Design and implement Databases in SQL server 2008;
+- Mastery of technical English language;
+- Good communication skills;
+- Good team player and ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","Please e-mail your professional CV to:armjobs@... specifying the job position name in the subject
+line. Please note that only shortlisted candidates will be contacted for
+an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours are from 10am to 7pm, but will also
+require flexible rescheduling based on need. The job could include
+overtime work based on need.","CargoMatrix Armenia Inc. is a logistics software
+solutions provider with the head office based in New York, USA."

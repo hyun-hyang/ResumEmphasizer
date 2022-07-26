@@ -1,0 +1,14 @@
+ASP Developer,"We are looking for a qualified developer with
+practical experience in Web programming.","- Develop Web Applications in accordance with given Specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Communicate with management and team members effectively.","-	Bachelors or higher degree in Computer Sciences or a related
+discipline with work experience in software development;
+- 2 years of work experience in required fields ASP or ASP.NET;
+- Good knowledge of SQL language;
+- Work experience with client/ server applications;
+- Good English language skills.","Please email your detailed resume to:job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft Inc. is an international Internet
+infrastructure development and consulting company. It was established in
+January 2000."

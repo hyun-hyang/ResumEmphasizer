@@ -1,0 +1,31 @@
+Senior Web Developer,"The Tumo Center for Creative Technologies is seeking a
+highly motivated and experienced Senior Web Developer who will be
+responsible for developing innovative web-based tools as part of a
+progressive educational system.","- Develop, modify and test multimedia software programs, program tools
+and applications;
+- Responsible for code writing, detailed code review and testing;
+- Elaborate the ideas that come up during brainstorming sessions and turn
+them into work-developed multimedia assets.","- Detailed understanding and solid experience in web development,
+cross-browser development, programming and scripting languages and
+database systems;
+- Ability to read, understand and modify the existing code;
+- Ability to collaborate closely with the management and other members of
+the software development team;
+- Highly dynamic and positive personality; excellent people skills and
+facility in working with teenagers;
+- PHP programming experience (object oriented, version 5);
+- Experience with NoSQL databases is a big plus;
+- Excellent knowledge of HTML, CSS and Javascript;
+- Work experience with modern PHP frameworks (Yii2 appreciated);
+- Experience with version control systems (SVN and Git);
+- Higher education degree from a recognized university;
+- Excellent communication skills;
+- Knowledge of the English language is a plus.","Qualified candidates may submit their CVs to:
+jobs@... or to: 16 Halabyan Street, Yerevan, Armenia. Only
+short-listed candidates will be notified for interviews. Please kindly
+indicate the position title ""Senior Web Developer"" in the subject line
+when applying by email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn more about the Tumo Center for Creative
+Technologies please visit the website: www.tumo.org."

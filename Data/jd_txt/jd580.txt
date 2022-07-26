@@ -1,0 +1,30 @@
+Quantitative Developer-Analyst,"CompatibL is seeking highly skilled Quantitative
+Analysts to develop and implement applied mathematical models for
+financial markets.","- Learn financial mathematics while interacting with experienced
+American colleagues;
+- Develop new analytical and statistical models for portfolio analysis
+and investments;
+- Help implement the models with a team of programmers.","- Strong quantitative and analytical skills. Areas of particular
+interest include:
+a) Applied mathematics: linear algebra, ordinary and partial
+differential equations, probability theory;
+b) Statistics: linear and non-linear regressions, time series models,
+non-parametric and Bayesian methods;
+c) Numerical methods: finite differences, numerical integration, Monte
+Carlo simulations, linear and non-linear optimizations;
+- Familiarity with a modern programming language such as C, C++, C# is a
+big plus;
+- Familiarity with Excel, Matlab, S-plus, or R is a plus;
+- Graduate degree and research experience in physics, mathematics,
+engineering or another highly quantitative subject area;
+- Willingness to learn new skills;
+- Ability to clearly communicate ideas;
+- Good knowledge of technical English language and fluent knowledge of
+Russian;
+- Ability to effectively work under strict deadlines and in a team
+environment.","If interested, please email your detailed CV in
+English to: jobs.am@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CompatibL is a US software company. For more information
+see the company website: www.compatibl.com."

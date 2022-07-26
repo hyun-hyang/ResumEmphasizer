@@ -1,0 +1,23 @@
+Web Developer,"Xalt LLC is seeking for a motivated and experienced
+Web Developer who will develop new and support existing websites created
+by the company, evaluate solutions, create detailed system requirement
+specifications as well as system design and functional specifications.","- Scripting, web programming, HTML coding 
+- Designing website functionality
+- Writing high quality code based on implementation specification
+- Effective programming in UNIX/Linux environment
+- Participating in web applications design and development and updating
+the existing websites","- Strong knowledge of PHP, MySQL, HTML, Javascript, XML/XSL. Knowledge
+of data structures, algorithms and database concepts is a plus. 
+- Perl programming language knowledge is desirable. 
+- Minimum 2 years experience in relevant field 
+- Good knowledge of English
+- Team oriented, organized, initiative 
+- Willing to learn new skills
+- Positive attitude","If you are interested in the Web Developers
+position, please email your cover letter and CV with portfolio to:info@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Xalt LLC, more widely known as Xter.net, is one of the
+leading ISPs in Armenia providing a wide spectrum of IT services,
+including dial-up and fast DSL Internet access, web-hosting, .am domain
+registration and IT consultancy."

@@ -1,0 +1,25 @@
+Software Quality Assurance Engineer,"The Software Quality Assurance Engineer will be
+responsible for manual and automation duties of software testing process.","- Participate in all the steps of the software development life cycle
+(SDLC), from design to integration;
+- Develop test plans/ scenarios/ cases;
+- Report bugs to project teams;
+- Analyze and investigate defects of existing projects;
+- Reproduce client environment/ issues and validate fixes;
+- Verify implemented features.","- 1-3 years of experience in software quality assurance/ testing;
+- Experience in Desktop applications testing;
+- Experience in VoIP and network  technologies is preferable;
+- Strong knowledge of QA and SDLC processes;
+- Strong knowledge of QA tools is a plus;
+- Knowledge of bug trackers;
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable personality and eagerness to
+learn new technologies and methods;
+- Good knowledge of English (reading/ writing/ speaking);
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Fast learner, responsible personality.","To apply, please send your resume and cover
+letter to: careers-armenia@... . Only short listed candidates
+will be contacted. Thanks.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

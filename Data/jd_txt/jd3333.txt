@@ -1,0 +1,21 @@
+Android Developer,"BigBek is looking for passionate Android Developers who
+will help the company make a difference.","- Develop applications for the Android platform;
+- Work on bug fixing and improving the application performance;
+- Test a code for robustness, including edge cases, usability, and
+general reliability;
+- Cooperate with cross-functional teams to define and develop new
+features;
+- Continuously discover, evaluate, and implement new technologies to
+maximize the development efficiency;
+- Contribute to the team's technical growth by engaging in technical
+discussions and mentoring.","- BS/ MS in Computer Science, Engineering or a related field;
+- Work experience in Android development;
+- Strong knowledge of Java and C++, algorithms and design patterns;
+- Experience with third-party libraries and APIs;
+- Solid understanding of the full mobile development life cycle.","Interested candidates are asked to send their
+CVs to: hr@... indicating ""Android Developer"" in the subject line
+of the email. Please note that only short-listed candidates will be
+notified for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,BigBek is a software development company.

@@ -1,0 +1,24 @@
+PHP Developer,"The Web Developer will be responsible for development,
+continuation and follow-on enhancements of internal web site and MySQL
+database.","- Develop, test and maintain internal web site in PHP/ MySql and
+Javascript/ AJAX code; 
+- Read, understand and modify the existing code;
+- Design Mysql database structure; 
+- Participate in project planning.","- Bachelor's degree in Computer Sciences or a related field; higher
+degree is a plus;
+- At least 3 years of work experience with the following technologies:
+HTML/ CSS, JavaScript, AJAX, PHP, Yii and other frameworks;
+- Experience in object oriented programming/ modular programming; 
+- Knowledge of SQL/ MySQL and database design/ modeling;
+- Understanding of browser specific compatibility issues;
+- Knowledge of Apache server configuration/ administration is a plus;
+- Knowledge of Linux command line is a plus;
+- Knowledge of HTML, CSS, AJAX and JavaScript frameworks;
+- Ability to work both as an individual and as part of a team; 
+- Good written skills in English and Russian languages;
+- Ability to learn quickly.","Please submit your detailed CV in English
+language to: vacancy@... , indicating the position in the subject
+line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

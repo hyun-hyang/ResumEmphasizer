@@ -1,0 +1,19 @@
+Mobile Applications Software Engineer,"The incumbent will participate in development of a
+various number of applications for mobile platforms: iOS and/ or Android.
+The development team is focused on mobile video streaming, augmented
+reality on smart phones, mobile GIS and cartography, as well as OpenGL 3d
+graphics and gaming.",NA,"- Knowledge of iOS, Objective C and/ or Android as well as Java;
+- Experience in video streaming is a huge asset, especially  experience
+with FFmpeg (it can even be preferred over experience in mobile
+platforms);
+- Knowledge of C++ is an advantage;
+- Expertise in compression algorithms (DCT, VBR and Quantization) is an
+asset: 
+- Knowledge of OpenGL/ DirectX and experience with shaders will also be
+beneficial.","Please send your CV to: hiring@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"R&D Arts is a Canadian software development company,
+which has office in Yerevan. Company is focused on research and
+development in mobile computing. Please visit www.rd-arts.com for more
+details."

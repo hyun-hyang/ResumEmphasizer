@@ -1,0 +1,62 @@
+Front-End/ HTML Developer,"The Front-end/ HTML Developer will be involved into
+small to large scale projects through all stages of the software
+development life cycle from requirements gathering to implementation. The
+Front-end/ HTML Developer will collaborate with User Interaction and
+Design team, Marketing and .NET developers to design and develop
+functionally rich, robust and user friendly web applications as defined
+by business requirements. The ideal candidate for this position should be
+experienced in designing and developing highly performing and scalable
+web applications that meet the business requirements.","- Collaborate with user interface designers and .NET developers to build
+web applications;
+- Develop standards-compliant web pages using: HTML, DHTML, CSS,
+JavaScript, AJAX and jQuery in Visual Studio;
+- Develop HTML e-mails with an emphasis on e-mail client compatibility;
+- Maintain several corporate websites;
+- Develop original and creative Flash animations and banner ads;
+- Contribute to the establishment and maintenance of code standards;
+- Perform testing of own code; address browser/ platform compatibility
+issues;
+- Proactively report to team leads on task status and issues;
+- Work with fellow team members to define the work breakdown structures
+for the technical activities associated with each project and provide
+accurate time-estimates for assigned tasks.","- Ability to demonstrate-through web portfolio and coding
+examples-standards-compliant HTML, CSS, JavaScript and jQuery;
+- Ability to demonstrate-through web portfoliographic design and flash
+animation experience;
+- Ability to develop web interfaces and front-end functionality based on
+PSDs, storyboards and/ or business requirements documentation;
+- Knowledge of key applications: Adobe CS5 product suite, Microsoft
+Visual Studio 2008/ 2010;
+- Ability to code consistently and to documented standards and
+specifications;
+- Proven experience dealing with browser compatibility issues;
+- Experience working with version control (e.g. SVN) and issue tracking
+(e.g. JIRA);
+- Experience with developing apps for social media sites (Facebook and
+Twitter) is an asset;
+- Experience with XAML is an asset;
+- Undergraduate Degree, Community College Diploma or Post-Graduate
+diploma with related areas of study;
+- At least 3 years of work experience;
+- Strong analytical and problem solving skills;
+- Superior writing, editing and communication skills;
+- Strong organizational skills, ability to multi-task, prioritize and
+meet deadlines;
+- Strong interpersonal skills that facilitate team work;
+- Ability to maintain an awareness of the big picture while paying
+attention to the details;
+- Develop constructive and cooperative working relationships with
+team-mates;
+- A service-oriented mindset and a willingness to assist the team in any
+way to ensure project success;
+- Strong work ethics, positive energy and ability to energize others;
+- Positive attitude and willingness to share knowledge with others;
+- Strong commitment to upgrading technical skills on an ongoing basis;
+- Positive attitude and a willingness to share knowledge with others;
+- Self-starter with the ability to work independently and in a team;
+- Ability to thrive in a changing and dynamic environment;
+- Ability to maintain a user-centric focus;
+- Ability to see projects through to completion with high accuracy.","Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=236
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

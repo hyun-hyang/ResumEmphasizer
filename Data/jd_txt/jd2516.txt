@@ -1,0 +1,24 @@
+Senior Web Developer,"The incumbent will have to deal with various
+technologies and methods to establish a reliable and high quality
+platform supporting the web-application, the mobile webpage, as well as
+the Marktguru APPs.","- Develop, test and deliver code according to requirements defined in
+business specifications;
+- Participate in task estimation;
+- Communicate effectively with the management and team members.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience in Java development;
+- Good knowledge of OOP principles;
+- Knowledge of HTML, XML, CSS, AJAX, JavaScript and jQuery;
+- Good knowledge of JSF is an advantage;
+- Good knowledge of MySQL is an advantage;
+- Experience in using Eclipse IDE is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language, both on communication and
+technical levels.","Those who meet the requirements mentioned above
+are encouraged to send a CV and a motivation letter to:knarik.muradyan@... . Please indicate the name of the position in the
+subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The company thanks all interested applicants, however,
+only shortlisted candidates will be contacted for an interview.","Marktguru LLC is a branch of an Austrian company engaged
+in online marketing."

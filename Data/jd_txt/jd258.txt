@@ -1,0 +1,51 @@
+IT Specialist,"Under the supervision of the Chief of Party (COP) and
+the Office Administrative Manager, the IT Specialist will be responsible
+for maintenance of current database, administration of local network,
+development, implementation and maintenance of IT applications in the
+project management field and a project website.","- Setup, maintain, administer, develop and ensure reliable, secure and
+uninterrupted operation of the whole office IT infrastructure,
+including: office LAN, servers, user workstations, peripheral and
+telecommunications equipment, software applications, databases, website,
+etc.;
+- Manage the technical requirements of a networked computer system;
+- Maintain and administer office Internet access and e-mail;
+- Perform regular data backup;
+- Participate in the design and implementation of IT policies and
+procedures;
+- Provide assistance and consultation to office staff on IT systems and
+software applications usage; troubleshoot staff computer
+hardware/software problems, including disaster management;
+- Help design and maintain an innovative, stimulating and up-to-date web
+site in line with our project and corporate design standards.","- Masters degree in Computer Science;
+- At least 2 years of full-time experience in Windows 2000 Server based
+LAN administration, Windows 2000/XP workstations administration,
+preferably at an international organization; experience with wireless
+LANs is a plus;
+- At least 2 years of experience in database management systems
+administration (Sybase ASA and/or MS SQL Server), e-mail server
+administration, proxy-based 24/7 Internet access administration;
+- Extensive experience in using MS Office software;
+- Extensive experience in setting up/using peripheral computer and LAN
+equipment (laser printers, scanners, modems, etc.);
+- Experience with minor hardware repairs and upgrades; 
+- Experience in implementing IT security measures to protect office IT
+infrastructure;
+- Experience in the development and maintenance of websites using HTML/
+PHP/ MySQL technologies;
+- Fluent knowledge of English and Armenian languages;
+- Microsoft Certified Professional status is desired;
+- Good knowledge of maintaining and troubleshooting networks, including
+but not limited to support to end users, server support, hardware
+experience, and backup and disaster recovery experience;
+- Experienced with website design and maintenance;
+- Well organized and professional personality. Position requires daily
+interaction with employer, employees, partners, subcontractors, vendors,
+etc.;
+- Ability to manage multiple tasks with competing priorities.","Interested applicants should send resume with
+cover letter to: ameria@... or fax: (374-10) 546 800. Please
+clearly mention in the subject line the Reference position: #
+CAPS/FOA/05-03.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","No personal visits, deliveries or phone calls,
+please. Only short listed candidates will be notified for the interview.",NA

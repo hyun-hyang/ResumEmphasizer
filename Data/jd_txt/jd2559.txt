@@ -1,0 +1,21 @@
+Java Software Engineer,"In this role the incumbent will be responsible for
+delivering qualitative implementation of the requirements, according to
+the level of defined architecture, with unit tests coverage, in regards
+to the best practices and industry standards. The incumbent should be a
+team player and encouraged to ask and provide support to the team
+members.","- Responsible for developing and building high quality web applications;
+- Develop large-scale and high performance web applications with Java,
+MYSQL and NOSQL;
+- Implement user web interface technologies;
+- Responsible for Software testing and quality assurance (e.g. unit and
+integration testing).","- University degree in IT or related;
+- Basic Java skills;
+- Experience in J2EE, JSF, Spring, MYSQL;
+- Good communication skills;
+- Knowledge of NOSQL technolgies is a plus;
+- Good knowledge of English language;
+- Understanding of an agile methodology (Scrum).","Interested candidates are asked to send their
+CVs to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,43 @@
+Technical Support Specialist,"The Technical Support Specialist is responsible for
+deploying deliverables on live client environment, responding to client
+queries relevant to configurations of environment, servers, and
+system/application, and handling critical technical issues experienced
+and reported by clients. The Technical Support specialist is also
+responsible for guiding and training clients in undertaking deployment
+tasks (whenever necessary).","- Install, deploy, and maintain live systems/applications on client
+servers;
+- Monitor live systems/applications;
+- Provide log analysis and performance reports;
+- Provide analytical reports on system usage;
+- Handle quickly client reports or inquiries relevant to live
+environment issues or usage;
+- Prioritize requests or problems according to established criteria and
+forward them to the responsible party;
+- Resolve problems or provide ""how-to"" instructions using a variety of
+reference manuals and on-the-job experience;
+- Revise and update reference materials and work procedures.","- Degree in Computer Science, Information Technology or related
+discipline;
+- Previous experience in providing technical support services to
+clients;
+- Extensive experience in configuring and administering Microsoft SQL
+Server 2005, 2008, Oracle 10G, 11G, and MySQL;
+- Extensive experience in Apache Tomcat and IIS;
+- Knowledge of HTML/XML, ASP/JSP, and UML diagrams.
+Required Skills:
+- Strong IT background;
+- Excellent analytical and problem-solving skills;
+- Excellent troubleshooting and research skills; 
+- Motivation to learn and support new technology platforms;
+- Ability to manage time effectively, work under pressure, and
+multi-task; 
+- Advanced communication (verbal and writing) and interpersonal skills;
+- Ability to transfer knowledge and train other staff/clients on best
+practices;
+- Fluency in English language.","Please send your CV along with Cover letter to:careers@... . Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems.
+For more information please visit www.synisys.com"

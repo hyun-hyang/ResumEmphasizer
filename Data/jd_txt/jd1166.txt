@@ -1,0 +1,33 @@
+Software Developer,"Imagenomic LLC is looking for a Software Developer to
+support critical work streams within Companys Software Engineering Team
+by carrying out the key tasks in a full software development cycle
+including design, prototyping, development, test and release as well as
+in maintaining industry standard practices and processes for continual
+improvement. The position will provide auxiliary, GUI and core code
+development primarily in C++ on a daily, time-sensitive basis in
+response to scheduled and/ or ad-hoc tasking. This position will also
+maintain technical documentation and will require performance based
+reporting. For an initial timeframe, this position can work from home
+with flexible working schedule, while meeting high-quality standards for
+responsiveness and follow-through. This role requires the ability to
+self-manage the responsibilities of this position, work remotely with
+company staff, be part of a dynamic, product and knowledge oriented
+international software company, with the desire to assume increasing
+responsibilities and grow with the company.","- Professionally and effectively carry out software development tasks;
+- Develop and maintain technical documentation;
+- Report on the development status as scheduled or as requested;
+- Provide general assistance to Technical Support as requested;
+- Work with Marketing, Product and Sales Teams to apply lessons learned
+to improve and enhance ongoing programs and product initiatives.","- Bachelor's degree in Computer Science or closely related discipline
+and relevant experience;
+- Windows C++ and GUI development experience is highly desired; Mac OS X
+knowledge would be a key advantage; UML knowledge is a plus;
+- Familiarity with image processing and graphics software packages is
+desired (Adobe Photoshop is strongly recommended);
+- Interest in image processing and photography is highly desirable;
+- Excellence in both self-management and as a team player.","Please send your resume in English to:mail@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Imagenomic LLC is a Digital Photography and Imaging
+Software company. Please visit www.imagenomic.com for additional
+information."

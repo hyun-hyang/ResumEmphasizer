@@ -1,0 +1,61 @@
+IT Specialist,"Mary Kay Armenia is seeking an IT Specialist who will
+be responsible for information technology resources and implementation of
+corporate information security policy. The incumbent will maintain
+information technology infrastructure and ensure appropriate and timely
+technical service for all types of equipment. The IT Specialist will
+provide consultations and support to users, help in troubleshooting of
+corporate applications and prepare new requirements to applications and
+infrastructure.","- Responsible for problem solving with corporate and local applications
+from subsidiary perspective. Analyze and assure problems, describe and
+assign tasks to responsible EU IT Departments through ServiceNow. Provide
+staff with workaround until issue is solved;
+- Collaborate with EU and International Team on future development and
+implementation of corporate applications used locally. Request and
+analyze information from local partners and vendors. Create technical
+requirements for new features;
+- Create and configure domain user accounts, as well as file shares and
+printers on the servers in the domain in accordance with the approved
+instructions;
+- Monitor equipment working load, reaction time of different applications
+on user's inquiries in respect of the problems allocation and further
+modernization;
+- Create and provide users with ad-hoc custom data reports from corporate
+databases when reports are not available in existing applications.
+Analyze report, business process behind data structure and write SQL
+queries;
+- Purchase, install and repair relevant equipment and software to ensure
+satisfactory performance and compliance with specifications and
+regulations. Carry out maintenance of equipment in collaboration with the
+vendors;
+- Maintain IT infrastructure including PCs, copiers, UPS systems and
+telephones, ensure appropriate and timely technical service for all types
+of the equipment;
+- Provide technical assistance, consultations, trainings and user support
+to MK Armenia team on daily basis and at corporate special events;
+- Actively participate in IST budgeting processes. Perform duties
+concerning the company special events.","- University degree in Computer Science;
+- At least two years of relevant experience in a foreign company;
+- Knowledge of principles of workplace (including desktop installations
+and support, phones and etc., include troubleshooting) and data backup
+server room organizing, cable management;
+- Proficiency in Microsoft Office and Microsoft Windows OS based
+corporate networks;
+- Confident knowledge of relational databases and SQL;
+- Programming skills (VBA, scripting);
+- Strong analytical skills;
+- Fluency in English, Russian and Armenian languages;
+- Excellent communication (oral and written), interpersonal,
+organizational and presentation skills;
+- Self-motivated, detail-oriented and organized personality;
+- Ability to work independently and efficiently to meet deadlines under
+pressure;
+- Strong multitasking skills.","All candidates with the required qualifications
+are welcomed to send CVs to: elena.aruty@... indicating ""IT
+Specialist"" in the subject line of the e-mail. The company is grateful
+for interest in it, but only shortlisted candidates will be invited for
+the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mary Kay Armenia CJSC is a direct-selling cosmetic
+company which opened in Armenia in 2010. It is a subsidiary of Mary Kay
+Incorporation CJSC with the head-quarter in Dallas, Texas."

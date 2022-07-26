@@ -1,0 +1,30 @@
+Database Specialist,"The Ministry of Agriculture of RA is looking for a
+Database Specialist to assist the International Consultant, the ""State
+Forest Monitoring Center"" SNCO and ""Hayantar"" SNCO staff in creating of
+electronic database for the control of the timber movement of already
+logged trees.
+The main objective of the Database Specialist is to create applicable and
+user-friendly electronic database that will serve for the implementation
+of forest timber regulation - follow the movement of timber and timber
+sale. Besides the database s/he will create the electronic versions of
+forest timber documentations.
+The database should be installed in ""Hayantar"" SNCO. It should be
+connected to the network. It is likely to be integrated with ""Hayantar""
+SNCO website with additional security provision.",NA,"- Minimum 2 years of experience in the field of programming (software
+development);
+- At least 1 year of experience with databases (Oracle or MS SQL
+Server);
+- Knowledge of macros programming and work experience in MS Office (Word,
+Excel, PowerPoint) system; 
+- Knowledge of C++, SQL languages; 
+- Knowledge of Web technologies;
+- Knowledge of Armenian, Russian and English languages.
+Desired requirements:
+- Work experience in Windows and/or Linux servers;
+- Work experience in networks, security and firewall-related;
+- Work experience with State System institutions.","Interested candidates are encouraged to submit a
+CV to: sfmp.2011@... mentioning ""Database Specialist"" in the subject
+line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

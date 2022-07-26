@@ -1,0 +1,46 @@
+Senior Web Developer,"Essence Development LLC is seeking a Web Developer who
+will be responsible for working closely with a team to help develop and
+implement the next generation of the company's web-based product.
+Implement mock-ups design using a combination of HTML, CSS, DHTML,
+JavaScript and build new web-based application modules as part of a
+larger system.","- Output the professional HTML code, JavaScript functionality in a
+timely manner;
+- Build new web based application modules;
+- Support java developers in integrating the blocks of HTML/CSS and
+JavaScript in existing pages;
+- Create, document and execute unit test cases;
+- Manage versioning of software code;
+- Provide support to the Quality Assurance team to create test plans for
+software applications;
+- Provide support and defect resolution for software applications in
+Test, Staging and Production environments;
+- Research and implement process improvements aimed at maximizing
+application performance and reliability.","- College diploma or university degree in the field of computer
+science;
+- 4+ years as a professional Web applications developer;
+- Strong working knowledge and experience building Web applications;
+- Strong knowledge of creating efficient HTML/XHTML, CSS, DHTML and
+JavaScript code;
+- Advanced with various JavaScript frameworks and effects libraries;
+- Advanced with Ajax and other back-end scripting language (e.g.
+JSP/Servlet);
+- Experience working with developers in integrating HTML pages into the
+dynamic web pages;
+- Excellent understanding of programming concepts;
+- In-depth knowledge of Web technologies, protocols, and tools
+including;
+- Knowledge of cross-platform and cross-browser compatibility issues;
+- Experience working closely with both software and product teams;
+- Ability to work on several projects concurrently;
+- Good knowledge of English language writing and speaking;
+- Keen attention to detail;
+- Proven analytical and problem-solving abilities;
+- Experience working in a team-oriented, collaborative environment.","Interested candidates should email resumes to:job@....
+Please clearly mention in your application letter the job title you are
+applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is an IT company that works in
+partnership with be2 presented in 30 countries on 5 continents. For
+information about the company, please visit www.be2.am, and for more
+information about the product, look: www.be2.com."

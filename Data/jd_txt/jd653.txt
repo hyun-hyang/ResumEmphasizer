@@ -1,0 +1,32 @@
+PL/ SQL Developer,"Metakortex CJSC is seeking a PL/ SQL Developer to be
+responsible for designing Data Marts for the Reporting Project. The
+projects will require the specialist to interact/communicate with the
+customers directly in English language.","- Conduct thorough Data Analysis on the Source Systems;
+- Tune queries/ create summary tables to improve the report run times;
+- Do unit testing;
+- Responsible for run in development, QA and production;
+- Respond quickly to issues which emerge in Systems and User Acceptance
+testing.","- 8+ years of total IT experience;
+- 3+ years of experience working in Dimensional databases;
+- Solid experience in writing analytical queries;
+- Experience in a couple of large scale implementation with complete
+life cycles;
+- 1+ years of experience in data profiling and analysis;
+- 2+ years of experience with data cleansing;
+- Proficiency in SQL;
+- 3 years of Oracle experience  SQL, PL/SQL;
+- Ability to deliver within short time frames;
+- Ability to work independently;
+- Excellent English language verbal and written communication skills;
+- Experience in ERWIN;
+- Familiarity with Business Objects Enterprise products;
+- Hands-on person with solid SQL experience in Oracle. Experience should
+include writing complex queries for reporting needs;
+- Debug issues, SQL code, data quality issues etc.;
+- Performance tune SQL code;
+- Ability/willingness to travel to US, for experience exchange, customer
+visits, and training purposes.","To apply for this position, please send your
+resumes to: Sergey.Barikyan@...,Vahe.Stepanyan@... or Artashes.Hakobyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,82 @@
+Database Programmer,"The USAID ""Clean Energy and Water"" Program provides
+assistance to the Government of Armenia to build capacities for river
+basin management planning in Armenia. Under this task, activities aimed
+at development of a Decision Support System (DSS) for water resources
+management will be implemented. 
+During the last decade the impact of the human economic activities on
+water resources has been gradually increasing. Dynamics of growth of
+water use and increase of pressure on water resources lead to competing
+water uses and negative impact on natural ecosystems. In order to achieve
+more effective water resources management and protection, a modern DSS
+for integrated water resources management needs to be developed. The
+system should meet modern requirements, in terms of calculation of water
+supply and demand balance with consideration of impacts of climate change
+in a longer perspective and development of economic sectors, estimation
+of ecological status of the river basin, integration of economic
+parameters in water resources management and protection and optimization
+of decisions based on economic efficiency.
+The new DSS is proposed to be programmed within the Geographical
+Information System (GIS) environment and will eventually serve as a
+dynamic tool for river basin management planning for WRMA and BMOs,
+towards integrated water resources management in the river basin. It can
+also be used by other stakeholders for formulating their short-term and
+long-term water demand and development programs, based on projections of
+the water supply/availability under various conditions and potential of
+the resource, as well as optimal decisions based on economic efficiency.","- Program the Water Balance module of the Hydrological component of DSS,
+including:
+a) a tool for determination of annual precipitation as a part of
+calculation of water balance;
+b) a tool for determination of annual  evaporation as a part of
+calculation of water balance;
+c) a tool for calculation of natural flow as a part of calculation of
+water balance.
+More specific activities under this task include:
+i) Transferring data from MS Excel and DBF tables into ArcGIS
+geodatabases; specifically to appropriate fields of attribute tables of
+GIS layers;
+ii) Conducting calculations used in the hydrological model (to obtain
+annual average values for natural river flow, water supply and demand,
+water balance and ecological status of surface waters, flood zones and
+hydropower potential);
+iii) Generating series of raster images based on the above-mentioned
+calculations;
+- Test the Water Balance module of the Hydrological component with
+Vorotan river basin data;
+- Program a tool for calculation of water supply and demand balance;
+- Program a tool for estimation of ecological flow and ecological
+status;
+- Develop overall GIS user interface for the Hydrological Component of
+DSS, including a toolbar within ArcMap to run separate model components;
+- Program the climate change component and constructing linkages to the
+Hydrological component of the DSS;
+- Program the economic component and constructing linkages to the
+Hydrological component of the DSS;
+- Develop the ArcGIS interface, including a toolbar within ArcMap, for
+climate change and economic components;
+- Test and debug the system and finalization.","- Masters degree in computer sciences or in relevant disciplines;
+- Deep knowledge on databases, GIS and VBA (Visual Basic for
+Applications);
+- Minimum 3 years of practical experience in database programming under
+GIS applications;
+- Technical knowledge of English language.","Please send a cover letter and a resume in
+English language to the attention of Mikayel Koshkaryan at: cew@...
+. Please clearly mention ""Database Programmer"" in the subject line. Only
+shortlisted candidates will be contacted. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mendez England and Associates (ME&A) is a consulting firm
+in Bethesda, Maryland, USA with nearly 30 years of experience in
+international development around the world. The primary client of Mendez
+England and Associates has been the US Agency for International
+Development (USAID).
+ABOUT:  The CEW Program is a four-year USAID program implemented by the
+Armenian branch of Mendez England and Associates (ME&A). The goal of the
+Program is to develop and implement an integrated energy and water
+strategy for Armenia. It will accomplish this goal through four tasks
+including:
+- Build capacity for river basin planning;
+- Implement demonstration projects to improve energy and water
+management;
+- Improve legal and policy framework for water resources;
+- Coordinate activities of international development donor agencies in
+the water sector."

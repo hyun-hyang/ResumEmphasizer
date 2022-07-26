@@ -1,0 +1,25 @@
+Software Developer PHP/ MySQL,"Primary responsibilities of this job include
+developing and maintaining CMS applications with the highest level of
+mastery. A lot of them will be using PHP/MySQL/JavaScript/AJAX/XML/XSL.","- Participate in all the steps of the project, from design to
+implementation;
+- Analyze and investigate architectural defects of existing projects;
+- Implement features;
+- Fix problems.","- 1 to 4 years of experience in software development;
+- Strong knowledge of PHP/MySql/SQL/Javascript;
+- Notions of XML/XSL and AJAX;
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable personality, and eager to
+learn new technologies and methods;
+- Understanding of object oriented principles is an asset;
+- Understanding of Coldfusion is an asset;
+- Fluent in English language - reading/writing/speaking;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Fast learner, curious, responsible personality.","To apply, please send your resume including a
+photo and cover letter to: cv@..., clearly mentioning the
+position you are applying for in the subject line. Thank you.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AZEA LLC is a web development company which cooperates
+with a company in Brussels for about 10 years. AZEA has developed IT
+projects for major European companies and associations."

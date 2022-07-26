@@ -1,0 +1,29 @@
+Web Developer,"AVT Mobile is seeking for a highly motivated and
+hardworking Web Developer to become a part of the start-up.","- Participate in all stages of the web back-end development process;
+- Read, understand and modify the existing code;
+- Develop and maintain web back-end applications in accordance with given
+specifications;
+- Build web pages and e-mails for various marketing campaigns;
+- Follow QA processes to ensure consistency;
+- Create code that validates and complies with current web standards;
+- Enforce web standards compliance and ensure that web pages and content
+are tested across multiple platforms and browsers;
+- Work collaboratively and effectively on team projects;
+- Introduce and implement innovative techniques and technologies;
+- Responsible for self-manage completion of projects; 
+- Manage multiple tasks and timelines;
+- Thoroughly review work to ensure quality.","- Advanced knowledge in PHP5 Object Oriented Programming;
+- Deep knowledge of Java Script (JQuery), HTML5, CSS3;
+- Knowledge of MySQL5;
+- Knowledge of Linux OS (Ubuntu, CentOS, etc.) is a plus;
+- Experience with version control systems (Git, SVN) is a plus;
+- Knowledge of Zend Framework, Bootstrap and other MVC frameworks is a
+plus;
+- Fast learner; responsible personality;
+- Good problem-solving skills and ability to work independently;
+- Flexibility in learning new technologies.","Those who meet above listed requirements and
+qualifications are asked to send an application letter and a CV to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AVT Mobile is a project of Avento LLC which is a software
+development company."

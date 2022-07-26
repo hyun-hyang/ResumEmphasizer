@@ -1,0 +1,23 @@
+PHP Developer,"Company is looking for a PHP Web Developer with
+excellent high traffic website development expereince with PHP, OOP, MVC
+and great front-end development capability.","- Design and develop web-based applications, according to guidance
+provided by the Project Manager;
+- Troubleshoot and repair issues on websites.","- Work experience in a relevant field;
+- Knowledge and experience in PHP interfacing with a relational database
+MySQL;
+- Knowledge and experience with MVC frameworks (Zend,Yii and
+CodeIgniter);
+- Ability to quickly troubleshoot and repair issues on websites;
+- Experience with web development technologies/ production tools such as
+JavaScript Libraries and jQuery;
+- Knowledge of and experience in developing, theming, customizing and
+upgrading open source applications (WordPress, Drupal and Magento);
+- Understanding of cross platform/ browser compatibility issues;
+- Excellent communication and organizational skills.","If you meet the requirements, we encourage you
+to send your CV in English language to: opentech2010@... . Please
+indicate the name of the position in the subject line of your e-mail.
+Company thanks all interested applicants; however, only shortlisted
+candidates will be contacted for an interview. No phone calls please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

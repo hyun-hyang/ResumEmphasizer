@@ -1,0 +1,40 @@
+.NET Developer,"VOLO LLC is looking for an experienced professional to
+fulfill the position of .Net Developer. The incumbent will be part of an
+enterprise-focused team, working for an international client, using Agile
+and full SDLC principles.","- Design, construct and maintain new and existing business information
+systems; 
+- Analyze the requirements and work with team members to create quality
+results;
+- Work in a team or individually in all phases of the software
+development life-cycle;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Write code to develop applications and maintain responsibility for
+producing design, initial testing, installation and operational
+documentation consistent with the firm's software development
+life-cycle;
+- Report on the development status as scheduled or as requested.","- At least 3 years of Web application development experience using the
+.NET platform;
+- Experience in data access technologies (ADO.Net, EF, WCF DS, LINQ to
+Entities);
+- Experience using web development technologies (ASP.NET MVC);
+- Experience using web service technologies (WCF, REST, JSON);
+- Experience developing UI behavior (HTML5, CSS3, jQuery, Knockout.js);
+- Strong understanding of OOP principles;
+- Experience in the Azure development;
+- Experience in N-tier applications development;
+- Experience working with Microsoft SQL server 2008/ 2012;
+- Experience with TDD and unit testing;
+- Good English language skills, both written and spoken;
+- Excellent teamwork skills;
+- Ability to work independently;
+- Ability to work under pressure.","Interested candidates are asked to submit their
+resumes to: hr@... , mentioning the position you are applying for in
+the subject line of the e-mail. No personal visits, deliveries or phone
+calls, please. Only short listed candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VOLO LLC is an IT Solutions provider with its main office
+in Yerevan, Armenia. The company implements projects for international
+clients, including several long term clients."

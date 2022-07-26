@@ -1,0 +1,28 @@
+Senior PHP Software Developer,"Studio One is looking for a PHP Developer to work on
+complex and long-term projects.","- Produce and maintain clean and high quality standard compliant website
+applications;
+- Develop codes that are cross-browser and cross-platform compatible;
+- Maintain cutting edge knowledge of current and emerging technologies,
+as well as industry trends and standards.","- Advanced working knowledge of PHP, MySQL, HTML/ DHTML, XML, CSS and
+JavaScript, as well as AJAX;
+- At least 3 years of work experience;
+- Familiarity with Zend Framework; 
+- Portfolio of previous web applications developed;
+- Knowledge of and experience in accessibility and a good understanding
+of W3C standards; 
+- Good knowledge, skills and experience in graphic design for Web is a
+plus; 
+- Good skills in Photoshop, Illustrator and Flash is a plus;
+- Quick learner;
+- Self-motivated person with the ability to achieve results in all
+cases;
+- Strong teamwork and contribution spirit for the development of the
+company.","Please apply to this job by sending your cover
+letter and resume to: careers@... . Please include your
+portfolio in resume, otherwise it will be ignored. Applicants may be
+asked to perform a demonstration of their abilities or show developed
+code in order to assess technical knowledge.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Studio One is a web design and website development
+studio. For more information, please visit: www.studio-one.am."

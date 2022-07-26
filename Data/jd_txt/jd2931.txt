@@ -1,0 +1,27 @@
+Senior .Net Developer,Zenta Ltd. is looking for a Senior .Net Developer.,"- Take ownership of the project functionality;
+- Architect and code highly scalable server components;
+- Assist in unit, integration, system level testing;
+- Develop and maintain technical documentation;
+- Participate in all phases of the software lifecycle with an emphasis on
+architecture, design, quality, and implementation.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 5 years of work experience in software
+development;
+- 3 years of work experience with web programming on .Net platform;
+- Strong understanding of OO design, best practices and design patterns;
+- Strong knowledge of C# .NET 4.5, ASP.NET, MVC 4;
+- Strong skills in web technologies including JavaScript, JQuery, HTML5,
+CSS and XML;
+- Experience and understanding in implementing and consuming WCF and REST
+services;
+- Working experience with Microsoft SQL server and MySQL databases;
+- Working experience with Microsoft Entity Framework;
+- Experience with .NET desktop application development;
+- Optimization for mobile devices is a plus;
+- Excellence in both self-management and as a team player;
+- Strong personal commitment to quality.","Please send your resume in English language to:jobs@... . Please refer ""JobID: ""140602"" in the subject line of the
+email. For more information please visit the company's website at:http://zenta.co
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zenta Limited is an Armenian software development and IT
+consulting company specialized in database-centric web, mobile and
+desktop application development."

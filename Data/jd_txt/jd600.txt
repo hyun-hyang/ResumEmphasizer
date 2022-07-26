@@ -1,0 +1,26 @@
+.NET Developer,"Toto International Bookmakers /Zep-Zepyur LLC/ is
+looking for a qualified Developer to participate in development and
+maintenance of its in-house corporate solutions. The main
+responsibilities of this position are focused on designing and
+developing state-of-the-art desktop- and Web-based applications for the
+company and ensuring compliance with the required standards.","- Write .NET 2.0 based code (C#, ASP.NET);
+- Work as part of a software development team;
+- Read, understand and modify the existing code.","- At least 2 years of work experience in development;
+- Knowledge of C#, ASP.NET 2.0, Ajax and Web Services
+- Knowledge of SQL and ADO.NET;
+- Knowledge of .NET Remoting technology;
+- Knowledge of HTML, CSS and JavaScript;
+- Willingness to participate in creation of web and standalone
+applications;
+- Basic knowledge of English language;
+- Good knowledge of technical English language.","Candidates who meet these qualifications will
+be interviewed and will be required to take a test. 
+If interested, please send your resume with a cover letter listing your
+qualifications, application and web development related experience, and
+indicating your contact details (phone, fax, and/or e-mail address where
+you can be reached) to: resume@....
+Selected candidates will be notified of the interview dates directly.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Toto International Bookmakers /Zep-Zepyur LLC/ is a
+bookmaker company in Armenia."

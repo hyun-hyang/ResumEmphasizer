@@ -1,0 +1,34 @@
+IT Network Administrator,"Alfa Pharm is looking for an IT professional who will
+be responsible for operation and maintenance of LAN/ WAN, intranet
+services, IT applications, IT databases and server security
+infrastructure. The incumbent will also handle the infrastructure
+faults, configuration, resource utilization, performance, maintenance
+and security operations.","Main duties include but are not limited to the
+following:
+- Install, configure, operate and maintain the hardware and the IT
+services infrastructure of the company; 
+- Install, configure, operate and maintain the IP connectivity services;
+- Monitor and optimize systems performance; 
+- Be responsible for day-to day administration of local network systems;
+- Be responsible for troubleshooting and first level support tasks;
+- Be responsible for system backup, recovery and security tasks; 
+- Configure, maintain and support the hardware and software of servers.","- University degree in Computer Sciences or the other relevant field;
+- 3-4 years of relevant work experience;
+- Advanced knowledge of TCP/ IP networks, routing and associated
+protocols; 
+- Advanced knowledge on networks design, WAN and LAN networks topologies
+and architectures; 
+- Internet technologies and concepts, such as TCP/IP, DNS and mail; 
+- Strong knowledge and hands on experience on the provision of IT
+services; 
+- High sense of responsibility; 
+- Ability to work as a team member and independently;
+- Ability to work flexible hours as needed and work well under pressure
+and meet deadlines;
+- Good knowledge of Armenian and English languages.","To apply, please e-mail your cover letter and
+resume to: arsen.sargsyan@.... Please put ""IT position"" in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AlfaPharm is a pharmaceutical company in Armenia with a
+retail chain (55 pharmacies) in major cities of the country."

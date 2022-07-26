@@ -1,0 +1,39 @@
+Senior Software QA Engineer,"be2 Ltd is looking for a Senior Software Quality
+Assurance Engineer for long-term projects. The successful candidate must
+demonstrate a solid understanding of QA methodologies and extensive
+knowledge of computer science.","- Generate necessary team documentation;
+- Serve as a strong contributing technical member of the team;
+- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the website;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations.","- Higher education in relevant field;
+- 4+ years of work experience as a QA engineer;
+- Excellent understanding of QA theory;
+- Knowledge of Web concepts;
+- Knowledge of software development process;
+- Knowledge of testing techniques and problems' documenting;
+- Experience in developing scripts for automated testing;
+- Operational experience with bug-tracking systems;
+- Knowledge of SQL;
+- Operational experience with Linux;
+- Knowledge of OOP basic concepts;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Self-motivated personality;
+- Good analytical skills;
+- Interpersonal and organizational skills;
+- Extreme attention to details;
+- Ability to meet tight deadlines and overcome challenges;
+- Good knowledge of English language.","Interested candidates should e-mail their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 Ltd is an IT company that works in partnership with
+be2 presented in 38 countries on 5 continents. For information about the
+company, please visit www.be2.com/corp, and for more information about
+the product, look: www.be2.com."

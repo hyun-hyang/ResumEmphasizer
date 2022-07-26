@@ -1,0 +1,22 @@
+Senior Java Developers,"Design and Development of complete Java Web
+Applications for a commercial web site.",Development of Java Web Applications,"- Minimum of 3-5 year Java Web Development experience (MSCS or PHD). 
+- Extensive technical knowledge and experience in the following: Java,
+JSP, J2EE, Tomcat, Java Script, and other Java Web technologies.
+PREFERRED QUALIFICATIONS:   
+- Proven experience with developing one or more commercial production
+web sites or extensive web applications.  
+- Additional specialization and experience in one or more of the
+following areas is highly desirable:
+- Web Site Design and Development
+- Web Services (XML, SOAP, WSDL, etc.)
+- Web Site Performance
+- Web Site Security
+- DB Administration (MS SQL Server) and Database Programming (Java JDO)
+- Integration of Web applications with legacy backend systems
+- Open source tools and technologies
+- Automated testing and Web Performance testing tools (For the SQA
+positions)","To apply please submit CV and a summary of the
+completed/ongoing projects to the following e-mail address:viasphere@... (Please NO visits or calls)
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

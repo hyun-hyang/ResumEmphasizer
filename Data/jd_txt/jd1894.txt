@@ -1,0 +1,36 @@
+Senior QA Engineer,"Boomerang Software LLC is looking for an experienced
+Senior QA Engineer. This role is within a team testing internally
+developed CRM software for running the telecom business, including
+communication with partners and suppliers.",NA,"- University degree in Computer Sciences or similar field;
+- From 3 to 5 years of software QA experience;
+- Experience in leading a small team is desirable;
+- Excellent communication skills and ability to have functional
+discussions with QA, Business Analysis and developers;
+- Ability to write specification documentations or some experience with
+Business Analysis type documentation and tasks (e.g. gathering
+requirements, writing functional specification, discussion with business
+& end users);
+- Solid understanding of QA processes and methodology;
+- Solid understanding of QA documentation processes;
+- Ability to write test cases and procedures and follow the defined QA
+processes;
+- Methodical approach to software testing;
+- Experience in testing .NET web application;
+- Excellent attention to details;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language.
+DESIRABLE QUALIFICATIONS:
+- Basic understanding of three-tier architectures;
+- Basic knowledge of web design/ programming;
+- Knowledge of HTML and XML;
+- Ability to write SQL Queries;
+- Familiarity with TestComplete test automation tool.","If interested, please e-mail your last updated
+and detailed Resume to: hr@... . Please indicate ""Senior QA
+Engineer"" in the subject line of your e-mail. Boomerang Software thanks
+all interested applicants; however, only shortlisted candidates will be
+contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

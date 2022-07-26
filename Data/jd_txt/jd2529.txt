@@ -1,0 +1,30 @@
+VoIP Hosting Services Developer,"The incumbent will work in a team environment with
+responsibilities that focus on application development for VoIP Services.
+The project will be focused on rebuilding and enhancing the existing
+system, which may include front-end design, as well as back-end
+programming. The project is fairly complex and requires strong knowledge
+of the advanced networking, operating systems, application development
+and user interface design.",NA,"- Commitment to acquire new skills and the ability to use them;
+- Strong verbal and written communication skills in the English
+language;
+- Experience relating to the following: .NET Framework and C#; PHP 5
+(classes, namespaces, inheritance, and design patterns), Linux/ Apache
+web servers; MySQL; HTML 5, XHTML, CSS 3; JavaScript development (jQuery
+is preferred); 
+- Experience in AJAX applications parsing/ rendering JSON or XML is a
+plus;
+- Experience with development tools such as PHPStorm, Zend Studio,
+Sublime, etc.;
+- Experience with computer networking, Ethernet, IP, VLANs, or telecomm
+is a plus;
+- Ability to work independently and complete assigned tasks within
+identified timeframes;
+- Positive attitude, flexibility and problem-solving mentality;
+- Strong attention to detail.","Interested candidates are asked to send their
+updated resume to: hr@... . Please indicate ""VoIP Hosting
+Services Developer"" in the subject line of the e-mail. Only shortlisted
+candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EpygiArm LLC is a development company specializing in
+design and development of systems for IP Telephony."

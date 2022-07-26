@@ -1,0 +1,39 @@
+Senior Java Developer,"EPAM Systems is seeking Senior Java Developers to join
+the growing team in developing enterprise-level software solutions. The
+Senior Java Developers should be energetic people who are ready for
+teamwork and Agile software development.","- Lead or contribute to the software development effort subject to
+seniority/ experience;
+- Participate in all cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes to the set standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Refactor and re-engineer the existing code base safely;
+- Communicate the knowledge to fellow team members; train and guide
+junior team members;
+- Analyze high level requirements and work with team members to create
+quality results;
+- Participate in internal and external meetings.","- 3-5 years of experience in developing Java web-based applications;
+- Strong Java and Spring/ Spring MVC development experience in a project
+setting;
+- Experience with JSP, AJAX, JQuery and JavaScript;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with relational database (MS SQL Server, MySQL);
+- Experience in data model and object design;
+- Strong understanding of OOP principles;
+- Good knowledge of the technical English language;
+- Excellent communication and teamwork skills;
+- Ability to work independently.","Please submit your CV in the English language
+to: Marine_Melikyan@... , indicating the position ""Senior Java
+Developer"" in the subject line of your email. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

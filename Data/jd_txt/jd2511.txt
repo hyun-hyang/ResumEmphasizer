@@ -1,0 +1,21 @@
+Senior QA Engineer,"The Senior QA Engineer will be responsible for Manual
+and Automated testing and managing.","- Write test plans and test cases throughout the development lifecycle;
+- Report bugs, defects and other issues, and make recommendations around
+them;
+- Ensure test plans thoroughly cover all requirements and use cases;
+- Responsible for project planning and execution throughout the product
+lifecycle;
+- Organize the project plan and tracking activities such as daily
+standup, sprint planning session and other activities;
+- Work closely with software developers and clients;
+- Report QA status, as appropriate, to keep project customers informed on
+deliverables and timelines.","- From 3 to 5 years of experience in QA;
+- Fast learner;
+- Strong knowledge of written and spoken English language;
+- Good team player;
+- Basic knowledge of programming languages is a plus.","Interested candidates are asked to e-mail their
+resumes to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom is a telecommunications company. For more
+information, please visit: www.zangi.com."

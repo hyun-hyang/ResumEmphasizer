@@ -1,0 +1,31 @@
+Software Developer,"IUNetworks LLC is looking for a Software Developer, T5
+Servers Division, who will take part in design and implementation of
+advanced software products for IPTV Backend Recorder and Stream Servers.","Specific work elements of the job include but are not limited to:
+- Design and implement advanced software products for IPTV Backend
+Recorder and Stream Servers;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Participate in all cycles of software design and development.","- University degree in Computer Sciences or Telecommunications
+Engineering or related fields; 
+- Over 3 years of experience in designing and developing software
+products; 
+- Very Good C++/ STL programming skills and good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux and S/ W development for *nix platforms;
+- Knowledge of and exposure to the Boost and Boost ASIO is highly
+appreciated; 
+- Ability to work with little supervision; good team player; 
+- Previous experience with working on high performance and time critical
+projects is highly appreciated;
+- Very good knowledge of data structures and algorithms, as well as their
+complexities; 
+- Ability to read and write technical specifications in English language;
+- Good communication skills: ability to effectively interact with
+cross-functional teams;
+- Fast learning skills.","Interested candidates are asked to apply to this
+job by sending their CVs to: job@... . Please mention the name
+of the position you are applying for in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUNetworks LLC is an Information Technology company
+founded in March 2008."

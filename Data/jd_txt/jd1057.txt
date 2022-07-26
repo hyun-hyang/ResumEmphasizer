@@ -1,0 +1,20 @@
+.NET Senior Software Developer,"SFL is looking for a full-time Senior .NET Developer
+to work for complex and long-term projects. The projects will deal with
+customers from Western Europe and Armenia.","- Produce and maintain clean, high quality standard compliant website
+applications;
+- Develop codes that are cross-browser and cross-platform compatible;
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards.","- Bachelors or higher degree in Computer Sciences or a related
+discipline with at least 4 years of work experience in software
+development;
+- 3 years of work experience in .NET Framework - ASP.NET/C#;
+- Experience in development of Web and Windows Services;
+- Expert knowledge of .NET Framework 3.5 and AJAX;
+- Good knowledge of MS SQL Server or MySQL;
+- Multi-tier web applications development experience;
+- Strong communication, problem solving and collaboration skills.","If interested, please email your CV to:jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC is a software development company, Microsoft
+Gold certified partner. Main specialization is providing specific
+business solutions. More details can be found at: www.sflpro.com."

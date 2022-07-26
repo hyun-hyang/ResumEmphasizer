@@ -1,0 +1,28 @@
+Web Developer,"The Web Developer will work in a team environment with
+responsibilities that focus on web application development for embedded
+systems. The project will be focused on developing the system
+configuration Graphical User Interface (GUI) of the company products,
+which may include front-end design as well as back-end programming. The
+products are fairly complex, and require strong knowledge of advanced
+networking, operating systems, application development and user interface
+design.",NA,"- Experience with PHP 5 (classes, namespaces, inheritance, and design
+patterns);
+- Experience with MySQL, PostgreSQL and SQLite, or equivalent RDBMS
+familiarity;
+- Experience with HTML 5 and XHTM;
+- Experience with CSS3;
+- Experience in JavaScript development (jQuery is preferred);
+- Experience in Version Control systems such as GIT or Subversion;
+- Commitment to acquire new skills and the ability to use them;
+- Good knowledge of the written and spoken English language;
+- Ability to work independently and complete assigned tasks within
+identified time frames;
+- Positive attitude, flexibility and problem-solving mentality;
+- Strong attention to details.","Qualified and interested candidates can send
+their CVs to: hr@... indicating ""Web Developer"" in the subject
+line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EpygiArm LLC is a software development company
+specializing in the design and development of systems for IP Telephony
+and other areas of telecommunications."

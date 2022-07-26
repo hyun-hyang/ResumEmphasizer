@@ -1,0 +1,55 @@
+Web and Mobile JavaScript Engineer,"The ideal candidate for this position is experienced in
+developing highly performing and scalable web applications that meet
+business requirements. The Web and Mobile JavaScript Engineer will be
+involved in small to large scale projects through all stages of the
+software development life cycle: from requirements gathering to
+implementation. The incumbent will collaborate with User Interaction and
+Design teams, Marketing, and .NET Developers to develop functionally
+rich, robust, user friendly web applications as defined by business
+requirements.","- Collaborate with Copywriters and Designers to execute online marketing
+campaigns;
+- Collaborate with User Interface Designers and .NET Developers to build
+web applications for small and large business development projects;
+- Maintain and enhance existing external and internal web applications;
+- Develop standards-compliant responsive web pages using: HTML 5, CSS3,
+JavaScript, AJAX and jQuery in Visual Studio;
+- Develop HTML emails with an emphasis on email client compatibility;
+- Perform unit testing of own code, ensuring accuracy and that all
+requirements are met;
+- Address browser/ platform compatibility issues;
+- Manage task status, scheduling, issue handling;
+- Define work breakdown structures for technical activities associated
+with projects and provide accurate time estimates for assigned tasks;
+- Contribute to the establishment and maintenance of code standards,
+project lifecycle methodologies and adoption of industry best-practices.","- Ability to demonstrate through web portfolio and coding examples the
+ability to create web applications using standards-compliant HTML 5, CSS3
+and jQuery;
+- Ability to demonstrate through web portfolio, create responsive or
+mobile/ tablet-friendly web applications;
+- Experience using HTML frameworks (e.g. Bootstrap, Foundation, HTML5
+Boilerplate); CSS pre-processors (e.g. LESS, SASS);
+- Experience working with .NET C# applications, content management
+systems (e.g. Sitefinity);
+- Ability to work from PSDs, storyboards and/ or business requirements
+documentation;
+- Ability to create well organized code and to documented standards and
+specifications;
+- Ability to evaluate tools/ technologies and provide recommendations for
+use;
+- Full experience dealing with browser compatibility issues;
+- Knowledge of key applications: Adobe CS6 product suite, Microsoft
+Visual Studio 2010;
+- Experience with version control (e.g. SVN) and issue tracking (e.g.
+JIRA) software;
+- Experience with developing apps for social media sites (Facebook,
+Twitter) is an asset;
+- Experience developing creative Flash animations and banner ads is an
+asset;
+- Undergraduate degree or post-graduate diploma with related areas of
+study;
+- At least 3 years of work experience.","Interested candidates are asked to apply
+through:http://ch.tbe.taleo.net/CH06/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=370#.U-Nf6_mSykg
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.questrade.am.

@@ -1,0 +1,67 @@
+Project Website Developer/ Designer,"Under the overall guidance of the UNDP Environmental
+Governance Portfolio Analyst and direct supervision of the Project Team
+Leader, the Project Web Site Developer/ Designer is expected to
+accomplish tasks in accordance with the requirements provided below, and
+work in cooperation with the Projects Database and Information Systems
+Specialist and related stakeholders in supporting project implementation
+by providing recurrent technical-advisory service.
+Expected Outputs:
+- Interim output/ report in format and date proposed by the Project,
+which will include the tasks mentioned in 1-6 points of the tasks;
+- Developed and launched Web Site in operation (7-11 points of the
+tasks), and final report.","- Design, hosting and operation of Web Site will include the following
+tasks:
+a) Collect the necessary information for the Web Site;
+b) Design the main structure of the Web Site;
+c) Error-free placement of materials/ texts in corresponding modules;
+d) Ensure option for enlargement of information volume, addition of new
+sections and sub-section with corresponding changes in applications;
+e) Provide security of information placed on the Web Site;
+f) Hosting of the Web Site: provide user-friendly and effective tools
+and mechanisms for the web site, including provision of required
+information in appropriate format;
+g) Provide security and relevance of the Web Site;
+h) Provide consultancy on O&M of the Web Site: manage production of
+online content for company website from product concept through
+completion and maintenance, including updates and revisions;
+i) Provide uninterrupted operation and security of the Web Site;
+j) Ensure security of the linked databases and observance of rules
+defined by referred addressees;
+k) Ensure completion and maintenance, including updates and revisions of
+the Web Site.","- Advanced university degree in Computer Programming or relevant field;
+- At least 5 years of experience in web development;
+- At least 2 years of experience in relevant databases (DB SQL
+understanding); 
+- Broad expertise in HTML, DHTML, XML, RSS, CSS, OOP, JavaScript, JAVA,
+PHP, MySQL, SQL and ORACLE, AJAX method, Adobe Photoshop, Adobe Flash
+and CorelDraw;
+- Strong analytical and IT skills (environmental information systems,
+data exchange networks, database management, etc.), ability to express
+ideas clearly and concisely both orally and in writing;
+- Experience developing and implementing processes, systems, procedures
+and standards for web content development; 
+- Appreciation of environmental information and monitoring system of the
+country;
+- Good analytical and IT skills (data exchange networks, database
+management, etc.), ability to express ideas clearly and concisely both
+orally and in writing;
+- Good communication skills and ability to work in team;  
+- Proficiency in Armenian, good knowledge of technical English language.","Applications can be submitted on-line throughhttp://operations.undp.am website, or delivered hard copies to the UN
+House Security Desk, 14, P. Adamyan str.
+Please clearly indicate in your application the title of the position
+and the VA Number.  
+Applications can also be sent via post offices within a deadline period
+indicated below. Applications received after the closing date will not
+be considered. 
+Interested individual consultants must submit the following documents/
+information and demonstrate that they are qualified: 
+1. Explain why they are the most suitable for the work;
+2. Provide a brief methodology on how they will approach and conduct the
+work; 
+3. Financial proposal;
+4. Personal CV including past experience in similar project and 3
+references.
+Only short listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

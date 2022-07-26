@@ -1,0 +1,25 @@
+Software Engineer,"The position involves developing end to end application
+and system software on various National Instruments hardware and software
+platforms such as Windows, VxWorks and Pharlap; defining phases of
+software lifecycle including prototyping, functional specification,
+design architecture, development, testing, release management.",NA,"- Degree in Computer Science/ Information Science with at least 3-4 years
+of experience in creating software applications;
+- Very good knowledge of programming in C/C++ in Visual studio
+environment. Knowledge of additional programming languages like .NET/Java
+would be a plus;
+- Knowledge of tools for programming, debugging and testing in Windows
+environment;
+- Knowledge of Software development life cycle;
+- Familiarity of networking protocols such as TCP/ IP;
+- Knowledge of programming on a real Time OS such as VxWorks would be a
+plus;
+- Knowledge of industrial communication protocols such as Modbus, CAN
+would be a plus;
+- Good knowledge of English and Russian languages.","Please send resumes to:employment.armenia@... . In the email subject please mention ""Software
+Engineer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"National Instruments (NI) is a high-tech company that
+develops computer-based products for measurement and automation
+applications. It is headquartered in Austin, Texas. For more information
+visit: www.ni.com."

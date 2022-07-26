@@ -1,0 +1,47 @@
+Information Systems Administrator - Information and Communication,"The incumbent will be responsible for management of
+information application systems and assurance of continuous uninterrupted
+working process.","- Responsible for administration of Oracle system on corresponding
+servers. Install application systems databases, create users and grant
+privileges to users; 
+- Develop and run scripts, triggers and procedures with the purpose of
+updates in databases, receive data and other works. Perform periodical
+backup and recovery of databases;
+- Responsible for management of SWIFT system. Install and re-install
+SWIFT system servers and workstations, as well as communication and
+security equipment installed at Central Bank of Armenia and archive
+center;
+- Responsible for management of BankMail electronic payments and FinA
+financial analysis systems.","- In case of higher Technical education  1 year of professional work
+experience at the Central Bank or 2 years of professional work experience
+elsewhere (Information technologies field). In case of higher
+non-professional education - 2 years of professional work experience at
+the Central Bank or 3 years of professional work experience elsewhere
+(Information technologies field).
+- Knowledge of databases management systems (profound);
+- Knowledge of SQL and PL/ SQL languages (profound); 
+- Knowledge of administration of Oracle and MS SQL Server systems
+(profound);
+- Knowledge of operational systems (profound);
+- Knowledge of programming (intermediate);
+- Knowledge of local nets (profound) and global nets (intermediate);
+- Perfect knowledge of Armenian language, good knowledge of Russian and
+English languages with the purpose of communication and professional
+literature reading;
+- Skills in working with different versions of Windows operating systems
+on servers and workstations; skills in using databases modeling software;
+skills in using software supporting processing of scripts, triggers and
+procedures; skills in working with Lotus Notes system; skills in working
+with office programs (MS Office); skills in working with SWIFT equipment,
+CD-writer and printing equipment.","To apply for the competition, please, visit
+Armenian version of CBA official site (ABOUT THE CBA - Career at CBA 
+Job Vacancies) with the following link:http://www.cba.am/am/SitePages/accvacancies.aspx . First be registered in
+the system (the registration is only for applicants who apply for the
+competition on on-line mode for the first time) and fill in the required
+questionnaire, then choose the corresponding competition You want to
+apply for, press the button APPLY at the bottom of the page and fill in
+the Application form.    
+For further information and clarification you can call: (010) 59 26 34,
+internal lines 26 13.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

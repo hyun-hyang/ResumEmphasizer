@@ -1,0 +1,31 @@
+Java Software Developer,"The Sourcio team is looking for talented and
+experienced Java Software Developers for the development of features for
+the partners' product.","- Participate in the application design;
+- Provide the necessary technical and design documentation;
+- Communicate with the local management and external team members
+effectively;
+- Develop features according to technical specifications.","- University degree in a relevant field of studies;
+- At least 2 years of practical experience with Java development;
+- Good knowledge of OOP principles;
+- Knowledge of IOC frameworks like Spring, Guice, Gin is an advantage;
+- Knowledge of GWT or other MVC frameworks such as Struts2 or JSF is an
+asset;
+- Knowledge of other programming languages such as Ruby, PHP is a plus;
+- Good knowledge of databases (such as Oracle, POSTGRES, MySQL, MSSQL) is
+an advantage;
+- Experience with GPS technologies and location based systems is an
+advantage;
+- Experience in using Eclipse IDE is preferable;
+- Experience in working with Linux environment (Ubuntu, Suse);
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of the English language (technical terms and
+communication);
+- Knowledge of the German language is an asset.","All the interested and qualified candidates are
+welcome to send their CVs to: info@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.sourcio.com."

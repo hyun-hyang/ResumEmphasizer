@@ -1,0 +1,34 @@
+Senior Software Engineer,"Ogma Applications is seeking a talented Senior
+Software Engineer with expertise in PHP/Javascript web development to
+build web-enabled applications in concert with other on-staff
+developers. Ideal candidates will have a can-do attitude, passion for
+technology, extensive PHP5/Javascript development experience, and will
+be able to get up to speed quickly.","- Work with the Senior Architect in the US to get aligned with product
+roadmaps and assume a key role in the development of these products;
+- Design, proto-type, develop, and thoroughly unit test before
+submitting to QA;
+- Work with the Quality Assurance team to develop and maintain unit
+tests based on product functional specifications.","- PHP5 - top-notch PHP5 developer, familiar with the latest features in
+PHP 5.2.X and 5.3.X;
+- Flex development/ ActionScript 3;
+- XHTML/CSS/Javascript/AJAX - expert level Javascript/XHTML/CSS
+development will be necessary, jQuery experience is preferred;
+- Understanding of object oriented development, and ability to apply OO
+concepts to everything they do;
+- Ability to write technical and functional specifications and present
+them to the other team members, and occasionally to the management;
+- Self-starter - ability to jump in quickly without a lot of direction;
+- Good knowledge of English language, both conversational and written;
+- Experience building modern web services;
+- MySQL - modern database development expertise, (it is encouraged that
+words like 'trigger' and 'view' be part of the candidates vocabulary);
+- Willingness to develop new and varied skills on-the-fly and capable
+of self-training through experimentation and practice.","Please email your detail CV to:hbaghdas@..., indicate the position title in the subject line of
+your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The candidate should have a valid passport and be
+willing to travel to the United States occasionally for periods of few
+weeks at a time.","Ogma Applications CJSC is a subsidiary of Ogma inc., a
+USA based company in software development. For more information, please
+visit: www.ogmainc.com."

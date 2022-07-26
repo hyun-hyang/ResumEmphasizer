@@ -1,0 +1,36 @@
+Software QA Engineer,"Webb Fontaine Holding is looking for a Senior Software
+Quality Assurance Engineer for long-term projects.","- Generate necessary team documentation;
+- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform functional, performance, load, compatibility and usability
+tests of the product;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases;
+- Create all required test documentations.","- Higher education in relevant field;
+- Minimum 2 years of work experience as a QA engineer;
+- Excellent understanding of QA theory;
+- Knowledge of software development process;
+- Knowledge of testing techniques and problems documenting;
+- Experience in developing scripts for automated testing;
+- Knowledge of Automated Software Testing Tools such as Win Runner, Test
+Director etc.;
+- An operational experience with bug-tracking systems;
+- An operational experience with Linux;
+- Knowledge of OOP basic concepts;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good analytical skills;
+- Interpersonal and organizational skills;
+- Extreme attention to details;
+- Knowledge of English language.","Interested candidates should send CV and
+motivation letter in English to: amkrtchyan@....
+Qualified candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Webb Fontaine Holding SA is an IT company based in
+Switzerland that offers services in the field of e-Government and new
+technologies (www.webbfontaine.com). Webb Fontaine Armenia is a branch
+of Webb Fontaine Holding for the development of Java-based applications
+on proprietary platform."

@@ -1,0 +1,27 @@
+Senior Java GUI Developer,"The incumbent will design and develop Eclipse/ Java
+based Graphical User Interface (GUI) software.","- Specify and develop new GUI components and dialogs for the
+configuration of Sonics IP;
+- Support existing GUI components and dialogs for the configuration of
+Sonics IP;
+- Code using Eclipse RCP and Plug-in Development techniques;
+- Create technical and design documentation.","- At least 5 years of work experience in software development;
+- Excellent knowledge of Java and OOP;
+- Solid understanding of data structures and data modeling concepts;
+- Good knowledge of XML and JUnit;
+- Knowledge of SWT, JFace and Swing is preferable;
+- Knowledge of Linux/ Unix environment;
+- Knowledge of basic hardware concepts is a plus;
+- Problem solving skills;
+- Ability to meet deadlines;
+- Ability to lead a small development team is a plus;
+- Good communication skills;
+- Good English language skills.","Interested candidates should email their resumes
+to: armenia@... . Please send resumes only if you correspond to
+the required qualifications. Only shortlisted candidates will be
+contacted. Please write the position title in the subject line of your
+message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sonics Armenia Holdings Inc. is a Branch of Sonics Inc.,
+headquartered in Milpitas, California with offices worldwide. For more
+information, please visit: www.sonicsinc.com and www.sonicsinc.com/blog."

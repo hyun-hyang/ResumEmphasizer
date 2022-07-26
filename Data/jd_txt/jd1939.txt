@@ -1,0 +1,23 @@
+Senior Java Developer,"In this role the incumbent will be responsible for
+defining implementation according to the architecture of company's
+product and providing technical support and coaching to the team members
+in regards to best practices and industry standards.","- Responsible for developing and building high quality web applications;
+- Develop large scale and high performance Web applications with Java,
+MYSQL and NOSQL;
+- Implement user web interface technologies;
+- Responsible for Software quality (e.g unit and integration testing);
+- Take responsibility for the technical vision; technical product
+strategy, prototyping, design, implementation, testing and monitoring;
+- Guide technical strategy discussions on best practices.","- University studies in IT with focus on software engineering;
+- At least 4 years of hands-on, professional experience with dynamic and
+high scale IT companies;
+- Understanding of agile/ lean principles and methodologies;
+- Experience with web and DB technologies like Spring, AJAX, mySQL, JUnit
+and Selenium.","If interested, please send your CV to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The incumbent will have the opportunity to work in the
+international team, on a highly competitive online product, on a global
+platform that will be used by companies across the world.","Essential Solutions LLC is a software development company
+specialized in provision of outsourcing development to the customers
+located in Europe and US."

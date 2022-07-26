@@ -1,0 +1,18 @@
+Senior or Intermediate Software Engineer,"Professional software developer, involved in the
+design and the implementation of multiple components of multiple
+projects.","- To producing high quality, well documented code, with low turnaround.
+- Mentorship of intermediate-level Software Engineers.","- Excellent communication skills. Excellent written and verbal
+communications skills in English;
+- BSc or equivalent University degree in Computer Science or related
+discipline;
+- Experience in the design, architecture and implementation of
+client/server Internet systems;
+- Expert-level knowledge and experience in either Java and/or C++ ;
+- Excellent understanding of ALL of the following:
+-  object-oriented design and development methodologies;
+-  source control, revision control;
+-  quality assurance processes;","Please send your CV (resume) tojobs@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LVFH is a software development company based in
+Vancouver, Canada"

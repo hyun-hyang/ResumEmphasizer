@@ -1,0 +1,33 @@
+Senior Java Developer,"""BetArchitect"" LLC is looking for a Senior Java
+Developer to be engaged in different long-term projects.","- Lead small team of developers;
+- Develop applications with Java according to technical documentation;
+- Participate in all cycles of software design and development;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Develop high quality and clean code, apply proper language
+constructions and use quality algorithms.","- BS in Computer Science or any related Technical field;
+- At least 6 years of experience in object-oriented design and
+development in Java;
+- At least 6 years of experience in JEE Application Server;
+- WebSphere and/ or JBOSS experience is preferred;
+- At least 6 years of experience in JEE technologies and framework
+(Spring, JSF2 preferable) Hibernate, Websphere Application; Server (WAS),
+JMS/ Websphere MQ, Oracle AQ, Oracle 11g and support integration with
+other applications via APIs(SOAP/ REST);
+- Experience in SOA, SOAP, REST WSDL, XML, cloud and API standards;
+- At least 6 years of experience in design and development of high
+performance messaging and transaction processing systems;
+- Strong knowledge of architectural principles, frameworks and best
+practices;
+- Technical leadership and mentoring skills to guide and act as Lead
+Developer;
+- Good knowledge or Russian and English languages is an asset.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Senior Java Developer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

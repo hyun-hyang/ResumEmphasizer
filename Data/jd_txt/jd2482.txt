@@ -1,0 +1,16 @@
+Software Engineer,"The incumbent will work on LTXC SW projects. He/ she
+will maintain documentation for projects.","- Participate in development, be part of SW group;
+- Work with QA and other teams to deliver code on time.","- BS in CS, Physics, Maths or a related field; MA is preferred;
+- C/ C++ programming skills and knowledge of OOP/ OOD;
+- Knowledge and experience of multithreading programming;
+- Debugging and troubleshooting experience;
+- Experience in Stingray Studio is a plus;
+- Experience in development under Linux/ Unix OS and Qt is a plus;
+- Experience in real time development, knowledge of networking protocols
+such as TCP/ IP, UDP, etc. is a plus;
+- Good written and verbal communication skills in English language.","Interested candidates are kindly requested to
+e-mail a CV/ resume in English language to: Tigran_Pivazyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

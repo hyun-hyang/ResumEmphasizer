@@ -1,0 +1,21 @@
+Coop Tech/ VLSI Design Engineer,"This is an opportunity to work closely with engineers
+in the VLSI design group whose main focus is to design Field Programmable
+Gate Arrays (FPGAs) to support Analog, Digital and RF instrumentation for
+LTXC??s semiconductor test equipment.","- Design and code verilog RTL modules for FPGAs; 
+- Design and code verilog testbench environments to verify RTL designs;
+- Write verification test in both Verilog and Python;
+- Responsible for lab bring-up of new designs using Python generated
+tests.","- 3-4th year university student;
+- Good knowledge of English language;
+- Knowledge of Verilog RTL coding and verification;
+- Knowledge of Xilinx or Altera development tools (synthesis, PAR, timing
+analysis, etc.);
+- Some hardware experience including familiarity with electronic test
+equipment such as DMM, oscilloscopes, signal generators and logic
+analyzers is desired;
+- Python programming experience is a plus.","Interested candidates are kindly requested to
+mail CV/ resume in English language to: Naira_Nikoghosyan@... .
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

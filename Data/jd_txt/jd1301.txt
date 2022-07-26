@@ -1,0 +1,48 @@
+SharePoint/ Business Intelligence Software Design Engineer/,"SharePoint/ BI Software Design Engineer is responsible
+for designing, developing and managing solutions based on Microsoft
+SharePoint, Microsoft SQL Server, SQL Analyses Services and Microsoft
+Excel Services and similar systems from other vendors. The specialist is
+as well responsible for communicating with the business team the
+requirements set by the customer and finding the optimal solutions that
+meets customers business objectives. Limited regional and international
+travel may be required.","- Travel to customer sites and, where appropriate, meet with clients to
+define the requirements and the scope of the projects;
+- Work with business team to clarifying clients requirements, understand
+their business practices, processes and the nature of their business;
+- Analyze problems and make technical recommendations;
+- Participate in the requirements analysis phase;
+- Prepare documentation and present progress and final reports to
+customers and business partners;
+- Consult customers on managed/implemented solutions;
+- Be part of various projects within unified communication and business
+intelligence teams during designing, planning or implementation phases;
+- Be partly involved in technical pre-sales and support and, where
+appropriate, maintain contact with client organizations.","- Advanced knowledge and extensive experience in Microsoft .NET (C#),
+Microsoft SQL Server, Microsoft SQL Server Analysis Services, Microsoft
+SQL Server Reporting Services, Microsoft SharePoint;
+- Advanced knowledge of ASP.NET, Microsoft Excel/ Excel Services
+products;
+- Good knowledge of Service Oriented Architecture;
+- Good knowledge of and experience with XML & SOAP;
+- Basic knowledge of IP networking;
+- Good knowledge of written and oral English and Russian languages;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism;
+- Ability to responsibly complete assigned tasks according to deadlines;
+- Ability to express thoughts clearly;
+- Ability to work without supervision according companys policies and
+practices.
+Desired Qualifications:
+- Experience with other BI Systems (SAS, SAP and IBM);
+- Vendor certifications (Microsoft, SAP, SAS, IBM or any other) is a
+plus.","Please submit a Resume along with a cover letter
+to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing total IT solutions to medium and large size
+enterprises. Dom-Daniel is expanding its offerings to customers and has
+long term supply and support agreements with various enterprises.
+Dom-Daniel is Microsoft Gold Certified Partner and Microsoft Large
+Account Reseller (LAR)."

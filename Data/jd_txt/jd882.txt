@@ -1,0 +1,30 @@
+PHP Developer,"The Virtual Solution Global Services LLC is seeking a
+motivated PHP Developer for Web based applications development.","- Produce and maintain clean, high quality standard compliant website
+applications;
+- Develop cross-browser and cross-platform compatible code;
+- Communicate effectively with local management and external team
+members;
+- Develop applications according to technical documentation;
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards, modern web browser capabilities and W3C
+standard compliance and accessibility issues.","- At least 1 year of work experience as Software Developer;
+- Advanced working knowledge of PHP, MySQL, HTML/DHTML, XML, CSS and
+JavaScript;
+- Knowledge of AJAX is highly preferred;
+- Strong problem-solving skills and ability to work under pressure;
+- Hard-working, motivated, innovative personality and ability to work
+independently and within a team and interact professionally with diverse
+group of people;
+- Ability to work on project within a development team;
+- Ability to lead a small development team would be a plus;
+- Problem solving skills;
+- Good communication skills;
+- Good English language skills.","Interested candidates should email their
+resumes to: v.bghdoyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Virtual Solution Global Services LLC is a branch of
+the virtual solution Consulting GmbH, the German company with expertise
+in Web applications development based on Java and Open Source
+technologies. For additional information about the company, please visit
+website: www.virtual-solution.de."

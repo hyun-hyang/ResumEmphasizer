@@ -1,0 +1,25 @@
+Software Developer,"We are looking for a highly qualified person with deep
+knowledge and practical experience in client-server and Web programming.","- Develop Database Applications in accordance with given
+specifications;
+- Develop Web Applications in accordance with given specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Assist in the development of accompanying Technical Documentation, if
+requested;
+- Provide technical support and assistance, if requested.","- Higher education in a relevant field;
+- Good knowledge of .Net Framework  VB.Net or/ and C# and ADO.Net;
+- Good knowledge of Oracle and MS SQL Server;
+- Good knowledge of PL/ SQL is a plus;
+- Good knowledge of Crystal Reports is a plus;
+- Work experience with client/ server applications; 
+- Experience in web technologies is a plus;
+- Good knowledge of technical English language;
+- Good communication skills.","To apply, please e-mail a CV (in English) to:info@.... Please clearly indicate ""Software Developer"" in the
+subject line of your e-mail. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"United Factors Group LLC is a specialized company
+developing and providing business solutions for factoring and invoice
+discounting industries."

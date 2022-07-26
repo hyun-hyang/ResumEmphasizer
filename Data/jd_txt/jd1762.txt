@@ -1,0 +1,43 @@
+Embedded Software Developer,"The Embedded Software Developer will be involved in
+small to large scale projects, from embedded software development sphere
+through all stages of the software development life cycle, from
+requirements gathering to implementation and testing.","- Work with management on pre-sales support;
+- Work with a team to define the working schedule and technical
+activities associated with the project;
+- Collaborate with team members on gathering project requirements, design
+interface and functionality;
+- Develop, test and document the software according to project
+requirements and guidelines (mainly iterative based approaches including
+XP and SCRUM practices);
+- Release and deploy the project, provide post-release and maintenance
+support, including improvements identification, bug reporting/ fixing and
+communication;
+- Communicate with team members on project progress, technical issues,
+etc.;
+- Communicate with product owner, provide project plan and status
+reports, participate in conference calls;
+- Participate in activities organized by Instigate Training Center,
+including interviewing students, selecting candidates for internship
+program, conducting trainings on various software engineering spheres and
+social events.","- Ongoing study or degree in Computer Science or in a similar
+discipline;
+- At least 1 or more years of work experience in C/ C++ development;
+- Familiarity  with Object Oriented Programming;
+- Knowledge of GNU/ Linux architecture and environment;
+- Knowledge of JAVA is a plus;
+- Knowledge of Eclipse IDE is a plus;
+- Familiarity with ARM family architectures is a plus;
+- Ability to produce clearly written and documented code;
+- Strong time management skills and ability to thrive in a fast-paced and
+startup environment;
+- Good organizational skills and attention to details;
+- Good oral and written communication skills;
+- Good English language skills.","Interested candidates should send their resumes
+in PDF format to: job@... . Please mention the title of
+the position you are applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate are in the USA and EU."

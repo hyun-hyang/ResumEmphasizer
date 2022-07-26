@@ -1,0 +1,28 @@
+Java Development Team Leader,"The successful candidate will be responsible for
+leading the Java team and supporting the implementation and supervision
+of corresponding projects of the company.",NA,"The successful applicant will ideally possess
+the following qualifications and experience:
+- University Bachelor's degree in Telecommunication, Information
+Technology;
+- Minimum 3 year previous experience in Java programming;
+- Minimum 1 year previous experience in a Team Leader position;
+- Previous experience in analysis-design-implementation of complete
+server solutions in information technologies (server-side development);
+- Previous experience in usage of Open Source products;
+- Previous experience in usage of at least one Application Server
+product;
+- Excellent usage of UNIX OS;
+- Excellent knowledge of Armenian, Russian and English languages.
+Knowledge of the below fields will be considered a supplementary asset:
+- JBoss AS, Hibernate, Web Services and Linux;
+- Telecommunication technologies;
+- Optimization through stress-testing;
+- Clustering solution implementations at Application Server level.","Qualified and interested candidates are kindly
+requested to submit CV/ resume in Armenian or English languages to:info@... or hard copy can be delivered to the following address:
+105/1 Citadel Business Center, 6th floor, 0009 Yerevan, Armenia. Please
+mention the announcement code or the title of the position you are
+applying for in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Innova Solutions"" LLC is involved in Information
+Technologies and Telecommunications."

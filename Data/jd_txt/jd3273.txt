@@ -1,0 +1,39 @@
+"Database Administrator, IT and Automation Department, IT
+Administration Division","The Database Administrator (DBA) will be responsible
+for the performance, integrity, security, support and administration of
+databases based on Oracle and MS SQL Server. Additional role requirements
+are likely to include planning, development and troubleshooting.","- Responsible for all the functions associated with the design,
+implementation and maintenance of Oracle DB and MS SQL Server databases
+including security, back-up, logging, reporting and recovery procedures;
+- Manage all the technical aspects of databases and processes;
+- Assist in maintaining and improving database operational efficiency;
+- Perform daily, weekly, and monthly data maintenance tasks;
+- Responsible for the configuration of database servers, and backup
+procedures;
+- Responsible for integration with other systems, creation and support of
+OLAP reports and various reporting requirements;
+- Report on the works done;
+- Ensure day-to-day operations of available software and systems;
+- Train the staff members on new software and updates.","- BS degree; Computer Science or equivalent is preferred;
+- At least 2 years of work experience;
+- Experience with Oracle DB and MS SQL Server 2008/ 2012, including use
+of query analyzer, stored procedures, jobs and profiler;
+- Experience in PLSQL/ SQL, Plus/ Transact SQL, JavaScript and VBScript;
+- Ability to extract data from a data warehouse and package according to
+user needs;
+- Familiarity with managing data in Microsoft Access and Excel;
+- Understanding of XML will be helpful;
+- Proficiency in Armenian and Russian languages;
+- Good knowledge of the English language;
+- Ability to work under pressure; attention to detail;
+- Ability to make quick and independent decisions;
+- Ability to work in a team;
+- Courteous manners;
+- Commitment to work and a sense of responsibility;
+- Time management skills.","All interested applicants should fill in the
+application form, attach a CV and send them to: hr.it@... ,
+mentioning the position title in the subject line. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

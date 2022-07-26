@@ -1,0 +1,40 @@
+Embedded Software Engineer,"We are seeking for several candidates for the Software
+Engineer position to join our partner company's Embedded System
+Development team. The candidate will be working as part of a small,
+dynamic team and will be responsible for designing, coding, and testing
+embedded systems related functionality. Another necessary aspect of the
+position will be a problem isolation and timely resolution of issues with
+existing drivers, working with the Applications Engineering Team for
+field deployed releases.","- Work with team to define and design system solutions;
+- Create/ maintain requirements, design and User's manual
+specifications;
+- Produce clearly written and documented code;
+- Develop flexible software intended to run on different hardware
+platforms;
+- Integrate third party (commercial) solutions to company's products;
+- Communicate with team members on project progress, technical issues,
+etc.","- Bachelors or higher degree in Computer Sciences or in a similar
+discipline;
+- At least 5 years of work experience in C/ C++, Embedded OS, device
+Drivers for Embedded Platform;
+- Excellent understanding of Linux operating system;
+- Experience in Linux device driver development;
+- Experience with source code/ platform cross-compiling and porting;
+- Experience with PowerPC, ARM and MIPS 32-bit;
+- Familiarity with embedded software development process;
+- Telecommunication experience is a plus;
+- Strong problem solving skills;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Good English language skills.","To apply for this position, please register in
+www.careerhouse.com website as a regular user (unless you have previously
+registered), fill out your Resume (including your recent Photo), then
+open this announcement, click on the ""Apply"" button in the upper right
+corner of the announcement and proceed to receive the confirmation
+message.
+Only short listed applicants will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Our Partner Company is a board level design and
+manufacturing company focused on quick-turn designs for the embedded
+market."

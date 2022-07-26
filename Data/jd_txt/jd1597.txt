@@ -1,0 +1,52 @@
+Embedded Platform Software Developer,"Energize Global Services CJSC is looking for an
+Embedded Platform Software Developer who will be responsible for the
+delivery of platform low level software. Low level software includes the
+operating systems and its drivers, as well as the environments that ease
+the application developments.","- Be responsible towards the off-shore coordinator for the developments
+and for the deliveries: on time, quality, respect of specifications,
+availability of the documentation;
+- Participate in the development and the maintenance of embedded software
+for payment terminals;
+- Be responsible for compilation of functional specifications;
+- Perform in-depth analyses of the solutions;
+- Be responsible for application and telecommunication solutions
+programming;
+- Be responsible for Software validation through unit testing and
+compilation of integration test scenarios in collaboration with the test
+team;
+- Write technical documentation in aid of fellow programmers (internal
+and external) as well as write documentation providing to end-users
+instructions for use of the solution.","- Higher technical education: Engineering degree or equivalent by
+professional experience;
+- Fluency in English (written and spoken);
+- Minimum 2+ years of work experience in the field of embedded systems;
+- Thorough knowledge of C/ C++ programming language;
+- Good insight in Python;
+- Good knowledge of Linux;
+- Good knowledge in telecommunication technologies: Ethernet, PSTN, ISDN,
+GSM/GPRS, WiFi, Bluetooth, TCP/IP stack and applications such as DNS,
+DHCP, etc;
+- Analytical mind and a problem-solving attitude;
+- Ability to communicate effectively orally as well as in writing;
+- Ability to establish and maintain effective working relationships with
+partners and colleagues;
+- Excellent knowledge of English language;
+- Ability to give technical training courses if needed;
+- Familiar with technical dossiers and process improvement;
+- Client-focused personality;
+- Knowledge of Agile methodology is an asset;
+- Ability to work under pressure and in circumstances of diverse
+interests and still consistently pay attention to details;
+- High level of integrity, professionalism and respect for diversity and
+gender;
+- Analytical thinking ability;
+- Effective networking abilities.","If interested, please email your last updated
+and detailed Resume with a photo to: hr@... . Please
+indicate ""Embedded Platform Software Developer"" in the subject line of
+your e-mail, otherwise your Resume will not be reviewed. Only shortlisted
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

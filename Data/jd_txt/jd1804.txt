@@ -1,0 +1,18 @@
+Java-Web Developer,"Be Interactive LLC is looking for a JAVA developer to
+join company's team.","- Develop Web-Java solutions;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with management and team members effectively.","- At least 1 year of solid experience as a Software Developer in J2EE;
+- Experience in Web development;
+- Expert skills in AJAX, JavaScript and HTML;
+- Ability to work on the project independently;
+- Problem solving skills;
+- Good communication skills;
+- Knowledge of technical English language.","Please email your professional CV to:job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Be Interactive LLC is a company focused on developing
+next generation web-based business solutions. The company strives to
+develop and provide cutting-edge solutions that will meet the
+fast-growing industry's specific needs of our customers and provide
+services in all aspects of Internet technologies."

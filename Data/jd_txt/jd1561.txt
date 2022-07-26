@@ -1,0 +1,32 @@
+Software Quality Assurance Engineer/ Production Support,"Boomerang Software LLC is looking for a Software
+Quality Assurance Engineer/ Production Support Specialist for its
+long-term projects. The incumbent will perform required test types for
+Windows based desktop applications, web applications and mobile
+applications.","- Design test suites;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform GUI, functionality, performance, load, compatibility and
+usability tests; 
+- Identify, reproduce and report bugs;
+- Perform application support;
+- Verify fixed defects and perform regression tests to ensure the quality
+of software releases.","- Minimum 1 year of work experience as a QA engineer;
+- Knowledge of development process; 
+- Working knowledge of testing techniques and problems documenting;
+- An operational experience with bug-tracking systems;
+- An operational experience with databases; 
+- Knowledge of programming languages is desirable;
+- Experience in developing scripts for automated testing (Mercury
+WinRunner, TestComplete) is desirable;
+- Experience in spelling own software applications is desirable;
+- General knowledge of relational databases is desirable;
+- Excellent knowledge of English and Russian languages;
+- Ability to meet deadlines.","If interested, please email your last updated
+and detailed Resume to: hr@... . In the subject line of your
+message, please mention the position you are applying for. Only
+shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

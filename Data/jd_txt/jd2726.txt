@@ -1,0 +1,36 @@
+Java Developer,"EPAM Systems, Inc. is seeking for Java Developers to
+join the company's team in developing enterprise-level software
+solutions. The company is looking for energetic people who are ready for
+new challenges, teamwork, and agile software development.","- Develop enterprise-level software solutions according to technical
+specifications;
+- Participate in all cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes;
+- Provide necessary technical and design documentation;
+- Analyze requirements and work with team members to create quality
+results;
+- Communicate effectively with local management and external team
+members;
+- Participate in internal and external meetings.","- Bachelor's/ Masters degree in Computer Sciences or in a related
+field;
+- At least 2 years of experience in developing Java web-based
+applications;
+- Good Java and Spring/ Spring MVC development experience in a project
+setting;
+- Experience with JSP, AJAX, JQuery and JavaScript;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with relational database (MS SQL Server, MySQL);
+- Experience in data model and object design;
+- Good understanding of OOP principles;
+- Good analytical skills;
+- Good knowledge of English language on both communication and technical
+level;
+- Excellent communication and teamwork skills;
+- Ability to work independently.","Interested candidates are asked to submit their
+CVs in English language to: marine_melikyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

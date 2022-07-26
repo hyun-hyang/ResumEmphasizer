@@ -1,0 +1,39 @@
+Senior .NET Developer,"Inecobank  is seeking a Senior .NET Developer with a
+strong knowledge of .NET programming and database development concepts.
+He/ she will be involved in the entire lifecycle of the web application
+development process working on all tiers.","- Design, develop and support new and existing business solutions;
+- Create and maintain SQL queries, stored procedures, triggers and
+views;
+- Implement backend/ data access layers within web applications or web
+services;
+- Work in a team or individually in all the phases of the software
+development lifecycle;
+- Develop applications according to technical documentation;
+- Guide junior developers in the everyday task assessment.","- Higher technical education;
+- 2 years of relevant work experience;
+- BS in Computer Science or any related technical fields;
+- Good knowledge of OOP;
+- Strong knowledge of C# and principles of the .NET platform;
+- At least 2 years of experience with technologies (such as WPF, Win
+Forms, ASP.NET and ASP.NET MVC);
+- At least 2 years of experience with data access technologies;
+- At least 2 years of experience in using web service technologies
+(including WCF, REST and JSON);
+- Work experience in database and backend developer roles;
+- Knowledge of Oracle Database, developing queries and stored
+procedures;
+- Familiarity with the software development process;
+- Good communication skills;
+- Ability to multi-task on various projects and support items;
+- Team-oriented person with the ability to communicate with internal and
+external clients;
+- Strong verbal and written communication skills;
+- Flexible and adaptable person in regards to learning and understanding
+new technologies;
+- Good knowledge of English, Armenian and Russian languages.","Interested applicants should submit their CVs
+to: resume@... . Please put ""Senior .NET Developer"" in the
+subject line of your email. Only short-listed candidates will be
+contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

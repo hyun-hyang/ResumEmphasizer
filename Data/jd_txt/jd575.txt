@@ -1,0 +1,37 @@
+Systems Administrator,"IREX seeks a qualified System Administrator based in
+the Yerevan office. This position reports to the IREX Armenia Director.","- Install, configure and maintain the organizations servers (DNS, Mail,
+Web, Proxy and others under UNIX/Linux), server services and
+applications, LANs, WANs, network equipment, workstations and other IT
+equipment;
+- Monitor and manage performance and maintain security of servers (DNS,
+Mail, Web, Proxy and others under UNIX/Linux), server services and
+applications, LANs, WANs, network equipment and workstations;
+- Maintain and update organization and programmatic web sites utilizing
+web programming futures  PHP, Perl, MySQL, etc.;
+- Manage mailing lists;
+- Perform periodic back-ups of network;
+- Provide consultation on computer equipment;
+- Regularly update software and antivirus in operating systems;
+- Maintain contact with ISP regarding uninterruptible internet access,
+hosting and other issues as applicable;
+- Maintain contacts with IT equipment vendors regarding interruptible
+operation of organizations IT equipment;
+- Other IT related duties as assigned by Country Director.","- University degree in IT;
+- Understanding of IP protocol;
+- Experience in maintaining and technical service of computers and
+peripherals;
+- 3 years of relevant work experience;
+- Punctuality and ability to deliver assigned tasks according to the
+deadlines;
+- Fluency in Armenian and Russian languages, technical knowledge of
+English;
+- Good interpersonal skills, team player.","Interested persons should submit: two reference
+letters and resume to Ms. Arina Zohrabian, Director/Education Programs
+Manager at: sysadminresumes@.... Only short-listed candidates will
+be contacted. No phone calls.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IREX is an international nonprofit organization
+providing leadership and innovative programs to improve the quality of
+education, strengthen independent media, and foster pluralistic civil
+society development."

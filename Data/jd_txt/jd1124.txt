@@ -1,0 +1,37 @@
+Senior Software Engineer for Content Management Systems,"The Company is seeking a well experienced individual
+with many years of expertise in Web applications' development,
+especially in the area of Content Management Systems (CMS). The
+incumbent should be an experienced senior architect and technical leader
+with in-depth knowledge of software development processes, especially of
+CMS.","- Work as Project Manager to get aligned with product roadmaps and
+assume a key role in the development of these products;
+- Design, prototype, develop, and thoroughly unit test before submitting
+to QA.","- Minimum 4 years of extensive development experience;
+- Experience in working with Content Management System CMS - Joomla,
+Drupal, Alfresco;
+- Experience in working with PHP and MySQL and good understanding of
+HTML, CSS JavaScript;
+- Knowledge of the OOP;
+- Experience in developing large projects by PHP4 and PHP5;
+- Experience in developing architecture and interaction design of Web
+applications; ASP.NET; 
+- Experience in Pure C# code both on the middle tier and as part of the
+web UI layer of ASP.NET;
+- Experience in working with MYSQL, MS SQL Server 2000, 2005 or 2008;
+- Experience in working with different frameworks and other languages
+(python, C/ C++, Java) is a plus;
+- Ability to work independently as well as in team, preferably in a
+leadership role;
+- Ability to write technical and functional specifications and present
+them to the other team members, and occasionally to the management;
+- Have a thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Have strong interpersonal skills, ability to work both independently
+and as part of a global team and thrive on technical challenges;
+- Have excellent communication and writing skills, and experience in
+writing product specifications and technical documentation;
+- Fluent knowledge of English language.","To apply, please e-mail your CV to:hbaghdas@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn about the Company, please visit
+www.ogmainc.com."

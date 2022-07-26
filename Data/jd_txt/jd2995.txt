@@ -1,0 +1,50 @@
+Senior JavaScript Developer,"BetConstruct is looking for a Senior JavaScript
+Developer, who will be responsible for doing development of the CRM and
+bonus software. The incumbent in this position will be responsible for
+JavaScript Development. This is a full-time position with competitive
+compensation and growth opportunities, with the expectation to learn a
+wide range of business activities. While providing efficient, low-cost
+technology fulfillment the company prefers a good and solid design and
+implementation.","- Code in JavaScript concerning cross-browser compatibility;
+- Implement interactive JavaScript applications;
+- Integrate JavaScript with front-end HTML and CSS code; 
+- Integrate JavaScript with PHP / XML RPC / JSON RPC back-ends; 
+- Unit testing JavaScript code;
+- Work with Q/A and Troubleshooting JavaScript issues;
+- Collaborate with other developers.","- At least 2 years of extensive experience in Web development, including
+coding of semantic HTML/ XHTML, CSS-driven layouts; 
+- Write clean object oriented JavaScript; 
+- Use JavaScript MVC Frameworks; 
+- Optimize website performance; 
+- Work with internal developers to create an effective user experience;
+- Familiarity with DOM scripting, including DHTML, Ajax;
+- Proficiency employing version control  Subversion/ Git;
+- Knowledge of Armenian, Russian and English languages. 
+DESIRED QUALIFICATIONS: 
+- Experience with MVC Frameworks;
+- Good understanding of HTTP protocol;
+- Functional programming experience is a big plus;
+- Ability to work well under pressure in a task/ module oriented project
+team environment;
+- Excellent organization and time management skills;
+- Computer Science degree or related work experience;
+- Experience with Agile development/ SCRUM is a big plus;
+- Experience in Test Driven Development is a big plus;
+- SQL knowledge is a plus.","All interested candidates are welcomed to send
+CVs to: career@... . In the subject line of your e-mail,
+please mention the title of the position you are applying for. Only short
+listed candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetConstruct develops, provides and manages a complete
+range of products for online and land-based gaming companies. While the
+company specializes in Sportsbooks, the company's product range also
+includes a great selection of Poker, Skill, Virtual and Casino Games,
+including Live Dealer. The company's robust back-end, along with content,
+marketing and risk management tools presents a powerful solution for any
+betting business. Today BetConstruct serves clients based in Europe,
+Russia, Central and South Eastern Asia and Africa. Backed by a powerful
+team of over 700 employees (traders, developers and other specialists)
+and informed by over 10 years of experience, the company provides true
+24/ 7 support to its clients and respond quickly to changes in regulatory
+and consumer requirements."

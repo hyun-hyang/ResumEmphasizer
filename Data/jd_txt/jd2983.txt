@@ -1,0 +1,47 @@
+Senior .NET Developer,"EPAM Systems is seeking Senior .NET Developers to join
+the company's team in developing enterprise-level software solutions. The
+incumbent should be well versed in .Net technologies with great
+interpersonal skills, analytical mind, get-things-done attitude and
+passion for engineering excellence.","- Lead or contribute to the software development effort - subject to
+seniority/ experience;
+- Participate in all cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Refactor and re-engineer the existing code base safely;
+- Communicate the knowledge to fellow team members, train and guide
+junior team members;
+- Analyze high level requirements and work with team members to create
+quality results;
+- Participate in internal and external meetings.","- Bachelor's/ Master's degree in Computer Science, Computer Engineering
+or related disciplines;
+- At least 3 years of web application development experience in .NET
+platform;
+- Strong experience in WPF/ WCF technologies and principals;
+- Extensive experience in ASP.NET MVC;
+- Experience in Web services;
+- Knowledge of jQuery and JavaScript is a big plus;
+- Strong understanding of OOP principles;
+- Experience in client-server applications development;
+- Experience or any kind of exposure to VS 2008/ 2010/ 2012 and TFS;
+- Experience in working with Microsoft SQL server 2008/ 2012;
+- Experience with unit testing;
+- Fluency in English language is essential;
+- Ability to think out of the box and communicate complex technical
+problems;
+- Strong communication skills and capability of successful collaboration
+with cross-functional teams.","Interested candidates are asked to submit their
+CVs in English language to: marine_melikyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

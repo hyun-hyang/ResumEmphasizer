@@ -1,0 +1,37 @@
+Senior iOS Developer,"The Senior iOS Developer will be a key member of the
+development team in Armenia designing, developing and supporting highly
+visible/ highly valued mobile and tablet solutions.","- Design and build advanced applications for the iOS platform;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Responsible for unit-test code for robustness, including edge cases,
+usability, and general reliability;
+- Work on bug fixing and improving application performance;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency.","- More than 4 years of software development experience;
+- More than 2 years of iOS development;
+- The incumbent should have published one or more iOS apps in the app
+store;
+- A deep familiarity with Objective-C and Cocoa Touch (MVC pattern;
+common Cocoa coding design patterns, best practices and guidelines;
+Interaction with and use of REST services and JSON objects, etc.);
+- Experience working with iOS frameworks such as Core Data, Core
+Animation, Core Graphics and Core Text;
+- Experience with Memory Management, Block programming concepts,
+concurrency, GCD and NSOperation usage;
+- Experience with third-party libraries and APIs (AFNetworking,
+SDWebImage, etc.);
+- Working knowledge of the general mobile landscape, architectures,
+trends, and emerging technologies;
+- Solid understanding of the full mobile development life cycle;
+- Source code version control understanding (experience with SVN is
+preferred);
+- Swift knowledge is a plus.","Interested candidates are asked to submit their
+detailed CVs in English language to: career@... , indicating the
+title of the position ""Senior iOS Developer"" in the subject line of the
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

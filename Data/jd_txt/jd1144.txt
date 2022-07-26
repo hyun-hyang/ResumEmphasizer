@@ -1,0 +1,14 @@
+.Net Developer,"TX-Systems is looking for a .Net Developer with strong
+knowledge of C#, ASP.Net, Silverlight and MS SQL Server.",NA,"- Bachelor's or Master's degree in the relevant field;
+- Solid .Net experience with C#;
+- Solid knowledge of Silverlight;
+- Experience in developing ASP.Net Web Services;
+- Good knowledge of ASP.Net, AJAX, JavaScript, HTML/xHTML and CSS;
+- Experience in .Net Remoting is preferred;
+- Experience in using Dev Express components is preferred;
+- Experience in development of large scale, multi layer enterprise
+applications is preferred;
+- Good English skills.","To apply, please send your CV to:jobs_net@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,TX Systems CJSC is a software development company.

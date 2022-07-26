@@ -1,0 +1,23 @@
+Java Developer,"SFL LLC is seeking a Java Developer who will be
+passionate about creating web applications and have something to
+contribute in IT sphere.The incumbent should be experienced in Java and
+consider himself/ herself a learning person.","- Produce and maintain clean, high quality code;
+- Work as a part of a dynamic team throughout the software development
+life cycle;
+- Maintain current knowledge of information technology trends with
+ability to research and evaluate new applicable directions and
+technologies.","- Professional work experience in projects as a Java Developer in J2EE
+using any of the following products: Spring, Apache Wicket, Struts,
+Hibernate, Elasticsearch, ActiveMQ, GWT;
+- Good understanding of OOP programming principles and design patterns;
+- Proven ability to work under stress in emergencies, with the
+flexibility to handle multiple high-pressure situations simultaneously;
+- Work experience in Oracle and MySQL or other RDBMS;
+- Good knowledge of English language;
+- Knowledge in TDD principles is a plus;
+- Open, proactive and innovative personality;
+- Work experience in agile/ scrum projects is a plus.","To apply, please, submit your resume at:https://www.smartrecruiters.com/SFL/82545600-java-developer orjobs@..., quoting the job title ""JobID 12020"" in the subject line
+of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,18 @@
+Junior Developer in Gyumri,"Lime Tech is looking for a Junior Developer to work in
+Gyumri.","- Read, understand and modify the existing code;
+- Develop applications in accordance with the given specifications;
+- Be flexible in learning new technologies.","- BS Degree in a relevant field;
+- Knowledge of C#/ ASP.Net;
+- Basic knowledge of MS SQL Server;
+- Knowledge of HTML, CSS, JavaScript, Jquery is a plus;
+- Knowledge of Programming Fundamentals;
+- Ability to work in a team;
+- Good communication skills;
+- Knowledge of the English language is a plus.","All interested candidates are asked to send
+their CVs to: hr@... . Please, mention in the subject line of
+your email the position (""Junior Developer"") you are applying for. Only
+shortlisted candidate will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lime Tech is specialized in customer service automation
+systems. For more info, please, visit: http://limetech.am/."

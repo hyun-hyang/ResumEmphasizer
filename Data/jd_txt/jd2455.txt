@@ -1,0 +1,24 @@
+Statistical Programmer,"Firmplace Corporation, Yerevan Branch is seeking
+candidates for the position of Statistical Programmer.","- Coordinate SAS programming activities for clinical research projects;
+- Recognize any inconsistencies in datasets while preparing SAS programs
+before database lock;
+- Develop specifications for analysis of the datasets in consultation
+with the Biostatistician;
+- Develop the programs using SAS to produce Tables, Listings and Graphs
+as per the specifications indicated in Statistical Analysis Plan;
+- Prepare and finalize the SAS programs in consultation with the
+Biostatistician;
+- Develop, validate and document the SAS programs in accordance with good
+clinical programming practices and according to applicable guidelines and
+Standard Operating Procedures of the client;
+- Implement data management plans and approved SAP designed to meet
+project timelines;
+- Communicate timely status updates to other team members in the
+department;
+- Provide active contribution on process improvement with the support of
+the Lead Biostatistician or the Designee.","- Statistical programming experience;
+- Degree in Maths, Economic Cybernetics or other relevant science;
+- Knowledge of both written and verbal English language.","Interested candidates are asked to send a CV to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

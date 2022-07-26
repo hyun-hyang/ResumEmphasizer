@@ -1,0 +1,21 @@
+Web Developer,"The incumbent must have experience in object oriented
+programming and developing client server applications.","- Develop and design software systems for the company;
+- Analyze new software requirements;
+- Perform object-oriented analysis, design and testing;
+- Create reports from DB.","- University degree in Computer Sciences or a related field;
+- At least 2 years of work experience in database design, development and
+optimization technology;
+- Strong knowledge of ASP.NET, T-SQL;
+- Knowledge of C#, PHP, MySQL, JAVASCRIPT, AJAX (JQUERY);
+- Good knowledge of Armenian and Russian languages, knowledge of
+technical English;
+- Problem-solving and decision-making skills;
+- Good time management and organizational skills;
+- Knowledge of accounting is a plus.","To apply, candidates are asked to send their
+resumes to: hr@... . Please mention the position title ""Web Developer""
+in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia)."

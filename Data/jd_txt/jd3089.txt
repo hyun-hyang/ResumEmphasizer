@@ -1,0 +1,20 @@
+Web Developer,"Armenia International Airports is looking for a Web
+Developer.","- Responsible for front-end and back-end development of web
+applications;
+- Responsible for end-to-end development and/ or maintenance of an
+existing application depending on the project.","- Experience working with CMS like Wordpress, Drupal, ExpressionEngine;
+- Experience working with PHP/ OOP Frameworks like Laravel, Codeigniter,
+Zend, Yii;
+- Experience with front-end development such as Bootstrap;
+- Knowledge of JavaScript/ jQuerry/ AJAX, AnjularJs, HTML5/ CSS3;
+- Good knowledge of the English language (written and oral);
+- Ability to learn new programming languages quickly;
+- Good communication skills;
+- Ability to work in team.","All interested candidates who meet the
+requirements for the position are kindly requested to submit their CVs
+to: hrselection@... . The subject field of the message
+should have the title ""Web Developer"". Please fill the CV in the body of
+the message and not as an attachment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

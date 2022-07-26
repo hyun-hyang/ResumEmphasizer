@@ -1,0 +1,25 @@
+Web Developer,"United Factors Group is looking for a Web Developer to
+join its team. The Web Developer will take part in design and development
+projects.",NA,"- BS in Computer Sciences, Information Services or a related field; MS is
+a plus;
+- At least 2 years of extensive WEB development experience, and at least
+1 year with the following technologies:
+a) .NET Framework 3.5 and higher;
+b) ASP.Net/ C# 3.0 and higher;
+c) HTML, XML, CSS, AJAX, JavaScript and jQuery;
+d) MS SQL Server 2008;
+- Knowledge of the following packages and/ or technologies:
+a) WCF and Services;
+b) Security; 
+c) LINQ and also ADO.NET;
+- Experience with technologies such as XML, Subversion and related
+tools;
+- A thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Excellent communication and writing skills, and experience in writing
+product specifications and technical documentation;
+- Good communication skills in Russian and English languages.","Interested candidates are kindly requested to
+email CV/ resume in English language to: support@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

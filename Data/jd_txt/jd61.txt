@@ -1,0 +1,32 @@
+Senior QA engineer at Lycos Test Center,"The role requires dedicated and responsible person.
+Our senior QA engineers takes responsibility for whole projects from
+test plan until the testing is completed. The role includes a lot of
+communication to our other development centers which are located in
+Europe. The test center at Lycos Armenia is responsible for all testing
+that is done of our products. The tests that is performed is for example
+functional testing, stress testing, load testing, installation testing,
+user interface testing etc. The test center is currently looking for
+several persons with previous experience in this area.","As a senior QA engineer you are responsible for
+whole testing projects. It includes tasks such as writing test plan,
+performing tests, writing reports","- More than 2 years experience of software testing for example
+functional testing, load/stress testing, 
+- Experience of development in C++ or Java. 
+- Experience of automated software testing. 
+- Experience of Linux environment is good but not required.
+- English knowledge is required.
+- Excellent communication skills.","Please send your CV to info@....
+You can also visit company recruitment web site at www.lycos-europe.am
+for more information.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is one of the leading European Internet
+destinations, operating a pan-European network of websites in nine
+languages. Covering Germany, France, Great Britain, Sweden, Denmark,
+Italy, the Netherlands, Spain and Russia, Lycos Europe is the no. 2
+portal in terms of reach in Europe. With more than 25 million regular
+unique users, Lycos generates more than 2.5 billion page views each
+month.
+As a general interest portal for a wide audience, the company offers a
+full range of services such as communication tools (Email, Mobile
+services, Messenger), communities (Chat, Dating), homepage building/web
+hosting, shopping, search and selective content channels."

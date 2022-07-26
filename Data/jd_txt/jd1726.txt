@@ -1,0 +1,40 @@
+C/ C++ Embedded Software Developer,"Energize Global Services CJSC is looking for an
+experienced C/ C++ Embedded Software Developer. Within a software
+development team, the successful candidate will be responsible for a
+significant part of the development cycle of applications: understanding
+of the requirements, performing the functional analysis, the design, the
+programming and unit testing of the software solutions. The C/ C++
+Embedded Software Developer will participate in the development of
+different software applications for various markets.",NA,"- University degree in Computer Science; Master's degree will be an
+asset;
+- Minimum 3 years of work experience in embedded software application
+development on C/ C++;
+- Experience in software development using Agile methodologies;
+- Good knowledge of the life cycle of software development;
+- Experience in development under Linux/ Unix OS;
+- Advanced knowledge of Python or other scripting languages will be an
+asset;
+- Knowledge of Unit testing principles and frameworks;
+- Telecommunication experience;
+- Good knowledge of optimization and cryptography algorithms;
+- Experience in one or more of the following areas is an asset: embedded
+systems, communication protocols, smart cards, security concepts and
+payment schemes;
+- Previous Java experience is a plus;
+- Ability to understand the requirements and translate it into functional
+specifications;
+- Problem solving skills;
+- Good communication and negotiation skills;
+- Excellent knowledge of English language;
+- Ability to work in a team and independently;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please email your last updated
+and detailed Resume to: hr@... . Please indicate ""C/ C++
+Embedded Software Developer"" in the subject line of your e-mail,
+otherwise your Resume will not be reviewed. Only shortlisted candidates
+will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

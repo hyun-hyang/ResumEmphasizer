@@ -1,0 +1,17 @@
+Software Developer,"The Software Developer will take part in design and
+development projects",NA,"- B.S. in Computer Sciences or any related technical field;
+- Proficiency in OOP/ OOD and knowledge of software design patterns;
+- Excellent knowledge of C# or VB.NET language;
+- Good knowledge of Transact SQL;
+- Good understanding of web services and practical working experience
+with WCF;
+- Good understanding of the .Net framework internals; 
+- At least 1 year of work experience in .Net Framework (ASP.NET, C# and
+VB.NET); 
+- Work experience in Ms SQL Server database design and programming; 
+- Good communication skills; 
+- Good knowledge of English language.","Please, send your CVs in English to: it@...
+e-mail address. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,24 @@
+Software Developer,"Haypost CJSC is looking for a qualified and motivated
+Software Developer.","- Develop web and desktop applications in accordance with given technical
+and functional specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with clients, management and team members effectively.","- Bachelors degree in Computer Sciences or a related discipline; higher
+degree is a plus;
+- Experience in software development: C#, Visual Basic, PHP and SOAP;
+- Database development experience: ADO.NET, MS SQL Server 2008R2, T-SQL
+and MySQL;
+- 2 years of professional work experience;
+- Knowledge of English and Russian languages; 
+- Good knowledge of the concepts and characteristic features of
+Object-Oriented Programming;
+- Algorithmic knowledge, problem-solving and analytical skills;
+- Self-motivated, passionate and adaptable personality;
+- Ability to work efficiently with minimal supervision.","All interested candidates who meet the
+requirements for the position are kindly requested to submit their CVs
+to: hrmanager@... . The subject field of the message should have
+the title ""Software Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,31 @@
+Java Frontend Developer,"The incumbent will be responsible for developing and
+improving a clean and fast Web 2.0 web frontend for the customers of the
+company. The responsibility of the incumbent will be to bridge the gap
+between requirements, development and operation to ensure the efficient
+and fast rollout of the company products.","- Perform Frontend engineering for A-grade browsers;
+- Design, implementation and maintenance of the company frontend;
+- Be responsible for delivering fast and clean frontend;
+- Be responsible for technical and conceptual solutions as well as
+further development of the standards; 
+- Work with a scrum project framework;
+- Ensure deliverables meet requirements and specifications for
+functionality, capacity, scalability, performance, reliability and
+quality.","- Bachelor's or Master's degree in Computer Science;
+- At least 3 years of relevant experience;
+- Fluency in English language, both written and spoken;
+- Deep knowledge of HTML/CSS, XML/JSON, AJAX, jQuery and SEO;
+- Professional experience in projects as a Java Developer in J2EE;
+- Knowledge of agile and scrum environments;
+- Advanced knowledge of OOP and OOD;
+- Knowledge of Web Frameworks: Jsf+RichFaces, JSP/ Servlets.
+Desired skills:
+- Skills in Tomcat and Mysql; 
+- Knowledge of Google APIs interfaces (like Google maps);
+- Knowledge of android/ iPhone development;
+- Structured and independent way of working; 
+- Willingness to learn and commit to time lines;
+- Experience with cloud computing.","Please send your CV to: aram.kadimyan@...
+and arpi.avakemian@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

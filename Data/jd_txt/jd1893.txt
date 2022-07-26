@@ -1,0 +1,31 @@
+Web Developer,"Virtual Solution Global Services LLC is seeking a
+motivated Web Developer.","- Design and build online content in standards-compliant HTML and CSS;
+- Create and maintain company websites using CMS (Joomla);
+- Support customers with web-related queries via Support Helpdesk;
+- Support software development team with front-end related development.","- Strong knowledge of PHP 5, Java Script (JQuery and Prototype), HTML,
+CSS and XML;
+- Knowledge of joomla and wodpress CMS;
+- Ability to develop new modules and templates;
+- Knowledge of MySQL, Postgre or SQL Server;
+- Good problem solving skills and ability to work independently;
+- Ability to learn new technologies;
+- Knowledge of Zend Framework or other frameworks is a big plus;
+- Experience in working with OpenSource products is a big plus;
+- Knowledge of other programming languages (Java/ Objective C) is big
+plus; 
+- Ability to work independently and efficiently to meet deadlines;
+- In-depth understanding of the software development lifecycle and
+ability to communicate project status, issues and resolutions;
+- Good communication skills;
+- Good English language skills;
+- Self-motivated, detail-oriented and organized personality.","Interested candidates should e-mail their
+resumes to: info-am@... . In the subject line of your
+e-mail message, please mention the title of the position you are applying
+for. Please send resumes only if you correspond to the required
+qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+Virtual Solution GmbH, German software development company. For
+additional information about the company, please visit its website:
+www.virtual-solution.com."

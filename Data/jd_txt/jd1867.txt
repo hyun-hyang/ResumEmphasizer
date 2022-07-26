@@ -1,0 +1,31 @@
+Software Engineer,"Energize Global Services CJSC is looking for an
+experienced Software Engineer.","- Develop and test new solutions;
+- Provide a technical description of the solution based on the customer's
+requirement;
+- Perform design, development and the integration of the solution;
+- Be involved in the entire life-cycle of the product;
+- Maintain the existing applications already present on the market,
+implement additional features, provide support to the integrators and
+customize the existing solution for the customers.","- University degree in Computer Sciences or in related field;
+- At least 3 years of work experience in software application development
+using C;
+- Experience in development on embedded systems;
+- Experience in development under Linux/ Unix OS;
+- Knowledge of software development life cycle;
+- Knowledge of security concepts and network protocols;
+- Knowledge of Python is an asset;
+- Work experience in an XP Agile environment is an advantage;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language;
+- Ability to explain clearly the problems to the development team(s);
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please email your last updated
+and detailed Resume to: hr@... . Please indicate ""Software
+Engineer"" in the subject line of your e-mail, otherwise your Resume will
+not be reviewed. Only shortlisted candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

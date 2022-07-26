@@ -1,0 +1,47 @@
+Java Developer,"The responsibilities of this position are focused on
+core software development tasks in Synergy International Systems, Inc.
+This position will be filled by a Software Developer with a proven
+history of producing quality software product in a commercial setting
+with experience in all aspects of the software development process,
+including design, implementation, testing and delivery.","- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software; 
+- Perform other related tasks as assigned in the precise and timely
+manner; 
+- Document the software products that will be produced.","- Bachelor's in Computer Sciences, Information Technology or a related
+discipline. Masters degree is preferred; 
+- Good knowledge of Object Oriented Programming;
+- At least 5 years of professional experience in software development;
+- Strong Java programming skills;
+- At least 3 years of work experience in J2EE development, (JSP, Java
+Server Faces and Spring framework);
+- At least 3 years of practical knowledge/ programming of client-side
+Java Script/ HTML/ XML; 
+- Previous experience with database systems under one of the following
+platforms: MS SQL, MySQL and ORACLE;
+- Full understanding of the development lifecycle;
+- Experience in a dynamic workplace with solid software developing
+practice;
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Ability to communicate, read and understand technical documentation in
+English language.","If interested, please email your resume with a
+cover letter listing your qualifications, software development related
+experience, and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) to:
+Ms. Anahit Sargsyan
+Office Manager
+E-mail: mail@... or mailarm@....
+Phone: (374 10) 56 76 81.
+Please note that initial consideration will be given to the applications
+received prior to the date indicated above. Thereafter, applications will
+be reviewed on an as-needed basis.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+development company, operating in Armenia through its Yerevan
+subsidiary."

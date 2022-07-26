@@ -1,0 +1,33 @@
+iPhone/ iPad Application Developer,"Virtual Solution Global Services LLC is seeking a
+motivated iPhone/ iPad Applications Developer.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop applications according to technical documentation;
+- Develop test cases;
+- Install and configure necessary environment for the developed
+applications.","- At least 5 years of work experience as a Software Developer;
+- At least 1 year of work experience as Objective-C, iPhone UIKit and
+iPhone Foundation Framework Developer;
+- Excellent knowledge in Objective-C and OOP;
+- Excellent knowledge in iPhone UIKit, iPhone Foundation Framework and
+Cocoa Touch Framework development;
+- Frameworks: iPhone UIkit, iPhone Foundation, Cocoa Touch;
+- Good knowledge in (X)HTML, CSS, JavaScript and XML;
+- Good knowledge in Service Oriented Architecture;
+- Build Environment: XCode;
+- OS: Mac OS X, Unix, Linux;
+- High skills with Mac OS X: system administration, writing Shell
+scripts, etc.;
+- Ability to work on project with a development team;
+- Problem solving skills;
+- Good communication skills;
+- Good English language skills.","Interested candidates should email their resumes
+to: info-am@.... Please send resumes only if you
+correspond to the required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+virtual solution Consulting GmbH, German software development company.
+For additional information about the company, please visit the company's
+website: www.virtual-solution.am."

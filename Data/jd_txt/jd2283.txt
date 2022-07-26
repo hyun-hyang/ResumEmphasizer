@@ -1,0 +1,25 @@
+Senior PHP Developer,"e-Works LLC is looking for Developers with advanced
+knowledge of PHP. Most of the work will consist of HTML, CSS & JavaScript
+on the front ends.","This position will require but not be limited to
+the following roles:
+- Develop and maintain software applications in accordance with given
+specifications;
+- Participate in project planning;
+- Work collaboratively and effectively on team projects;
+- Be flexible in learning new technologies.","- Advanced knowledge of PHP: at least 4 years of experience, ideally with
+both custom and open source systems;
+- Knowledge of PHP (OOP), and XML on the back end in the Yii Framework
+and MongoDB for the database.
+Desired Qualifications:
+- Knowledge of MongoDB;
+- Knowledge of Yii Framework;
+- Knowledge of GIT;
+- Knowledge of Linux Admin.","Please submit your CV only to the following
+address: eworkswebdesign@... , mentioning the position title in the
+subject line of your e-mail. The CVs will be accepted only in case the
+applicants follow the above-mentioned requirements. No phone calls
+accepted.
+Only short-listed candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

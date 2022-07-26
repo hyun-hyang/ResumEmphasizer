@@ -1,0 +1,37 @@
+"Senior Software Engineer, Physical Design Department","Senior Software Engineer will take part in design and
+implementation of software products.","Design new algorithms or apply known ones to
+solve practical tasks arising.","- BS/MS in CS/EE;
+- 3+ years of experience in software development;
+- Good communication skills;
+- Self-motivation;
+- Experience in designing and developing software products;
+- Formal training or test certification is a plus;
+- Strong C++/STL programming skills, experience in widely accepted
+methodologies such as OOP, OOD, etc;
+- Using knowledge of Linux, MS Windows is desirable;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Math. background with an understanding of Computational Geometry,
+Graph Theory, Optimization Problems;
+- Design/implementation specification writing skills;
+- Knowledge of Technical English language (both verbal and written);
+- Knowledge and experience in Physical Design Automation, or related
+domains is preferred;
+- Experience in working with cross-functional product development teams
+is preferred.","To apply, please visit:http://www.unicad.am/jobs and fill in the submission form. All resumes
+sent to job@... will not be considered as current job
+application.
+It is preferred that the candidates for the Senior Software Engineer
+position in Physical Design Department fulfilled military obligation or
+educational waivers of military obligation.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","To find detailed information about other currently
+available positions at UniCAD, please, check the following web site:http://www.unicad.am/jobs","UniCAD is a software start-up company specialized in the
+development of Electronic Design Automation (EDA) CAD tools, which is
+located in Yerevan, Armenia. UniCAD is a fully owned subsidiary of
+E-Z-CAD that is situated in the heart of Silicon Valley in Mountain
+View, CA, USA. 
+UniCAD provides a unique opportunity to join a team of software
+developers utilizing the advancements in software design for building
+EDA CAD tools."

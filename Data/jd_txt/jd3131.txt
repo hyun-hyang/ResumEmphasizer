@@ -1,0 +1,15 @@
+Mobile Application Developer,"Seven Smarts LLC is looking for a Mobile Application
+Developer (PhoneGap).","- Participate in all the cycles of software design and development;
+- Read, understand and modify the existing code;
+- Work in the scrum project framework.","- BS degree in a relevant field;
+- At least 2 years of work experience in software development;
+- Strong knowledge of DHTML (JavaScript, CSS3, HTML5);
+- Experience in Mobile Application Development (PhoneGap framework);
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Experience in ASP.NET, MVC is a big plus;
+- Ability to work in a team;
+- Knowledge of the English language is a plus.","To apply for this position, please, send your CV
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

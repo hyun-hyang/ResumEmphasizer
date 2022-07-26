@@ -1,0 +1,17 @@
+.NET Developer,"Altysoft is looking for a motivated, experienced,
+initiative driven .NET Developer.",NA,"- Good knowledge of C#, XML, HTML, DHTML, Javascript, SQL and
+webservices;
+- Programming and practical experience of large webbased applications; 
+- Fluent in English Language;  
+- Good knowledge of Visual studio, .NET framework and SQL database. 
+Preferred Qualifications:
+- Having passed the Microsoft Certified Application Developer or MCSD
+tests; 
+- Experience and understanding of dotnetnuke;
+- Experience with CRM applications and ERP; 
+- A degree in software development.","To apply, please send your CV, references and
+examples of former works to: c.convent@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altysoft Ltd. is a software development company which
+has it's offices in Tbilisi, Georgia."

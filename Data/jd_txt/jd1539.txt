@@ -1,0 +1,21 @@
+PHP Senior Software Developer,"SFL is looking for a full-time PHP Senior Software
+Developer to join a team working on a complex and long-term project.","- Produce and maintain clean, high quality standard compliant website
+applications;
+- Develop codes that are cross-browser and cross-platform compatible;
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards.","- Advanced working knowledge in PHP, MySQL, HTML/ DHTML, XML, CSS and
+JavaScript, AJAX;
+- Experience with one of the following frameworks is a plus  Symphony,
+CodeIgniter, CakePHP;
+- Advanced  knowledge of Linux operating system;
+- Applicants may be asked to perform a demonstration of their abilities
+or show developed code in order to assess technical knowledge;
+- Good communication skills in English;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 1190"" in the subject line of your
+email. Only short listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

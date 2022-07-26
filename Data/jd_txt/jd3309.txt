@@ -1,0 +1,32 @@
+Web Developer,"The Tumo Center for Creative Technologies is seeking a
+highly motivated and experienced Web Developer who will be responsible
+for developing innovative web-based tools as a part of a progressive
+educational system.","- Develop and maintain Tumo's new website that is currently being
+designed;
+- Participate in the design and development of new online applications
+for Tumo's educational and public outreach activities;
+- Work with Tumo's software development team on ad hoc tools and
+utilities to serve the internal user community.","- Detailed understanding and solid experience in web development,
+cross-browser development, scripting languages and database systems;
+- Ability to read, understand and modify the existing code;
+- Ability to collaborate closely with the management and other members of
+the software development team;
+- Highly dynamic and positive personality; excellent people skills and
+facility in working in a team;
+- PHP programming experience; knowledge of object-oriented programming
+and version 5;
+- Excellent knowledge of HTML, CSS and Javascript;
+- Work experience with PHP frameworks such as Yii2;
+- Experience with version control systems (such as SVN and Git);
+- Higher education degree from a recognized university;
+- Excellent communication skills, including written communication,
+personal interaction, and public presentation in the Armenian language;
+knowledge of the English language is a plus.","Qualified candidates may submit their CVs to:
+jobs@... or to: 16 Halabyan Street, Yerevan, Armenia. Only
+short-listed candidates will be notified for interviews. Please kindly
+indicate the position title ""Web Developer"" in the subject line when
+applying by email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn more about the Tumo Center for Creative
+Technologies please visit: www.tumo.org."

@@ -1,0 +1,18 @@
+Java Developer,"TX Systems is seeking an experienced Java Developer for
+development of Web based applications.","- Design and implement application;
+- Develop application according to technical documentation;
+- Work productively as part of a software development team;
+- Communicate effectively with management and within the team;
+- Keep commitments and respect deadlines;
+- Participate in discussions regarding technical issues.","- University degree in the appropriate field of studies;
+- At least 3 year practical experience in Java development;
+- Good knowledge of Spring Framework and Web Containers;
+- Team player;
+- Ability to work in team and under pressure;
+- Knowledge of technical English language.","Please send your CV to: jobs@... by
+mentioning in the subject line the position you are applying for. Only
+shortlisted candidates will be invited to the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"TX Systems is a software development company specialized
+in online entertainment industry."

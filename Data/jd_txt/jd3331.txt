@@ -1,0 +1,67 @@
+Software Development Team Lead,"As a Software Development Team Lead, the incumbent will
+lead the development of the company's next-generation web applications.
+The successful candidate will be a part of an agile development team,
+building and working on enterprise grade software systems using Microsoft
+.NET development technologies. The Software Development Team Lead will
+provide technical and team leadership through coaching and mentorship.","- Guide team development efforts towards a successful project delivery;
+- Provide technical leadership to teammates;
+- Analyze, design, and develop systems and applications, throughout the
+full software development lifecycle of  projects;
+- Contribute to sprint planning and design, stand ups, reviews and
+retrospectives;
+- Review and provide input on requirements for multiple products;
+- Maintain high standards of software quality within the team by
+establishing good practices and habits;
+- Identify and encourage areas for growth and improvement within the
+team;
+- Collaborate with other software developers, business analysts and
+software architects to plan, design, develop, test, and maintain
+web-based business applications built on Microsoft technologies;
+- Assist in the collection and documentation of user's requirements;
+develop user stories, estimates and work plans;
+- Design, develop, and unit test applications in accordance with the
+established standards;
+- Participate in peer-reviews of solution designs and the related code;
+- Responsible for package and support deployment of releases;
+- Work with teammates in the migration of legacy applications to current
+Microsoft technologies;
+- Develop, refine, and tune integrations between applications;
+- Analyze and resolve technical and application problems;
+- Assess opportunities for application and process improvement; prepare
+documentation of rationales to share with team members and other affected
+parties;
+- Adhere to high-quality development principles while delivering
+solutions on time and on a budget;
+- Provide support to business users.","- More than 5 years of experience as a Software Developer;
+- Prior experience in a technical leadership position;
+- College or university degree in Computer Science or a related
+discipline;
+- Extensive experience in designing and developing enterprise grade
+software;
+- Experience with agile development methodologies;
+- Experience with debugging, performance profiling and optimization;
+- Comprehensive understanding of object-oriented and service-oriented
+application development techniques and theories;
+- Proficiency in Microsoft .NET development using C#;
+- Experience with web development technologies including ASP.NET, MVC,
+jQuery, JavaScript, Ajax and CSS;
+- Experience with database development including relational database
+design;
+- Experience in Silverlight is preferred;
+- Experience in user interface design and prototyping;
+- Demonstrated ability to evaluate user needs or specifications and
+translate them into a logical and practical set of software components;
+- Ability to own one's assignments, formulate one's own questions and
+work with team members to get the answers necessary to complete
+assignments;
+- Excellent analytical and problem solving skills;
+- Good communication skills;
+- Ability to communicate and conduct teleconferences with foreign
+partners in the English language;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","All interested candidates should submit their
+resumes to: jobs@... . Please mention the title of the position
+you are applying for in the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

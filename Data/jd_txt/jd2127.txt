@@ -1,0 +1,20 @@
+C# Senior Developer,"CyberStar is looking for a C# Senior Developer with
+good knowledge of Desktop and Web technologies.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications;
+- Maintain existing projects;
+- Participate in the development of new projects.","- University degree in the appropriate field of studies;
+- At least 3 years of work experience;
+- Knowledge of C#;
+- Database proficiency in Microsoft SQL Server;
+- Knowledge of WCF, Socket and HTTP;
+- Knowledge of OOP principles;
+- Knowledge of other programming languages is an advantage;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Ability to work in a team.","To apply, please send your resume to:arsen.avetisyan@... . Please mention the position title ""C#
+Senior Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

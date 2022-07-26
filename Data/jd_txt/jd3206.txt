@@ -1,0 +1,37 @@
+Senior iOS Developer,"The Senior iOS Developer will be a key member of the
+development team in Armenia designing, developing and supporting highly
+visible/ highly valued mobile and tablet solutions.","- Design and build advanced applications for the iOS platform;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Check the unit-test code for robustness, including edge cases,
+usability, and general reliability;
+- Work on bug fixing and improving the application performance;
+- Continuously discover, evaluate and implement new technologies to
+maximize development efficiency.","- At least 4 years of software development experience;
+- At least 2 years of iOS development;
+- Availability of one or more iOS apps published in the app store;
+- Deep familiarity with Objective-C and Cocoa Touch (MVC pattern; common
+Cocoa coding design patterns, best practices and guidelines; interaction
+with and use of REST services and JSON objects;
+- Experience in working with iOS frameworks such as Core Data, Core
+Animation, Core Graphics and Core Text;
+- Experience with Memory Management, Block programming concepts,
+concurrency, GCD and NSOperation usage;
+- Experience with third-party libraries and APIs (such as AFNetworking,
+SDWebImage);
+- Working knowledge of the general mobile landscape, architectures,
+trends and emerging technologies;
+- Solid understanding of the full mobile development life cycle;
+- Understanding of source code version control; experience with SVN is
+preferred;
+- Swift knowledge is a plus;
+- Self-driven, hard-working person and a good team player.","To apply for this position, please submit your
+detailed CV in the English language to: career@... indicating the
+position title in the subject line of your email. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

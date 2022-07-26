@@ -1,0 +1,30 @@
+Linux Server Administrator,"Tumo Center for Creative Technologies is looking for a
+mid-level Linux Server Administrator with knowledge of and experience in
+Ubuntu 14.04 and CentOS 6.X.","- Be responsible for setup and administration of:
+a) Centralized authentication: Linux and Mac authentication with Windows
+AD;
+b) Keepalived failover and load balancers (memcached session
+management);
+c) File systems: Centrifydc (Samba), NFS and AFP;
+d) MooseFS storage system monitoring, management and maintenance;
+e) Version control systems: SVN and Git;
+f) Databases: MysQL and Mongo DB; clustering with Grid FS in the case of
+Mongo DB.","- University degree in Computer Sciences;
+- Knowledge of Apache 2.X configuration (multiple sites management);
+- Experience in Mac OSX server administration (Deploy studio, profile
+manager, Open LDAP);
+- Experience in syslog-ng server and client configuration;
+- Experience in ESXi virtualisation (Vcenter server, virtual
+networking);
+- Bash and Powershell scripting tools with knowledge of C# are a major
+plus;
+- Troubleshooting skills;
+- Passionate, optimistic and internal inspiration to get things done;
+- Ability to work efficiently as a part of a team.","Qualified candidates may submit their CVs to:jobs@... or to: 16 Halabyan Street, Yerevan, Armenia. Only those
+candidates that are short-listed for interviews will be notified. Please
+kindly indicate the post title in the subject line when applying by
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn more about the Tumo Center for Creative
+Technologies please visit the website: www.tumo.org."

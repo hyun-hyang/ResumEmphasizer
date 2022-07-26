@@ -1,0 +1,30 @@
+Front-End Developer,"VOLO is looking for an experienced result-oriented
+professional to fulfill the position of a Front-End Developer in an
+enterprise-focused team.","- Work on existing projects, develop and support new and existing
+business solutions;
+- Develop interactions in HTML5, CSS3 and jQuery;
+- Build the pages to be compliant with web standards and web
+accessibility;
+- Develop and test across multiple browsers, platforms and devices;
+- Work closely with other developers and customers to define
+requirements.","- At least 2 years of experience in front-end development;
+- Strong experience in HTML5, CSS3, jQuery;
+- Strong experience in responsive, mobile development; 
+- Knowledge of CSS frameworks Twitter bootstrap, Foundation is
+preferred;
+- Knowledge of Cross-Browser, Cross-Platform compatibility;
+- Some work experience in JS frameworks (Angular, Knockout) is
+preferred;
+- Work experience in CMS will be a plus;
+- Work experience with LESS and SASS will be a plus;
+- Individual working skills and teamwork skills.","Interested candidates are asked to submit their
+CVs with relevant work portfolio to: hr@... , mentioning the position
+you are applying for in the subject line of the e-mail. No personal
+visits, deliveries or phone calls, please. Only short listed candidates
+will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VOLO is an IT Solutions provider with its main office in
+Yerevan, Armenia. The company implements projects for international
+clients, including several long term clients. For more information,
+please visit: http://volo.global/."

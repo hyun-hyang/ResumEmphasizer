@@ -1,0 +1,28 @@
+Senior PHP LAMP Developer,"The company is looking for a full-time Senior PHP LAMP
+Developer to join its development team and work on fun, innovative
+projects in the digital news space leveraging best-of-breed technologies,
+API's, and frameworks. The company likes to keep things agile and develop
+interactively, using test-driven development and continuous integration.
+News Deeply is a NYC based start up, with several remote team members.",NA,"- At least 5 years of experience in PHP development;
+- The Senior PHP LAMP Developer should have the ability to wear many
+hats, be it Front End (HTML, CSS, JavaScript) or Back End (PHP, LAMP,
+mySQL) development;
+- Experience in an Agile, Scrum environment;
+- Working knowledge of AJAX, HTML, JavaScript, XML, and jQuery;
+- Experience with Angular;
+- Highly comfortable with Git;
+- Experience working with Symphony CMS: www.getsymphony.com;
+- Enterprise and start up software development experience;
+- Comfortable working with MVC Frameworks; 
+- Bachelors degree in Computer Science or equivalent work experience is
+a plus;
+- Excellent written and verbal communication skills.","If interested, please contact Azeo Fables:azeo@... . Only shortlisted candidates will be contacted back.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"News Deeply is a new media and technology firm dedicated
+to innovating the user experience of complex global issues. The company's
+inaugural platform, Syria Deeply, is an award-winning fusion of
+journalism, education, and digital design, created to enhance coverage of
+the Syrian crisis. The company's team, a mix of journalists and
+technologists, is now creating a series of projects fusing news, live
+events, and information design."

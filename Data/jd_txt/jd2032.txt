@@ -1,0 +1,49 @@
+IT Specialist,"The USAID Enterprise Development and Market
+Competitiveness Project (EDMC) which is being implemented by the Pragma
+Corporation is seeking a qualified IT Specialist. The incumbent will
+contribute to the implementation of the project by coordinating IT
+systems development activities, and supporting implementation of IT
+related program tasks from other project components.","- Maintain IT infrastructure of the EDMC project including the Windows
+2008 servers (virtual servers at Armenian Datacom Company), firewall/
+router, Exchange 2010 mail server, web server and end-user workstations;
+- Administer the servers, local network, Internet and e-mail access; 
+- Ensure anti-virus and spam protection, regular backups and disaster
+recovery system;
+- Develop and manage the project web site, ensure timely update of the
+information and multilingual content;
+- Develop databases and other IT applications for project use;
+- Support staff with daily IT tasks, manage software and hardware
+maintenance and troubleshooting;
+- As a part of the Operations Team assist in information dissemination,
+preparing written documents, correspondence and reports;
+- Support the implementation of IT related program tasks from other
+project components;
+- Assist in the evaluation of IT-related firm level assistance;
+- Assist in maintaining EDMC supported portals and web sites; 
+- Perform any other relevant IT tasks requested by the Chief of Party and
+the Branch Director.","- Degree in Computer Sciences or in similar discipline;
+- At least 5 years of experience in IT sector; 
+- Experience in IT infrastructure management;
+- Experience in internal software management;
+- Ability to communicate effectively and excellent teamwork skills;
+- Strong skills in HTML/ CSS/ JS/ PHP/ MySQL;
+- Good knowledge of graphic editors (Adobe Photoshop, Adobe Illustrator
+and CorelDRAW);
+- Strong written and oral fluency in both English and Armenian
+languages;
+- Professional experience with USAID or other international donor-funded
+development programs is preferred.","Applicants are requested to send a cover letter
+describing their interest in the position, outlining major skills and
+experience, as well as their CV to the following e-mail addresses:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EDMC is designed to raise incomes and employment in
+Armenia by promoting growth in selected value chains (VCs) that process
+high -export potential, with the overall goal of assisting Armenia to
+develop a more competitive and diversified private sector. To achieve
+these objectives, the project will (1) develop more productive
+enterprises and value chains by stimulating innovation, (2) enhance
+workforce skills and entrepreneurial development, (3) improve the
+business environment by reducing regulatory burdens and addressing
+competitiveness challenges, and (4) facilitate effective financial
+intermediation."

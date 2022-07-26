@@ -1,0 +1,31 @@
+Senior Java Developer/ Team Leader,"Essence Development LLC is seeking for a highly
+motivated Senior Java Developer to design, develop and build high
+quality web applications. In this role, the developer will not only
+build next generation web applications but also enhance and maintain
+existing J2EE applications. The candidate will also take on an
+architect/team lead role and help provide direction to junior to
+mid-level developers.","- Develop J2EE applications;
+- Be responsible for data-modeling and database design;
+- Implement user web interface technologies;
+- Interact with business owners, enterprise and system architects,
+developers, project managers and QA.","- Excellent understanding of the full software lifecycle, including
+functional requirement gathering, design, develop and documenting
+requirements and technical specifications;
+- 3+ years of J2EE development experience; 
+- BS/MS in Computer Science, Engineering, or equivalent;
+- Strong Java skills and object oriented analysis and design
+experience;
+- Knowledge of JBoss, EJB, MySQL, JDBC, JSP/Servlet, JSF, Javascript;
+- Hard-working, motivated, innovative personality, able to work
+independently and within a team in a fast paced environment with
+willingness to take on a lead role;
+- Ability to meet tight deadlines and overcome challenges;
+- Capable of mentoring junior to mid level developers;
+- Good knowledge of English language.
+Desired Qualifications: 
+- AJAX, SOAP.","Interested candidates should email resumes to:job@.... In case of questions, please call: (+374 10) 51 43
+25.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is a software development
+company that works in partnership with be2 (www.be2.com)."

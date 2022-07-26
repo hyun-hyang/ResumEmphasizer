@@ -1,0 +1,37 @@
+Senior Developer,"The incumbent will develop innovative web based screen
+share software, elegant UI for a leading provider of real-time online
+interaction tools.","- Use and perhaps introduce cutting-edge modern web technologies and best
+practices: JavaScript, HTML and HTML5, CSS, JSON;
+- Work with QA;
+- Debug issues on the web based on user reports, feedbacks;
+- Play seriously with modern technology.","- Bachelor's or higher degree or equivalent;
+- 4 or more years of hands on experience in web design and
+development(alternatively, he/ she should prove the stuff by showing off
+notable projects he/she has worked on);
+- Expert knowledge of JavaScript, HTML, CSS, AJAX, and related web
+technologies;
+- Intermediate or higher level of knowledge on C#, ASP.NET;
+- Basic knowledge of ASP;
+- Knowledge of HTML5 and CSS3 is a plus;
+- Deep understanding of cross browser development issues (as well as
+their respective workarounds);
+- Work experience with Photoshop;
+- Strong analytical and problem-solving skills;
+- Basic SEO knowledge is always a plus;
+- A good programmer to tackle problems;
+- Good architectural skills, and ability to crank out quality;
+- Ability to think on his/ her feet, the company has a lot of customers
+to support, and sometimes the company needs to roll out a solution
+quick;
+- Ability to work in a team environment in close cooperation with other
+members of the companys team from US and Russia;
+- Knowledge and experience in structural design of rich, intuitive,
+modular and interactive graphical user interfaces;
+- Experience working with version control systems such as CVS or SVN;
+- Excellent communication and collaboration skills;
+- Fluency in written and spoken English.","To apply, please send your CVs to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCLab developed all its projects for Livelook Inc. in US.
+The Company is an innovator in visual sharing and real-time online
+interaction."

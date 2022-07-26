@@ -1,0 +1,15 @@
+Database Developer,"""OMD"" LLC is seeking qualified candidates for the
+position of Database Developer. The successful candidate will
+participate in all stages of product development, including analysis of
+client requirements, database design, optimization, data quality
+analysis, data access tools, etc.","Participate in the design and implementation of
+RDBMS-based products of the company.","- Strong knowledge of relational databases, including schema design,
+stored procedures and database tuning;
+- Knowledge of Oracle is a big plus;
+- Experience designing efficient RDBMS solutions for high-volume data;
+- Scripting experience, preferably in Perl.","Interested candidates should email resumes to:jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a newly established wholly owned subsidiary
+of OneMarketData LLC, New York based producer of enterprise market data
+solutions for financial institutions."

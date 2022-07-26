@@ -1,0 +1,34 @@
+Senior Java Software Engineer,"At Netsoft USA, the Senior Java Software Engineer will
+be part of a project team and help build applications from the ground up.
+The incumbent will work for a company where software development is the
+business, rather than where its merely considered a necessary expense
+that supports the business.","- Work in a technical team to craft and develop technical solutions that
+meet company's customers requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Code applications in Java;
+- Understand business and functional requirements, and translate them
+into amazing technical solutions;
+- Identify company paid training opportunities to expand your technical
+horizon;
+- Truly enjoy what he/ she does for a living.","- Insane coding skills;
+- Excellent knowledge of English language, both written and spoken;
+- At least Bachelors degree in Computer Science or a related field;
+- Over 5 years of professional experience in developing Java web-based
+applications;
+- Strong Java and Spring/ Spring MVC development experience;
+- Experience with JSP, AJAX, JQuery and Javascript;
+- Experience with XML, HTML, CSS and cross-browser compatibility;
+- Experience with relational database (MS SQL Server, Oracle, etc.);
+- Experience in data model and object design.","Please submit your resumes to:Yerevan.Careers@... . Please mention ""Java Software Engineer""
+in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Work Conditions:
+- Friendly and collegial work environment;
+- Flex time;
+- Fully paid health benefits;
+- Company paid training.","Netsoft USA a professional services firm in the NY and NJ
+area. Company specializes in creating custom business solutions for a
+diverse client base. For more information, please visit its website at:
+www.netsoft-usa.com."

@@ -1,0 +1,29 @@
+Senior Software Developer,"AltaCode LLC is seeking a highly qualified and
+motivated Senior Developer. This is a position requiring a motivated
+self-starter with deep knowledge of and practical experience in object
+oriented programming and web development. The ideal candidate will need
+strong skills in ASP.NET(C#) and possess a strong background in database,
+be a strong de-bugger, have solid hands on experience with T-SQL, SQL
+Profiling, performance tuning, fault finding, stored procedures etc.","- Develop Web Applications in accordance with given specifications;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Assist in development of accompanying technical documentation;
+- Provide technical support and assistance, if requested.","- Proficiency in object oriented programming and Design Patterns;
+- 5 years and more of work experience in .Net Framework- ASP.NET, C#;
+- 3 years and more of work experience in SQL database design,
+programming;
+- Experience in or any kind of exposure of VS 2008 and SQL 2005 and
+proficiency with T-SQL and XML is a plus;
+- Experience in XHTML, CSS, JavaScript, Ajax;
+- Experience in Microsoft SharePoint development;
+- Effective written and verbal communication skills;
+- Mastery of technical English language;
+- Good team-player skills;
+- Ability to accept criticism.","Qualified candidates shall send their CV/ Resume
+to: resume@... mentioning ""Senior Software Developer"" in the
+subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for US market of information technologies."

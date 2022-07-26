@@ -1,0 +1,35 @@
+Senior C++ Developer,"IUNetworks LLC is looking for a Senior C++ Software
+Developer for T5 Servers Division who will take part in the design and
+implementation of advanced software products for the IPTV Backend
+Recorder and Stream Servers.","Specific functions of the job include but are not
+limited to:
+- Design and develop advanced software products for the IPTV Backend
+Recorder and Stream Servers;
+- Contribute to the quality of coding and ensure conformance of source
+codes to the set standards;
+- Participate in all the cycles of software design and development.","- University degree in Computer Sciences or Telecommunications
+Engineering or related fields;
+- Over 5 years of experience in designing and developing software
+products;
+- Very good STL, C++ programming skills and good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux and S/ W development for *NIX platforms;
+- Knowledge of and exposure to the Boost and Boost ASIO is highly
+appreciated;
+- Ability to work with little supervision; good team player;
+- Previous experience in working on high-performance and time-critical
+projects is highly appreciated;
+- Very good knowledge of data structures and algorithms as well as their
+complexities;
+- Ability to read and write technical specifications in the English
+language;
+- Good communication skills: ability to effectively interact with
+cross-functional teams;
+- Fast learning skills.","To apply for this job, please send your CV to:
+job@... . Please mention the name of the position you are
+applying for in the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUNetworks LLC is an information technology company that
+provides integrated solutions of hardware supply and software
+development."

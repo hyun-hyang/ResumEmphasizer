@@ -1,0 +1,22 @@
+Database Administrator,"The Company is looking for a qualified Database
+Administrator for database development and administration.","This position will require but not be limited to
+the following:
+- Monitor and improve Database Performance;
+- Maintain Database Access and Security;
+- Maximise uptime and availability both for SQL Server and Oracle 10g
+databases;
+- Participate in software and database design;
+- Effectively communicate with management and team members;
+- Develop applications according to technical documentation.","- Higher technical education is a big plus; 
+- At least 3 years of work experience as a Database Developer/
+Administrator;
+- Strong knowledge of administration of MSSQL and TSQL development;
+- Knowledge of Oracle (10g);
+- Knowledge of Linux.","All qualified candidates are welcome to send
+their CVs along with motivation letter by the following e-mail address:arca@... . Please indicate the position title in the subject field of
+your message. Only shortlisted applicants will be invited for the
+interview. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Card CJSC is a national payment system and
+processing center for most of the Armenian banks."

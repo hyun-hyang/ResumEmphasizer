@@ -1,0 +1,20 @@
+Senior Android Developer,The incumbent will develop android applications.,"- Develop android applications; 
+- Investigate newest technologies;
+- Implement features;
+- Fix bugs.","- At least 4 years of experience in software development, primarily in
+Java;
+- Strong knowledge of Java;
+- Deep understanding of Android SDK;
+- Deep understanding of multi-threaded interface design;
+- Experience with embedded relational databases (SQLite);
+- Experience with Fragment-based Android application architectures;
+- Experience in software architecture/ design/ best development
+practices;
+- Experience in C/ C++ and Android NDK is a plus; 
+- Experience in JNI is a plus;
+- Fast learner;
+- Good team player, ability to accept criticism and willing to learn
+newest technologies.","If interested, please send a resume to:job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

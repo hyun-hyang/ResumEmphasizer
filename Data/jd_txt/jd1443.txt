@@ -1,0 +1,21 @@
+Database Developer,"Smart-Tech is looking for a highly motivated person to
+join company's software development process and to produce required
+product in conjunction with team members.","- Design and develop database products and modules according to technical
+documentation and using proven standards, patterns and best practices;
+- Participate in database product design;
+- Accurately plan development activities and follow established
+processes;
+- Communicate effectively with local management and external team
+members.","- 2+ years of experience in Database Development (MSSQL Server 2005 and
+above or Oracle 10g and above);
+- Excellent knowledge in SQL and/or T-SQL and/or PL/SQL development;
+- Strong knowledge of databases architecture;
+- Strong knowledge of databases maintenance processes, backup and
+recovery strategies, performance tuning and optimization;
+- Team player.","Please submit your detailed CV to: jobs@...
+indicating the position you are apllying for in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.smart.am."

@@ -1,0 +1,23 @@
+C++ Software Engineer,"The Software Engineer will take part in the source
+code development in accordance to the provided specifications.","- Work as a part of the software team;
+- Develop software systems according to provided
+design/implementation/specification and coding standards.","- BS/MS in CS/Math/Phys;
+- Strong C++/ STL programming skills;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Experience in widely accepted methodologies such as OOP, OOD, etc.;
+- Good communication skills;
+- Self-motivation and self-discipline;
+- Knowledge and experience in Physical Design Automation, or related;
+- User knowledge of Linux, MS Windows; 
+- Experience in software products development;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Knowledge of technical English language (both verbal and written);
+- It is preferred that the candidates fulfilled military obligation or
+educational waivers of military obligation.","To apply to this position, please send your
+resume to: hr@.... Tel: 273-013.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Celltroy is a software company specialized in
+software development for the Electronic Design Automation."

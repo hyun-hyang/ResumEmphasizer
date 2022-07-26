@@ -1,0 +1,39 @@
+Senior Back End Developer,"FlatClub is recruiting a Senior Back End Developer who
+is passionate about development and loves designing cutting edge
+technologies. The role requires excellent, professional communication
+skills, proactive problem solving and highly organized work habits. This
+is an opportunity to get hands-on experience and make an impact with a
+London and Yerevan based startup backed by VCs and angels.","As a developer on the company's team, here's a
+list of the things Senior Back End Developer can expect to work with:
+- C# and .NET 4.5;
+- ASP.NET MVC 4-5, RESTful WebAPI Services;
+- HTML, CSS, Responsive Layout, Razor MVC;
+- jQuery, Twitter bootstrap;
+- Multi-layered architecture;
+- Agile (Scrum) with extreme Programming (XP) practices.","- ASP.NET, C#;
+- MVC 4/5, Razor MVC;
+- EF, Linq, T-SQL;
+- JavaScript, jQuery, AJAX, JSON;
+- Experience with version control (preferably TFS);
+- OOP.
+Desired Qualifications:
+- Agile Development Practices;
+- Continuous Integration, Automated Testing;
+- Design Patterns, Dependency Injection;
+- NoSQL;
+- HTML5, CSS3, Twitter bootstrap;
+- XML, XSLT, XPath.","Those who would like to apply to this position,
+must have a portfolio showing proficiency in required skills. Interested
+candidates should send a CV, Intro Letter and Portfolio with an example
+work to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FlatClub is the marketplace for medium term stays - from
+a few weeks to a few months. FlatClub has more than 25,000 properties,
+75,000 members and partnerships with 50 top universities and companies.
+FlatClub is VC and Angel backed, is the winner of the 2012 TechCrunch
+Pitching Challenge, and finalists for the AMBA Venture Award. FlatClub
+was featured on the Financial Times, Forbes, Guardian, TheNextWeb, and
+others. FlatClub has a team of 17, based in TechHub, Google Campus, in
+London and other locations. FlatClub has offices in London and in
+Yerevan."

@@ -1,0 +1,36 @@
+Senior Software Architect,"Boomerang Software LLC is looking for Senior Software
+Architect to be engaged in different long term projects.","- Participate in all stages of the software development life-cycle;
+- Contribute to improvement of development processes;
+- Develop applications with C#, ASP.NET, ADO.NET and MS SQL;
+- Prepare the high level documentation about the project system; this
+involves discussions, emails, Q&A by phone and also in person with UK
+team members;
+- Communicate effectively with the external and local colleagues.","- BA or MA degree in Computer Science/ Business Analysis or related
+discipline; 
+- High level development/ technical management experience;
+- Excellent knowledge of the life cycle of software development,
+including Agile methodology;
+- At least 2 years of work experience as a Senior Software Architect and
+5 years of work experience in software development;
+- Excellent knowledge of ADO.NET, ASP.NET and C#;
+- Database knowledge with MS SQL;
+- Work experience with WCF/MVC/LINQ;
+- Excellent knowledge of design patterns;
+- Good knowledge of Classic ASP is preferred;
+- Good knowledge of JQuery is preferred; 
+- Excellent verbal and written English language knowledge;
+- Ability to interact professionally with a diverse group, including
+executives, managers, subject matter experts, developers and foreign
+partners;
+- Ability and willingness to travel to the UK;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please email your last updated
+and detailed Resume with a photo to: hr@... . Please indicate
+""Senior Software Architect"" in the subject line of your e-mail, otherwise
+your Resume will not be reviewed. Only shortlisted candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software LLC is a software company that
+develops software products for American and European markets and provides
+IT services for partners all over the world."

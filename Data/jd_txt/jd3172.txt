@@ -1,0 +1,51 @@
+Senior Software Architect,"Altacode is looking for a highly motivated,
+entrepreneurial Senior Software Architect to join the team. The incumbent
+will be a key part of the team who work with the Company's US clients.
+This position will require working at the US client's site for 6-12
+months with a possible extension.","- Contribute to and conduct technical reviews (Design Reviews, Code
+Reviews) within the organization on a regular basis;
+- Suggest a new design and technical solutions;
+- Review coding standards, design principles and source code analysis
+tools;
+- Analyze and troubleshoot existing processes and optimize code in order
+to improve performance whenever required;
+- Take the technical lead on a significant development project and deal
+with selected management activities (possibly coordinating the activities
+of several team members);
+- Ensure systems are designed and developed in compliance with corporate
+security and privacy policies;
+- Analyze and design core architecture components, solve major technical
+problems;
+- Work closely with the Project Manager, Team Leaders, the Technical
+Project Manager and all the architects;
+- Ensure that the designs are fully documented, and software is developed
+using best practices.","- B.A./ B.S. in Information Systems and/ or Software Engineering/
+Computer Science or a related field;
+- At least 10 years of related experience or an equivalent combination of
+training and experience;
+- At least 5 years of internet-scale application services development;
+- Strong foundation in Computer Science fundamentals such as data
+structures and algorithms;
+- Ability to develop new and innovative applications as well as debug and
+refactor the existing code;
+- Experience in working with scalable distributed systems in practice;
+- Some experience with large-scale datacenter application deployments
+including monitoring and capacity planning;
+- Demonstrated experience in architecting, developing and deploying
+internet-scale, distributed and mission critical services;
+- Ability to own and drive significant technical assignments;
+- Strong experience with C++, C#, VB.Net, Java, SQL Server;
+- Proficiency in SOA, ESB, EAI and OOA, OOD, Design Patterns and UML;
+- Ability to anticipate and effectively deal with problems and
+roadblocks;
+- Effective written and verbal communication skills in the English
+language;
+- Work experience in other European countries or the USA is desirable;
+- Desire to work in the USA with top financial companies for a few months
+at a time.","Qualified candidates are asked to send their
+resumes to: resume@... . Please, mention the position title
+""Senior Software Architect"" in the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for the US market of information technologies."

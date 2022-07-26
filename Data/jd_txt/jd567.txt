@@ -1,0 +1,35 @@
+IT Technical Analyst,"Lycos Armenia is seeking an IT Technical Analyst to be
+responsible for analysis and consultancy of the company's business
+departments to ensure highly available services which are connected to
+service providers and to assist the support of the IT processes during
+workshops.","- Record and implement the requirements of the company's business
+departments;
+- Technical evaluation and consultancy for the end users regarding new
+requirements and existing functions;
+- Quality assurance by final inspection and verification regarding
+bugfixes and new developments from internal and external software
+suppliers;
+- Support and close collaboration with our service providers concerning
+comprehensive tests;
+- Analysis of problems and drafting of solutions for occurring failure
+situations by SQL monitoring, enhanced operative reporting and its
+documentation;
+- Continuous process optimization.","- Experience with analysis and optimization of business processes
+regarding cellular phone network or at comparable services providers;
+- Ideally experience with the areas of provisioning, service providing
+and/or mobile number portability and with the principles of the IT
+Infrastructure Library (ITIL);
+- Excellent experience with analysis and design of complex IT
+sceneries;
+- Very good programming and scripting skills in Perl, C/C++ and Java;
+- Very good skills in using SQL tools, data bases (Oracle/Sybase),
+Office applications and UNIX;
+- Fluency in written and spoken English language;
+- High ability to work under pressure and high motivation;
+- Creativity and team spirit;
+- Good presentation and reporting capabilities;
+- Firm appearance when dealing with our internal customers.","If interested, please apply with your CVs to:info@... stating ""IT Technical Analyst"" in the subject line
+of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

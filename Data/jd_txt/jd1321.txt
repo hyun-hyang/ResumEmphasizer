@@ -1,0 +1,26 @@
+Senior Flash Software Developer,"SFL is looking for a full-time Senior Flash Developer
+to work for complex and long-term projects. The projects will deal with
+customers from Western Europe and Armenia.","- Be responsible for designing and developing highly interactive flash
+applications;
+- Produce and maintain clean, high quality code;
+- Participate in scoping and planning work.","- At least 4+ years experience hand-coding Flash;
+- Experience with Rich Internet Applications, Macromedia Flash,
+particularly technical and coding   aspects such as Object Oriented
+Action Script 2/3, Flash Remoting, Data Binding, Components, etc.;
+- Experience with Design Patterns, Advanced Object-Oriented Programming,
+MVC Architecture;
+- Demonstrated ability to accurately estimate and scope development
+work;
+- Ability to take initiative to research and learn emerging
+technologies;
+- Strong problem solving skills;
+- Strong attention to details;
+- Good communication skills in English;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@.... Please mention ""JobID 1040"" in the subject line of your
+email. No personal visits, deliveries or phone calls, please. Only short
+listed candidates will be notified for the interview. Thanks.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC is a software development company, Microsoft Gold
+certified partner. Main specialization is providing specific business
+solutions. More details can be found at: www.sflpro.com."

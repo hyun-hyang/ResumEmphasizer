@@ -1,0 +1,45 @@
+Flex/ ActionScript Web Application Developer,"The successful candidate will be working on the
+maintenance and enhancement of the existing Web applications written in
+Flex/ Actionscript. This will include bug fixing, new features
+development, customer technical support (level 2), creating deployment
+builds and deploying the application on separate environments, creating
+technical documentation.","- Design and develop various Web artifacts including and not limited to
+features, solutions, db schemas, application frameworks and GUIs;
+- Design and build reusable modules to be used throughout company web
+sites;
+- Maintain and enhance companys home grown systems;
+- Build Custom MXML UI Components;
+- Build Custom Object Classes in ActionScript 3.0;
+- Be responsible for data binding Custom Objects to Custom UI
+Components;
+- Send and retrieve data from Flex to ASP.NET Web Services via
+ActionScript 3.0;
+- Be responsible for bug fixing/ technical support (level 2) of the
+existing applications in production;
+- Design and implement Databases in SQL server 2008 and higher;
+- Design and implement Database Stored Procedures in SQL Server 2008 and
+higher.","- At least 3 years of professional experience in development of web
+applications using Flex/ ActionScript;
+- Knowledge of HTML, Javascript, SOAP, Dreawmweaver, Photoshop and
+PaintShop Pro;
+- Knowledge of Object Oriented concepts and their implementation in Flex
+3 via ActionScript 3.0;
+- Flex 3 CSS experience (standard styling) and design experience (flex
+styling);
+- Very good knowledge of English language; oral and written communication
+skills;
+- Ability to work in a fast-paced dynamic environment, flexible and adapt
+to changing requirements and customer requests;
+- Excellent team spirit and communication skills.
+Desired Skills:
+- Experience in development of .NET solutions using C#/ VB.net and
+programming with the .Net Framework 3.5 and higher;
+- Ability to design and implement .Net Web Services and WCF;
+- Experience in Flex 3 effects (animation);
+- Experience in Flash and AJAX.","Please send your professional CV to:armjobs@... specifying the job position name in the subject
+line. Please note that only shortlisted candidates will be contacted for
+an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CargoMatrix Armenia is a logistics software solutions
+provider with the head office based in New York, USA."

@@ -1,0 +1,24 @@
+Senior Android Developer,"The incumbent will become a part of the core team. He/
+she will be responsible for building and delivering new features on the
+company's roadmap. The ideal candidate is expected to be flexible,
+self-motivated, to make an excellent code and to take pride in creating a
+great user experience.","- Architect, implement and maintain the company's Android application;
+- Take ownership of the product;
+- Ensure the best possible performance, quality and responsiveness of the
+application;
+- Help and guide the product team when designing new features.","- At least 3 years of most recent android development experience;
+- At least 3 years of experience in using Java, Android SDK, design
+patterns and GIT;
+- Possession of at least 1 published application in a play store;
+- Experience in developing location-based services;
+- Ability to demonstrate capacity to develop and implement complex
+algorithms;
+- Excellent communication skills;
+- Experience with iOS development is a plus.","To apply for the position, please send your CV
+and cover letter to: hr@... . Please, mention the position
+you are applying for in the subject line of the email. The company thanks
+all applicants.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ggTaxi is an application-based platform of taxi service.
+To learn more please visit: www.ggtaxi.am."

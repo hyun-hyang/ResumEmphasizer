@@ -1,0 +1,20 @@
+PHP Developer,"Telegate LLC is looking for an energetic PHP/ MySQL
+developer to join the company's Web Development department.","- Participate in all the stages of the software development process;
+- Be able to setup all necessary environments;
+- Read, understand and modify the existing code;
+- Develop applications in accordance with given specifications;
+- Be flexible in learning new technologies.","- BS degree in a relevant field;
+- 2 years of work experience as a PHP/ MySQL developer;
+- Strong knowledge of PHP5 (Zend Framework), Java Script (JQuery, ExtJS,
+Prototype), HTML, CSS, XML;
+- Knowledge of MySQL5 (stored procedures, trigers, transactions);
+- Knowledge of LINUX (Debian, Ubuntu);
+- Experience in service oriented development;
+- Ability to work within a team;
+- Strong problem solving skills;
+- Good communication skills;
+- Fluency in English language.","All qualified and interested candidates should
+submit their CVs/ resumes to: ashot.danielyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

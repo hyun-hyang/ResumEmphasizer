@@ -1,0 +1,17 @@
+Quality Assurance Engineer,Telegate LLC is looking for a QA Engineer.,"- Perform manual and automated testing;
+- Perform functional, performance, load, compatibility and usability
+tests;
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the quality
+of software releases.","- BS in Computer Science or a related degree;
+- 2 years of experience;
+- Fluent knowledge of written and spoken English language;
+- Knowledge of German is a big plus;
+- Knowledge of automated Web GUI testing methods and tools;
+- Excellent communication skills;
+- Ability to work on multiple tasks and to prioritize personal workload.","To apply please send your CV to:ashot.danielyan@... . Please, clearly mention in the subject
+line for what position you are applying. Only shortlisted candidates will
+be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

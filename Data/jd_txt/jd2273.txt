@@ -1,0 +1,43 @@
+IT Specialist,"The IT Specialist will be responsible for the
+day-to-day operational activities of help-desk support, network
+administration, and systems of three Aldo stores and HO.","- Support end-users with IT-related problems in a responsive and service
+oriented manner;
+- Responsible for setup, management, and maintenance of IT-related
+equipment;
+- Monitor backup jobs and ensure high level of completion success rate;
+- Manage time and projects effectively;
+- Help put processes in place to maintain a stable network environment;
+- Train staff with IT related equipment;
+- Assist the IT director with project work to grow the technology
+infrastructure of the Organization;
+- Assist with the troubleshooting, installation, and implementation of
+systems;
+- Ensure data integrity with regard to company's fixed asset
+inventories;
+- Provide input and recommendations to the organization surrounding
+hardware and software technologies and how these technologies can assist
+the business being especially proactive with new technologies;
+- Develop and monitor performance levels of software and hardware and
+evaluate, recommend, and propose alternative methods of information
+processing;
+- Develop and maintain information architectures (data, application,
+network) ensuring the system is on-line daily.","- Knowledge of advanced concepts and basic operating principles of data
+communications and information systems hardware and software;
+- Ability to install, configure, troubleshoot and support Windows clients
+and servers;
+- Intermediate-Advanced knowledge of the Microsoft Office Suite;
+- High level of analytical thinking to solve problems with an
+understanding of technology as well as an ability to ask the right
+questions and apply solutions to business problems;
+- Excellent knowledge of Windows and Linux based Server Administration;
+- Excellent knowledge of Microsoft Exchange 2007/ 2010 Administration;
+- Knowledge of Dynamic Host Configuration Protocol (DHCP) and Domain Name
+System (DNS);
+- Knowledge of Routing principals;
+- Knowledge of 1C and Armenian Software Administration is a plus;
+- Good knowledge of English language.","Interested candidates are encouraged to submit a
+CV to: hr.franchise@... with a note of ""IT Specialist"" in the
+subject line or call 52 57 22 for inquiries.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

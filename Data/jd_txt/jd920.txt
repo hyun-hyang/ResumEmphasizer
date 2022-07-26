@@ -1,0 +1,53 @@
+Senior Software Engineer,"In this role the incumbent will help develop, provide
+excellent solutions for various projects, using the latest technologies
+and according to the highest development standards based on best
+practices and design patterns.","- Be responsible for detailed review of product management
+specifications and definition of technical requirements from business
+requirements;
+- Deliver high quality code using best-practice software development
+methodologies;
+- Define and maintain system design documentation writing and maintain
+system design documents;
+- Design solution and implementation of the critical parts;
+- Be responsible for documentation of architecture, data flow and
+management processes for all projects;
+- Be responsible for unit testing of functional components;
+- Be responsible for detailed review of product management
+specifications;
+- Support QA in preparation of qualitative and complete testing;
+- Involve operations team with architectural issues and monitoring
+requirements;
+- Be responsible for project management and implementation planning;
+- Design solution and implementation of the critical parts.
+The company's Senior Developers take ownership for the long term
+viability of the company's product, with specific responsibility to:
+- Design and implement scalable and redundant solutions;
+- Support and mentor all team members and mentor junior developers;
+- Effectively communicate with product and project management teams;
+- Be responsible for document architecture, data flow and management
+processes for all projects;
+- Support QA in preparation of qualitative and complete testing;
+- Involve operations team with architectural issues and monitoring
+requirements;
+- Work with QA and operations to ensure smooth deployments.","- University degree in the field of computer science with a minimum of
+4+ years direct experience in commercial development;
+- Experience of creating scalable and redundant J2EE applications;
+- Knowledge of and experience working with Java, J2EE application
+server, software analysis, development/integration and implementation in
+J2EE;
+- Knowledge of and experience working with MySQL databases, Java, J2EE
+application server, SQL development environments, software analysis,
+development/integration and implementation in J2EE, understanding of
+database principles and experience with SQL;
+- Extensive documentation and design of technical solutions design
+experience;
+- Strong business analysis and project management skills;
+- Excellent analytical and communication skills;
+- Excellent knowledge of the English language.","Interested candidates should email resumes to:job@.... In case of questions, please call: (+374 10) 51 43
+07. Please note that only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is an IT company that works in
+partnership with be2 presented in 27 countries on 5 continents. For
+information about the company, please visit http://corporate.be2.com/,
+and for more information about the product, look: www.be2.com."

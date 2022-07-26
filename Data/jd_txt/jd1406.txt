@@ -1,0 +1,25 @@
+Web Database Developers/ Programmers,"Irtek CJSC is looking for respectful, professional and
+motivated Programmers. Major projects include development of database,
+program tools for managing the Database, development of web-site
+application for making the information available on-line, development of
+an application for off-line search and retrieval of information on a
+local computer.","- Develop Database and Web application; following the given design
+standards and software architecture;
+- Assure full conformance of source codes to provided Coding standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with management and team members effectively.","- Advanced working knowledge in ASP, MsSQL 2005 or 2008 and other
+Database systems design, programming and administration;
+- Experience with technologies such as XML, CSS and related tools;
+- Strong problem-solving skills and ability to work under pressure;
+- Hard-working, motivated, innovative personality and ability to work
+independently and within a team;
+- Experience in designing and delivering complex web based database
+applications.","Interested candidates should fulfill the
+attached CV form and send it to: HR@... with a note of ""Web
+Programmer"" in the subject line. Only shortlisted candidates will be
+invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Irtek CJSC is the provider of database Irtek on Armenian
+legislation. The company was established in 1996."

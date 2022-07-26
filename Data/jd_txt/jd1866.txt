@@ -1,0 +1,27 @@
+C++ Developer,"The C++ Developer will participate in the development
+of a multiplatform Client application.","- Design and develop client-facing and internal multiplatform Client GUI
+C++ applications;
+- Implement and support complex and reliable applications in a multi-tier
+environment;
+- Adhere to consistent software development process and develop
+re-usable, efficient, scalable, maintainable and reliable code;
+- Utilize unit and component testing for higher quality code;
+- Proactively communicate to other teams, including Business Analysts to
+understand the requirements and translate them into technical
+specifications; 
+- Communicate closely with Team Lead on task definition and planning.","- University Degree in Computer Sciences or related field;
+- At least 2 years of experience with production software design and
+development;
+- Advanced knowledge of and extensive hands-on experience in the
+following: C++ with templates and STL, QT application development,
+Multithreading and Low-level socket programming (TCP/ IP) experience;
+- Linux C++ application development experience would be an asset;
+- Knowledge of Boost libraries is an asset;
+- Good problem solving and debugging skills; 
+- Good written and oral communication skills; 
+- Interest in the financial industry or knowledge of financial trading
+back office processes would be an asset.","Please send your CV through:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=227
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

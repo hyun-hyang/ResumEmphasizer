@@ -1,0 +1,28 @@
+IT System Administrator,"Intracom Armenia LLC is looking for an IT System
+Administrator to manage and administer companys IT system providing
+first line support to the staff.","- Install, configure and maintain server system hardware and software;
+- Ensure stability, security and reliable operation of the systems;
+- Monitor system performance;
+- Perform information backup as per recommended procedure;
+- Control backup validity, restore data;
+- Control application of information safety methodology;
+- Control information systems security against not authorized actions;
+- Undertake upgrades and updates to the system;
+- Procure and install approved hardware, and maintain inventory records.","- University degree in Computer Sciences, Telecommunications Engineering
+or related fields;
+- Knowledge of TCP/ IP networks, routing and associated protocols; 
+- Knowledge on networks design, WAN and LAN networks topologies and
+architectures; 
+- Knowledge of Windows OS;
+- High sense of responsibility; 
+- Ability to work as a team member and independently;
+- Ability to work flexible hours as needed and work well under pressure
+and meet deadlines.","Please forward CVs and Cover Letters to:career@..., by fax: 259-109 or mail to: Intracom Armenia LLC, 2
+Babayan St., Yerevan.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Intracom Armenia is a subsidiary of Intracom Telecom, a
+telecommunication solutions provider, headquartered in Athens, Greece.
+Intracom Armenia was established in May 2005, though Intracom has had a
+long-standing presence in Armenia through its representative office in
+Yerevan since 1999."

@@ -1,0 +1,24 @@
+Senior .NET Developer,"As a Senior .NET Developer, the incumbent will help
+build the company's next-generation web applications where millions of
+users connect on a daily basis to learn, contribute and interact. The
+incumbent will be responsible for developing and supporting business
+solutions using the .NET Framework for the company's clients and work in
+a varied, developer-friendly (agile) environment.","- Analyze, design, and develop systems and applications, working with the
+full software development lifecycle of projects;
+- Contribute to sprint planning and design, stand ups, reviews and
+retrospectives;
+- Review and provide input on requirements for multiple products.","- At least 4 years of experience developing applications in C#, ASP .NET
+and SQL Server;
+- Knowledge in coding of T-SQL statements, stored procedures, triggers
+and functions; 
+- Silverlight experience is preferred;
+- Knowledge of jQuery and Javascript is a big plus;
+- Demonstrated ability to evaluate user needs or specifications and
+translate them in a logical and practical set of software components;
+- Ability to own his/ her assignments, formulate own questions and work
+with team members to get the answers he/ she needs in order to complete
+assignments;
+- Excellent analytical and problem solving skills.","Interested candidates are asked to send a CV to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

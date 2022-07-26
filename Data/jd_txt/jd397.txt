@@ -1,0 +1,32 @@
+Senior Quality Assurance Engineer,"This challenging position will provide opportunities
+in SW testing/QA with a particular emphasis on semiconductor technology
+characterization applied to Design for Manufacturability. This position
+includes SW testing and/or quality assurance. Engineers will gain
+responsibility with experience through management of project teams.","- Design and develop test systems; 
+- Troubleshoot and detect bugs in software programs.","- BS/MS/PhD degree preferably in CS/EE or other appropriate engineering
+area;
+- 5 years + / 2 years + /1 year + of experience in software testing for
+EDA;
+- Experience with testing methodologies, and thorough knowledge of
+software capabilities;
+- Experience with and knowledge of tools including EDA tools such as
+place and route, verification and manufacturing tools;
+- Understanding of semiconductor device physics and process integration
+(graduate level understanding is a plus);
+- Understanding of DC and AC circuit theory;
+- Familiarity with semiconductor CAD tools, including physical layout
+and circuit simulation;
+- Knowledge of GDSII;
+- Knowledge of UNIX/Linux;
+- Script writing (Perl, tcl/tk,);
+- Knowledge of C/C++ ;
+- Knowledge of purify and code coverage tools (optional);
+- Good written and verbal English;
+- Ability to work under pressure.","Interested candidates should e-mail their
+detailed resumes (no hand delivery please) to Anahit Krishchyanakrishch@... 
+The e-mail subject line should read Senior Tester for CATS tools.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Company is focused on technology business serving
+the international semiconductor industry. 
+Detailed information about Synopsys you can find on www.Synopsys.com"

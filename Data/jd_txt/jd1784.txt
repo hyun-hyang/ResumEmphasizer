@@ -1,0 +1,61 @@
+IT Systems Administrator,"The IT Systems administrator will be responsible for
+management, monitoring and maintainance of production systems, plans,
+implements, maintain and update systems and resources. The incumbent will
+also be responsible for all aspects of the distributed systems
+environment, with a focus on Red Hat Linux, Windows, VMware, Netbackup,
+Windows essential services, such as active directory, DNS, DHCP and
+hardware. The responsibilities of this position also include project
+participation, project implementation and day-to-day administration.","- Monitor, troubleshoot and escalate production issues;
+- Apply security and application patches to Windows and Linux platforms;
+- Assist with the preparation and maintenance of system design
+documentation; 
+- Responsible for VPN client support;
+- Manage and control all aspects of the Windows 2008 domain controller
+implementing domain and local policies, GPOs, software deployment,
+managing of users and resources;
+- Ensure timely delivery of projects and applications;
+- Maintain and monitor the System;
+- Responsible for management of systems' infrastructure including fine
+tuning, performance, capacity planning, reorganization and quality
+assurance;
+- Support users both from a hardware and software perspective, including
+troubleshooting, problem isolating and solution implementing;
+- Create job report and update documents;
+- Provide high quality customer service to internal and external
+customers;
+- Responsible for workstations support;
+- Performs and/ or direct installations;
+- Upgrade to operating systems and layered software packages; 
+- Monitor and tune the system to achieve optimum level of performance;
+- Ensure data/ media recoverability by implementing a schedule of system
+backups and database archive operations;
+- Conduct routine hardware and software audits of operating system's
+workstations and servers to ensure the compliance with established
+standards, policies, configuration guidelines and procedures;
+- Develop and maintain a database/ library of all supporting
+documentation.","- Bachelors degree or equivalent experience in Technical field;
+- Work experience in high volume Information Technology industry;
+- Familiarity with Cisco equipments and remote connectivity;
+- Knowledge of  TCP/ IP networking, cabling, LAN/ WAN protocols, routing
+protocols and network design;
+- Excellent organizational, communication, analytical and interpersonal
+skills;
+- Ability to deliver clear and concise system documentation and manage
+inventory;
+- Ability to carry a 24/ 7 on-call pager rotating with other team
+members;
+- Proficiency in the operation and maintenance of computers and servers,
+including Red Hat Linux, Windows Operation Systems (XP, Win 7 and 
+Win2003/ 2008), IIS, DHCP, DNS, MS Office Suite, Active Directory, GPO,
+Windows 2008 Certificate server, Microsoft Communicator, Microsoft SCCM, 
+Microsoft Windows cluster 2008, Exchange Server 2010, email archiving
+(EV), LDAP, Knowledge of HP server hardware, iLO and HPSim and server
+firmware/ hardware upgrades;
+- Proficiency in VMWare ESX 4.x (vSphere) and VCENTER;
+- Familiarity with RHEL 5.x;
+- Ability to troubleshoot, find/ research solution and bring tier 2
+issues to a satisfactory resolution;
+- Ability to prioritize and meet deadlines.","Please submit resume to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=240
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit www.questrade.com."

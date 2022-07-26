@@ -1,0 +1,38 @@
+Java Developer,"The Virtual Solution Global Services LLC is seeking
+for a motivated Java Developer for Web based applications development.","- Participate in application design; 
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop applications according to technical documentation; 
+- Develop test cases;
+- Install and configure necessary environment for the developed
+applications. Provide support in web servers, databases and applications
+maintenance.","- At least 1 year work experience as Software Developer;
+- Excellent knowledge in Java and OOP;
+- Excellent knowledge in Web development;
+- Web Frameworks: Struts, JSP/Servlet, Java Server Faces;
+- Persistence Layer: OJB, IBATIS, Hibernate (optional);
+- Java Technologies: Spring Framework;
+- Databases: Base knowledge with MySQL and Oracle databases;
+- Excellent knowledge in SQL language (writing queries, creating
+databases, dumping, importing without a graphical user interface);
+- Database modeling skills;
+- Good knowledge in (X)HTML, CSS, JavaScript, XML;
+- Optional Technologies: Velocity, Jasper Reports, Facelets;
+- Build Environment: Ant, Maven 1, Tomcat 5, Apache2 Webserver;
+- OS: Linux (You can choose your distro), the company uses Ubuntu;
+- OS: Windows (is accepted but Linux is more required for the company);
+- High skills with Linux Operating System: System Administration,
+Writing Shell scripts etc.;
+- Ability to work on project with a development team;
+- Ability to lead a small developer team would be a plus; 
+- Problem solving skills;
+- Good communication skills;
+- Good English language skills.","Interested candidates should email their
+resumes to: v.bghdoyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Virtual Solution Global Services LLC is a branch of
+the virtual solution Consulting GmbH, a German company. For additional
+information about the company, please visit website:
+www.virual-solution.de."

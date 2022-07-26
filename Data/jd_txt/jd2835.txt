@@ -1,0 +1,16 @@
+Senior iOS Developer,The incumbent will be developing iOS applications.,"- Develop iOS applications for iPhone and iPad;
+- Develop custom UI/ UX components;
+- Investigate newest technologies;
+- Implement features;
+- Fix bugs.","- From 3 to 7 years of experience in development;
+- Good knowledge of Objective C;
+- Experience in C/ C++ is a plus;
+- Experience in OpenGL is a plus;
+- Fast learner;
+- Good team player.","Interested candidates are asked to e-mail their
+resumes to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom is a new generation telecommunications
+company which develops own unified communication technology and own
+product. For more info, please visit: www.zangi.com."

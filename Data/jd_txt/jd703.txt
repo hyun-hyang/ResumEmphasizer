@@ -1,0 +1,49 @@
+Senior Database Administrator/ Software Architect,"Global Soft LLC seeks candidates with a proven history
+of database administration to fill the long-term position of Senior
+Database Administrator. The responsibilities of this position are
+focused on functional specification definition, design, implementation,
+and maintenance of the logical and physical database and data dictionary
+in compliance with application specifications, company policies and
+company standards.","Specific tasks and key responsibilities include
+but are not limited to:
+- Design and implement RDBMS schemas and data access components;
+- Design and fine-tune the physical data model for an application;
+- Create the physical databases for an application;
+- Design and code software components for web applications;
+- Troubleshoot and fine-tune databases performance in production to
+ensure maximum performance;
+- Develop integration, replication and backup/ restoration strategies;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information.","- Degree in Computer Science, Information Technology or related
+discipline; Bachelor's degree in the relevant field (Master's degree is
+preferred);
+- Experience in a dynamic workplace with solid database administration
+practice;
+- Experience in all aspects of the database administration process,
+including design, creation, and troubleshooting of databases;
+- At least 3-5 years of successful experience in SQL design and
+administration;
+- Expert-level knowledge in administering and performance tuning of one
+or more open source RDBMSs (MySQL,PostgreSQL);
+- Work experience with MySQL versions 4.0.x,4.1.x and 5.x with usage of
+transactional InnoDB tables;
+- Work experience with web technologies and web-based dynamic
+application development, especially PHP, JavaScript (DOM), XML , XUL is
+a plus;
+- Experience with DBMS design and programming within web applications;
+- Ability to work both as individual contributor and as part of a team;
+- In-depth knowledge of fundamental data modeling rules and techniques,
+database schema, security processes, performance and tuning;
+- Ability to learn quickly and to work under pressure;
+- Strong oral and written communication skills;
+- Strong software design and analytical skills;
+- Ability to design and implement new software components and
+independently devise solutions.","If interested, please send your resume with a
+cover letter listing your qualifications, software development related
+experience and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) to: global_soft@.... Please
+put ""Senior Database Administrator/ Software Architect"" in the subject
+line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,GlobalSoft LLC is a software development company.

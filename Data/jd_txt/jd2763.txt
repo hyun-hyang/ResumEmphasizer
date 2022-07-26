@@ -1,0 +1,19 @@
+Software Developer,"SAT Solutions LLC is looking for a Software Developer
+to be engaged in different long term projects.",NA,"- At least 2 years of work experience in software development area;
+- Higher education in Computing Science or any related technical field;
+- Understanding of OOP/ OOD;
+- Work experience in .Net Framework (C#, VB.NET); 
+- Knowledge of Infobasic (jBC) Programming;
+- Knowledge or experience of various middleware/ transport protocols (MQ,
+sFTP);
+- Java/ J2EE experience is preferable;
+- Knowledge or experience in JBASE, jBOSS is preferable;
+- Understanding of banking technologies is preferable;
+- Fluent knowledge of Armenian language, good knowledge of Russian and
+English languages.","Interested candidates are asked to send a resume
+(CV) in English language directly to: info@... . Please indicate
+""Software Developer"" in the subject line of the e-mail. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

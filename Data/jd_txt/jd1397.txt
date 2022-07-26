@@ -1,0 +1,27 @@
+"Software Engineer, Technology Development Department","The Software Engineer will take part in design and
+implementation of advanced software products for modeling of physical
+processes used for IC manufacturing.",NA,"- BS/MS in CS/ Physics/ Math or a related field;
+- 3+ experience in designing and developing software products;
+- Strong C++/ STL programming skills;
+- Knowledge of TCL/TK is desired;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Familiarity with Optimization Problems, Numerical Methods, Modeling,
+Computational Geometry, Graph Theory is a plus;
+- Ability to write/ understand comprehensive functional/ implementation
+specifications;
+- Previous experience in designing efficient algorithms for IC layout
+processing is a plus;
+- Excellent communication skills; ability to work in a team;
+- Good knowledge of English (both verbal and written) language;
+- Fast learning skills;
+- Formal training or test certification is a plus;
+- Other achievements  participation/ winning in math and programming
+Olympiads/ competitions is a big plus;
+- It is preferred that the candidates fulfilled military obligation or
+educational waivers of military obligation.","Please submit your CV through:http://amyhrs.mentor.com
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

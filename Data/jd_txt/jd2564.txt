@@ -1,0 +1,15 @@
+Server Side Software Engineer,"The incumbent will be responsible for server side
+software engineering for a mobile application platform.",NA,"- Extensive development experience;
+- Over 3 years of C++ programming;
+- Significant SQL design and development skills;
+- Proficiency with data structures and algorithms;
+- Client-server and distributed systems experience;
+- Mastery of object-oriented programming;
+- Experience using design patterns;
+- Knowledge of Linux/ Unix including threading and sockets;
+- Experience with STL and BOOST is a plus;
+- Bachelors degree in Computer Science or equivalent.","Interested candidates are asked to submit their
+CVs to: join@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

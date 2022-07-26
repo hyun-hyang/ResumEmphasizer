@@ -1,0 +1,22 @@
+.NET Senior Developer,"Firmplace Corporation is looking for a Senior Developer
+(.NET/ C#/ ASP.NET/ Silverlight/ MS SQL Server).","- Take part in gathering requirements and work with international teams;
+- Drive technical design and implementation with a hands-on approach;
+- Participate in technical design reviews, functional specification
+reviews, contribute to development project estimates, scheduling, test
+plans, and code reviews;
+- Proactively mentor fellow developers in areas of expertise as well as
+members of other departments; 
+- Examine software issues and recommend solutions.","- 4-5 years fo experience in C#, .NET Framework, including 4.0;
+- Experience in web applications maintenance and deployment; 
+- Excellent communication skills;
+- Excellent knowledge of English language (writing and speaking);
+- Ability to express thoughts clearly; 
+- Strong knowledge of design patters, multi-tier projects and .NET, C#,
+Ajax, ASP.NET, MVC, WCF, WCF RIA Services, WPF and Silverlight
+technologies; 
+- Expertise in Visual Studio 2010, Expression Blend 4, Team Foundation
+Server 2010 and Agile software development; 
+- Ability to adapt to changing business requirements.","Please send your CVs to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

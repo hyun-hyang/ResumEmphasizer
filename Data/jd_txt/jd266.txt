@@ -1,0 +1,24 @@
+.NET Solution Developer/ Project Manager,"Altysoft is looking for an initiative driven and
+communicative .NET Solution Developer/ Project Manager.","- Understand, define and analyse the needs and funtionalities of the
+software to be developped;
+- Dispatch the programming work to the available ressources;
+- Manage the project and the team;
+- Keep up with deadlines and quality;
+- Activily report to the IT manager.","- Programming and practical experience of large webbased applications;
+- Fluent in English language and good communication skills;
+- Good knowledge of Visual studio, .NET framework and SQL database;
+- At least 3 years of experience in developing large wabbased
+applications and project management;
+- Clear understanding software project management.
+Preferred Qualifications: 
+- Having passed the Microsoft Certified Solution Developer (MCSD)
+exams;
+- Experience and understanding of dotnetnuke;
+- A university degree in software development.","Please apply by sending your CV, references and
+examples of former works to c.convent@...
+We offer a permanent position, challenging work in a dynamic team and a
+perspective to grow in skill and responsibility levels.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altysoft Ltd. is a software development company which
+has offices in Tbilisi, Georgia."

@@ -1,0 +1,29 @@
+Software Test Engineer,"Avata Soft is seeking for Software Test Engineer to
+join the team in developing enterprise level software solutions. Company
+is looking for energetic people who are ready for new challenges and have
+a good understanding of Agile software development methodologies,
+practices and frameworks.","- Perform functional, regression, usability testing on web based and
+desktop application;
+- Responsible for test case Creation/ Execution and maintenance;
+- Responsible for issue identification and reporting;
+- Ensure the quality of software releases and patch builds through manual
+and automated testing;
+- Research and track open issues related to projects; 
+- Handle other tasks as assigned.","- At least one year of experience in a Software Quality Assurance;
+- Experience writing SQL queries;
+- Experience with testing web applications;
+- Experience working in a fast-paced environment;
+- Familiarity with test automation tools such as Visual Studio 2012 and
+Selenium is highly desired;
+- Familiarity with Microsoft Team Foundation Server ALM project
+management tool is highly desired;
+- Strong analytical skills;
+- Knowledge of Scrum methodology is preferred;
+- Excellent verbal and written communication skills;
+- Good English writing and reading skills;
+- Experience with Scrum framework is highly desirable.","Please submit your CV in English language to:cv@..., indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Avata Soft is a software development company and a
+service provider to international holding."

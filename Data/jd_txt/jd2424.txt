@@ -1,0 +1,47 @@
+Software Engineer,"The Software Engineer will be responsible for
+developing robust VAS applications and distributed applications as an
+interface to developed VAS applications with optimal performance. He/ she
+will be also responsible for the development of applications to integrate
+existing vendor systems with each other and interfaces for the 3rd
+parties to internal system.","- Develop and test VAS applications, backend systems;
+- Test new products and modules interfaces and functionality; 
+- Provide effort estimates;
+- Assess risk and impact on the existing system that may arise due to any
+requirements or functional changes;
+- Design database architecture based on project requirements;
+- Develop store procedures and queries;
+- Test and deploy applications;
+- Implement common frameworks;
+- Modify all existing services based on new business or technical
+requirements or changes;
+- Provide second level support to the developed VAS applications;
+- Ensure the documentation of developed applications;
+- Review existing code to meet the company coding standards requirements
+and to improve accuracy;
+- Optimize the code in terms of application performance, consistency and
+availability;
+- Provide regular monthly reports on activities done.","- Bachelors degree in Engineering or Information Technology;
+- 1 year of work experience as a Software Developer with .NET
+technologies;
+- Knowledge of Object-oriented programming, OOD, Design Patterns, SOA;
+- Full competence and fluency with C# and .NET framework;
+- Knowledge of Web Services (WCF, REST, SOAP, XML-RPC);
+- Experience with IIS web server, preferable IIS 7.0;
+- Knowledge of Windows services, multithreading, network programming
+(sockets/ protocols);
+- Very good understanding of ADO.NET Technology and experience with
+T-SQL, PL/ SQL;
+- Experience in ASP.NET and/ or PHP is a plus;
+- VAS applications and services design and implementation skills;
+- Database architecture design skills;
+- Knowledge of MSSQL, MySQL and Oracle;
+- Open source systems/ packages and application analysis, configuration,
+compilation, installation, modification and maintenance skills;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Good knowledge of Armenian, English and Russian languages.","Interested candidates are asked to submit a CV
+to: Software-Engineer@... . Only shortlisted candidates will be
+invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

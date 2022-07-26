@@ -1,0 +1,55 @@
+Senior Ad Developer,"To build up our European Sales Support Team in
+Armenia, we are currently looking to recruit an employee for the
+position Senior Ad Developer. In this role you will lead and manage an
+Ad Development Team of 3 employees. The Ad Development Team is
+responsible for customising our DoubleClick DART Enterprise system and
+peripheral tools, as used by the Customer Care team and sales staff.
+Typical customisations could be to develop templates for new ad formats,
+test new ad formats or integrate with other systems like user databases,
+reporting tools, CRM systems, SAP.","- Learn and understand the DoubleClick DART Enterprise technology and
+functionality, understand the surrounding systems, and system
+architecture as it maps to our business needs;
+- Become an expert in customising and integrating the DoubleClick
+AdServer software;
+- Prepare technical recommendations and define technical specifications
+taking business requirements into account for development projects set
+by Customer Care team;
+- Prepare documentation;
+- You will be responsible for completion of development projects within
+agreed time-frames. Perform work planning, development, and second level
+support for ad management.","- University degree in computer science or a similar education;
+- More than 5 years experience of system development;
+- Genuine knowledge of enterprise systems is a requirement and previous
+experience with ad systems is desirable;
+- Experience in Unix, Java, PHP, Perl, C, XML/XSL, advanced SQL
+knowledge and Web server technology; 
+- Experience of administering Oracle, MS SQL Server and/or Apache would
+be advantageous;
+- Basic understanding of operation and administration of ad tech and
+enterprise systems;
+- Work experience as a technical project manager is beneficial;
+- Very good knowledge of written and spoken English;
+- Pro-active, calm, thorough personality, who has fun solving technical
+problems;
+- Analytically strong, excellent organisational skills, ability to
+handle multiple priorities; 
+- Good communication abilities in an international environment.","Please send us your CV in English as well as an
+Application letter answering below 2 questions to info@....
+Question 1: Describe the stages of a small development project
+preferably by using a project you undertook as an example! 
+Question 2:  Explain what is most important in your opinion to make a
+project successful and define in detail what are the measurement
+criteria for success.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is one of the leading European Internet
+destinations, operating a pan-European network of websites in nine
+languages. Covering Germany, France, Great Britain, Sweden, Denmark,
+Italy, the Netherlands, Spain and Russia, Lycos Europe is the no. 2
+portal in terms of reach in Europe. With more than 25 million regular
+unique users, Lycos generates more than 2.5 billion page views each
+month.
+As a general interest portal for a wide audience, the company offers a
+full range of services such as communication tools (Email, Mobile
+services, Messenger), communities (Chat, Dating), homepage building/web
+hosting, shopping, search and selective content channels."

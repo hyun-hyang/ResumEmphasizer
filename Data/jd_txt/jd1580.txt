@@ -1,0 +1,35 @@
+Junior Programmer Analyst,"The Junior Programmer Analyst's role is to define,
+develop, test, analyse, and maintain new software applications in support
+of the achievement of business requirements. This includes writing,
+coding, testing, and analysing software programs and applications. The
+specialist will also research, design, document, and modify software
+specifications throughout the production life cycle.","- Perform software testing, implement software problem solutions;
+- Prepare technical tasks/ issues intended for innovations;
+- Once innovations adopted, present them to end users and conduct users
+training if necessary;
+- Monitor system operation;
+- Consult users about program utilization.","- University degree in Computer Science or a related field;
+- Basic knowledge of programming;
+- Experience in working with web applications;
+- Experience with software testing, technical task making;
+- Experience with scripting languages;
+- Knowledge of MySQL, MS SQL 2005,2008;
+- Knowledge of PHP, XML;
+- Knowledge of Linux Operating System;
+- Fluency in Armenian and Russian languages; knowledge of technical
+English;
+- Excellent communication skills;
+- Ability to train and support users;
+- Excellent analytical skills, flexibility;
+- Sense of responsibility;
+- Educability;
+- Experience in banking sphere especially in automation department is
+desirable.","To apply, please send your resume to: hr@...
+, please mention the position title you are applying for in the subject
+line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia).
+For more information, please visit the website: www.rgs.am."

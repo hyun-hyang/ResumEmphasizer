@@ -1,0 +1,20 @@
+Coding Algorithm Analyst/ Programmer,"AltaCode Ltd. is looking for highly qualified and
+motivated Analyst Programmer.","- Review and analyze existing codes;
+- Define underlying functional algorithms and extract business logic;
+- Accompany existing codes with detailed comments;
+- Assist in the development of accompanying Technical Documentation;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance, if requested.","- Master in Mathematics and/or Computer Science;
+- Advanced technical analyses and modeling skills;
+- Good knowledge of algorithmic languages;
+- Familiarity with object oriented programming;
+- Experience or any kind of exposure to Algol, Cobol, PostScript is
+highly desirable;
+- Good knowledge of technical English language;
+- Communication skills.","Please email your detailed CV (in English) to:resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AltaCode Ltd., www.altacode.com, is a software
+development company providing services to US companies."

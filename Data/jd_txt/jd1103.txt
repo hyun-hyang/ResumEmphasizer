@@ -1,0 +1,17 @@
+Java Front-end Developer,"The Virtual Solution Global Services LLC is seeking
+for a Web Developer for Web based application front-ends.",NA,"- Knowledge in Java, JSP/Servlet;
+- Excellent knowledge in Web design and development of presentation
+layer;
+- Excellent knowledge in (X)HTML, CSS, JavaScript, XML, Ajax;
+- Build Environment: Ant, Maven;
+- Good communication skills;
+- Good English language skills.","Interested candidates should email their
+resumes to: v.bghdoyan@.... Please send resumes only if
+you correspond to the requirements.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Virtual Solution Global Services LLC is a branch of
+the Virtual Solution Consulting GmbH, the German company with expertise
+in Web applications development based on Java and Open Source
+technologies. For additional information about the company, please visit
+the website: www.virtual-solution.am."

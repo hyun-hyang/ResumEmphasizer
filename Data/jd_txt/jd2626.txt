@@ -1,0 +1,24 @@
+Senior iOS Developer,"EPAM Systems is seeking for a Senior iOS Developer to
+join the company's team in developing enterprise-level software solutions
+mainly in healthcare industry. The company is looking for energetic
+people who are ready for new challenges, teamwork, and Agile software
+development.","- Lead the effort of mobile development team in delivering iOS
+applications (iPhone and IPad);
+- Be engaged in entire application life cycle;
+- Work directly with customers, developers and business analysts;
+- Gather requirements around functionality and translate those
+requirements into elegant functional solutions.","- At least 2-3 years of experience in iOS, Objective C;
+- 3-5 years of software development experience;
+- Strong object oriented design and analysis skills;
+- Experience with video streaming is a plus;
+- Experience with Android is a plus;
+- Experience with Web application development is a plus;
+- Good knowledge of technical English language;
+- Ability to work independently in an Agile development environment.","Interested candidates are asked to submit their
+CVs in English language to: Beniamin_Gyurjyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

@@ -1,0 +1,23 @@
+Software Development Team Leader,"We are looking for an experienced team leader who has
+proven skills and experience in leading small and large software
+projects. The incumbent will lead a team of 5 full-time developers.","- Manage the team of software developers;
+- Interact with project manager and contribute to the project planning;
+- Participate in Object Oriented Analysis/ Design;
+- Write software based on specifications/ design;
+- Interact with other members of the team, such as documentation and
+testing experts.","- Excellent knowledge of English language;
+- Over 2 years of work experience as a software development team
+leader;
+- Over 7 years of work experience in software development;
+- Excellent object oriented analysis/ design/ programming skills;
+- Excellent skills in C++ (Visual C++ is preferred);
+- Excellent skills in C#/.NET;
+- Excellent skills in COM/DCOM;
+- Excellent skills in Microsoft SQL Server.","To apply, email your cover letter and resume
+to: jobs@.... Please put the announcement code (LG026) in the
+subject line of your e-mail. Emails without an announcement code will be
+deleted. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting."

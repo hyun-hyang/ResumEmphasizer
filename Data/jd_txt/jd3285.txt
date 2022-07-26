@@ -1,0 +1,24 @@
+Senior Web Developer,"ColibriLab LLC is looking for a productive Senior Web
+Developer.","- Write well-designed, testable, efficient codes by using web
+technologies;
+- Write and comment the PHP code;
+- Read, understand, comment and modify the existing code;
+- Provide technical support and assistance;
+- Take responsibility to make changes on a live environment;
+- Integrate data from various back-end services and databases;
+- Perform other duties as assigned.","- At least 1 year of work experience in the relevant field;
+- Advanced knowledge of PHP, OOP and MySQL;
+- Experience with any PHP framework;
+- Knowledge of HTML/ HTML5, CSS/ CSS3, JavaScript and jQuery;
+- Detail-oriented personality;
+- Problem-solving and analytical skills with the ability to clearly
+communicate and share solutions with fellow team members;
+- Ability to meet deadlines;
+- Good knowledge of the English language.","All interested and qualified candidates are
+asked to download the application form from:
+http://colibrilab.net/application-form.doc and send it to:
+hr@... . Please indicate the position title in the subject
+line of your message. Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,ColibriLab LLC is a web development company.

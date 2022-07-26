@@ -1,0 +1,23 @@
+Senior Software Developer,"The incumbent will be responsible for software
+development and its maintenance.",NA,"- BS/MS in Electrical/Computer Engineering or BS/MS in Computer
+Sciences;
+- Advanced knowledge of C++ / STL; 
+- Experience in Object Oriented Programming;
+- At least 5 years of work experience in corresponding area;
+- Understanding of semiconductor device physics and process integration
+is a plus;
+- Knowledge of semiconductor CAD tools, including physical layout and
+circuit simulation, GDSII is a plus;
+- At least 3 years of Linux experience;
+- Knowledge of QT 4.x and Tcl/Tk; 
+- Experience in development under Windows platform using Visual Studio
+.NET is preferred; 
+- Advanced algorithms;
+- Fluent written and verbal English language skills;
+- Ability to work under pressure.","Interested candidates should e-mail their
+detailed resumes (no hand delivery please) to Anahit Krishchyan at:akrishch@.... Clearly mention Developer for ICWB project in
+the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Detailed information about Synopsys you can find at:
+www.Synopsys.com."

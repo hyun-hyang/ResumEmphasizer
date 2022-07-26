@@ -1,0 +1,28 @@
+Senior PHP Developer,"Monitis is looking for a Senior PHP Developer with
+strong web and systems development experience who will be a part of a
+team building next generation Helpdesk product under TeamViewer/ Monitis
+brand.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience as a Senior PHP Developer;
+- Excellent knowledge of PHP;
+- Excellent knowledge of databases (MsSQL, MySQL);
+- Good knowledge of OOP principles;
+- Good knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4, HTML5),
+JQuery;
+- Excellent knowledge of the Cloud Technologies;
+- Experience working in Linux environment (Ubuntu, Suse) is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language (both communication and technical
+level).","All interested and qualified candidates are
+welcome to send their CVs to: hr@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis, a TeamViewer company, is all-in-one cloud based
+IT monitoring and analytics platform. For more information about the
+company please visit: http://www.monitis.com/about-us."

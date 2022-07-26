@@ -1,0 +1,21 @@
+PHP Developer- Intern,"""4h"" LLC is looking for a PHP Developer Intern to join
+its team. Based on his/ her performance the incumbent might be offered a
+full time or part time job after successful completion of internship. The
+main responsibility is to study with ""4h"" team in order to develop
+completely automated micro-service together with one of five small teams.",NA,"- Ability to write PHP, Javascript code;
+- Knowledge of any AJAX framework like JQuery, YUI, Mootools etc. is
+desirable.","To apply for this internship, please send to:people@... the following:
+- Quite a detailed cover letter telling why you may be the person
+described above;
+- A brief CV;
+- When you are available to start - sooner is always better.
+Please indicate the name of the position ""PHP Developer- Intern"" in the
+subject line of the e-mail. Company is grateful to all interested
+applicants; however, only shortlisted candidates will be contacted for
+the interview.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"""4h"" is software Development Company, consisting of 12
+people, which develops a cloud based training platform as a service. The
+company was founded in 2011 and is working for Learnship Networks GmbH
+(located in Germany)."

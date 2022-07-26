@@ -1,0 +1,18 @@
+Senior Software Engineer,"Synopsys Armenia - SEG is seeking Senior Software
+Engineers to be engageded in software design and development.","Design, develop and maintain a coplex suite of
+CAD software for Mask data preparation.","- MS in EE/CS, at least 4 years of work experience in software
+development;
+- Proficiency in C/C++;
+- Object oriented programming;
+- Data structures and algorithms development;
+- Good English language skills;
+- Knowledge of Qt library (not mandatory);
+- Software development experience for UNIX based Operating systems (not
+mandatory).","Please email your detailed CV directly to:dianan@... indicating the position title in the subject line of
+your email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd. For more
+information please visit: www.synopsys.am."

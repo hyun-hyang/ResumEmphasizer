@@ -1,0 +1,37 @@
+Senior Software/ Platform Engineer,"Kubisys CJSC is looking for a Senior Software/ Platform
+Engineer to help the company build out the next version of an IT
+automation tool. This is a Software Engineering role that combines deep
+understanding of various IT infrastructure technologies with programming
+acumen to build a framework for automating relevant workflows. As a
+Senior Software/ Platform Engineer (Armenia), the incumbent will work
+closely with Platform Engineers in other locations (primarily US) to
+prototype and engineer these automation frameworks.",NA,"- BS in CS or similar;
+- More than 5 years of experience in software engineering;
+- Good understanding of Linux Internals, e.g.:
+a) File systems;
+b) Block devices;
+c) I/ O performance Tuning;
+- Good understanding of IT infrastructure technologies, e.g.:
+a) Networking (e.g.: TCP/ IP, switches/ bridges, NAT, Port-forwarding);
+b) Virtualization (e.g.: Xen, vSphere/ ESX);
+c) SAN;
+- Good understanding of IaaS solutions (e.g. AWS, openstack APIs);
+- Familiarity with Windows internals;
+- Experience in programming  implementing APIs using high level
+languages (e.g. Python) to automate workflows that involve some of the
+technologies mentioned above;
+- Experience with administrator tools on Linux;
+- Familiarity with typical Enterprise SDLC/ ALM processes is a plus;
+- Familiarity with Agile/ DevOps concepts, methodologies and tools (e.g.
+configuration management tools, such as Puppet and Chef) is a plus;
+- Strong verbal and written communication skills in English language;
+- Ability and desire to learn new technologies;
+- Good team player.","Interested candidates are asked to send their
+CVs to: gasparyan@... . Please indicate the title of the position
+in the subject line of the e-mail. Only short-listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC aims to automate and simplify the operations
+of enterprise data centers. For more information about the company's
+product and activities, please visit: www.kubisys.com ."

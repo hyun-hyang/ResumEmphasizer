@@ -1,0 +1,23 @@
+Software Developer,"Haypost CJSC is looking for a qualified and motivated
+Software Developer.","- Develop Web Applications in accordance with given specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with clients, management and team members effectively.","- Bachelors degree in Computer Sciences or a related discipline; higher
+degree is a plus;
+- Experience in software development: C#, Visual Basic, PHP and SOAP;
+- Database development: ADO.NET, MS SQL Server 2008R2, T-SQL and MySQL;
+- 1 year of professional work experience;
+- Knowledge of English and Russian languages; 
+- Good knowledge of the concepts and characteristic features of Object
+Oriented Programming;
+- Algorithmic knowledge, problem solving and analytical skills;
+- Self-motivated, passionate and adaptable personality;
+- Ability to work efficiently with minimal supervision.","Please send your resume to: Hrmanager@...
+, mentioning in the subject line the position you are applying for or
+leave it at the check point of Haypost CJSC at: 22 Saryan Str, Yerevan.
+Please, clearly mention in the subject line the position title you apply
+to. Only short listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

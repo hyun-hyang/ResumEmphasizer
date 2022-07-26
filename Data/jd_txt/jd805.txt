@@ -1,0 +1,29 @@
+Software Quality Assurance Engineer,"Synopsys Armenia is looking for a Software QA Engineer
+who will be responsible for developing, applying, and maintaining quality
+standards for company products.","- Develop and execute software test plans;
+- Analyze and write test standards and procedures;
+- Maintain documentation of test results to assist in debugging and
+modification of software; 
+- Analyze test results to ensure existing functionality and recommends
+corrective action;
+- Follow standard practices and procedure in analyzing situations or
+data from which answers can be readily obtained.","- BS/MS in Computer Science or Electrical Engineering;
+- Linux/Unix and Windows advanced user;
+- Scripting: Shell scripting, perl, tcl;
+- Good spoken and written English language;
+- Basic knowledge in Microelectronics;
+- Understanding of Quality Assurance process;
+- Ability to work independently and under pressure;
+- Good organization and communication skills.
+Desired skills:
+- Basic knowledge of Software lifecycle process;
+- Work experience with databases;
+- Web page development
+- Test process automation.","Please submit your detailed CV to:dianan@... with CC to: vardana@... indicating the
+position in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

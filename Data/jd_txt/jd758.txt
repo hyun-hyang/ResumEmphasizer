@@ -1,0 +1,35 @@
+Software Developer,"Cascade Bank CSJC is looking for a motivated,
+proactive candidate for the position of System Administrator to provide
+uninterrupted work of computer system of the company.","- Plan, develop and implement IT solutions to operational challenges;
+- Report to management about the works accomplished and the existing
+problems;
+- Cooperate with local and international IT providers and contractors;
+- Provide software and hardware servicing of the computer and server
+systems;
+- Consult in general use of office applications;
+- Maintain and troubleshoot network, software and hardware;
+- Be responsible for uninterruptible operating conditions of systems
+used in the company;
+- Provide users with accesses to network and systems, and make necessary
+modifications in all systems;
+- Be responsible for the antivirus protection activities;
+- Be responsible for information back-up and archiving on servers and
+computers.","- Advanced knowledge of Windows operating systems;
+- Advanced knowledge of general office applications (MS office, Acrobat,
+designing software);
+- Knowledge of networking technologies and computer hardware;
+- Knowledge of database management systems;
+- Knowledge of Armsoft Bank-3, SQL is a plus;
+- Knowledge of Bank Client;
+- Fluency in English, Armenian and Russian languages;
+- Good system administration skills;
+- Relevant university degree.","Please send a cover letter and CV in English
+to: hr@.... Please clearly indicate System
+Administrator in the subject field of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Cascade Bank is an affiliate of Cascade Capital Holdings
+CJSC, a company established by Cafesjian Family Foundation to foster the
+development of an integrated financial services group in Armenia.
+Cascade Capital Holdings CJSC is an equal opportunity employer."

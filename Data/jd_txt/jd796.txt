@@ -1,0 +1,37 @@
+IT Manager,"The IT Manager will be responsible primarily for the
+administration of the business applications, LAN and system environment.","- Administrater the whole IS infrastructure of all TO (tobacco
+organization) Armenia offices and DCs;
+- Perform the disaster recovery, system and user administration of
+Exchange Server, Active Directory and other Windows 2003 server based
+systems;
+- Manage the end-user relations and non-business application
+requirements of all TO Armenia offices and DCs;
+- Interact with the rest of the Group IS and third party vendors for
+operational resolutions;
+- Administer the locally hosted application databases such as MS SQL;
+- Manage IS infrastructure and Helpdesk issues and report/ escalate to
+IS/Market Manager;
+- Perform the local and Group IS procedures to ensure proper support and
+control levels;
+- Execute/ coordinate preventive and active maintenance for the IS
+equipment of all TO Armenia offices;
+- Advise/ consult infrastructure, system and IS environment solutions to
+improve the cost, quality and support structure and implement them.","- University degree, preferably in Computer or Electronical Engineering
+or related technology disciplines;
+- 5 years of business, 3-5 years of system administration and help desk
+experience (sales oriented industry experience preferred);
+- Extensive knowledge of Windows 2003 Server, Exchange Server and other
+application server operating systems; 
+- Ability to use helpdesk software;
+- MS SQL experience;
+- Mobile Sales and Handheld technology experience;
+- TCP/IP, FTP, networking and active device management experience;
+- Knowledge of Veritas and other back-up software;
+- MS Office and other user support experience;
+- MSCE and/or Networking certificates preferred;
+- Solid communication skills;
+- Good command of English language.","Interested candidates are encouraged to submit
+a CV to: sales-marketing@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,The company has been in Armenia for over 10 years now.

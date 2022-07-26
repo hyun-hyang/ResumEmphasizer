@@ -1,0 +1,31 @@
+System/ Network Administrator,"GlobalSoft LLC is currently seeking an experienced
+System/ Network Administrator to support its organization and IT
+department.","- Install, configure and maintain the organization's network servers,
+server services and applications, LAN, WAN, network equipment and
+workstations;
+- Monitor and manage performance and maintain security of servers,
+server services and applications, LANs, WANs, network equipment and
+workstations.","- Ability to create and maintain UTP-Cat5 and wireless networks;
+- Strong understanding of IP protocol;
+- Understanding of cryptography principles;
+- Knowledge of administration and maintenance of Unix/ FreeBSD/ Windows
+operating systems;
+- Knowledge of installation, configuration and administration of Samba
+and Active Directory;
+- Experience in administration of Apache, MySQL, DNS (Domain Name
+System), DHCP (Dynamic Host Configuration Protocol), ISA (Internet
+Security and Acceleration), etc;
+- Experience in maintenance and technical service of computers and
+peripherals;
+- Certified specialist knowledge level (certificate is an advantage) of
+Unix Systems/ Network Administration;
+- 3-5 years of systems administration experience;
+- Ability to use scripting/ programming languages is desired.","Candidates who meet these qualifications will
+be interviewed and will be required to take a test. Selected candidates
+will be notified of the interview dates directly.
+If interested, please email your resume indicating your contact details
+(phone, fax, and/or e-mail address where you can be reached) to:global_soft@.... Please put ""System/ Network Administrator"" in the
+subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

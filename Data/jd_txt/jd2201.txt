@@ -1,0 +1,33 @@
+System/ Network Administrator,"Inecobank CJSC is looking for a highly motivated person
+for the position of the System Administrator.","- Install new hardware/ software or re-install existing hardware/
+software systems in accordance with company requirements;
+- Contribute to and maintain company-wide IT management standards;
+- Monitor all systems in order to verify integrity and availability of
+all systems;
+- Responsible for daily and weekly backups of critical data and systems;
+- Regularly update systems with patches and perform upgrades where
+necessary;
+- Manage system performance and resource optimization;
+- Troubleshoot faulty hardware/ software systems;
+- Install systems to further enhance security;
+- Ensure strong network perimeter security by maintaining and monitoring
+firewall rules;
+- Manage IDS/ IPS systems;
+- Manage anti-virus system and policies.","- At least 2 years of experience in a similar work;
+- At least 3 years of experience in maintaining large-scale LANs;
+- Knowledge of and experience with network software installation;
+- Knowledge of and experience with hardware installation and upgrades;
+- Knowledge of and work experience in Microsoft Windows operating system;
+ability to implement Active Directory, Terminal Services, DNS, DHCP, VPN,
+RRAS, etc.;
+- Knowledge of computing and network hardware and peripheral equipment;
+- Excellent knowledge of TCP/ IP protocol, firewalls, and network
+security in general;
+- Knowledge of various backup technologies.","Interested applicants should submit their CVs
+to: resume@... . Please, put ""Network Administrator"" in the
+subject line of your e-mail. Submitting CVs in Armenian language is
+required, Russian or English versions can be submitted as per candidates
+preference. Only short-listed candidates will be invited for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

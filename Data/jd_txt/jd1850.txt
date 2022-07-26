@@ -1,0 +1,32 @@
+Database Developer,"He/ she will be responsible for fraud and revenue
+reporting system development, data analysis and system development for
+fraud detection and revenue assurance purposes.","- Develop reports to query data from core systems and data warehouse; 
+- Develop/ maintain reporting system with prescheduled data querying
+mechanism; 
+- Develop/ maintain fraud management system outside core systems, basing
+on queried data, fraud detection and revenue assurance reconciliation
+models; 
+- Develop mechanism to integrate reporting with Fraud Management System;
+- Analyze daily Call Detail Records and other relevant data; 
+- Extract and analyze finance department reports.","- Bachelor's degree in Computer Sciences or related discipline; 
+- At least 1 year of database development experience in Oracle and MS SQL
+Server environment; 
+- Strong knowledge of PL SQL/ T-SQL languages;
+- Good knowledge of MS Office, specially MS Excel and MS Access; 
+- Strong analytical skills and ability to make logical decisions; 
+- Experience in telecommunication is highly desired; 
+- Excellent oral and written communication skills; 
+- Responsible team player; 
+- Good knowledge of oral and written English language.","To apply for this position, please register in
+www.careerhouse.com website as an Individual (unless you have previously
+registered), fill out your Resume, then open this announcement, click on
+the ""Apply"" button and proceed to receive the confirmation message.
+Please make sure you necessarily fill out the References section in your
+Resume and attach any references you have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"France Telecom is a telecommunications operator providing
+services to more than 170 million customers on five continents of the
+world of which 120 million under the Orange brand. Orange Armenia is an
+operator in the mobile telecommunications sphere in Armenia. For more
+information, please visit: www.orangearmenia.am."

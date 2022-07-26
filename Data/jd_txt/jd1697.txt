@@ -1,0 +1,27 @@
+.Net Software Developer,"The incumbent will be developing software applications
+and will be working in distributed team.","- Participate in all the steps of the software project, from design to
+integration;
+- Analyze and investigate architectural defects of existing projects;
+- Implement features;
+- Fix problems;
+- Lead small teams.","- At least 5 years of experience in software development;
+- Strong knowledge of .Net technologies; Entity Framework, WCF, WPF, LINQ
+and ASP .NET MVC;
+- Knowledge of WEB technologies; HTTP Protocol, JS, jQuery and CSS/ HTML
+is an asset;
+- Good data base knowledge of DB design and SQL/ TSQL;
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable and eager to learn new
+technologies and methods;
+- Fluency in English language in reading/ writing and speaking;
+- Good communication skills;
+- Good team player;
+- Ability to accept criticism;
+- Fast learner and responsible personality.","To apply, please email your CV to:careers-armenia@... . Please mention the position you are
+applying for in the subject line of your e-mail. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Macadamian AR CJSC is a software development company
+headquartered in Ottawa, Canada with the branch in Yerevan, Armenia. More
+information about the company can be found at: www.macadamian.com."

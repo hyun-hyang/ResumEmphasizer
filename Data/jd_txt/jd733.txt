@@ -1,0 +1,57 @@
+Network Administrator/ Information Technology Specialist,"Grant Thornton Amyot is seeking qualified candidates
+for the Network Administrator/Information Technology Specialist position
+with the USAID/Armenia Tax Improvement Program (Armenia TIP) which is
+implemented by Booz Allen Hamilton.
+Under the supervision of the Armenia TIP Chief of Party (COP), the
+incumbent provides services for, and contributes to the development and
+implementation of, Armenia TIP, a five-year project under the auspices
+of the USAID Armenia. In addition, the incumbent works in close
+consultation with Project staff members, the staff members of other
+donor-funded projects, and local counterparts to maintain Armenia TIPs
+responsiveness to the prevailing needs of improving Armenia State Tax
+Service.","- Install/maintain/repair network, network equipment, computers and
+servers;
+- Manage Active Directory, Windows 2003 Server, MS Exchange;
+- Help STS IT staff in network setup/maintenance/problems diagnose;
+- Train junior IT staff in Microsoft network management;
+- Maintain and increase performance of office Internet;
+- Administrate the project network;
+- Maintain computer and other technical equipment within the office and
+ensure uninterrupted operation of those;
+- Maintain software network system and computer equipment at the
+office;
+- Install and extend the network equipment, when necessary;
+- Ensure the Internet connection for all staff members;
+- Ensure the access of all the staff members to the files on the server
+and support the staff in other issues;
+- Ensure the protection of the office computers from unauthorized access
+and viruses;
+- Support the ATIP staff in issues related to identification of
+technical description of computers and equipment;
+- Support the staff in solving the issues related to the computers
+within the shortest period possible;
+- Conduct the registration and documenting related to the network,
+Internet and other systems.","- Degree in IT related field or 5 years of System Administrating
+experience;
+- Minimum 4 years of relevant work experience;
+- Preferably knowledge of SQL and PL/SQL programming languages;
+- Understanding of systems architecture, including hardware, software,
+support and not limited to certain area in Information Technology;
+- Working knowledge of web servers, such us Apache and IIS;
+- Ability to install, configure database, application server and other
+software;
+- Preferably knowledge of current programming languages like .Net, PHP
+and Oracle.","Applicants are kindly requested to e-mail
+their
+detailed Curriculum Vitae (in English) with contact telephone numbers
+and email addresses, relevant work experience and references, to:hr@....
+All applicants are requested to indicate in the subject line of the
+message which position they are applying for, otherwise they will be
+disregarded.
+Applicants will be short-listed on the basis of their CVs and then only
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Grant Thornton Amyot is an auditing and business
+advisory firm, the Armenian Member of Grant Thornton International, and
+Booz Allen Hamilton is a U.S. based contractor to the USAID."

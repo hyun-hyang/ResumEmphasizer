@@ -1,0 +1,36 @@
+Senior iOS Developer,"Accontech is currently seeking a Senior iOS Developer
+who will put his expertise into the current and future projects to meet
+the iOS development growing needs. The candidate will be highly involved
+in the ideation and brainstorming of new applications and will work
+quickly and efficiently to produce innovative designs.","- Develop, iterate and maintain a set of applications for iOS platforms;
+- Write a well-organised and high-performance code meeting
+object-oriented principles;
+- Jump into the ongoing projects by continuing to work on the already
+built infrastructure;
+- Estimate overall timelines, risks and requirements;
+- Gather requirements around functionality and translate the requirements
+into technical requirements;
+- Participate in design meetings to speak about the feasibility of design
+requirements;
+- Mentor and lead junior Mobile Developers.","- Positive attitude with a ""can do"" mentality;
+- At least 3 years of experience with iOS development;
+- Ability to develop rich GUIs for the iPhone and/ or iPad;
+- Ability to consume web services (REST) and processing data (XML/
+JSON);
+- Ability to detect and correct issues and optimize codes for application
+performance;
+- Experience with Objective-C blocks and multi-threaded apps;
+- Experience with SQL based database systems and Core Data technologies;
+- Experience with networking frameworks;
+- Experience with embedding and using 3rd party sources;
+- Knowledge of C/ C++;
+- Experience in OSX development will be a strong plus;
+- Knowledge of the English language to communicate with the team abroad,
+participate in technical discussions and read/ write technical
+annotations;
+- Strong technical capacity and the ability/ passion to learn.","All interested candidates are welcome to send
+their resumes to: talent@... . Please indicate the position
+title in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

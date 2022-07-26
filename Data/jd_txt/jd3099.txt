@@ -1,0 +1,30 @@
+Software QA Engineer,"The successful candidate will become a part of the
+testing team. He/ she will work mainly on various parts of the web and
+mobile applications.","- Review and analyze project requirements and specifications;
+- Design and update testing documentation (test plans, test cases, user
+stories);
+- Identify, reproduce and report bugs;
+- Discuss project issues with development/ management team/ client;
+- Perform functional, compatibility, usability, performance and load
+testing;
+- Verify fixed defects and perform regression tests to ensure the quality
+of software releases;
+- Work closely with the development team.","- B.S. in Computing Science;
+- At least 2 years of relevant work experience;
+- Experience in testing mobile applications is desired;
+- Knowledge of MS SQL;
+- Knowledge of VS TFS and Test Manager;
+- Experience in working with automated testing tools is desired;
+- Ability to work on multiple tasks and projects simultaneously;
+- Mastery of the technical English language;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Ability to work in a dynamic environment, be flexible and adapt to
+changing requirements and customer requests.","To apply for this position, please email your
+professional CV to: armjobs@... , specifying the position
+title ""Software QA Engineer"" in the subject line. Please, note that only
+shortlisted candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CargoMatrix is a logistics software solutions provider
+based in New York, USA."

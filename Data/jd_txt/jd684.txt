@@ -1,0 +1,20 @@
+C# .Net  Software Developer,"AccuSoft-AM LLC is currently seeking experienced
+Software Developer with deep knowledge and prior work experience in C#
+and .Net technologies for expanding current development team.",NA,"- Bachelor's/ Master's degree in CS or related discipline;
+- Excellent C# skills and experience in system and application;
+- 3+ years of professional software development;
+- Proficiency in object oriented programming and thinking;
+- Analytical, technical and communication skills in English and Russian
+languages;
+- Ability to work on multiple projects at the same time;
+- Experience in sophisticated GUI design using .NET Framework;
+- Experience in developing Windows platform applications;
+- Advanced knowledge of C, C++ is a plus;
+- Knowledge of UNIX/Linux technologies is a plus;
+- Strong mathematical background is a plus.","If this position is of interest or you would
+like more information on the role, please email your CV to:accusoft@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AccuSoft-AM LLC is the business partner of AccuSoft
+Corp. (www.AccuSoft.com), USA. Founded in 1985, AccuSoft is a supplier
+of software systems in the area of image and data processing."

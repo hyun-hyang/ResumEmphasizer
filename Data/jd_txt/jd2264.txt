@@ -1,0 +1,22 @@
+.NET Software Developer,"SouthTech is looking for a qualified .NET Developer to
+join a team working on a complex and long-term project.","- Design and develop various components of the complex multi-tier
+application including GUI, business logic, db layer and application
+frameworks;
+- Continue/ support projects done by others;
+- Work as a part of a software development team.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline;
+- At least 2 years of work experience in .Net Framework (C#);
+- Work experience in ASP.NET (JavaScript and Ajax);
+- Professional skills in OOP/ OOD and knowledge of Design Patterns;
+- Work experience in SQL database design and programming;
+- Work experience in development of multi-layered client-server
+applications and Web Services (WCF) is an advantage;
+- Punctuality and accuracy in work; ability to work efficiently as a part
+of team;
+- Good communication skills in English language.","Please email your CV to: resume@... .
+Note that only shortlisted candidates will be contacted for an interview
+appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SouthTech Consulting, Inc. is a software development and
+information technology consulting company."

@@ -1,0 +1,11 @@
+IC Layout Design Engineer,"The candidate will be responsible for IC layout of
+analog and mixed signal ICs.",NA,"- Bachelor's degree in Electronics Engineering or Applied Sciences;
+- Over 4 years of work experience in layout design;
+- Knowledge of floor planning and SoC layout practices and flows is a
+plus;
+- Work experience with Cadence Virtuoso or Silicon Canvas Laker tools;
+- Understanding of foundry device models and design verification
+procedures (DRC/ LVS, etc.).","To apply, email your CV to:hr.armenia@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,20 @@
+Tester / Quality Assurance Engineer,"We are looking for a candidate to fulfill the position
+of Tester/ Quality Assurance Engineer. On the given direction the company
+offers services on professional development of the software on the basis
+of platforms J2EE, JBoss, MySQL for western business.",NA,"- Higher education;
+- Minimum 1 year of work experience;
+- Knowledge of development process;
+- Ability to describe problems briefly and capaciously;
+- Experience in description of programs and techniques; 
+- An operational experience with bug-tracking systems;
+- Experience in testing on short-term projects;
+- Experience in spelling scripts for packages of the automated testing
+(JMeter and Mercury WinRunner) is desirable;
+- Experience in spelling own programs is desirable;
+- Knowledge of HTML, XML and Java-script;
+- General knowledge of relational databases;
+- An operational experience with MySQL database;
+- Knowledge of English language.","Interested candidates should email resumes to:job_essence@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,25 @@
+Senior Software Engineer - Place & Route Department,"The Senior Place & Route Software Engineer will be part
+of a team responsible for design, development, testing and support of all
+the infrastructure aspects (input/ output, DB, persistence, save/
+restore, integration with other Mentor Graphics's products, etc.) of the
+Olympus-SOC family of digital IC implementation products.",NA,"- BS/ MS in Computer Science, Electrical Engineering or related
+disciplines; PhD is a plus;
+- Strong knowledge of C, C++, with UNIX and/ or LINUX platforms is
+necessary; 
+- At least 3 years of proven commercial SW development hands-on
+experience, developing complex software systems and/ or working with
+large existing software systems is highly desirable;
+- Experience with EDA software applications and especially back-end tools
+is a big plus;
+- Working knowledge of structural Verilog, experience in EDA
+Infrastructure (database, UI), knowledge of OpenAccess (LEF/ DEF) and
+other BE formats (SPEF, PDEF, SDC, etc.) and familiarity with DRC formats
+and GDS  are all huge plus;
+- Hands-on technical problem solver; 
+- Results oriented and innovator; 
+- Good Team player.","Please submit your CV through:http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

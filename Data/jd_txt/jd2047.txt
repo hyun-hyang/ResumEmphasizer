@@ -1,0 +1,49 @@
+Software Development Manager,"AtTask is looking for a Software Development Manager to
+help it take its technology, processes and organization to the next
+level. The primary focus of this role is to drive the creation of
+world-class software through a combination of technical expertise,
+thought leadership, and direct management of several engineers. The
+Software Development Manager will help the team develop their skills and
+become more innovative, productive and successful at their craft. The
+incumbent will also contribute to development of the AtTask application
+20-30% of the time.","- Provide leadership to the software engineering team;
+- Develop Java and/or Javascript application;
+- Guide employee development and team building;
+- Manage strategic initiatives and product backlog in conjunction with
+managers in Quality Assurance, Product Management and User Experience;
+- Improve all aspects of the technical development cycle, including
+functional and technical product specifications, story breakdown, testing
+and quality assurance, release management and version control;
+- Foster a results oriented, continuous improvement environment based on
+Agile principles.","- Bachelor's degree in software engineering or computer science (advanced
+degree in business management, technology or planning is desirable);
+- Minimum of 8+ years technical experience in software
+research/development with 2 years in development management;
+- Fluent knowledge of written and spoken English language;
+- Experience with Java/J2EE and web development, technologies and tools;
+- Experience in SAAS model software delivery;
+- Experience managing offshore groups;
+- Extensive vision and accomplishments in actualizing complex online
+concepts into technological reality; a record of successful project
+management and execution;
+- Ability to manage a diverse group of technology professionals;
+- Deadline driven and self-motivated personality;
+- Proven success leading a development organization;
+- Strong process and project/ system management skills;
+- Ability to work as an effective leader and ability to develop working
+relationships needed to accomplish organizational goals;
+- Ability to solicit constructive input from and build consensus among
+groups and constituencies with differing priorities and perspectives;
+- Ability to understand the current and evolving needs of existing and
+potential customers;
+- Strong technical and operational understanding of QA, production
+environment requirements, version control and infrastructure;
+- Exceptional problem solving skills.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 021012"" in the subject line of your email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask Inc. is a project management software company
+based in Utah. Please read more about the company, visiting:
+www.attask.com."

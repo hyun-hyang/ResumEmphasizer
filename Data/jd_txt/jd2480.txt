@@ -1,0 +1,26 @@
+Software Architect/ Team Lead,"The incumbent will understand and work on LTXC SW
+projects architecture, lead SW team to develop SW project, monitor
+quality standards for SW and review sources. He/ she will be responsible
+for maintaining documentation for projects.","- Develop SW architecture;
+- Technically lead and manage a team of Software Engineers;
+- Create/ review design documents; 
+- Review code and mentor junior developers;
+- Attend daily and weekly technical meetings;
+- Work with QA and other teams to deliver code on time.","- MS in CS, Physics, Maths or a related field;
+- Professional C/ C++ programming skills and good knowledge of OOP/ OOD;
+- High-level of knowledge and experience in multithreading programming; 
+- Previous experience in leading development teams;
+- Ability to understand requirements and translate them into design
+functional specifications;
+- Strong debugging and troubleshooting experience;
+- Clear understanding of software development lifecycles and
+methodologies;
+- Experience in development under Linux/ Unix OS and Qt is a plus;
+- Experience in real time development, knowledge of networking protocols
+such as TCP/ IP, UDP, etc. is a plus;
+- Good English language written and verbal communication skills.","Interested candidates are kindly requested to
+e-mail a CV/ resume in English language to: Tigran_Pivazyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

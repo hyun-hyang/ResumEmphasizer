@@ -1,0 +1,39 @@
+Information Security Specialist,"The incumbent will be responsible for the
+implementation of information security actions in the company.","- Review, update, develop and implement Information Security Policies;
+- Analyze and control the implementation of security tools, software and/
+or applications;
+- Responsible for security tools administration and periodic audit of
+security rules usage;
+- Analyze and recommend activities aiming to improve the current level of
+information security;
+- Perform the access right management for all information assets (review
+and periodic audit);
+- Develop an appropriate training program, execute training to all the
+staff about Information Security;
+- Responsible for Information Security Risk Management implementation
+(according to the appropriate ISO standards);
+- Perform periodic information security vulnerability tests and audit
+(ITN);
+- Responsible for group security standards and tools analyzing/
+implementation;
+- Responsible for local and group reports preparation.","- University degree in Information Technology, Technical Cybernetic or
+other related fields;
+- At least 2 years of professional experience in Information Security
+domain;
+- Experience in handling security incidents/ intrusions;
+- Good knowledge of international standards related to Information
+Security;
+- Knowledge and understanding of relevant information technologies,
+including databases and network equipments;
+- Good knowledge of PL SQL/ T-SQL;
+- Fluent knowledge of English and Russian languages;
+- Excellent computer literacy;
+- Good knowledge of security tools;
+- Strong analytic thinking skills;
+- Team working and cooperation skills;
+- Auditing, monitoring and troubleshooting skills.","Those who meet the requirements for the position
+are encouraged you to send a CV and a Motivation Letter to:hr@... . Please indicate the name of the position in the
+subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

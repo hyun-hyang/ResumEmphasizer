@@ -1,0 +1,16 @@
+Software QA Development Manager in Gyumri,"The Software QA Development Manager will be responsible
+for SQA of FPGA toolchain and communication with the European partner.",NA,"- Excellent communication and management skills;
+- Excellent knowledge of English language;
+- Over 3 years of experience in R&D or SQA management;
+- Over 3 years of experience in any programming or scripting language;
+- Knowledge of EDA flow.","Interested candidates should send their resumes
+in PDF format to: job@... . In the subject line of your
+e-mail message please mention the title of the position you are applying
+for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia. R&D branches of the
+company are located in Gyumri, Vanadzor, Stepanakert, Goris. Main
+partners of Instigate are in the USA and EU. The main area of team
+expertise is system level design of electronic systems."

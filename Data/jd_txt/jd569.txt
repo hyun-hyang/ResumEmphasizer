@@ -1,0 +1,17 @@
+ASP.Net Software Developer,"AltaCode Ltd. is looking for highly qualified and
+motivated software developers with deep knowledge and practical
+experience in object oriented programming and web development.","- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Assist in the development of accompanying Technical Documentation;
+- Provide technical support and assistance, if requested.","- Proficiency in object oriented programming and Design Patterns;
+- 2 years of work experience in C# and .Net Framework;
+- Excellent  knowledge and experience of web development in ASP.Net;
+- Experience or any kind of exposure to VS 2005 and SQL 2005 is a plus;
+- Experience in XHTML, CSS, JavaScript, Ajax;
+- Familiarity with SQL Server 2000 and proficiency with T-SQL and XML;
+- Good knowledge of technical English language;
+- Communication skills.","Please email your detailed CV (in English) to: resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,AltaCode Ltd. is a software development company.

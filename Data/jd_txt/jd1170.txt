@@ -1,0 +1,18 @@
+PHP and MySQL Developer,"""Fast Credit"" LLC is looking for an experienced
+professional to fulfill the position of a PHP & MySQL Developer.","- Work with the team on supporting and enhancing existing web
+application;
+- Maintain application on daily basis;
+- Maintain the server infrastructure;
+- Develop new features and extend application functionality.","- University degree in Computer Science or a related field;
+- Minimum 3 year experience in PHP development;
+- Knowledge of PHP5, SQL, JavaScript (AJAX), HTML/ XHTML, CSS, XML and
+XSL;
+- Good knowledge of MySQL, query optimization;
+- Solid skills with Linux and related infrastructure is a plus;
+- Excellent communication and interpersonal skills;
+- Good knowledge of English language.","Please submit your resumes to:fastcreditltd@.... Only short listed candidates will be notified
+for the interview. In the subject line of your e-mail message, please
+mention the title of the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,33 @@
+Senior Android Developer,"Energize Global Services is looking for Senior Android
+Developers who possess a passion for pushing mobile technologies to the
+limit. He/ she will work with the company's team of engineers to design
+and build the next generation of mobile applications.","- Participate in the application design process;
+- Provide necessary technical and design documentation;
+- Work effectively in a software development team;
+- Develop applications according to technical documentation;
+- Develop test cases;
+- Install and configure a necessary environment for the developed
+applications.","- BS/ MS degree in Computer Science, Engineering or a related field;
+- At least 3 years of work experience as an Android Developer;
+- At least 3 years of work experience as a Software Developer;
+- Excellent knowledge of Java and OOP;
+- Excellent knowledge of Android SDK;
+- Knowledge of SQLite database; ability to create databases, write
+queries;
+- Ability to work on a project with a development team;
+- Problem-solving skills;
+- Good communication skills;
+- Ability to work on competing priorities and adapt to changes in the
+project scope;
+- Good English language proficiency in both written and verbal
+communication.","If interested, please email your last updated
+and detailed resume to: hr@... . Please indicate ""Senior
+Android Developer"" in the subject line of your email, otherwise your
+resume will not be reviewed. Only short-listed candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Business trips are also available to Europe (France
+and Spain).","Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

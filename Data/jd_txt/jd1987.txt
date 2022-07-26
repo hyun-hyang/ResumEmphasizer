@@ -1,0 +1,36 @@
+Database Developer,"The Database Developers role is to design, develop and
+implement ETL (Extraction Transformation Loading) and OLAP cubes for the
+purpose of facilitating the reporting requirements.","- Perform ETL requirement collection;
+- Design and develop ETL applications;
+- Design data transformation schema; 
+- Develop lookup algorithms using multiple programming languages;
+- Advise on solving problems related to ETL design and execution;
+- Ensure that the performance ETL is of acceptable timeframe and error
+free;
+- Ensure the ETLs run error free;
+- Establish documentation and logging of the new and existing ETLs;
+- Analyze data source for a cube;
+- Design and architecture the cube;
+- Measure the cube for future queries;
+- Design and generate ad hoc reports using SQL (Structured Query
+Language);
+- Perform query design and testing;
+- Perform data analysis for different requirements;
+- Provide regular monthly reports on activities performed.","- Bachelors degree in a professional field (Engineering or Information
+Technology is preferred) or comparable work experience;
+- At least 2 years of work experience as a developer in the IT industry
+with an emphasis on databases and reporting;
+- Technical knowledge of databases, reporting and ETL tools;
+- Mastery of TSQL and PLSQL languages;
+- Knowledge of ETL specific programming language;
+- Good knowledge of English and Russian languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner with internal and external
+contacts;
+- Ability to maintain the highest level of professionalism, ethical
+behavior and confidentiality.","Please submit your CV to:Database_Developer@... e-mail address. Only shortlisted candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

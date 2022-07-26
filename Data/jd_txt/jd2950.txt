@@ -1,0 +1,47 @@
+UI/ UX Designer,"EPAM Systems, Inc. is seeking an experienced UI/ UX
+Designer to join the company's team for designing and developing creative
+and compelling user interfaces for both web and mobile applications. The
+company is looking for an energetic person who is ready for new
+challenges, teamwork, and agile software development.","- Work independently and as part of a team to create sitemaps, flows,
+navigation strategies and wireframe prototypes and annotations;
+- Analyze primary and 3rd-party data to develop mental models and
+customer-journey maps;
+- Translate business requirements and specifications into usable, useful
+and desirable user experiences;
+- Participate in new-business activities, presentations and estimates;
+- Create responsive UX designs;
+- Assist with user research and usability testing activities;
+- Conduct and present heuristic and competitive UX reviews;
+- Collaborate with content strategists on hierarchy and taxonomy;
+- Collaborate with creative team on interaction design and flows;
+- Present work to internal teams.","- 3-5 years of experience as UX Designer using JavaScript, HTML, CSS;
+- Experience with JavaScript frameworks: jQuery, ExtJS, Prototype;
+- Experience with Adobe Fireworks or Photoshop;
+- Experience in creation of site maps, user flows, wireframes and
+detailed design annotations;
+- Experience conducting user research and usability testing activities;
+- Experience designing across devices (desktop, mobile, tablet);
+- Experience communicating design decisions to internal and external
+teams;
+- Good verbal and written skills in English language;
+- Ability to manage and realize problem solutions within a specified time
+range;
+- Creativity and analytical thinking;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Strong and effective interpersonal and communication skills;
+- Ability to multi-task and stay organized in a dynamic work
+environment;
+- Ability to work independently and in a team environment in close
+cooperation with other members of the company's team worldwide.","To apply for this position, qualified candidates
+are kindly asked to send a CV to: Marine_Melikyan@... , indicating
+the position in the subject line of the e-mail. Only shortlisted
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

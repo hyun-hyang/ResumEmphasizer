@@ -1,0 +1,21 @@
+C++ & DB Software Developer,"The primary objective of this position is to produce
+required product in conjunction with team members insuring its high
+quality and doing it in time.","- Write and test code for the required product;
+- Share knowledge, mentor peers, listen and hear team members view
+points and provide a fair evaluation of differing opinions;
+- Ability to work under pressure (not always);
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members.","- Visual C++, Win32 API, COM, ADO, VBA, T-SQL;
+- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of Object Oriented C++ development, enterprise-class
+system architecture and design or equivalent combination of education,
+skills and experience;
+- Real time programming experience; 
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good English language skills are preferred;
+- Desire to learn new technologies.","Interested candidates should email resumes to:gtk2005@.... For additional information please call: (+374 10) 57 61
+54; 57 63 37.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

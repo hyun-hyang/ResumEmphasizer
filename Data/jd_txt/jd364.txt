@@ -1,0 +1,16 @@
+Java Developer,"We are looking for a Java Developer with strong
+knowledge of relationship database.","- Strong knowledge of Java and Servlet 2.2;
+- Knowledge on one of the following relationship database management
+systems: SQL Server 2000, My-SQL or Oracle 9i Enterprise;
+- Work experience with XML, XSL, JSP 1.1, Apache +; 
+- Work experience with Jakarta/ Tomcat is a plus;
+- Be good in administration of site setting on a customer server,
+configure web-services on remote server using ftp option as well.","- Bachelor's or Master's degree in Computer Sciences;
+- Over 1 year of work experience in Java Development;
+- Good knowledge of English language (both written and spoken).","To apply, please email your cover letter and
+resume to: forcv@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Karapetyanner"" Scientific-Production Experimental LLC
+was established in 2004 to supply environments for different business
+rules."

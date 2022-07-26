@@ -1,0 +1,37 @@
+Applications Engineer,"Impeva Labs CJSC needs an experienced Applications
+Engineer.","- Train the company's customers on how to install its equipment on
+over-the-road trucks, trailers, containers, and other assets;
+- Use web services to provision, control, and monitor installed devices
+on customer fleets;
+- Proactively take action as issues are identified with the company's
+deployed equipment;
+- Provide customer support for troubleshooting the company's equipment
+both in the field and at customer maintenance facilities;
+- Listen to customer needs and document them in written reports and
+specifications;
+- Obtain measurements, perform tests, and execute other technical tasks
+with minimal direction;
+- Troubleshoot GPS, two-way satellite, and GSM equipment;
+- Troubleshoot RF communications issues between local Zigbee-like
+radios;
+- Develop and maintain processes and procedures for customer support;
+- Read and update mechanical, electrical, and system level drawings;
+- Interface with other company team members in the US and Armenia.","- Bachelor of Science (or equivalent) in Engineering discipline;
+- Proficient with Microsoft Word, Excel, Power Point, WinZip, and
+Acrobat;
+- Ability to travel to Middle East, Europe, and US and obtain applicable
+Visas;
+- Fluently speak, read, and write English language;
+- Accept direction from US based engineering team;
+- Be self motivated and self starting;
+Experience with the following is a plus:
+- UML-2 tools for modeling systems and components;
+- Pro-E for mechanical drawings and modeling.","To apply, please send your resume and cover
+letter to: ra-jobs@..., clearly mentioning the position you are
+applying for in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Impeva Labs, Inc. is a privately-held firm developing
+and providing container monitoring, tracking and security products and
+services. For more information, please visit the company's website:
+www.impeva.com."

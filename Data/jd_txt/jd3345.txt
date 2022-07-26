@@ -1,0 +1,39 @@
+Senior Web Developer,"Dasaran.am is looking for a Senior Web Developer who is
+motivated to work in a fast-paced environment and apply modern
+programming practices for the best user experiences. The responsibilities
+will include translation of UI/ UX design wireframes to an actual code
+that will produce visual elements of the application. The ideal candidate
+will work closely with the UI/ UX Designer(s) and ensure technical
+implementation taking an active role in defining how the application
+works.","- Write a well designed, testable, efficient code by using the best
+software development practices;
+- Ensure the technical feasibility of UI/ UX designs;
+- Integrate JavaScript with the front-end HTML and CSS code;
+- Easily recognize system deficiencies and implement effective
+solutions;
+- Take responsibility to make necessary changes in a live environment;
+- Integrate data from various back-end services and databases;
+- Effectively collaborate with other team members;
+- Provide technical support and assistance when needed;
+- Perform other related duties as assigned.","- In-depth knowledge of modern HTML, CSS, JavaScript and jQuery; 
+- Work experience with PHP and NodeJS is a plus;
+- Basic knowledge of AJAX, XML, MySQL database is an asset;
+- Demonstrable experience of coding websites and using JavaScript;
+- At least 3 years of extensive work experience in web development;
+- Ability to write a clear and well documented code;
+- Aggressive problem diagnosis and creative problem-solving skills;
+- Analytical thinking and multitasking skills;
+- Good knowledge of the English language;
+- BS in Computer Science or a related field.","Qualified candidates should submit their CVs to:
+career@... . Only short-listed candidates will be notified for
+interviews. Please kindly indicate the position you are applying for in
+the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Dasaran.am is an equal opportunity employer.,"Dasaran.am, officially represented by ""Inter School
+Connect"" LLC, is an online school network that connects all schools
+across Armenia in a unified virtual platform with nearly 943.048 users of
+community consisting of school children, parents, teachers and
+principals.
+In 2009 Dasaran.am was the first to introduce e-tools (e-Gradebook,
+e-Planner) into Armenia's school management system."

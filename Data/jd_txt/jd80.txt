@@ -1,0 +1,48 @@
+Web Programmer,"Under general supervision, formulates programming
+strategies, and implements the programming components of multi-profile
+web sites.","- Participates in the overall programming of the web sites; maintains
+the sites, 
+- Scripting, web programming, HTML coding; 
+- Writing high quality code based on implementation specification;
+- Participating in web applications design and development and updating
+the existing websites. 
+- Develops and implements plans to obtain and maintain a high level of
+functionality and usability for the web sites. 
+- Assist in the development and maintenance of standards, procedures,
+and documentation for Web design/content and support functions. 
+- Perform on-call support of sensitive or critical client Web sites and
+performs problem determination and remediation. Troubleshoot problems
+and provide alternatives for problem resolution. 
+- Technical and analytical leadership on software development framework,
+and tool sets.","- Strong knowledge of PHP, MySQL, HTM/HTML, Javascript, XML/XSL. 
+- Knowledge of data structures, database concepts and Action Script is a
+plus.
+- Advanced knowledge and understanding of web-based graphic design and
+layout. 
+- Web planning and organizing skills. 
+- Ability to evaluate new and evolving website technologies. 
+- Knowledge of a comprehensive range of web programming software and
+authoring languages. 
+- Knowledge and understanding of internet operations and functionality,
+and of a wide range of internet programming and design tools. 
+- Web programming experience and portfolio 
+- Possess knowledge of web application programming logic and
+applications development procedures and possess the ability to
+effectively utilize this knowledge.
+- Creation of work using your own innovations and by following the
+guidance of managers and colleagues. 
+- Self-organized and detailed oriented
+- Strong inter-personal and communication skills.
+- Efficient when under pressure
+- Able to work independently
+- Able to multi-task, and adapt to flexible timelines","Only qualified candidates with expert-level
+skills will be considered. Send your properly formatted MS Word resume
+to: studio@....  Please provide a link to your portfolio upon
+submission of resume.  For additional information you may contact Tigran
+Hayrapetyan: +3741 569001, studio@....
+Matit Studio regrets that due to the volume of applications received,
+only candidates called for interviews will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Matit Studio was founded in 1998. The studio provides
+design services."

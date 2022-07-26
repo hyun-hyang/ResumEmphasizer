@@ -1,0 +1,88 @@
+Website Developer  for Ministry of Diaspora,"This document, which incorporates terms of reference,
+provides a principal outlines of the work to be done with a view to
+building an official web site of the RoA Ministry of Diaspora. The
+expected outcome of the work is a web site with a state-of-the-art
+design, which is convenient for visitors from the RoA and the Diaspora
+and which is equipped with a good navigation system, bases of useful
+information, search system and other functional mechanisms.","Under the overall guidance of the Ministry of
+Diaspora and direct supervision of the UNDP ARR, the website developer
+will perform the following:
+- Design/build a multi-lingual (up to 10 languages) web site in such a
+way so as to enable the Ministrys unit in charge of the web site
+maintenance to regulate the number of languages and to constantly
+update, modify and edit the web site news, sections and databases;
+- Provide technical support (corrections, necessary routine changes,
+etc.) for one year after the transfer of the finalized web site to the
+jurisdiction of the RoA Ministry of Diaspora.
+Technical details and output 
+The official web site of the RoA Ministry of Diaspora will be placed on
+one of the servers located in the Office of the RoA Ministry of Diaspora
+at the www.mindiaspora.am address. The server operates as a web server
+using UNIX-based Operating System (Fedora9) and Apache. The database
+will have to be operated through MySQL software. The server side
+scripting has to be done through PHP. The Source Codes: PHP, XHTML,
+JavaScript, etc. will be transferred to the jurisdiction of the RoA
+Ministry of Diaspora.
+The proposed design of the web site will have to be approved by the RoA
+Ministry of Diaspora. Having a state-of-the-art design, this site will
+at the same time have to be content-rich and have interlinked databases
+of texts related to news, organizations, individuals, documents, etc.
+and other information. These databases to be presented in the web site
+as separate sections will have a multi-functional search systems and
+will provide opportunities of most effective and convenient use for
+visitors. 
+The functionality of the use is one of the most important aspects of
+this web site. The interface of the administrative part of the web site
+is no less important. This interface will have to enable the designated
+staff members from various Divisions of the Ministry to constantly input
+and edit data in various databases through the access name and password
+system with varying rights. The same privileges will have to be granted
+to certain groups of visitors who will be duly authorized by the
+designated persons of the Ministry to gain access only to the databases
+related to them.
+The news section of the web site will have to have a news e-mail
+delivery system, which will make it possible to send the web site
+information to various mailing lists of groups of organizations and
+individuals from the databases in various languages, with various
+frequency (hourly, daily, weekly or monthly) and in various formats
+(Doc, HTML, RTF, Text, PDF).
+Information texts should have an automatic system of hyperlinks, which
+will lead to databases of organizations, individuals, documents and
+other texts, if those are mentioned in the text of the information piece
+and vice versa.
+The information should have a system that will show another piece of
+information related to a given piece of news.
+The web site should have a forum and a voting management system.
+Compatibility with other Internet browsers should also be taken into
+consideration.
+Tentative schedule for delivery
+It is expected that the work of building an official web site of the RoA
+Ministry of Diaspora will be implemented in 2 stages:
+1. Stage One: Creation of the web site (elaboration of the structure,
+design, programming, etc.) V about 1 month is allocated;
+2. Stage Two: Technical support for the web site maintenance to be
+provided for one year.","The applicants will be reviewed, if they meet
+the following requirements:
+- At least a 3-year professional experience in this field;
+- Experience of building at least one similar web site (which is
+adequate in scope and nature to the work outlined above);
+- Sufficient experience in the area of web site creation and operation,
+which is adequate in its nature, scope and complexity to the terms of
+reference outlined in this document as well as completed, earlier
+implemented assignments that contain the technical specifications
+required by the TOR;
+- An individual having strong qualifications in the areas of software
+development, web design and network administration who will work under
+the overall supervision of and consultation by the head of the
+department and/or the company Unit and who will work closely with and
+will get specific instructions by an authorized employee of the
+Information and Communications Division of the RoA Ministry of Diaspora.","Applications can be submitted throughhttp://oc.undp.am/?go=vacancies&action=apply&ID=449 link, and
+non-registered users must first get registered at:http://oc.undp.am/?go=vacancies&action=addCV or delivered hard copies to
+the UN House Security Desk, 14, P. Adamyan Str. 
+A complete application form should consist of a CV and copy of
+diploma(s)/certificate(s).
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Only short listed applicants will be contacted.
+Women candidates are encouraged to apply.
+UNDP / UN House is a non-smoking environment.",NA

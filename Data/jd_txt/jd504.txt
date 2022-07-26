@@ -1,0 +1,32 @@
+Programmer,"""LSoft"" Ltd. is actively looking for a Programmer to
+work in complex and long-term projects. The position entails working
+with Oracle and Borland products. The projects will deal with well-known
+customers.","- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Work under general supervision; 
+- Accurately plan software development activities and follow established
+processes;
+- Share knowledge, mentor peers, listen and hear team members
+viewpoints and provide fair evaluation of differing opinions;
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a good command of current technology;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Sciences or a related discipline;
+- Knowledge of C++, Database (Oracle) and Web (PHP, MySql and Apache)
+programs;
+- Practical experience in the area of Informatics or Computational
+Science is desired;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Familiarity with Databases such as Oracle;
+- Knowledge and application of software development methodology;
+- Fluency in Armenian and Russian languages, knowledge of English
+language is a plus; 
+- Desire to learn new technologies.","If interested and meet the above listed
+requirements, please, send your CVs to: lsoft@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""LSoft"" was established in 1995 and is a software
+development company engaged in design and development of applications in
+the sphere of Banking and Financial Industry."

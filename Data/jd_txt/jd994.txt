@@ -1,0 +1,35 @@
+Senior Silverlight/ ASP.NET/ C# Developer,"AltaCode is seeking a developer for developing,
+maintaining and supporting companys internet/intranet sites and
+applications; assisting to solve technical issues associated with
+clients internet web sites; participating in the development of
+Silverlight based (Silverlight 2/WPF) web applications.","- Develop software using .NET;
+- Be responsible for project architecture design;
+- Be responsible for dedicated server and clients configuration;
+- Research work when required;
+- Follow team lead, system architecture and Tech Lead in designing the
+systems.","Must have good Concepts of OOP and work experience with the following:
+- Experience in designing and implementing secure web sites using
+encryption and authentication technologies; 
+- Strong working knowledge of C#.NET, SQL (Microsoft SQL 2000/2005),
+.NET framework 2.0/3.5, TFS, IIS 4.0 and later, Windows XP/2000
+environment, ASP.NET, HTML, and JavaScript;
+- 5+ years of software development/programming experience with Microsoft
+platform tool sets and excellent knowledge of web-related programming and
+systems analysis procedures;
+- Good understanding and analytical skills;
+- Ability to feel comfortable to adapt new innovative tools and
+technologies;
+- Willingness to learn and incorporate software development Best
+Practices;
+- Hands on experience with latest technologies such as Linq, WCF, WPF,
+Silverlight, Ajax;
+- Proven experience with architecture and development of multi-tier
+distributed applications;
+- Demonstrated ability to work collaboratively with others to achieve
+common objectives;
+- Ability to work in a team environment.","Please email your Cover Letter and resume to:resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Only those candidates having working knowledge of
+Silver Light will be considered.","Altacode LLC is an Armenian-based software development
+company working for US market of information technologies."

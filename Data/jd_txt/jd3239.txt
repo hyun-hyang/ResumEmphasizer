@@ -1,0 +1,39 @@
+iOS Developer,"Energize Global Services CJSC is looking for iOS
+Developers (mid and senior level) who possess a passion for pushing
+mobile technologies to the limit and who will work with the Company's
+team of engineers to design and build the next generation of mobile
+applications.","- Design and build advanced mobile banking/ commerce and other business
+related applications for the iOS platform;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Responsible for unit-testing of a code for robustness, including edge
+cases, usability, and general reliability;
+- Work on bug fixing and improving the application performance;
+- Discover (continuously), evaluate, and implement new technologies to
+maximize development efficiency.","- BS/ MS degree in Computer Science, Engineering or a related field;
+- At least 3 years of experience in iOS development;
+- Deep familiarity with Objective-C and Cocoa Touch;
+- Availability of having published one or more iOS apps in the app
+store;
+- Experience of GUI design and development;
+- Work experience with iOS frameworks such as Core Data, Core Animation,
+Core Graphics and Core Text;
+- Good working knowledge of Xcode;
+- Knowledge of the Swift language;
+- Experience with third-party libraries and APIs;
+- Working knowledge of the general mobile landscape, architectures,
+trends, and emerging technologies;
+- Solid understanding of the full mobile development life cycle;
+- Ability to work on competing priorities and adapt to changes in the
+project scope;
+- English language proficiency in both written and verbal communications.","If interested, please email your last updated
+and detailed resume to: hr@... . Please indicate ""iOS
+Developer"" in the subject line of your email, otherwise your resume will
+not be reviewed. Only short-listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Business trips are also available to Europe (France,
+Spain, etc).","Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

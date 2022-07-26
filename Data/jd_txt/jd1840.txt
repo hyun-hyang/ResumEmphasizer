@@ -1,0 +1,26 @@
+Web Developer,"The Web Developer will be responsible for development,
+continuation and follow-on enhancements of internal web site and MySQL
+database.","- Develop, test and maintain internal web site in PHP/ MySql and
+Javascript/ AJAX code; 
+- Read, understand and modify the existing code;
+- Design Mysql database structure; 
+- Participate in project planning.","- Bachelor's degree in Computer Sciences or a related field; higher
+degree is a plus;
+- At least 2 years of work experience with the following technologies:
+HTML/ CSS, JavaScript, AJAX, PHP, cakePHP or other frameworks;
+- Experience in object oriented programming/ modular programming; 
+- Understanding of MVC design patterns and frameworks;
+- Knowledge of SQL/ MySQL and database design/ modeling;
+- Understanding of browser specific compatibility issues;
+- Knowledge of Apache server configuration/ administration is a plus;
+- Knowledge of Linux command line is a plus;
+- Ability to work both as an individual and as a part of a team; 
+- Good written and verbal skills in English language;
+- Ability to learn quickly.","Please submit your detailed CV in English to:Mariana.Hovsepyan@... indicating the position in the subject
+line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys Inc. For more information, please
+visit: www.synopsys.com."

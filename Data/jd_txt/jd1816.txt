@@ -1,0 +1,47 @@
+IT Specialist/ System Administrator,"The IT Specialist will perform IT related duties,
+including Moodle system administration and website maintenance. He/ she
+will work closely with all departments to ensure technology
+interdependencies are orchestrated and practical for meeting operational
+objectives. The incumbent should be knowledgeable about available IT
+products and developments and be committed to providing quality services.","- Responsible for system administration, including required modules'
+installation and regulation;
+- Responsible for maintaining databases;
+- Provide high quality system administration within the office network;
+- Maintain AVC website,
+- Participate in software design meetings and analyze the needs to
+determine technical requirements;
+- Design and develop high-quality codes;
+- Test, debug, analyze and fix application problems/ issues;
+- Interact with internal and external stakeholders to understand their
+needs and provide corresponding support or resolve program problems;
+- Perform other duties and projects as assigned.","- Graduate degree in Computer Science or equivalent;
+- Good knowledge of networking concepts;
+- Proficiency in web development and maintenance;
+- Good knowledge in database development techniques;
+- Knowledge of software development methodologies and software
+development lifecycle;
+- Ability to provide solutions to a variety of technical problems of
+moderate scope and complexity independently;
+- Strong technical, analytical and interpersonal communication skills;
+- Effective verbal and written communication skills; effective customer
+service skills,
+- Proficiency in English language;
+- Ability to work independently or within a team environment and handle
+multiple projects simultaneously;
+- Experience with software application development and network
+administration;
+- Experience with JavaScript frameworks, PHP, HTML, SQL, Moodle 1.9x and
+2.x or equivalent and CSS3;
+- Proficiency in databases development and maintenance.","Interested candidates are invited to
+electronically submit a cover letter and CV to career@... . The
+deadline for submitting resumes is April 25 2012, 18:00.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Established in 1906, AGBU (www.agbu.org) is the world's
+largest Armenian non-profit organization. Headquartered in New York, AGBU
+preserves and promotes the Armenian identity and heritage through
+educational, cultural and humanitarian programs, serving some 400,000
+Armenians in 37 countries. AVC (www.avc-agbu.org) is the newest on-line
+learning institute of AGBU which focuses on helping distant learners
+acquire basic knowledge in Armenian Studies through certificate programs
+and credit-bearing courses in college level."

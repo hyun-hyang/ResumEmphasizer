@@ -1,0 +1,34 @@
+Java Developer,"Workfront is a technology company that needs a
+motivated and talented Java Developer.","- Design, collaborate and execute on amazing software features in the
+SaaS ecosystem;
+- Learn continuously from other team members and peers how to drive a
+career;
+- Perform software development, test case development and usability of
+products;
+- Enjoy coming to work everyday and be aware of being an integral part of
+the Company's future and success.","- Bachelor's degree in Computer Sciences or a related discipline;
+- At least 3 years of experience in an application development position;
+- At least 2 years of professional work experience as a Java Developer in
+J2EE;
+- Familiarity with the industry technology and frameworks encompassing
+SQL, JSON and REST;
+- Agile software development experience is a plus;
+- Advanced knowledge of OOP and OOD;
+- Experience with web frameworks such as Spring and JSP/ Servlets;
+- Excellent communication, interpersonal, problem-solving and
+relationship management skills;
+- Ability to work on multiple tasks and prioritize the personal
+workload;
+- Detail-oriented personality and self-starter;
+- Experience with JBoss, Selenium, Oracle, MySQL, Maven, Git, GitHub,
+JPA, ORM including Hibernate/ EclipseLink, JMS and ActiveMQ continuous
+integration/ delivery will be a plus;
+- Experience in team-centric software development and high performance
+software delivery in a team will be a plus.","All qualified and interested candidates should
+submit their CVs/ resumes online at: http://grnh.se/07vsct. Only
+short-listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Workfront is a cloud-based Enterprise Work Management
+solution company based in Utah. For more information, please visit:
+http://www.workfront.com"

@@ -1,0 +1,22 @@
+Senior Java Developer,"Firmplace Corporation is currently looking for a
+Senior Java Developer, preferably experienced with Oracle Fusion
+development suite.","- Participate in development of new projects;
+- Design and implement solutions according to business requirements;
+- Participate in a variety of meetings with customers and team;
+- Keep track of lessons learned and share those lessons with team
+members.","- Deep knowledge and skills in the UNIX/ LINUX;
+- Practical experience in JAVA-based Web-applications, J2EE, JSP/ JSF,
+Eclipse/ JDeveloper;
+- Knowledge of BEA WebLogic/ JBoss Application Server;
+- Knowledge of Oracle Database, PL/ SQL;
+- Experience in	UML, RUP, RAD or EXP; 
+- Knowledge in SAO, EAI and Business Rules Management Systems is a
+plus;
+- Desire to work in a challenging environment and to learn new
+technology skills;
+- Good written and spoken English language;
+- Strong communication skills.","To apply for this position, please send your CV
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

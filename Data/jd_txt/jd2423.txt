@@ -1,0 +1,33 @@
+Senior PHP Zend2 Developer,"Ginosi Corporation is looking for a Senior PHP Zend2
+Developer with strong knowledge of JavaScript and basic HTML. The
+incumbent will report and be mentored directly by the CTO. The software
+stack that he/ she will monitor and maintain has 3 key components: a
+Backoffice where all the business logic lives, a Website for direct sales
+and an API for partner integration and connectivity.","- Set up sites in PHP and develop software;
+- Develop the application with Zend Framework 2 and according to coding
+standards (MVC);
+- Build websites to XHTML/CSS standards;
+- Responsible for cross-browser display and technical testing;
+- Deploy sites to multiple server in a Linux/ LAMP setup;
+- Create and improve architectural decisions;
+- Responsible for documentation;
+- Maintain the software.","- University diploma;
+- At least 3 years of full time web development work experience;
+- Knowledge of SVN, SCRUM, scripting automation, caching;
+- Strong PHP, MySQL, JavaScript and jQuery skills;
+- Reasonable level of knowledge of XHTML and CSS;
+- Solid understanding of LAMP setup and development;
+- At least some knowledge and comfort working with Ubuntu Operating
+System.
+- Strong communication skills and attention to detail will be a plus;
+- Experience of using an MVC framework, OOP and algorithms will be a
+distinct advantage.","Interested applicants must apply using the
+web-form of the company which can be found at:    https://docs.google.com/a/ginosi.com/forms/d/1p79L378v14p-Sq5Z-Dt09Ek_yfnq4fULatcvjOfUWz8/viewform
+and submitting a corresponding resume to: seniorphp@... .
+Submitted resumes without the completion of the online form will be
+disregarded.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ginosi Corporation is an international short-stay
+apartment rental company offering visitors residential apartments as
+alternatives to hotels."

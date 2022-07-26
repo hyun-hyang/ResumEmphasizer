@@ -1,0 +1,32 @@
+Database Developer,"Working with local and global teams, the role will
+initially be to support the operational aspects of the technology
+platform, shifting to extending the application over time. The role will
+also include working closely with the local and remote teams to guide the
+delivery of changes from other local team members.",NA,"- Strong experience with SQL Server and Transact-SQL;
+- Work experience with stored-procedures and complex database
+structures;
+- Passion, enthusiasm and attention to detail;
+-.Net development skills, preferably in VB.Net;
+- Ability to work in a delivery-focused environment;
+- Responsible and committed to deadlines person;
+- Self-motivated and prepared to work without direct supervision;
+- Good written and verbal communication skills;
+- Ability to be a morning person, to work with the company's Australian
+team;
+- Good English language skills;
+- Experience with Microsoft TFS is a plus;
+- Experience in financial systems, particularly stocks or securities is a
+plus;
+- Ability to travel to Australia and the United Kingdom.","Qualified candidates may submit their CVs in the
+English language to: aida.odabashyan@... . Only short-listed
+candidates will be notified for interviews. Please kindly indicate the
+position title ""Database Developer"" in the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The company address is Armenia, 0070, Yerevan, Alex
+Manoogian Street, 9 Building.","Praemium RA has offices in Australia, the UK, Jersey,
+Armenia, Hong Kong and Shenzhen. The company administers in excess of
+300,000 investor accounts covering approximately 80 billion dollars in
+funds globally, and currently provides services to approximately 700
+financial institutions and intermediaries. Find more at:
+www.praemium.com.au."

@@ -1,0 +1,40 @@
+IT Specialist/ System Administrator,"Hovnanian International LTD is currently looking for a
+young
+energetic specialist to fulfill the position of IT Specialist.","- Maintain and administer the network;
+- Lead in Network design for Internet, VoIP and Fixed Phone, Security
+Services project for the whole community;
+- Perform LAN Administration: create and modify user accounts and
+privileges/ rights (for network and exchange); manage disk space, printer
+queues, and internet connection; update antivirus and all necessary
+software and definition files;
+- Maintain office computers and network equipment, fix software, server
+and related problems;
+- Provide helpdesk services and monitor system performance;
+- Ensure stability, security and reliable operation of the systems;
+- Perform File Server backup;
+- Perform weekly full backup, daily incremental on file server, monthly
+backups of file server and users data;
+- Update the website;
+- Assist the office in the physical inventory of all equipment and
+software (PCs, laptops, printers, etc.);
+- Assist with purchase and installation of computers and software;
+- Perform other duties as assigned by the management.","- University degree in a technical field (preferably IT);
+- At least 5 years of experience in network maintenance and
+administration;
+- Strong knowledge of networking and telecommunications (is a plus);
+- Knowledge of Windows 2008 R2 Server deployment and administration,
+Active Directory, Microsoft  Exchange Server, Forefront Threat Management
+Gateway, SQL Server and Symantec Endpoint Protection; 
+- Strong knowledge of TCP/ IP, DHCP, DNS, FTP, HTTP and SNMP, IMAP,
+POP3;
+- Fluency in Armenian and English languages;
+- Ability to work under pressure and meet deadlines;
+- Excellent interpersonal skills;
+- Ability to work under minimum supervision;
+- Good team player.","Please email your CV with photo and
+recommendation letter from previous work places, to: info@... .
+Only short-listed candidates will be contacted. No personal visits,
+deliveries or phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

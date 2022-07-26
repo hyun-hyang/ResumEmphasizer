@@ -1,0 +1,18 @@
+PHP Programmer,"WIC Group is looking for a qualified PHP Developer who
+will work from Armenia as a part of a team designing, developing and
+maintaining applications.",NA,"- At least 2 years of proven work experience in PHP (5.0 and on)
+development, design and coding;
+- Knowledge of and experience in Symfony web PHP framework is an
+advantage;  
+- Demonstrated success in working in a team-based environment;
+- Proven knowledge or experience in MySql based application design and
+development, including highly complicated SQL commands;
+- Solid software engineering fundamentals;  
+- Good understanding of web and client-server architectures;
+- Independent, autodidact and a fast learner;
+- Good knowledge of verbal and written Russian and English languages;
+- Excellent communication skills.","Please send your CV in English to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"WIC Group is an Israeli based Telecommunication and Media
+company which distributes its digital products all over the world."

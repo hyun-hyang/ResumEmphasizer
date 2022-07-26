@@ -1,0 +1,16 @@
+Website Developer,"Truely International is seeking a Website Developer to
+program good, clean, understandable code. This is a Project work to be
+done from home. The candidate should be creative, do his/her best, ask
+questions, think and make suggestions.","- Build a very basic website;
+- Host the website somewhere;
+- Small database behind it to store may be 100.000 very basic customer
+data sets (name, address, email address, etc.);
+- Build powerful mass newsletter emailing tool;
+- Implement a credit card processor;
+- May be a basic affiliation program.","- Excellent knowledge of website development;
+- Good knowledge of PHP is a plus;
+- Good command of the English language.","Please send a short application letter in
+English to Mr. Michael Fisher at: truelyinternational@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Truely International is a new trade show company.

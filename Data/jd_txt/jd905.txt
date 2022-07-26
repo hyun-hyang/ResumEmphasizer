@@ -1,0 +1,43 @@
+Software Development Manager,"LinkGard Systems is seeking a highly experienced
+Software Development Manager that can manage many concurrent software
+development projects (both in-house and external). The position requires
+both technical depth as well as experience with many different
+technologies, such as Java, C++, .NET, and Objective C.","- Estimate/plan development projects in conjunction with other
+developers/experts;
+- Participate in all stages of the software development life-cycle;
+- Prepare documents and diagrams for programming work;
+- Develop and fine-tune the LinkGard software development methodology as
+well as consistently execute the methodology;
+- Help the organization improve ratings based on a capability-maturity
+model (i.e. CMMI);
+- Work with HR to recruit new team members based on current need;
+- Build up a list of in-house skills and resume-database for all
+employees that is available for review by management;
+- Identify growth and learn opportunities by:
+a) identifying conferences/seminars that can be attended by employees;
+b) identifying trainings to conduct locally by foreign or local
+experts;
+c) ordering books/magazines for developers to further their technical
+skills.","- Master's degree or PhD preferred in a software-related field;
+- 7+ years of experience in software development;
+- 5+ years of experience in design and development of large enterprise
+applications;
+- 4+ years of experience in the following: .NET/ Java/ C++
+(Windows/Linux);
+- Strong background with relational database design and SQL;
+- Strong background object oriented analysis and design;
+- Experience with SOA, ESB, Web Services, WSDL;
+- Experience managing technical resources and leading a team;
+- Experience with building project plans and estimating development
+tasks;
+- Ability to take ownership and manage multiple tasks and competing
+priorities;
+- Experience with standard development processes such as RUP, agile
+development, test driven approach to development;
+- Ability to travel to and from Unites States, UK, and other countries;
+- Experience on the Mac OS X platform is a big plus.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (LG040)
+in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

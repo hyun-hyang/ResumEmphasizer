@@ -1,0 +1,23 @@
+Database Architect,"DB architect is responsible for making decisions on
+overall DB architecture issues. The person also assists QA team in DB
+related load tests, performs performance tuning, and develops long-term
+DB strategy.","- Propose database architecture 
+- Act as a database mentor for all of our teams 
+- Development in the area of databases 
+- Performance tuning in the area of databases","- At least 5-year experience in MySQL and/or Oracle databases including
+SQL, performance tuning (HW/SW), installation, and other DBA tasks 
+- Experience in high loaded databases 
+- Experience in UNIX/Linux operating system including TCP/IP (2 years) 
+- At least 2-year experience in structured Java server-side software
+development 
+PREFERRED QUALIFICATIONS:
+Experience of working with Internet applications","Send your CV to info@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Armenia currently employs 71 employees. Since
+there is a growing demand by our European development offices we are
+actually engaging new staff and plan to employ 100 employees at the end
+of the year. Additionally Lycos Armenia is building up an operations
+department, the plan is to have 20 employees before the end of the year.
+Many Lycos products are partly or fully programmed in Armenia.
+We are located at 9 Alek Manookian Str."

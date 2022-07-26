@@ -1,0 +1,19 @@
+C# .NET Developer,"CompatibL is seeking motivated C# .NET developers for
+designing and implementing software solutions for financial
+institutions.","- Develop sophisticated applications for financial clients together with
+a team of quantitative analysts;
+- Understand the specifications and client requirements and implement
+them in the .NET platform;
+- Provide technical support and assistance as required.","- Deep knowledge of the .NET platform and experience implementing .NET
+projects;
+- Familiarity with WinForms, Remoting, Microsoft Enterprise Library is a
+plus;
+- Good knowledge of technical English language and fluent knowledge of
+Russian;
+- Ability to effectively work under strict deadlines and in a team
+environment.","If interested, please email your detailed CV in
+English to: jobs.am@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CompatibL is a US software company. For more information
+see the company website: www.compatibl.com."

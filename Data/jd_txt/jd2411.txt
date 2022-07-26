@@ -1,0 +1,50 @@
+IT Specialist,"Under overall supervision of CARD ICT Manager, the
+incumbent will be responsible for maintaining CARD LAN and servers,
+administering operations of computers, printers and other office
+equipment, providing ICT support to CARD staff and ensuring smooth work
+of all components of CARD ICT infrastructure.","- Ensure smooth operation of CARD ICT infrastructure, including LAN,
+servers, Internet and e-mail access;
+- Support corporate users in their day-to-day operations; provide
+technical assistance to the personnel regarding all IT-related issues;
+- Install OS, drivers, other office software packages and applications on
+office computers, troubleshoot software related issues;
+- Ensure the effective functioning (installation, operation and
+maintenance) of all computers, printers and other ICT hardware;
+- Assist in server installation, system administration, LAN architecture
+planning and other ICT development tasks;
+- Assist in the maintenance of CARD websites, insure their smooth
+operation and security;  
+- Participate and assist in different projects.","- University degree in Information Technologies or close fields;
+- At least 2 years of experience as an ICT Specialist, Network
+Administrator, ICT Helpdesk;
+- Excellent knowledge of user level ICT support including OS Windows and
+MS Office installation and maintenance; 
+- Knowledge of Windows based system administration, Active Directory,
+DHCP, user rights and group policies;
+- Basic understanding of LAN/ Internet architecture, TCP/ IP routing,
+DNS, gateways, firewalls, mail and web servers working principles;
+- Knowledge of MS Exchange Server, AS Bank software, 1C, IP PBX, Cisco
+routers and firewalls, VPN technologies is a plus;
+- Basic knowledge of web development technologies, HTML, JavaScript,
+PHP;
+- Good knowledge of English language, at least at the technical reading
+and writing level;
+- Strong analytical skills; 
+- Excellent communicative skills;
+- Ability to work under time pressure and implement several tasks
+concurrently.","Interested candidates are asked to send a CV,
+highlighting the experience with the names of the 3 references, and a
+cover letter to: cardjobs@... , or deliver a hard copy to CARD office
+at: Azatutyan ave. 1/21, 40, Yerevan, 0037. Please clearly indicate in
+the subject line of the application letter IT Specialist or else the
+application will be disregarded. No phone calls, please. Only selected
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CARD is an impact-based organization originating from the
+United States Department of Agricultures 12-year Marketing Assistance
+Project providing economic development solutions in the Caucasus. CARD is
+dedicated to reducing rural poverty and increasing the standard of living
+of its clients by offering a comprehensive, integrated package of market-
+and farmer-driven services, including marketing, rural development and
+credit."

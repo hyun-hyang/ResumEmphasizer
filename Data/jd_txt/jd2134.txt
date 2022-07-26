@@ -1,0 +1,16 @@
+C# Senior Developer,"The specialist must have experience in object oriented
+programming and developing client server applications.","- Analyze new software requirements;
+- Perform object-oriented analysis, design and testing;
+Receivable includes: technical requirements documents, use cases and
+diagrams, class diagrams, activity diagrams, package diagram and project
+estimates.","- At least 3 years of work experience in C#, development and optimization
+technology;
+- Knowledge of C#, ASP.NET, SQL and MS SQL Server;
+- Knowledge of WCF, Socket and HTTP;
+- Problem-solving and decision-making skills;
+- Ability to work in a team.","Interested candidates are encouraged to submit a
+CV to: career@... with a note of ""C# Senior Developer"" in the
+subject line. Applications' privacy and confidentiality are guaranteed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

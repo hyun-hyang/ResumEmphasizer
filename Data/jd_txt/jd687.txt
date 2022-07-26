@@ -1,0 +1,20 @@
+Senior Software Developer,"The Senior Software Developer will be engaged in Web
+applications development. He/she will be responsible for application
+design, development and technical documentation preparation.","- Work as a part of team on Web applications;
+- Propose and document technical solutions for the given task;
+- Implement code team software engineers code revision;
+- Evaluate team software developers technical solutions.","- BS or MS in Computer Science or related field;
+- At least 2 years of work experience in software engineering;
+- Expert knowledge of object oriented programming and design patterns;
+- Strong knowledge of ORACLE, MySQL, MSSQL Databases;
+- Knowledge of PHP, HTML/DHTML, XML, CSS, JavaScript;
+- Knowledge of Java is a plus;
+- Good knowledge of English language;
+- Ability to work under pressure;
+- Ability to work in the team;
+- Completion of a military service (for male candidates).","All interested candidates should submit their
+resumes to: web@.... Please mention in the subject line
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

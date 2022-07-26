@@ -1,0 +1,45 @@
+Lead Software  Engineer (EDA),"The Lead Software  Engineer will lead small to large
+scale projects from EDA software development spheres through all stages
+of the software development life cycle, from requirements gathering to
+implementation and testing.","- Prepare project schedule, define development, testing and documentation
+activities;
+- Estimate technical challenges, development time-line and risks;
+- Collaborate with team members on gathering project requirements, design
+interface and functionality and producing written requirements
+description document, software specifications and testing plan;
+- Lead the software development, testing and documentation activities
+according to project requirements and guidelines;
+- Release and deploy the project, provide post-release and maintenance
+support, including improvements identification, bug reporting/ fixing and
+communication;
+- Communicate with top management and customer and organize meetings and
+conference calls per need.","- MA degree in Computer Science or in a similar discipline;
+- At least 5 or more years of experience in EDA software development;
+- At least 2 or more years of experience in leading/ managing software
+projects;
+- Knowledge of Software Development Processes and Methodologies;
+- Knowledge of Object Oriented Programming, Generic Programming and STL;
+- Knowledge of Digital, Analog and Mixed design;
+- Familiarity with hardware design;
+- Knowledge of GNU/ Linux architecture and  development environment
+(build system and scripting);
+- Good analytical skills;
+- Strong sense of responsibility;
+- Ability to produce high quality projects and provide customer support
+and maintenance;
+- Ability to lead multiple teams and establish priorities while
+maintaining attention to detail and delivering high levels of quality and
+productivity;
+- Good oral and written communication skills;
+- Excellent time management skills and ability to thrive in a fast-paced
+and startup environment;
+- Excellent organizational skills and attention to details;
+- Knowledge of Open Access is desired.","Interested candidates should send their resumes
+in PDF format to: job@... . Please mention the title of
+the position you are applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate are in the USA and EU."

@@ -1,0 +1,30 @@
+Java Web Developer,"Numetrics Management Systems Inc.-Armenian Branch is
+seeking Java Web Developers for development of features for its products.","- Implement Java/ J2EE based, database driven web application;
+- Develop software components that fit into layered application
+framework, including user interface, business logic and back-end service/
+data access components;
+- Participate in team meetings;
+- Work with other engineers, Product Management and QA teams to develop
+innovative solutions that meet business needs with respect to
+functionality, performance, scalability, reliability and realistic
+implementation schedules.","- Bachelor's or Master's degree in Computer Science or Applied Math;
+- At least 1 year of combined experience in Java, OO concepts, Data
+structures and XML;
+- Knowledge of Java frameworks like Struts, Spring and Hibernate is an
+advantage;
+- Knowledge of Database driven application development and SQL; knowledge
+of Oracle is preferred;
+- Familiarity with HTML, CSS, JavaScript and AJAX development;
+- Experience in source code management is an advantage; knowledge of CVS
+is preferred;
+- Experience in working with distributed teams is an advantage;
+- Good analytical and problem solving skills;
+- Good verbal and written English communication skills.","All interested and qualified candidates are
+welcome to send their CVs to: vasilb@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Numetrics Management Systems Inc. provides a suite of
+enterprise resource planning (ERP) software to semiconductor companies.
+More details can be found at: www.numetrics.com."

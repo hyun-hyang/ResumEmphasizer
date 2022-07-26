@@ -1,0 +1,24 @@
+C# .NET Developer,"AtTask is looking for C# .NET Developers with
+experience in developing plug-ins for MS Outlook to assist in the
+development of its project management application at Yerevan office.","- Develop and maintain C#. Net desktop applications;
+- Develop and maintain MS Office Add-in applications;
+- Perform software development and test case development;
+- Work in an agile project framework.","- Undergraduate degree in Computer Sciences or a related field;
+- English language speaking skills;
+- At least 3 years of relevant experience;
+- At least 3 years of C#. NET specific experience;
+- Important skills: .NET framework (C#), WPF or Silverlight;
+- Other valued skills: knowledge of Outlook Object Model, COM, MAPI;
+- Experience in an Agile environment is a plus;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to communicate well with operations and technology;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Detail-oriented personality and self starter.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 0514"" in the subject line of the email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company, visiting: www.attask.com."

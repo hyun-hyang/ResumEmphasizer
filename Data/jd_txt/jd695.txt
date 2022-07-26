@@ -1,0 +1,21 @@
+Systems Administrator,"Inecobank CJSC is looking for experienced candidates
+to fill the position of Systems Administrator.","- Ensure the Linux servers run optimally, working proactively to
+pre-empt any problems; 
+- Ensure data is backed up according to agreed schedules;
+- Write shell scripts to accomplish routine tasks; 
+- Assess and maintain system security; 
+- Maintain users; 
+- Install new servers; 
+- Monitor, maintain and supervise network performance; 
+- Produce files to send to third parties as required. 
+The above duties are not an exhaustive list and the job holder will need
+to be flexible.","- Higher Technical education (preferably in IT sphere);
+- 2 years of experience in network maintenance and administration;
+- Knowledge of Microsoft Windows 2000/XP/2003 is preferred;
+- Discipline skills;
+- Ability to work with minimal supervision to tight deadlines;
+- Experienced team player with flexible approach.","To apply please send your resume tohr@.... Please put ""Systems Administrator"" in the subject line
+of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

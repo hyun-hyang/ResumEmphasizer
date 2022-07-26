@@ -1,0 +1,44 @@
+Senior .NET Software Engineer,"As a Software Engineer for Metakortex Netsoft USAs
+Armenia office, the candidate will work on creating solutions with
+Microsoft technologies with an award winning team that is distributed
+between the USA and Armenia. In a fast paced business environment, the
+right candidate will have the ability to work with and learn different
+technologies and deliver with minimal supervision while maintaining a
+high level of enthusiasm and professionalism.","- Design and develop web based applications on Microsoft technologies,
+using proven patterns and best practices;
+- Create and extend SharePoint solutions for internal and public
+applications;
+- Configure and maintain existing .NET applications;
+- Work very closely with the Netsoft team distributed across USA and
+Armenia;
+- Identify and communicate different design/ development options to the
+rest of the team;
+- Communicate directly with Netsoft clients to discuss technical
+solutions and options.","- Minimum 4+ years of experience in developing solutions on the .NET
+framework;
+- 3+ years of experience in developing ASP.NET applications;
+- Excellent communication skills in English language;
+- Understanding of the Windows platforms 2003/2008;
+- Very good understanding of installation/ configuration of IIS;
+- Experience in SharePoint 2007 integration and development using .NET;
+- Deep understanding of the .NET framework;
+- Understanding of WebForms, MVC, jQuery, AJAX Architecture and HTML;
+- Working knowledge of unit testing;
+- Working experience with source control systems.
+Desired Qualifications:
+- Master's in Computer Science;
+- MCTS or MCPD in .NET 3.5.","Please send your resume to: pm@.... 
+Please clearly indicate Software Engineer in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Being a partner of Microsoft, Netsoft USA offers
+extensive training and career development through Microsoft Technical
+Training courses as well as those provided by other training centers and
+on the job mentoring.","Netsoft USA www.netsoft-usa.com, an established and
+growing New York area firm developing IT-Based Services and Solutions
+seeks an experienced software engineer to contribute to continued
+expansion of its Armenian office and to help meet the needs of its
+rapidly growing business. As part of the award-winning technical team,
+this opportunity offers a fun environment to work in, challenging
+projects and a great learning experience."

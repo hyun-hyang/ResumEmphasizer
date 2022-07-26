@@ -1,0 +1,24 @@
+Software Development Manager,"The role requires management and hands-on technical
+leadership of a team of up to 30 people, working concurrently on
+multiple components of multiple projects.","- Manage the team;
+- Define, maintain, oversee and enforce engineering processes;
+- Provide project leadership for key projects;
+- Train and mentor project leaders;
+- Take responsibility for release dates, milestones and budgets.","- Excellent communication skills;
+- Excellent written and verbal communication skills in English
+language;
+- MSc or equivalent university degree in Computer Science;
+- Software development leadership experience;
+- Software design and architecture of client/server internet systems;
+- Software development of client/server systems;
+- Expert-level knowledge of Java and/or C/C++;
+- Excellent understanding of project management,
+including project management tools, object-oriented design and
+development methodologies, source control, revision control and release
+methodologies, quality assurance processes, technical support.","Please send your CV with contact details to:jobs@... or call Vahe by: (374 93) 54-48-74. Please indicate
+the position title you are applying for in the subject of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"APG is a wholly-owned subsidiary of LVFH, a gaming
+software developer, based in Vancouver, Canada. LVFH is a public
+company."

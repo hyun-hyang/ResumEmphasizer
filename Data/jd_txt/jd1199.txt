@@ -1,0 +1,37 @@
+Software Architect,"Numetrics Armenia is looking for a Software Architect
+who will be responsible for architectural and 'big picture' oversight
+for development of new or existing products primarily in a J2EE
+environment, including Struts, Spring and Hibernate. S/he will work with
+various Product Developers, Product Managers and Customer Application
+Experts to design system architecture that will facilitate business
+processes through the use of technology.","- Design and implement Java/J2EE based, database driven web
+application;
+- Design and develop software components that fits into layered
+application framework, including user interface, business logic and
+back-end service/ data access components;
+- Participate in design discussions, code reviews and project related
+team meetings;
+- Work with other engineers, Product Management and QA teams to develop
+innovative solutions that meet business needs with respect to
+functionality, performance, scalability, reliability and realistic
+implementation schedules.","- BS in Computer Science or Applied Math, Master's degree is preferred;
+- 5+ years of combined experience in Java, J2EE, Design Patterns, OO
+concepts, Data structures, XML and 2+ years as an Architect or Lead
+Developer;
+- Experience in following Java frameworks: Struts, Spring and
+Hibernate;
+- Experience in Database driven application development (Oracle
+preferred) and SQL;
+- Familiarity with HTML, CSS, JavaScript and AJAX development;
+- Experience in application server administration (WebLogic preferred),
+source code management (CVS preferred) and release management;
+- Experience in working with distributed teams;
+- Good analytical and problem solving skills;
+- Good verbal and written communication skills (in English language).","Please e-mail your detailed CV in English
+language to: vasilb@... indicating the position title in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Numetrics provides a suite of enterprise resource
+planning (ERP) software to semiconductor companies. For more
+information, please visit: www.numetrics.com."

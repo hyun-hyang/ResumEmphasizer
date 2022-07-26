@@ -1,0 +1,36 @@
+Java Developer,"The Java Developer will be responsible for the creation
+and implementation of a wide variety of Web-based products using PHP,
+JavaScript, MySQL and AJAX.","- Write clean and well-engineered code that comply with accepted
+standards, and test web applications;
+- Understand the goals and strategy behind each project from conception
+through completion;
+- Communicate effectively with project managers, technical leads and
+other internal team members;
+- Identify opportunities for process improvement and make constructive
+suggestions for change;
+- Participate in a team-oriented environment to develop complex web-based
+applications; 
+- Maintain existing codebase, to include troubleshooting bugs and add new
+features.","- University degree in Computer Sciences, Mathematics or a related
+discipline;
+- Over 4 years of work experience in software development;
+- Strong JAVA SE knowledge;
+- Experience with Struts2, Spring and iBatis;
+- Experience in writing multi-threaded applications;
+- Familiarity with JavaScript/ HTML/ CSS;
+- Extensive experience in using object-oriented methodologies/ languages
+and development of multi-tier, distributed systems;
+- In-depth knowledge and production experience in working with relational
+databases (MYSQL and Oracle);
+- Experience in working with large databases and datasets is a plus;
+- Experience in working with Linux/ Unix platforms is a plus;
+- Experience in tuning the systems for getting high-performance and
+reliable solution is a plus.","Please, submit CVs to: info@... , clearly
+mentioning in the subject line the position you are applying for. Only
+shortlisted candidates will be contacted for further interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"E-Governance Infrastructure Implementation Unit CJSC
+(EKENG) was established in 2009 by the Government of the Republic of
+Armenia and is responsible for the technical implementation of e-Society
+in Armenia. For more information, please visit: www.ekeng.am."

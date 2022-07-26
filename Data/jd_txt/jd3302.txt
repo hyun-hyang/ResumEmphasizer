@@ -1,0 +1,28 @@
+Senior iOS Developer,Seven Smarts LLC is looking for a Senior iOS Developer.,"- Develop an iOS mobile application;
+- Optimize iOS messaging and communication with REST APIs;
+- Closely follow the updates announced by Apple for the iOS platform;
+- Participate in application design, architecture and development;
+- Work closely with the server team to define new features and
+capabilities;
+- Develop a code structure that can be easily compiled for multiple
+devices;
+- Participate in code and test plan reviews;
+- Participate in or lead team meetings to help improve the development
+process.","- At least 3 years of experience with iOS application development;
+- Knowledge of Cocoa, iOS SDK, XCode and XCTest;
+- Heavy experience with Objective-C and C++ using Cocoa or other
+frameworks;
+- Familiarity with JSON, REST, HTML and JavaScript is a plus;
+- Previous experience in writing unit tests and a testable code;
+familiarity with the iOS unit test framework;
+- Possession of previously deployed applications in the Apple iPhone App
+Store;
+- Strong planning and communication skills;
+- Bachelor or Master's degree in Computer Science or equivalent
+education.","To apply for this position, please send your CVs
+to: jobs@... . Please, clearly mention the position you are
+applying for in the subject line of the email. Only short-listed
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

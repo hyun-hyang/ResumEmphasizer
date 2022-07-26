@@ -1,0 +1,27 @@
+Mobile iOS Developer,"The company is looking for a bright-minded and
+passionate Mobile iOS Developer who will join its mobile development team
+to work on its current and future projects. The incumbent should be a
+quick learner who is committed to permanent professional growth and is
+able to master new technologies. The willingness to work in collaboration
+with the creative team and mind openness are principal qualities of all
+of the company's potential team members.",NA,"- Degree in Computer Science or a related field;
+- Working knowledge of Xcode4+ and Instruments, iPhone SDK, Objective C,
+Cocoa Framework, Push Notifications and Interface Builder;
+- At least 3 years of commercial object-oriented development experience;
+- At least 1 year of iOS development experience; at least 1 published
+app;
+- C++ or other OOP language experience is a plus;
+- Strong knowledge of RESTful web-services, XML and JSON data format;
+- Firm understanding of iOS programming paradigms and memory management;
+- Knowledge of co-development and version control using Git or SVN;
+- Knowledge JIRA or related bug tracking software;
+- Love for UI and the perfect User Experience;
+- Excellent teamwork skills with an ability to get the work done with
+minimal supervision;
+- Good analytic and problem-solving skills;
+- Ability to write clean code.","Interested candidates are asked to apply by
+submitting their CVs to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Geno6 is a software development company that provides
+business solutions in web and mobile technology sector."

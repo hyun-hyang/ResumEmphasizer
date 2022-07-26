@@ -1,0 +1,42 @@
+Information Systems Administrator - Information and Communication,"The incumbent will be responsible for management of
+application systems and assurance of continuous uninterrupted working
+process.","- Responsible for administration of Oracle and MS SQL Server systems, as
+well as installation on corresponding servers; 
+- Responsible for implementation/ installation of application systems
+databases, creating of users and granting privileges to users;
+- Develop and run of scripts, triggers and procedures with the purpose of
+updates in databases, receiving of data and other works. Responsible for
+periodical backup and recovery of databases. 
+- Responsible for management of application systems operating at Central
+Bank of Armenia.","- Higher technical education and 1 year of professional work experience
+at the Central Bank or 2 years of professional work experience elsewhere
+(Information technologies field); 
+- Knowledge of databases management systems (profound);
+- Knowledge of SQL, Transact SQL, PL/ SQL languages (profound);
+- Knowledge of administration of Oracle, MS SQL Server systems
+(profound);
+- Knowledge of operational systems (profound);
+- Knowledge of programming (intermediate);
+- Knowledge of local nets (profound); 
+- Knowledge of global nets (intermediate); 
+- Knowledge of Armenian, Russian and English languages (Russian and
+English languages with the purpose of communication and professional
+literature reading);
+- Skills in working with different versions of Windows operating systems
+on servers and workstations, skills of using databases modeling software,
+skills of using software supporting processing of scripts, triggers and
+procedures, as well as skills in working with MS Office.","To become familiar with questionnaire and to
+apply for the vacant position, please, visit Armenian version of CBA
+official site (ABOUT THE CBA - Career at CBA  Job Vacancies) with the
+following link: http://www.cba.am/am/SitePages/accvacancies.aspx . To
+apply for the vacant position, please, choose the corresponding position
+You want to apply for, press the button [APPLY] at the bottom of the
+page, be registered in the system and fill in the Application form. For
+further information and clarification you can call: (010) 59 26 34,
+internal lines 26 13.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Successful applicants will be required to pass
+probation period for three months during which they will work at CBA in
+Yerevan, then after passing the above mentioned probation period they
+will continue their work at CBA Dilijan Study-Research Cente.",NA

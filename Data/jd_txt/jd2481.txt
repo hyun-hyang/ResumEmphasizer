@@ -1,0 +1,37 @@
+iPhone Application Developer,"Altacode LLC is looking for a highly motivated
+professional to carry out iPhone application development.","- Develop iPhone touch screen application; 
+- Design multi-trading applications; 
+- Responsible for defining software specifications (functional, design,
+etc.) in addition to coding responsibilities;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Assist in the development of accompanying technical documentation;
+- Provide technical support and assistance, if requested.","- B.S. in Information Systems, Software Engineering, Computer Science or
+a related field;
+- At least 2 years of related experience, or an equivalent combination of
+training and experience;
+- Expert knowledge and understanding of a particular technology or
+platform; 
+- Proficiency in application development using C, Objective C languages;
+- Proficiency in Mac OS X, iPhone OS X operation systems; 
+- Knowledge of iPhone SDK 3.0, COCOA frameworks, gSOAP tool experience is
+desired;
+- Familiarity with Qvartz 2D for drawing using standard iPhone canvas;
+- Ability to expose limited resources to achieve high performance and
+create reliable applications;
+- Ability to build rich UI interfaces according to the Apple user ID
+guidelines; 
+- 2 years of work experience in C# and .Net Framework; 
+- Experience or any kind of exposure to VS 2008 and SQL 2005 is a plus;
+- Proficiency in object-oriented programming and Design Patterns;
+- Ability to anticipate and effectively deal with problems and
+roadblocks;
+- Ability to read, understand and modify the existing code;
+- Effective written and verbal communication skills, mastery of the
+English language.","Interested candidates should forward their
+resumes to: resume@... mentioning ""iPhone Application Developer""
+in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for the US market of information technologies."

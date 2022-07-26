@@ -1,0 +1,43 @@
+Senior Software Testing Engineer,"EPAM Systems, Inc. is seeking a Senior Software Testing
+Engineer to join the company's team in developing enterprise-level
+software solutions mainly in healthcare industry. He/ she should be a
+results-driven, team-oriented, self-motivated professional who is ready
+for new challenges, teamwork and Agile software development.","- Perform functional, regression, usability testing on web applications;
+- Test case creation, execution and maintenance;
+- Issue identification and reporting;
+- Responsible for quality assurance for software releases and patch
+builds through manual and automated tests;
+- Handle other tasks as assigned;
+- Work directly with customers, developers and business analysts;
+- Manage defect tracking; monitor and report results;
+- Report QA status to keep project stakeholders informed on deliverables
+and timelines.","- Bachelor's/ Masters degree in Computer Sciences or in a related
+field;
+- At least 3 years of experience in Software Quality Assurance;
+- Demonstrated experience with testing web applications;
+- Advanced knowledge of system development lifecycle, methodology and
+testing knowledge;
+- Good understanding of automation testing approaches;
+- Work experience in a fast-paced environment;
+- Experience with test automation tools such as Visual Studio 2012 and
+Selenium is highly desired;
+- Broad experience using different testing tools (selenium, jmeter,
+etc.);
+- Good understanding of automation testing approaches;
+- Good problem solving skills;
+- Strong analytical skills;
+- Knowledge of Scrum methodology is preferred;
+- Excellent analytical and troubleshooting skills;
+- Excellent verbal and written communication skills;
+- Fluent knowledge of English language is essential.","Interested candidates are asked to submit their
+CVs in English language to: marine_melikyan@... , indicating the
+title of the position in the subject line of the e-mail. Only shortlisted
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

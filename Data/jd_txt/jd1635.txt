@@ -1,0 +1,37 @@
+Storage/ Back-up IT Specialist,"Natek S.R.O is currently starting a new project in
+Brno, Czech Republic and is looking for high level skilled Storage/
+Back-up IT Specialist.","- Follow proper procedures for SAN management;
+- Backup Server management (installation, configuration, policy,
+update);
+- Manage the physical and logical configuration of storage media and of
+storage management software to ensure optimum use of data storage space;
+- Develop and maintain operations procedures for daily routine storage
+management processes;
+- Assess and support evaluation of new products, facilities and operating
+system releases from technical support;
+- Define and maintain tasks and processes used for disaster backup and
+recovery of critical application data, including offsite retention;
+- Analyze and maintain performance data to optimize the usage of the
+storage resources available;
+- Support daily monitoring of the correct execution of storage management
+subsystems and processes.","- University degree in IT;
+- 1-2 years of experience with Storage Area Network;
+- 2 years of experience in a large environment;
+- Experienced in IBM TSM and EMC, VERITAS, MDS, SAN technologies, back up
+technologies;
+- At least basic Systems administration knowledge in UNIX, Linux and
+Windows;
+- Minimum advanced level of written and spoken English;
+- Knowledge of French/ Italian could be an advantage;
+- Customer and service orientation, ability to operate well in an
+international and multicultural environment;
+- Analytical skills;
+- Communicative and ability to work in a team;
+- IT certificates;
+- Ability to work in a multi cultural environment;
+- Reliable, flexible and motivated personality.","Please, send your CV in English to:jobs@... mentioning CarC/Stor in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Natek delivers service in the following countries:
+Bulgaria, the Czech Republic, Poland, Romania and Slovakia and has
+representative offices in France, Georgia and Ukraine."

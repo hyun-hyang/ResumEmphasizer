@@ -1,0 +1,28 @@
+Software Engineer in Test,"AtTask is seeking a Software Engineer in Test to ensure
+the quality and increase the code coverage of its cloud-based Enterprise
+Work Management application by analyzing, automating regression content,
+by maintaining and improving existing scripts.","- Follow detailed processes for best-practice test automation and
+maintenance;
+- Engage in detailed requirements and ambiguity reviews for test
+development;
+- Engage in automation feasibility reviews of test plan content;
+- Develop high quality tests from requirements and regression test
+content;
+- Provide effort estimates on test development and execution
+engagements;
+- Participate in peer reviews on test deliverables and work product;
+- Design, create, execute and maintain automated tests;
+- Perform functional testing.","- Bachelor's degree in Computer Sciences or a related field;
+- About 2-3 years of experience in Test Automation and Development;
+- At least 2 years of experience in Java development;
+- Experience with Selenium, JavaScript and Unit testing is highly
+preferred;
+- Strong experience in web-based products;
+- Very good verbal and written communications skills in English language.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 1014"" in the subject line of the email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a cloud-based Enterprise Work Management
+solution company based in Utah."

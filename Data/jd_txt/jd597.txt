@@ -1,0 +1,27 @@
+Senior Software Engineer,"Sosy Technologies STA LLC is seeking a Senior Software
+Engineer to work on software design and development, and to be technical
+leader for junior programmers.","- Develop various Windows, Web applications and Web services, based on
+specifications written in English language;
+- Create and maintain up to date complete documentation of owned
+applications (block diagrams, algorithm descriptions etc.);
+- Create effective test cases and create or use existing tools to test
+owned applications;
+- Communicate with management and team members effectively (at least
+some knowledge of verbal English language); 
+- Be a technical leader for junior programmers.","- Masters or higher degree in Computer Sciences or a related discipline
+with work experience in software development;
+- At least 5 years of work experience and strong knowledge of ASP.NET,
+C#, C++;
+- Robust knowledge of web services and .NET remoting;
+- Good understanding of databases (MS SQL Server);
+- Has successfully created commercial or scientific products in the
+past;
+- Robust knowledge of TCP/UDP/SMTP/SMPP protocols;
+- Knowledge of programming in Linux environment is a plus;
+- Experience with client/ server applications is a plus;
+- Good knowledge of reading/writing technical English language;
+- Some knowledge of verbal English is a plus.","Please email your CV and cover letter to:jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sosy Technologies STA LLC is a software development
+company established in 2004 with headquarters in California, USA."

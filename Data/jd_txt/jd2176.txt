@@ -1,0 +1,18 @@
+Programmer,"Nairi Iinsurance Insurance LLC is seeking motivated,
+hard-working people (both male and female) for the position of the
+Programmer in IT Department. The candidate is to be disciplined,
+detail-oriented, flexible, and quick to orient themselves.","- Design and develop web-based application forms, print forms;
+- Manage multiple clients, projects and deliverables simultaneously;
+- Communicate effectively with external team members and program vendors.","- University degree in Technical sphere, Computer Sciences, Mathematics
+or a related discipline;
+- Good MS Office knowledge;
+- Knowledge of technical English and Russian languages, good knowledge of
+Armenian grammar;
+- Communication and organizational skills;
+- Knowledge of programming theory;
+- Experience or knowledge with web development technologies/ production
+tools such as JavaScript Libraries, PHP is a plus;
+- Knowledge of PHP interfacing with a relational database MySQL is plus.","Please, send your resumes to:hr@... , mentioning ""Programmer"" in the subject line!
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

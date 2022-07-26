@@ -1,0 +1,18 @@
+C# Desktop UI Developer,"C# Desktop UI developer will participate in the
+creation and evolution of the desktop applications of the company.",NA,"- University degree in Science or Technology;
+- At least 2 years of experience developing high-performance, visually
+rich desktop applications using C#/ WPF;
+- Excellent knowledge of C#, WPF, Prism, MVVM;
+- Good knowledge of data structures, algorithms, technologies underlying
+.NET, interoperability with C++ (PInvoke), garbage collection specifics,
+multi-threaded programming;
+- Background in C++ is a plus;
+- Knowledge of technical English language.","Interested candidates are asked to send a resume
+or a CV to: jobs_am1@... . The subject should read ""C# Desktop UI
+Developer"". Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The company offers considerable flexibility in work
+schedule.","""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com) ."

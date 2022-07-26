@@ -1,0 +1,32 @@
+Senior ASP.NET (MVC) Developer,"Aragast Web Technologies is seeking a Senior Mobile
+ASP.NET (MVC) Developer to join the team in developing a new social
+networking solution (www.cafe4tune.com). Company is looking for energetic
+people who are ready for new challenges and have a good understanding of
+Agile software development methodologies, practices and frameworks.","- Develop Web Applications in accordance with the specifications and
+design provided;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to coding standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Participate in the Sprint planning meeting;
+- Provide technical support and assistance, if requested.","- At least 3 years of work experience in C# and .Net; 
+- At least 1 year of work experience in ASP.NET Web applications using
+MVC technology;
+- Experience in HTML, HTML5, CSS, JavaScript and JQuery;
+- Proficiency in object oriented programming and Design Patterns;
+- Experience or any kind of exposure to VS 2008/ 2010 and MS Team
+Foundation;
+- Experience with LINQ and ADO.NET; 
+- Experience in Web services development;
+- Experience in database architecture design and development, as well as
+MS SQL 2008; 
+- Good knowledge of technical English language; 
+- Communication skills.","Please submit your CV in English language to:aragast@... , indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Aragast Web Technologies is a software development
+company using cutting edge technologies and methodologies to provide
+market competitive solutions."

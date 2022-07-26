@@ -1,0 +1,20 @@
+C# .NET Developer,"Armeconombank OJSC is looking for a NET Developer who
+will take part in design and development  projects of the bank.",N/A,"- BS in Computing Science or any related technical field;
+- Proficiency in OOP/ OOD and knowledge of software design patterns;
+- Excellent knowledge of C# language;
+- Good knowledge of Transact SQL;
+- Good understanding of web services, practical working experience with
+WCF;
+- Good understanding of the .Net framework internals;
+- At least 1 year of work experience in .Net Framework (C# language); 
+- Knowledge of ASP.NET and/ or ASP.NET MVC;
+- Work experience in MS SQL Server 2008;
+- Strong communication skills;
+- Strong knowledge of English language.","All interested candidates are kindly requested
+to e-mail a CV/ Resume in English language to: hrm@... mentioning the
+vacant position name in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armeconombank OJSC is a universal-type financial and
+credit institution offering its customers a comprehensive package of bank
+services. More information can be found at: www.aeb.am ."

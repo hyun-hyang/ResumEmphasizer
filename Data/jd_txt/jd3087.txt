@@ -1,0 +1,93 @@
+IT Specialist/ Consultant,"The Project on ""Strengthening the Independence,
+Professionalism and Accountability of the Justice System in Armenia"" aims
+to facilitate the EU budget support programme, building on the
+achievements and outputs of the previous projects on supporting the
+Armenian authorities to reform the judiciary and ensuring the successful
+implementation of the reforms undertaken in recent years in line with
+Council of Europe standards. The Project intends to conduct a Court user
+satisfaction survey (hereinafter referred to as ""Survey"") using the
+methodology of the European Commission for the Efficiency of Justice
+(hereinafter referred to as ""CEPEJ"") to assess and learn from court users
+on their opinion and trust toward justice in Armenia, and will seek to
+measure the (dis)satisfaction of court users with the courts' services,
+identifying the public's view on how to improve the quality of and the
+effectiveness in the administration of justice.
+The Survey will be conducted in two pilot and national phases. During the
+pilot phase Survey planned to be conducted through July-August 2015, a
+self-administered and interviewer administered completion of
+questionnaire will be tested and other Survey organizational and
+methodological aspects will be piloted including the development and
+testing of two software systems one simple system to capture the
+extracted survey sample data/ contacts, and the second specific software
+with features to capture the survey data, process and analyses. The
+software systems should be in the Armenian language. The objective of
+this assignment is to develop the electronic interface and database, test
+and train the relevant user staff, correct and retrieve necessary data
+for further analyses.","- Analyse two Survey questionnaires (three parts for court users and one
+part for advocates) and the project team identified Survey sample
+selection criteria dataset;
+- Collaborate with project management and other experts, discuss pilot
+Survey sample selection criteria dataset, Survey tools/ questionnaires,
+data analysis approaches;
+- Elaborate and communicate programming concepts, policies and procedures
+for sampling data capture and tabulation, and for the Survey data
+accumulation and analyses, present and discuss with the project
+management and expert staff;
+- Develop end-user friendly, intelligible simple application software/
+system for Survey sample data capture with tabulation capacity, with a
+capacity to automatically extract the set of necessary data and print on
+envelopes;
+- Develop end-user friendly, intelligible middle complexity application
+interface for Survey accumulated data capture, test accuracy and
+correspondence of its application;
+- Create a  comprehensive Survey data database with accurate data
+collection, tracking, trending, analysis, interpretation and reporting
+features and maintain proper operation of both software systems;
+- Participate in team discussion sessions on adjustments in data
+accumulation processes, procedures;
+- Create relevant software modifications and update solutions to
+application errors reported;
+- Keep track of changes as per agreed upon processes on a regular basis,
+ensure that changes are rigorously documented appropriately;
+- Generate and distribute standard and ad-hoc reports to the project
+analyst team;
+- Provide effective oral and written software use status updates and
+presentations to the project management;
+- Reconstruct incompleteness of data occurred due to application errors;
+- Develop, test and assure the software application producing graphic,
+chart-format detailed summary reports of data;
+- Install pilot Survey sample capturing software/ system and train the
+sample data searching and extracting staff in appropriate software use;
+- Install computer hardware for the Survey data entry staff, install
+Survey data entry software applications;
+- Train data entry staff/ operators in appropriate software use;
+- Document systems' development and use processes.","- University degree in ITC or a relevant field;
+- Experience with similar international projects in developing specific
+IT systems;
+- Strong interpersonal and communication skills;
+- Proven analytical, evaluative and problem-solving abilities;
+- Communication skills, experience to train system/ software use;
+- Critical thinking;
+- Keen attention to detail;
+- Highly self-motivated personality;
+- Ability to effectively prioritize and execute tasks in a high pressure
+environment;
+- Proven ability to work in a team-oriented, collaborative environment.","Applications must be submitted to CoE Office in
+Yerevan no later than the deadline. Interested and qualified candidates
+should send their CVs (maximum length 4 pages) and a brief cover letter
+in the English language, explaining why they believe they are qualified
+for the position to: narine.gasparyan@... . Only applicants who best
+meet the criteria indicated in this call will be considered for
+shortlisting. Only shortlisted applicants will be contacted. Applicants
+cannot be government employees or civil servants.
+The Applicants must indicate in their application in the subject line the
+vacancy applying for to work. Please do not send any other documents at
+this stage. The decision of the CoE to accept or reject an application is
+not subject to appeal.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The selected candidates will be offered a short-term
+service contract. The proposed contract cannot be construed as conferring
+on the selected candidate the capacity of Council of Europe staff member
+or employee. The selected candidate will also have to make his/ her own
+arrangements for health and social insurance.",NA

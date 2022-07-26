@@ -1,0 +1,27 @@
+Java Developer,"IUnetworks is looking for a motivated Java Developer
+for Web based, enterprise level applications development.","- Analyze given task and provide expertise to interested parties;
+- Develop software based on requirements;
+- Develop unit tests for developed software;
+- Provide task estimates to interested parties;
+- Identify possible risks and report them;
+- Accurately resolve (test after resolution) assigned requests, report
+their statuses;
+- Provide technical documentation for developed software.","- Bachelor's or MS degree;
+- At least 2 years of work experience in Java and Web development;
+- Experience with web development with Java EE platform;
+- Knowledge of Java and OOP;
+- Knowledge of Java technologies: JSF, EJB, Hibernate, Spring, JAX-WS,
+Axis;
+- Knowledge of databases: good knowledge of SQL,  familiarity with MySQL
+and Oracle databases, database modeling skills;
+- Knowledge of (X)HTML, CSS, JavaScript and XML;
+- Ability to work on project with a development team;
+- Problem solving skills;
+- Strong interpersonal skills including effective writing and verbal
+communication skills.","Interested candidates should email their resumes
+to: job@... . Please send resumes only if you
+correspond to the required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUnetworks LLC is a provider of telecommunication
+solutions."

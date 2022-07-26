@@ -1,0 +1,38 @@
+Core Network Engineer,"Core Network Engineer will be responsible for core
+network operation and maintenance.","- Handle the MSS, MGW, HLR, Packet Core;
+- Routine health checkup of core network elements and perform preventive
+maintenance of nodes;
+- Configure and test new product implementation;
+- Carry out the required modifications/ changes in the system;
+- Resolve problems escalated from Helpdesk and other teams;
+- Participate in core network elements configuration;
+- Design and perform regular maintenance activities;
+- Maintain all connections between network elements;
+- Create regular reports about all network activities;
+- Implement new features;
+- Participate 24/7 on call duty roster;
+- Align and work with network growth.","- University degree in Telecommunications;
+- Understanding of digital switching concepts;
+- Knowledge on protocol level of CCS7, ISUP, SCCP, TCAP, MAP, etc.;
+- Understanding of complete call flow in GSM system;
+- Understanding of Number Analysis;
+- Fundamentals of IP/ MPLS;
+- Experience in MSS, MGW, HLR, Packet Core is preferred;
+- Minimum 2 years of experience in support services, network; operations
+or consulting in telecommunications industry;
+- Knowledge of Microsoft Office tools (Excel, Word, E-mail, Internet);
+- Advanced knowledge of English language.","To apply for this position please open (click)http://www.careerhouse.com website, register as an individual user
+(unless you have previously registered), fill out your Resume, then open
+the same announcement there, click on the ""Apply"" button and proceed to
+receive the confirmation message. Please make sure you necessarily fill
+out the References section in your Resume and attach any references you
+have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Should you have any questions regarding registration
+process, please call Career House: +(374 10) 51 90 62.","France Telecom is a telecommunications operator
+providing services to more than 170 million customers on five continents
+of the world of which 120 million under the Orange brand. 
+Orange Armenia is starting its activity as the third operator in the
+mobile telecommunications sphere in Armenia.
+Visit www.orange.com for more information."

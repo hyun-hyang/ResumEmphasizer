@@ -1,0 +1,22 @@
+Senior Developer,Lime Tech is looking for a Senior Developer.,"- Participate in all the steps of the software project from design to
+integration;
+- Read, understand and modify the existing code;
+- Develop applications in accordance with given specifications;
+- Learn new technologies;
+- Teach junior developers.","- BS in a relevant field;
+- 2 years of work experience as a WinForm Developer with C#;
+- Strong knowledge of ASP.Net;
+- Strong knowledge of SQL, LINQ, Ado.Net Entity Framework, JavaScript and
+Jquery;
+- Experience in service-oriented development (Web Services, WCF);
+- Be flexible in learning new technologies;
+- Ability to teach junior developers;
+- Teamworking, strong problem-solving and good communication skills;
+- Knowledge of the English language.","All interested candidates are asked to send
+their CVs to: hr@... . Please, mention in the subject line of
+your email the position (""Senior Developer"") you are applying for. Only
+shortlisted candidate will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lime Tech is specialized in customer service automation
+systems. For more info, please, visit: http://limetech.am/."

@@ -1,0 +1,24 @@
+Expert .NET Programmer,"We are looking for experienced and self-motivated .NET
+developers for long term collaboration.
+We expect that you have a strong desire to continuously improve your own
+skills and mature as a programmer.
+You will be a part of a great team of developers who think and breathe
+software every day. We already have a team in Armenia and now we want to
+expand it with more developers.
+We love to build great software. It is not some marketing gimmick. We
+take our pride in each line of delivered code. Do you feel the same way?",NA,"- 5+ years programming experience;
+- Programming language agnostic;
+- Strong desire to learn and improve skills;
+- Good oral and written English.","If you feel good about what you have heard so
+far, please submit an application with your CV. We are not machines, but
+we really like to read nice code; so please ship along some self-written
+code to be proud of.
+Submit your information here:https://www.smartrecruiters.com/cgi-bin/WebObjects/frontoffice?fp1=57943063&fp2=774747418
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Gaiaware HQ is a software company located in Norway
+(Porsgrunn). Gaiaware is the company behind Gaia Ajax - an Ajax library
+for ASP.NET. The product is dual licensed and you can download and review
+the source code here: http://gaiaware.net/download-gpl
+Gaiaware is also building scalable web applications for a broad range of
+clients with a special emphasis on the healthcare sector."

@@ -1,0 +1,23 @@
+Senior Windows Software Engineer,"Kubisys Inc. is seeking skilful, experienced, talented
+and motivated candidates for the position of Senior Windows Software
+Engineer to work on the initial research and development of the
+companys technologies. As a backend engineer the incumbent will be
+working with manipulating Windows operating system components - file
+systems, drivers, as well as other domain model objects.","- Work as part of a software development team;
+- Design and analyze software applications;
+- Develop applications using a variety of languages;
+- Write documentation in English language.","- Over 5 years of experience in software development and analysis;
+- Extensive knowledge of Windows operating system;
+- Knowledge of Windows Storage technologies (Volume Shadowing in
+particular) is a huge plus;
+- Experience with WMI;
+- Experience with Virtualization technologies (Xen, VMware, Microsoft)
+is a huge plus;
+- Experience with Windows Shell Scripting is a plus;
+- Quick learner and a good team player;
+- Ability to travel to the US and other countries.","To apply, please e-mail your cover letter and
+resume to: jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys Inc. (www.kubisys.com), a US, New York-based
+company located in Pearl River is a software development company."

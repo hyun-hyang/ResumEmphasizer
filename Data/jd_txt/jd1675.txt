@@ -1,0 +1,31 @@
+Senior Software Developer,"VMware Armenia is seeking a Senior Software Developer
+(MTS 3) for the VMware Cloud Management Engineering team in Yerevan.
+Senior Software Developer (Member of Technical Staff) will design, code
+and debug quality software programs for assigned projects, including
+necessary documentation.","- Deliver robust, scalable, quality software products on time and on
+budget;
+- Plan and execute multiple projects at one time through all phases of
+the projects development, in coordination with the Group Lead;
+- Provide assistance to testers and support personnel as needed to
+determine system problems.","- Experience in Java, C++ and Objective-C;
+- Experience with J2EE application servers, Web services and
+technologies;
+- Good knowledge of mathematical and statistical principles and
+formulas;
+- Knowledge of database technologies, networking and operating systems
+from the software engineering perspective;
+- Ability to work in a team environment in close cooperation with other
+members of the companys team worldwide;
+- Good oral and written skills of English;
+- Education in Computer Science, Math or Physics;
+- At least 2+ years of general experience in developing software
+products.","Interested candidates are encouraged to submit
+their CVs to: cv@... . In the subject line of your message, please
+mention the position you are applying for. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware Armenia (NYSE: VMW) is a company providing
+virtualization software, founded in 1998 and based in Palo Alto,
+California, USA. For more information about VMware, please visit:
+www.vmware.com."

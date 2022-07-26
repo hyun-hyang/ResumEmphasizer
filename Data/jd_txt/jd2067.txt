@@ -1,0 +1,36 @@
+ASP.NET MVC Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of ASP.NET MVC Developer.","- Design and develop custom software solutions utilizing the latest .NET
+technologies;
+- Work alongside consultants and client teams to develop and design
+custom software solutions using Windows and web applications;
+- Consistently leverage your strong core technical knowledge of ASP.NET,
+C#, WCF, and SharePoint;
+- Work face-to-face with clients to identify requirements, create
+architecture, and implement innovative solutions;
+- Work with a team of developers to build, implement, and deploy new
+complex applications using .Net 4.0 and ASP.Net MVC.","- University degree in Computer Sciences or a related field;
+- Background in .NET 4.0, WCF, Workflow Foundation, and other Microsoft
+technologies;
+- Experience with ASP.NET MVC v2-v3 and ORMs (NHibernate/ Entity
+Framework 4);
+- Strong C# ASP.NET background;
+- Established experienced with C# development using technologies
+including: C#, .NET 1.1  4.0, Web Services, and WCF;
+- Broad knowledge of ASP.NET architecture and development as well as a
+strong knowledge of web services such as SOAP and REST;
+- HTML, JavaScript, AJAX, and JQuery experience is a plus;
+- Strong design skills and ability to work independently and in a team
+setting;
+- General knowledge of Microsoft technologies or experience in the
+financial services industry is also an asset;
+- Good knowledge of English language;
+- Desire and ability to work with a wide range of web application
+technologies and tools.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11570"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is custom software development for
+the clients from Western Europe and Armenia. More details can be found
+at: http://www.sflpro.com"

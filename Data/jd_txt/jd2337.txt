@@ -1,0 +1,25 @@
+Coop Tech/ Precision Analog HW Design Engineer,"This is an opportunity to work closely with engineers
+in the analog design group whose focus is to design precision
+programmable Analog and RF instrumentation for LTXC??s semiconductor test
+equipment. A portion of time will be spent in a state of the art
+development lab running the systems using the latest in test equipment.","- Realize data collection and analysis using custom coded tools;
+- Write programs to collect and analyze data;
+- Debug new printed circuit boards;
+- Prototype and test new design ideas;
+- Responsible for schematic entry;
+- Characterize and verify new instrument designs;
+- Responsible for printed circuit board layout;
+- Handle the component selection for new designs.","- 3-4th year university student;
+- Good knowledge of English language;
+- Knowledge of analog/ mixed Signal Design, using the following
+components: Discrete, Standard Logic, CPLD, DAC/ ADCs, Voltage Regulators
+and Op Amps;
+- Some hardware experience including familiarity with electronic test
+equipment such as DMM, oscilloscopes, signal generators and logic
+analyzers is desired;
+- Programming experience in C or C++ is a plus.","Interested candidates are kindly requested to
+mail CV/ resume in English language to: Naira_Nikoghosyan@... .
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

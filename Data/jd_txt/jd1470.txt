@@ -1,0 +1,16 @@
+PHP Senior Developer,"Essential Solutions is seeking an experienced PHP
+Developer to join its team.",NA,"- Knowledge of PHP OOP paradigm;
+- 3+ years of experience in PHP;
+- Strongly need to have experience with CURL, RESTful, Memcache, FB Graph
+API and Symfony framework;
+- Familiarity with Amazon EC2 and S3 solutions;
+- Have a good understanding how to accomplish website security on PHP
+side;
+- Work experience with GIT version control;
+- Self-organized and motivated professional with more than three years of
+commercial experience;
+- Good communication skills in spoken English or Armenian.","Please send your application to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","In about three months the position will move from
+part-time to full-time.",Essential Solutions is a software development company.

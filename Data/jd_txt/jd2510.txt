@@ -1,0 +1,34 @@
+Corporate IT Systems Administrator,"The Corporate IT Team at AtTask is looking for a full
+time candidate in Yerevan who has experience managing Windows and Apple
+hardware. The Corporate IT Systems Administrator will be responsible for
+expanding internal infrastructure by analyzing company's needs and
+matching them with scalable solutions. Additionally, the Corporate IT
+Systems Administrator will work with other members of the Corporate IT
+Team to assist in maintaining and developing tools/ systems related to
+enterprise desktop (OSX and Windows) and account management. The person
+should have knowledge of LDAP, Linux, Windows, Mac OS X, as well as
+strong background in networking. The Corporate IT Systems Administrator
+needs to be self-motivated, have great people skills and be a team
+player.","- Provide technical support to users for basic computer related technical
+problems;
+- Enter tickets into the tracking tool; ensure information is accurate,
+prioritized and assigned to a queue;
+- Manage global LDAP Directory;
+- Manage patch management for office;
+- Resolve and/ or refer more complex technical problems through a defined
+escalation process;
+- Log and track inquiries using a problem management database and
+maintain history records and related problem documentation;
+- Responsible for help desk operations and troubleshooting.","- 3 years of experience in a related field;
+- Ability to communicate in English language;
+- Knowledge of Windows, Mac OS X and Linux;
+- Experience with solving computer related problems;
+- Good communication, interpersonal and organization skills;
+- Ability to work in a team environment.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 0114"" in the subject line of the e-mail. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company visiting: www.attask.com."

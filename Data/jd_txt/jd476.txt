@@ -1,0 +1,96 @@
+Senior System Analyst,"The incumbent will formulate and design system scope
+and objectives.","- Write and maintain applications involving complex programs;
+- Perform systems design work to develop applications meeting the
+business requirements of users; 
+- Perform systems testing of multiple modules in a system;
+- Handle a variety of programming assignments including block
+diagramming, coding, testing, debugging, documenting and implementing
+information systems;
+- Conduct feasibility and cost analysis studies;
+- Prepare complex system specifications to meet user requirements;
+- Successfully train users in the use of information systems tools;
+- Participate in formal and on-the-job training in systems analysis,
+programming and inter-personal skills provided;
+- Be responsible for completion on a phase of an assigned project;
+- Modify procedures to solve complex problems considering computer
+equipment, capacity and limitations, operating time and desired results
+to meet the business needs of the user;
+- Prepare detailed specifications from which programs will be written or
+application software packages procured;
+- Be responsible for design, coding, testing, debugging, documenting and
+maintaining complex application programs;
+- Be responsible for completion on a phase of a project.
+To perform the job successfully, an individual must demonstrate the
+following competencies:
+- Synthesize complex or diverse information. Collect and research data.
+Use intuition and experience to complement data;
+- Identify and resolve problems in a timely manner. Gather and analyze
+information skillfully. Develop alternative solutions;
+- Speak clearly and persuasively in positive or negative situations.
+Listen and get clarification. Respond well to questions. Participate in
+meetings;
+- Write clearly and informatively. Edit work for spelling and grammar.
+Vary writing style to meet needs. Present numerical data effectively. Be
+able to read and interpret written information;
+- Develop workable implementation plans. Communicate change
+effectively;
+- Look for ways to improve and promote quality. Demonstrate accuracy and
+thoroughness;
+- Follow policies and procedures. Complete administrative tasks
+correctly and on time;
+- Prioritize and plan work activities. Use time efficiently;
+- Approach others in a tactful manner. React well under pressure. Treat
+others with respect and consideration regardless of their status or
+position. Accept responsibility for own actions. Follow through on
+commitments;
+- Demonstrate accuracy and thoroughness. Look for ways to improve and
+promote quality;
+- Meet productivity standards. Complete work in timely manner. Strive to
+increase productivity. Work quickly;
+- Observe safety and security procedures. Use equipment and materials
+properly;
+- Adapt to changes in the work environment. Manage competing demands.
+Change approach or method to best fit the situation. Be able to deal
+with frequent change, delays or unexpected events;
+- Report to work consistently and on time;
+- Follow instructions, respond to management direction. Take
+responsibility for own actions. Keep commitments.","- Considerable knowledge of general operating principles and
+capabilities of computers and other data processing equipment;
+- Considerable skill and experience in using inductive and deductive
+reasoning;
+- Considerable skill in preparing test data, in testing and debugging a
+single program or series of programs;
+- Skill in preparing program documentation;
+- Ability to provide guidance and training to less experienced analyst/
+programming staff;
+- Ability to read, analyze and interpret documents and technical
+procedures;
+- Ability to write reports and routine business correspondence;
+- Ability to present information and respond to questions from managers
+and coworkers;
+- Ability to add, subtract, multiply, and divide in all units of
+measure, using whole numbers, common fractions and decimals;
+- Ability to interpret a variety of instructions furnished in written,
+oral, diagram or schedule form;
+- Ability to solve practical problems and deal with a variety of
+concrete variables in situations where some standardization exists;
+- Ability to analyze business operations and to organize system
+components into a logical solution for the user;
+- Ability to think logically in solving problems assigned, present
+results with clarity and precision in writing and/or graphic form;
+- Good knowledge of PC operations and software (Word processing and
+spreadsheet). Good typing skills.
+Education and Experience:
+- Completion of Bachelors degree with course work in such areas as
+Accounting, Business Administration, Statistics, Mathematics and/or
+Computer Sciences;
+- Five-eight years of experience of demonstrated progressive responsible
+work in application programming and system analysis;
+- Experience in C++ programming  (socket, asynchronous programming,
+multi-threading, etc.);
+- Windows programming (Win32 and MFC, STL, SMPP and SMTP) skills;
+- Solid RDBMS understanding and design skills.","Please, email your CVs to:systemanalyst@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""K-Telecom"" CJSC was established in Armenia in January
+2005 as a mobile network company."

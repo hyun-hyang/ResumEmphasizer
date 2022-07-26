@@ -1,0 +1,34 @@
+Systems Analyst/ Developer,"The Systems Analyst/ Developer will contribute to the
+development of Information Systems to meet the business requirements of
+the bank, with the emphasis of the post on the design and development of
+new applications.","- Develop and implement requested applications;
+- Perform maintenance on existing applications;
+- Support existing applications;
+- Participate in all areas of the development life-cycle;
+- Develop or acquire test data, test and debug to produce required
+results and revise the programs;
+- Produce system and user documentation during the development of
+systems; 
+- Work with users to analyze and design database and application system
+solutions to solve business needs.","- Higher education in technical university;
+- 2-3 years of relevant work experience;
+- Strong background in relational databases (Oracle Database or MS Sql
+Server), programming technologies, data models, and application
+architecture;
+- Strong knowledge of Structured Query Language (SQL), HTML, CSS, XML,
+AJAX;
+- Knowledge of various programming languages;
+- Exceptional troubleshooting and problem solving skills;
+- Ability to multi-task on various projects and support items;
+- Team oriented personality with the ability to interface with internal
+and external clients;
+- Strong verbal and written communication skills;
+- Flexible and adaptable in regards to learning and understanding new
+technologies;
+- Fluency in English, Armenian and Russian languages.","Interested applicants should submit their CVs
+to: resume@... .
+Only short-listed candidates will be invited for interviews. Please put
+on subject line of your e-mail Systems Analyst/Developer.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

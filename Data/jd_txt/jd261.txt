@@ -1,0 +1,21 @@
+Software Developer,"AccuSoft-AM LLC is looking for two motivated
+developers for expanding current development team.","Development of VisiQuest Software System,
+multiplatform visual framework for advanced image/data manipulating.","- Bachelor's/Master's degree in CS or related discipline;
+- Mathematical background desired;
+- 3+ years of professional software development experience;
+- Analytical, technical, and interpersonal skills;
+- Ability to work on multiple projects at the same time;
+- Experience in system and application programming for Windows and/or
+UNIX/Linux; 
+- Experience in developing multithreaded, distributed and/or
+client-server applications with POSIX sockets desired;
+- Excellent knowledge of C and C++ languages as well as their ANSI/ISO
+standards; 
+- Knowledge of C#, Perl and UNIX shell scripts desired;
+- Knowledge of English and Russian languages are on communication level.","If you are interested in this position, please
+email CV to: accusoft@.... Do not hasitate to contact us by
+e-mail should you have any questions.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AccuSoft-AM LLC is business partner of AccuSoft Corp.,
+USA."

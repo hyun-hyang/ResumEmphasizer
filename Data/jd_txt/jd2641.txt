@@ -1,0 +1,45 @@
+Software Architect,"""BetArchitect"" LLC is seeking end-to-end hands-on
+Software Architect with business perspective, leadership and creativity
+and more than 7 years of experience with a variety of technologies and
+application domains. The incumbent should have passion for teaming up to
+envision software solutions, drive innovation and business impact,
+interact with stakeholders and design, code and deliver applications.","- Analyze, design, develop, and maintain products and assist in
+commercialization;
+- Responsible for project/ program management;
+- Responsible for service and product development;
+- Build prototypes, products, and systems for testing;
+- Design testing procedures; document test results and develop client
+presentation;
+- Provide timely corrective actions on all assigned defects and issues;
+- Create and maintain product documentation;
+- Create and implement procedures, make process improvements;
+- Responsible for planning and budgeting.","- Masters degree in Computer Science or a related field;
+- Over 7 years of experience in Software Development.
+- Strong skills in: 
+a) .NET Framework web development stack: C#, ASP.NET MVC, WCF, Entity -
+Framework and Microsoft SQL Server;
+b) .NET Framework desktop development stack: C#, WPF, Windows Forms;
+c) Python web development stack: Python, Django and MySQL;
+d) NoSQL: db4o, Mongo DB;
+e) Web Services, Web API and Data Services;
+f) JavaScript, jQuery and AJAX;
+g) MySQL, Memcache and Db4o;
+h) Design of the Software Architecture, N-Tier Software Architecture;
+i) System modeling: UML, Power Designer and Omni raffle;
+j) Scrum Methodologies, Agile;
+k) Enterprise Software development lifecycle (design, development, test
+and implementation);
+- Analytical and problem solving skills;
+- Data analysis and data mining skills;
+- Time management, planning and organizational skills;
+- Good knowledge of English language;
+- Ability to build and manage Software Development team.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Software Architect"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

@@ -1,0 +1,36 @@
+Core Network Expert,"Participating in the project of construction of a new
+mobile operators network in Armenia, he/she will be responsible for
+core network design, interfacing strongly with France Telecom corporate
+teams.
+The job is based in Yerevan with frequent travels throughout the regions
+of Armenia.",NA,"- Wide technical competencies and experience in engineering, integration
+and validation of core networks;
+- Knowledge of R4 architecture;
+- Knowledge of interfaces and protocols (SIP-i) between MSC and Servers,
+between MSC-Server and MGW and between MSC-server & HLR;
+- Knowledge of interfaces and protocols with service platforms (IN,
+Voice Mail, SMS-C);
+- Ability to analyze current and future features;
+- High-level competencies in dimensioning, traffic (voice & voice to
+Voice Mail), signaling (location update, call setup) of the core
+network: MSC-Server & MGW;
+- High-level radio competencies are valuable to understand impact of
+radio engineering on CS core (dimensioning, interfaces, etc.);
+- Ability to forecast, anticipate, make links with suppliers and FT
+corporate teams;
+- Project management skills to deal with internal and external partners.","To apply for this position please open (click)http://www.careerhouse.com website, register as a regular user (unless
+you have previously registered), fill out your Resume, then open the
+same announcement there, click on the ""Apply"" button and proceed to
+receive the confirmation message. Please make sure you necessarily fill
+out the References section in your Resume and attach any references you
+have.
+Shortlisted candidates will be contacted for an interview and test.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Should you have any questions regarding registration
+process, please call Career Center: +(374 10) 56 03 28.","France Telecom is a telecommunications operator
+providing services to more than 170 million customers on five continents
+of the world of which 120 million under the Orange brand.
+France Telecom is starting its activity as the third operator in the
+mobile telecommunications sphere in Armenia.
+Visit www.orange.com for more information."

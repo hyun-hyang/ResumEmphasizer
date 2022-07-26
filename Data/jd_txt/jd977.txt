@@ -1,0 +1,27 @@
+Software Quality Assurance Specialist,"""Inecobank"" CJSC is seeking a Software Quality
+Assurance Specialist.","- Assist with the testing life cycle (creation of test scripts,
+functional, regression and performance testing, defect management,
+result reporting);
+- Translate business requirements into test cases;
+- Collaborate with development in the design and execution of the QA
+Life Cycle;
+- Work closely with the product development and client implementation
+teams to understand requirements, system specifications and design;
+- Provide documentation of problems, works, reports and defects.","- Higher education;
+- Analytical thinking;
+- 1+ years of experience in a team development environment;
+- 1+ years of work experience in Software testing and quality
+assurance;
+- Good knowledge of SQL language;
+- Knowledge of relational databases;
+- Knowledge of network technologies;
+- Experience in financial institutions is preferred;
+- Ability to work in a team and under pressure;
+- Ability and willingness to work extra hours if necessary;
+- Excellent English language skills.","Interested applicants should submit their CVs
+to: anna.baloyan@... .
+Only short-listed candidates will be invited for interviews. Please put
+on subject line of your e-mail QA specialist.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

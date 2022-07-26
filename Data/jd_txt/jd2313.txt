@@ -1,0 +1,21 @@
+IOS Developer,"e-Works LLC is looking for an experienced IOS Developer
+who can create and design mobile applications for iPhone, iPad, and other
+mobile platforms.",NA,"- Over 3 years of experience in the Mobile Development with strong
+experience in developing iPhone/ iPad application with iOS,
+- Fluency in Objective-C, Xcode and Cocoa;
+- Knowledge of cutting-edge iOS technologies;
+- Solid grasp of algorithms, memory management, object oriented
+programming, MVC programming and concurrent programming;
+- Strong experience in detecting and correcting memory usage issues, and
+optimizing code for application performance;
+- Experience with server side technologies, especially with respect to
+mobile challenges such as high latency, low bandwidth environment;
+- Strong experience in unit testing and debugging code.","Please submit your CV only to the following
+address: eworkswebdesign@... , mentioning the position title in the
+subject line of your e-mail. CVs will be considered only in case the
+applicants meet the above-mentioned requirements. No phone calls, please.
+Only short-listed candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""e-Works"" Web Design Studio is a French-Armenian Internet
+strategy and Web design company based in Yerevan, Armenia."

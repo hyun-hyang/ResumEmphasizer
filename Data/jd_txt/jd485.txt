@@ -1,0 +1,11 @@
+Programmer,"The incumbent will be responsible for structuring and
+programming of management and analytical systems as well as for working
+out and development of analytical and accounting systems.",NA,"- Advanced knowledge of PHP and data base management systems;
+- Higher education in a relevant field;
+- 2 years of professional work experience;
+- Good knowledge of English and Russian languages (verbal and written).","To apply, email a CV listing your experience,
+developed programs and accomplished tasks to: info@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Preference will be given to applicants with knowledge
+of C++ and VisualC programs.",NA

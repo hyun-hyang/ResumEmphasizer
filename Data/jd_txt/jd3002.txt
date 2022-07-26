@@ -1,0 +1,44 @@
+iOS Developer,"Urbanlinx Media is seeking an experienced iOS
+Developer. The successful candidate will be responsible for building the
+next generation of mobile applications focusing on exceptional user
+experience and product functionality. This is a remote position.","- Develop native/ hybrid mobile applications on iOS platforms;
+- Responsible for architecture and design of mobile client for iOS
+platforms;
+- Responsible for debugging and enhancing consumer facing mobile
+applications;
+- Develop client side interfaces using HTML5, CSS3, JavaScript and others
+as required;
+- Develop prototypes and proofs-of-concept as needed during the planning
+and design stages of projects;
+- Participate in all cycles of software design and development;
+- Perform unit and automated test case development;
+- Work in scrum project framework.","- Bachelor's degree in Computer Science, Engineering is preferred or
+combined equivalent of education and/ or experience;
+- At least 3 years of experience in C/ C++, Objective C, Git, JavaScript,
+Xcode and API integration;
+- Swift experience is an asset;
+- Solid understanding of application extensions;
+- Solid understanding of auto layout concepts;
+- Solid understanding of object oriented (OO) analysis and design
+principles and demonstrated proficiency/ expert knowledge in OO design;
+- Solid understanding of iOS development environments and tools;
+- Understanding of Android SDK is a plus;
+- Familiarity with mobile device security, services and APIs;
+- Solid understanding of performance issues of mobile devices and
+applications;
+- Strong user experience and design sense;
+- Ability to master new technologies quickly;
+- Experience with mobile development issues related to performance
+optimization (ie, caching, security, and native hardware components (ie,
+Camera, GPS, etc.));
+- Experience with JSON, SOAP, Rest, XML and XHTML;
+- Experience with web front-end development frameworks such as HTML5 and
+JavaScript;
+- Good knowledge of PHP and MySQL;
+- Server side and application development experience.","To apply, send a Resume and a Cover Letter to:careers@... . Successful candidates will be invited for a
+phone interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Urbanlinx Media is an IT Development company which
+develops websites, with a focus on the entertainment sector. Urbanlinx
+Media has offices in Montreal and New York City."

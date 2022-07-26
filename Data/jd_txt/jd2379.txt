@@ -1,0 +1,55 @@
+IT Specialist (IT High Quality Network Administration),"Chemonics International Inc. implements the USAID
+Armenia Pension Reform Implementation Program (PRIP) which aims at
+contributing to successful implementation of Pension reforms in Armenia.
+PRIP seeks a qualified professional for the full-time IT Specialist
+position, which requires experience with IT high quality network
+administration. IT Specialist with experience of IT high quality network
+administration will provide expertise in planning and coordinating the
+design, installation and connectivity of computer and network systems to
+ensure the stable operation of the organizations IT assets. This
+includes developing, configuring, maintaining, supporting and optimizing
+all new and existing network hardware, software and communication links.","- Collaborate with technical services team members to assess near and
+long term network capacity needs, as well as design and implement
+strategic plans to make certain network capacity meets existing and
+future requirements;
+- Develop and maintain documentation as it relates to network
+configuration, network mapping, processes and service records;
+- Develop, implement and maintain policies, procedures and associated
+training plans for network administration, usage and disaster recovery;
+- Develop and deploy methodologies for testing network performance and
+providing network performance statistics and reports;
+- Document the WLANs architecture, design and layout, including
+protocols and standards used, as well as configuration;
+- Work closely with information systems team members and technical
+staff;
+- Perform other relevant tasks as assigned by the DCOP/ information
+systems team leader.","- Masters degree;
+- At least 10 years of experience in network administration;
+- Experience in all areas of local and wide area networks management and
+administration including system configuration, setup, troubleshooting,
+planning, designing, implementation and user support;
+- Experience in network capacity planning, network security principals
+and general network management best practices;
+- Cisco Certification preferred/ Industry standard certifications such as
+CCNA, CCIP etc.;
+- Excellent technical knowledge of current network hardware, protocols
+and Internet standards;
+- Strong knowledge of network management and analysis tools;
+- Knowledge and understanding of system flow charts, data processing
+concepts and telecommunications principals;
+- Knowledge, understanding and ability to create and maintain thorough
+technical documentation;
+- Ability to communicate clearly and effectively;
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian and English languages.","Interested candidates are asked to send a CV and
+a cover letter including three professional references to: hr@... ,
+indicating the position title in the subject line of the e-mail. Only
+finalists will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The PRIP project intends to assess software platforms at
+the State Social Security Service of the MLSA of the Republic of Armenia
+(SSSS) and Nork Information-Analytical Center (Nork). PRIP will make
+recommendations to rationalize a software strategy, ultimately ensuring
+access to information relevant to payment processing for all pension
+benefits."

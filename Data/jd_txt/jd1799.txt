@@ -1,0 +1,21 @@
+Software Developer,"VXSoft Ltd is looking for a Software Developer for the
+company office in Armenia.","- Develop and submit software code according to technical requirements of
+system architect;
+- Develop software specifications for company's products;
+- Perform other tasks assigned by System Architect.","- Higher education;
+- At least 3 years of experience in each of the following fields:
+(I) C/ C++;
+(II) Linux environment (SSH, SFTP and Apache);
+(III) JavaScript, DOM, HTML5, CSS3, MySQL, PL/ SQL and AJAX;
+(IV) Knowledge of Python, Ruby and PHP;
+(V) Relational databases such as MySQL;
+(VI) Collaborative tools such as SVN.","Please, send your CV with a cover letter
+outlining your career goals and your particular interest in this job to
+the following email: cppjob@... . Please indicate ""Software
+Developer"" in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VXSoft Ltd. is a software programming company which
+specializes in development of document management software. The company
+operates in different CIS countries like Armenia, Turkmenistan and
+Kazakhstan."

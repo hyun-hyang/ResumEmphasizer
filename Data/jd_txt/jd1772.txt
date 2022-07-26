@@ -1,0 +1,52 @@
+Senior Software Developer,"The incumbent will develop software systems according
+to client' requirements and continue debugging, enhancing and maintaining
+developed systems. Primary responsibilities include data analyzing in
+combination with developing and debugging database driven web based
+enterprise level software, using C# programming language and SQL.","- Collaborate with key team members in developing new products;
+- Enhance existing programs by identifying areas for improvement;
+- Actively participate in software and database design processes;
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Constantly update technical knowledge and skills;
+- Be efficient in the use of memory and CPU time;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/ write technical documentation on codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues.","- At least 4 years of work experience with C#/.NET;
+- Bachelor's or higher degree in Computer Sciences, Physics, Mathematics
+or in related disciplines;
+- Good grades in undergraduate and other studies;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Strong knowledge of C#, Microsoft .Net Framework 4.0, Silverlight,
+ASP.NET MVC3, EF and WCF;
+- Work experience with programming user interfaces;
+- Work experience with relational databases, including MS SQL Server and
+Oracle;
+- Strong knowledge of SQL language and relational data model;
+- Ability to develop efficient codes;
+- Familiarity with algorithms, with ability to estimate algorithm
+complexity;
+- Familiarity with data structures;
+- Familiarity with architectural patterns, including MVC and MVVM;
+- Familiarity with design patterns;
+- Good English language skills, including reading, writing and speaking;
+Desired qualifications:
+- Familiarity with Java, C++ or other object oriented programming
+languages;
+- Familiarity with Javascript and related frameworks (JQuery, YUI, etc.)
+- Ability to write programs using different programming languages and
+environments;
+- Familiarity with workflow engines;
+- Familiarity with BI and data mining techniques;
+- Familiarity with different web development technologies (AJAX, HTML,
+CSS, etc.);
+- Ability to travel to USA or other countries to work with other team
+members.","Interested candidates should email their CVs and
+inquiries to: Armen Nahapetyan at: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The head office of Ardinnotech LLC is based in Florida,
+USA. The company specializes in development of computer models and
+software for railroad and transportation companies."

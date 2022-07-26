@@ -1,0 +1,29 @@
+Software Developer,"The primary objective of this position is to produce
+required product which satisfies customer needs, is of high quality and
+is timely.","- Follow the software development processes established in
+organization;
+- Analyze business requirements and clearly understand functional
+specifications;
+- Develop architectural and software design based on functional
+specifications;
+- Provide time based estimates for software development activities;
+- Provide implementations of software product according to
+specifications;
+- Debug and provide bug fixes according to bug reports;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a command of current technology;
+- Actively participate in discussions regarding technical issues.","- Minimum Bachelors degree in Computer Sciences or a related field;
+- 3-5 years of programming experience;
+- Extensive knowledge of object oriented programming concepts;
+- Extensive knowledge of web development and database technologies;
+- Knowledge of ASP.NET, C# or VB.NET, MS SQL or ORACLE;
+- Knowledge of HTML, JavaScript and XML are strongly preferred;
+- Excellent understanding of SDLC is strongly preferred;
+- Knowledge of C++, Java and AJAX are desired.","Interested candidates should email their
+resumes to: armen.nikoghosyan@... andanikoghosyan@... (alternate). Please mention in the subject line
+the position you are applying for. Only short-listed candidates will be
+invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Metacortex is a software development company.

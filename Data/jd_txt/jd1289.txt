@@ -1,0 +1,42 @@
+Senior QA Engineer,"Ogma Applications is seeking motivated QA Engineers to
+work on its worldwide projects. The projects are web applications
+utilizing latest technologies in video webcasting over internet for web
+browsers, Televisions and telephone systems.
+In order to succeed in this team, the incumbent must have the passion and
+energy to work in an entrepreneurial, and fast paced environment. In
+addition, the Senior QA Engineer must be an experienced senior architect
+and technical leader with in-depth knowledge of software development
+processes.
+As a senior member of the team in Armenia, the Senior QA Engineer will be
+working closely with other developers.","- Design, develop and implement comprehensive QA test plans and test
+cases, tools and infrastructure for assigned areas of the
+LookWhosClicking software;
+- Run regression tests and perform both white and black box testing
+against releases of the Product;
+- Perform all aspects of verification, including functional, structural,
+regression, load and system testing;
+- Document, troubleshoot and isolate problems encountered during
+testing;
+- Design, develop and implement complex test automation both at the
+functional and system level;
+- Work with other members of the global Engineering team to improve our
+processes, tools, methods, effectiveness and efficiency.","- Minimum of 5 years cumulative experience developing or testing
+commercial web-based application software with at least 2 years
+experience testing system software;
+- A strong technical background coupled with In-depth experience testing
+or developing software for Microsoft operating systems in a .NET
+framework and environment;
+- Extensive background in QA methodologies and experience developing and
+executing comprehensive test suites for system software;
+- Strong technical and programming/ test automation skill; 
+- Ability to troubleshoot software/ hardware configuration problems;
+- Demonstrated ability to handle/ organize multiple complex technical
+projects simultaneously;
+- Ideal candidate will have strong analytical and troubleshooting skills,
+as well as excellent written and verbal communication skills;
+- Strong inter-personnel skills, ability to work both independently and
+as part of a global team and thrive on technical challenges.","Qualified candidates should send their resumes
+to: hbaghdas@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

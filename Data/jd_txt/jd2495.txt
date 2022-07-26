@@ -1,0 +1,23 @@
+Junior Software Testing Specialist,"NairiSoft Armenia is seeking a Junior Software Testing
+Specialist to learn and join its Test Team.","- Assist with the testing life cycle (manual testing, defect management
+and result reporting);
+- Translate business requirements into test cases;
+- Collaborate with development in the design and execution of the QA Life
+Cycle;
+- Work closely with the product development and client implementation
+teams to understand requirements, system specifications and design.","- Bachelors or higher degree in Computer Sciences or a related
+discipline;
+- Experience in a team development environment;
+- Familiarity with software testing and quality assurance;
+- Experience with C#, ASP.NET and basic understanding of the HTTP
+protocol;
+- Knowledge of SQL language;
+- Knowledge of relational databases;
+- Excellent English language skills.","Interested candidates are asked to e-mail their
+detailed resume with a photo to: job@... and indicate the
+position you are applying for. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft, Inc. is an international Internet
+infrastructure development company established in 2000."

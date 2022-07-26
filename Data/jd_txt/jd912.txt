@@ -1,0 +1,51 @@
+IT Security and Fraud Detection Division Head,"The incumbent is responsible for IT security policies
+formulation, implementation and monitoring; management and reporting of
+Fraud activities tracking in Postal Communication Networks; Data
+Security control implementation, breach mitigation actions and
+definition of relevant procedures.","- Define and implement IT security policies and procedures;
+- Design, implement and operate IT security enforcement points, security
+controls, intrusion detection mechanisms and data security systems;
+- IT security breach mitigation;
+- Define antivirus security mechanisms and operations or equipment;
+- Monitor and audit for company wide compliance with security policy and
+standards;
+- Design, implement and maintain security infrastructure and
+applications according to security policies, including bud not limited
+to:
+a) Servers security applications and firewalls;
+b) Other centralized security such as antivirus;
+- Present fraud audit reports and relevant suggestions for resolving
+issues arising from potential postal fraud activities;
+- Research and develop procedures and mechanism for effective monitoring
+and discovery of potential postal fraud activities;
+- Define Data Security Budget.","- University degree in Computer Science or relevant field;
+- Postgraduate degree.
+Technical:
+- Good knowledge of network and systems operation principles;
+- Advanced knowledge of programming principles;
+- Advanced knowledge of IT security systems;
+- Aptitude for learning new technical skills quickly.
+Managerial:
+- Business oriented thinking, communication skills; 
+- Team oriented successful management experience in employee relations,
+performance appraisal, and professional development;
+- Strong analytical, planning, project management, supervision, team
+building, and problem solving abilities;
+- Ability to prioritize and manage multiple projects and activities
+within time, budget and technical constraints;
+- Experience in technical project management, including developing and
+managing technical project timelines, and prioritizing and assigning
+project tasks, and assessing progress.
+Other:
+- Excellent verbal and written communications;
+- Fluent in Armenian, English and Russian languages;
+- 5 or more years of work experience in a relative functional area, 2
+years project management either/or people management experience.","To apply for this position, please submit a
+detailed resume/CV in Armenian and English languages to Haypost CJSC HR
+Department (6th floor, 22 Saryan Str., 0002 Yerevan, Republic of
+Armenia) or e-mail it to: HRManager@.... 
+Please, clearly mention in the subject line the position title you apply
+to. Only short listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Haypost CJSC is the national postal operator in Armenia.

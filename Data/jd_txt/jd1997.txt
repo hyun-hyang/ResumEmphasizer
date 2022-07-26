@@ -1,0 +1,30 @@
+Senior Java Developer,"Nava Solutions is seeking highly qualified Senior
+Software Developers to lead the effort of developing innovative software.
+The successful candidates shall demonstrate deep technical and
+professional skills, readiness to learn new technologies fast, as well as
+ability to deal with tight deadlines. Company is looking for only the
+best experts. If you want to be the part of this project and be there
+from the beginning, then this is right for you.",NA,"- Degree in Computer Sciences or equivalent;
+- At least 4 years of work experience; preferably 5 or more; 
+- Knowledge of Google App Engine is a big plus;
+- Proficiency in object oriented programming;
+- Proficiency in Java;
+- Knowledge of C# is a big plus;
+- Working knowledge of XML, HTML, CSS, JavaScript, AJAX and related
+technologies; 
+- Knowledge of RIA technologies, especially YUI and JQuery is a plus; 
+- Strong understanding of multi-threading and networking concepts; 
+- Strong understanding of relational database concepts;
+- Knowledge of Hibernate ORM framework is a plus; 
+- Strong reasoning and critical thinking skills; 
+- Knowledge of and experience in logic and discrete math; 
+- Enthusiastic and self-motivated person; 
+- Good team player.","Please submit your CV to: jobs@...
+, indicating the position in the subject line of your e-mail. Only
+shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Nava Solutions is a startup looking to establish in
+Armenia and looks forward to see the potential before setting up the
+office. Company's goal is to build the right team up front. If you are
+willing to get more details please email: jobs@... ."

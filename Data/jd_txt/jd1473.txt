@@ -1,0 +1,19 @@
+PHP Software Developer,"Boomerang Software LLC is looking for a PHP Software
+Developer to be engaged in different long term projects.",Develop Web applications with PHP.,"- At least 3-5 years of work experience as a Software Developer in PHP;
+- Experience in Web development;
+- Expert skills of AJAX, XHTML, CSS, JavaScript, HTML, OOP;
+- Experience in Yahoo! User Interface Library (YUI); 
+- Experience in C# .NET;
+- Experience in Unix shell scripting;
+- Database knowledge with MySQL; 
+- Good knowledge of English;
+- Good Code practices: comments, unit tests, white space and good code
+design.","If interested, please email your CV and
+references with a 3x4 size photo to: hr@... . Please, clearly
+mention in the subject line which position you are applying for. Only
+shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

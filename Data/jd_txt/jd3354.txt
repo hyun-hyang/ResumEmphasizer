@@ -1,0 +1,62 @@
+JavaScript Professional,"Berg Development is looking for a JavaScript
+Professional with a creative mind who is a passionate coder and
+interested in new technologies.
+The incumbent will join the team of Berg Development LLC in the areas of
+web development, e-commerce portals and live/ betting software. As an
+equal member of the team the incumbent will be very involved in the daily
+operations of the company and will take part in all relevant events and
+meetings. This position is based in the company's new office in Yerevan.
+
+
+The incumbent may work in the company's headquarter in central Munich,
+Germany with the provision of a work permit (blue card) arranged on a
+medium term perspective.","- Re-develop and further the development of ambitious B2C projects;
+- Coordinate a team of developers in daily operations and software
+consultancy projects;
+- Responsible for business development and strongly designed, highly
+integrated websites, mobile platforms and technologically sophisticated
+e-business applications;
+- Responsible for the configuration, customization and extension of CMS
+and shop systems;
+- Responsible for testing and quality assurance;
+- Depending on the personal focus, engage in server-side programming;
+- Provide customer support in technical issues;
+- Closely collaborate with the team members from project management,
+programming and marketing.","- Expert knowledge of JavaScript, especially Backbone.js;
+- Knowledge of, experience with and fun in working with modern
+programming languages;
+- Experience with the current technologies for web and mobile front-end
+and back-end like NodeJS.;
+- Experience with CMS such as WordPress or other PHP based frameworks is
+a plus;
+- Experience with server administration: Linux, Nginx and Apache;
+- Good spoken and written English language skills;
+- At least 5 years of professional experience with JavaScript and web
+development;
+- University degree or equivalent training in the fields of Computer
+Science, Multimedia or a similar field is a plus;
+- Competencies in project management, task coordination and leadership in
+a team environment;
+- International experience through an occupation or studies abroad is a
+plus;
+- Reliability, openness, willingness to learn and incorporate new ideas
+within the company's international team;
+- Creativity and team working skills combined with good understanding.","To apply for this position please send your
+complete application which should include a brief cover letter, a CV,
+credentials and any references (e.g. URLs, portfolio) from past work (if
+available) to Ms. Galstyan at: tattey.galstyan@... and
+jobs@... stating your earliest possible starting time and salary
+expectation.
+The candidate's abilities and potential are the focus of the company's
+attention. Therefore, in your CV, please do not include information such
+as a photo, name, sex and origin. 
+Berg Development is an equal opportunity employer and the anonymity of
+records is guaranteed. 
+The company is happy to answer any questions in advance and it looks
+forward to receiving your application.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Berg Development LLC does not hire smokers.,"Bergx2 GmbH is a German specialist for digital projects
+that implements innovative solutions for organisations which want to
+expand their business activities in the Internet and mobile world. Bergx2
+GmbH is officially represented by Berg Development LLC in Armenia."

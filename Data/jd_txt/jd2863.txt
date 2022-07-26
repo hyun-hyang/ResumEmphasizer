@@ -1,0 +1,71 @@
+Senior Software Performance Engineer,"VMware is seeking a Senior Software Performance
+Engineer with strong distributed systems expertise for the VMware Cloud
+Infrastructure & Managements ESO team. The Cloud Management group
+charter is to create the platform and products that deliver performance,
+availability and capacity management of VMware based environments. This
+is an exciting area to work in with multiple products in the pipeline and
+a fast-paced work culture. If evaluating/ improving the performance of
+products that solve large real-world distributed systems problems and
+delivering them on an aggressive schedule motivates you, then this job is
+for you.","- Evaluate the performance of VMware products using performance analysis
+tools, or creating tools as needed;
+- Identify performance bottlenecks throughout the system;
+- Recommend and implement code changes to remove performance
+bottlenecks;
+- Review emergent architectures and designs to identify potential design
+limitations;
+- Be an advocate for getting high performance designs and implementations
+incorporated into the product;
+- Drive architecture discussions, performance optimizations and end to
+end improvements into the platform with development architects and
+leads;
+- Establish performance models and exit criteria for critical strategic
+features;
+- Review business use cases, user stories and other functional and
+non-functional requirements to identify key performance indicators;
+- Review design documents and code to identify potential performance
+bottlenecks and defects;
+- Develop load simulators for performance evaluation of n-tiered
+applications;
+- Analyze various components of the application (web/ application
+servers, transaction management server, database) to identify performance
+bottlenecks (at application, persistence and OS layers);
+- Write technical and summary reports that present results to management.","- BS/ MS degree in Computer Science, Engineering or a related technical
+discipline, or equivalent experience;
+- The qualified candidate should have solid experience and/ or training
+in the performance analysis and troubleshooting;
+- Hands on experience in Java;
+- Strong understanding of Java performance - garbage collection, heap
+dump analysis, tuning and Java profiling;
+- Experience with large-scale, large volume, distributed 24x7 systems
+supporting tones of transactions/ sec;
+- Excellent programming knowledge (Java is preferred);
+- Excellent scripting skills (Shell, Python);
+- Excellent in UNIX/ Linux O/S,  Windows;
+- Should have database experience (preferred NoSQL);
+- In-depth knowledge of performance analysis tools, techniques and
+benchmarking;
+- Familiar with profiling/ monitoring Software (e.g. JProfiler, YourKit,
+JMeter);
+- Experienced in the development of performance measurement and analysis
+tools;
+- Experience with performance engineering within a distributed
+architectures;
+- Strong understanding of complex concepts related to computer
+architecture, data structures and programming practices; 
+- Deep understanding of the following computer-system-related concepts,
+coupled with practical experience: Operating Systems, CPU/ Memory
+architectures, threads, exceptions and I/O;
+- Ability to diagnose complex problems and deliver analysis of root
+causes;
+- Ability to work in an Agile, continuous integration environment;
+- Excellent English language written and verbal communications skills.","Interested candidates are asked to e-mail their
+last updated and detailed resume to: Liana Avetisyan (HR) at:lavetisyan@... . Please indicate ""Senior Software Performance
+Engineer"" in the subject line of the e-mail. Only shortlisted candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware, Inc. is an American software company that
+provides cloud and virtualization software and services, founded in 1998
+and based in Palo Alto, California, USA. For more information about the
+company, please visit: www.vmware.com ."

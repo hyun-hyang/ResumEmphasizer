@@ -1,0 +1,47 @@
+Software Project Coordinator,"Software Project Coordinator will be responsible for
+ensuring alignment, commitment, communication, and execution of software
+projects by implementing processes, schedules, and ""filling the gaps"" to
+ensure success.","- Gain agreement on release commitments between marketing, engineering,
+and QA and communicate it to the organization;
+- Highlight gaps in alignment and work with stakeholders on resolution
+plans;
+- Ensure that release and roadmap expectations are clearly defined and
+agreed on for CAA, CMPAnalyzer, and other products as identified by
+Director of Engineering; 
+- Highlight delivery risks to the stakeholders and ensure corrective
+action is being taken. Communicate both risks and actions to the
+stakeholders;
+- Establish planning and communication processes with engineering and
+marketing across multiple continents and time zones to ensure smooth
+operations for each release and stable roadmap across releases;
+- Ensure that the implementation plan for major features is
+comprehensive (e.g., avoid the situation where the schedule is committed
+by one engineering group when the rest of the feature can not be
+completed);
+- Default contact point for risk assessment and delivery status on
+scheduled items.","- BS/ MS in Computer Science/ Electrical Engineering;
+- 5+ years of work experience in technical projects coordination; 
+- Good communication skills;
+- Self-motivation;
+- Familiarity with agile development practices and managing content in a
+dynamic environment; 
+- Experience in working with international teams across multiple
+time-zones; 
+- Proven ability to create sustainable processes to ensure alignment and
+communicate throughout the organization;
+- Experience in EDA software development. Experience in DFM or Physical
+verification is desirable; 
+- Proven ability in resolving conflicts in priority and scope through
+negotiation;
+- Knowledge of oral and written Technical English language; 
+- Proven ability to bring engineering and marketing to an agreed-on
+plan, work with functional managers to execute to the plan, and
+communicate plan and status throughout the organization;
+- In case of a male candidate it is preferred that military obligation
+or educational waivers of military obligation is fulfilled.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail and/ or submit your CV through http://amyhrs.mentor.com/.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

@@ -1,0 +1,18 @@
+Software Developer,"Software Developer will develop software systems
+according to clients' requirements, and continue debugging, enhancing and
+maintaining developed systems. Primary responsibilities of the incumbent
+include developing, debugging and testing software components.","- Develop software code based on the existing design;
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Constantly update technical knowledge and skills;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/ write technical documentation on codes and algorithms;
+- Work productively in a software development team.","- Good background in C#, .Net;
+- Good background WPF entity frameworks, MVVM pattern;
+- Experience with WinForms, ADO.NET, MSSQL is desirable;
+- Knowledge of math statistics and probability theory is a plus.","Interested candidates should send their CVs to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mer Soft LLC is a software development company based in
+Armenia. The company was founded in 2008."

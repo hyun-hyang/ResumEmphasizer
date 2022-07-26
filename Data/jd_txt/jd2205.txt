@@ -1,0 +1,28 @@
+Senior iOS Mobile Developer,"If you are driven to work on some cutting-edge products
+in digital photography, this position is for you. Company's client, one
+of the most respected companies in the industry, is aggressively looking
+for an iOS Developer to join Yerevan team. The Developer will work
+closely with other developers and designers to drive the evolution and
+expansion of the company into new technology areas and market segments.","- Implement new products and enhancements, as they are required;
+- Prototype new ideas and explore new technologies that are at the
+forefront of mobile technology;
+- Participate in technical discussions as well as design and code
+reviews;
+- Ensure compliance with Apples Human Interface Design principles;
+- Generate technical documentation for various aspects of the
+application.","- Bachelor's Degree in Computer Sciences or closely related discipline;
+- Over 2 years of experience in mobile application development;
+- Understanding of the fundamentals in object-oriented development and
+database structures;
+- Strong knowledge of Objective-C, Cocoa, and iOS Frameworks;
+- Experience in building complex iOS Apps that have been successfully
+delivered to customers;
+- Experience with XHTML, HTML5, JavaScript, JSON and Web Services;
+- Exceptional analytical abilities, creativity and attention to details.","Please submit your resume in English language
+to: jobs@... . Please reference ""JobID: 130402"" in the subject line
+of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zenta Limited is an Armenian software development and IT
+consulting company specialized in database-centric web, mobile and
+desktop application development."

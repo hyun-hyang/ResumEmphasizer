@@ -1,0 +1,19 @@
+C++ Software Engineer,"Career Center is looking for a C++ Software Engineer
+for its partner company to participate in the development of the
+company's OneTick product line.",Responsible for C++ development.,"- University degree in IT or last year students in IT field;
+- Excellent academic record for students;
+- Good knowledge of algorithms and data structures;
+- Successful participation in programming olympiads and contests is a
+plus especially for students;
+- Knowledge of C++ and demonstrated ability to write programs; 
+- Good technical English language skills.","To apply for this position, please register in
+www.careerhouse.com website as an Individual (unless you have previously
+registered), fill out your Resume, then open this announcement, click on
+the ""Apply"" button and proceed to receive the confirmation message.
+Please make sure you necessarily fill out the References section in your
+Resume and attach any references you have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Applicants having written C++ code in non-properietary
+projects are requested to attach the source code with their resume.","The partner company is a provider of CEP solutions for
+financial institutions."

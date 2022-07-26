@@ -1,0 +1,20 @@
+Senior Developer,"LinkGard Systems, LLC is seeking a highly experienced
+Senior Developer that can design and develop Microsoft applications. We
+need ethical, energetic, and highly motivated individuals.","- Design and analysis of software applications;
+- Maintenance of existing software applications;
+- Write documentation in English.","- Full software development life-cycle (SDLC) experience;
+- At least 3 years of experience in the following:
+- VB6, VB .NET, C# (C++ desireable);
+- Programming Outlook Object Model, Collaboration Data Objects\CDO,
+Active Data Objects\ADO, ADSI, and XML;
+- SQL Server, Exchange, and Windows Active Directory;
+- Extended MAPI is desireable.
+Additional Qualifications:
+- Excellent knowledge of English language;
+- University degree;
+- Knowledge of Linux/UNIX is a big plus.","Send your cover letter and resume to:jobs@.... Please put LG011 in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT. LinkGard Systems is based in Armenia. Visit
+www.linkgard.com for more information."

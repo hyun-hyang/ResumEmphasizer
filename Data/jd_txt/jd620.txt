@@ -1,0 +1,18 @@
+"System and Network Administrator, Operations Department","Lycos Armenia is looking for a system and network
+administrator to perform daily operation of Lycos Public Internet
+Products.",NA,"- University degree in the relevant field;
+- Excellent Linux knowledge (at least 5 years of extensive work
+experience with Unix based systems);
+- Good networking skills (TCP/IP networks, switches, routers,
+firewalls);
+- Good database skills (MySQL, Oracle & MSSQL);
+- Good scripting skills (Shell & Perl);
+- Good English language skills (fluent without dictionary);
+- Readiness to work under pressure and in unpredictable load
+distribution conditions, including occasional 24/7 on-duty
+responsibility.","Please send your CVs to: info@...,
+stating ""System and Network Administrator"" in the subject line of your
+email. For additional information call: (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

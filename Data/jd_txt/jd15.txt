@@ -1,0 +1,27 @@
+Physical Design Software Engineer,"The individual will take part in design,
+implementation, and execution of software tools.","Responsible for design, development, application
+and maintainance of software systems.","- Must have BS/MS/PhD in CS/EE.
+- Preferred programming training or test certification.
+REQUIRED SKILLS/KNOWLEDGE (in descending priorities):
+- Strong C++ programming skills, experience in widely accepted
+methodologies such as OOP. 
+- Knowledge of STL. 
+- Knowledge of English for free use of technical literature and written
+and oral communication as necessary.
+- User knowledge of Linux, MS Windows.
+-  Candidate must have good communication skills; be self-motivated. 
+- Experience with massive data manipulation, external memory
+computations is a plus. 
+- Knowledge of VLSI industry standards LEF/DEF GDSII is a plus.
+- Understandings of VLSI design methodologies and modern microchip
+fabrication processes is a plus.
+- Experience in software engineering is a plus.
+DOMAIN KNOWLEDGE: 
+- Knowledge in analysis software applications and data management in the
+Semiconductor industry is a plus.","Send a cover letter and CV in Plain text, MS
+Word document or PDF format (no hand delivery please) to job@....
+Provide contact phone number.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"UNICAD CJSC is an Armenia based subsidiary of E-Z-CAD
+(USA)."

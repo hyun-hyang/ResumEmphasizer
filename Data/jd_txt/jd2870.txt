@@ -1,0 +1,41 @@
+Senior Android Developer,"The Senior Android Developer will be a key member of
+the development team in Armenia designing, developing, supporting highly
+visible/ highly valued mobile and tablet solutions and build the next
+generation of the company's mobile applications.","- Design, develop and build Android mobile/ tablet based applications and
+related interfaces/ infrastructure;
+- Collaborate with IT leadership, systems analysts, business analysts,
+project sponsors and end users to envision, rationalize, develop and
+implement mobile Android platform, services, strategy and roadmap;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Collaborate with the QA teams and business partners to create and
+execute system test plans and user acceptance testing;
+- Work with outside data sources and API's;
+- Work on bug fixing and improving application performance;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency.","- More than 4 years of software development experience;
+- More than 2 years of Android development in Java;
+- Knowledge of OOP (Object Oriented Programming);
+- At least one or two functioning apps in the Android market place
+Experience with Android SDK/ NDK;
+- Working experience with remote data via REST and JSON;
+- Strong knowledge of Java language;
+- Experience with third-party libraries and APIs;
+- Solid understanding of the full mobile development life cycle;
+- Ability to understand and parse XML, JSON and serialized data;
+- Experience with embedded relational databases (SQLite); knowledge of UI
+frameworks, MVP application design and complex, reactive touch based UI;
+- Knowledge of Android Studio and Gradle Build system;
+- Experience of coding apps that support multiple languages and comply
+with accessibility standards;
+- Ability to lead technical design, feasibility, planning and
+coordination, and partner/ vendor selection.","Interested candidates are asked to submit their
+detailed CVs in English language to: career@... , indicating the
+title of the position ""Senior Android Developer"" in the subject line of
+the e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

@@ -1,0 +1,20 @@
+Software Architect/ Lead Developer,"In this role the incumbent will be responsible for
+defining further development system level architecture for company's
+product and providing technical support and coaching to the engineering
+team in regards to best practices and industry standards.","- Take responsibility for the technical vision, technical product
+strategy, prototyping, design, implementation, testing and monitoring;
+- Ensure that the matchmaking platform is forward thinking and on the
+leading edge of industry trends;
+- Provide technical support and coaching to the engineering team;
+- Guide technical strategy discussions on best practices.","- University studies in IT with focus on Software Engineering;
+- At least 8 years of hands-on, professional experience with dynamic and
+high scale Internet companies;
+- Proven work experience abroad;
+- Proven understanding of agile/ lean principles and methodologies;
+- Experience with web and DB technologies, Spring, Hibernate, JSF, AJAX,
+mySQL, JUnit and Selenium.","If you are interested, please send your CV to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essential Solutions LLC is a software development company
+specialized in provision of outsourcing development to the customers
+located in Europe and US."

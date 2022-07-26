@@ -1,0 +1,20 @@
+.Net Developer,"As a .NET Developer the incumbent will participate in
+projects on various web and windows solutions implementation. One of the
+current projects is the development of Silverlight and ASP.NET based web
+application for automation of consulting, learning services which focus
+on the power of language and the thinking that impacts people's actions.
+The incumbents responsibility will be working on whole project life
+cycle from specification, technical design, testing and implementation
+to going live and maintenance.","-	Be responsible for coding on .NET platform; 
+-	Be responsible for Unit testing, automated testing;
+-	Writ test cases and plans;
+-	Produce technical documentation.","-	Knowledge of .NET (C#, ASP.NET);
+-	Knowledge of MS SQL server;
+-	Experience in testing/QA is a big plus;
+-	Familiarity with the software development process;
+-	Knowledge in AJAX, Silverlight, web services or in statistics is an
+advantage.","Interested candidates should send their CVs to:jobs@..., mentioning in the subject line the position applying
+for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,27 @@
+Ruby on Rails Developer,"Sourcio is seeking base level Ruby on Rails Developers
+for development of features for its partners' product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 2-3 years of experience with Ruby and Ruby on Rails;
+- Strong understanding of HTML, CSS and Javascript (ExtJS , JQuery,
+Dojo);
+- Experience with web technologies such as HTTP, REST;
+- Experience with database design and implementation such as MySQL or
+PostgreSQL;
+- Experience using version control systems (Git);
+- Knowledge of other programming languages e.g. PHP, Java is a big plus;
+- Ability to solve problems independently and/ or as part of a team;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language both communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: info@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio is an off shoring and outsourcing solutions
+provider based in Armenia. For more information about the company, please
+visit: www.sourcio.com."

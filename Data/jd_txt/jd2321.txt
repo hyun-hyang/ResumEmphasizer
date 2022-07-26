@@ -1,0 +1,23 @@
+C# / WPF Developer,"Ingato is looking for a strong WPF/ C# Specialist to
+develop and improve the web software.","- Be focused on creating and enhancing applications, design reviews and
+bug fixes;
+- Develop new applications in WPF/ C#;
+- Write elegantly readable, testable code that satisfies all stated
+requirements;
+- Maintain and enhance WPF .NET application using C# and WPF;
+- Create technical specifications to describe the architecture, design
+and functionality of software components under development;
+- Ability to identify potential project risks and issues before they
+occur.","- Over 3 years of WPF developing and a solid understanding of the
+framework;
+- Strong understanding of WPF architectures;
+- Good understanding of full software life cycle development process;
+- Experience with working in software development;
+- Strong written and verbal communication skills;
+- Proven ability to work effectively with a small team in a startup
+environment.","Interested candidates are encouraged to submit a
+CV to: hr@... with a note of ""C#/ WPF Developer in the subject
+line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Ingato is represented by Sagarko CJSC.

@@ -1,0 +1,24 @@
+Senior Software Developer,"Rosgosstrakh-Armenia ICJSC is looking for a highly
+qualified Senior Software Developer with experience in object-oriented
+programming and development of client server applications.","- Gather and produce requirements and designs;
+- Accurately plan software development activities and follow established
+processes;
+- Communicate effectively with management and team members;
+- Keep commitments;
+- Actively participate in discussions regarding technical issues;
+- Write codes for the required product;
+- Create reports from DB (select, procedure, view).","- University degree in Computer Sciences or a related field;
+- At least 5 years of experience in C #, TSQL programming, database
+design, development and optimization technology;
+- Excellent knowledge of OOP, design templates, classical algorithms and
+data structures;
+- Good knowledge of .NET;
+- Problem-solving and decision-making skills;
+- Good written and verbal skills in Armenian and Russian languages;
+- Knowledge of Accounting and Insurance is a plus;
+- Command of current technology.","Interested candidates are asked to send a resume
+to: hr@... . Please mention the position title Senior Software
+Developer in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

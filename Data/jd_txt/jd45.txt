@@ -1,0 +1,20 @@
+Software developer,"Xalt LLC is seeking for a motivated and experienced
+Software Developer in Web environment who will evaluate solutions and
+create detailed system requirement specifications as well as system
+design and functional specifications. The Software Developer will
+support the project management team with innovative ideas.","- Writing high quality code based on implementation specification
+- Effective programming in UNIX/Linux environment
+- Participating in web applications design and development and updating
+the existing websites
+- Scripting, web programming","The successful candidate is required to have strong knowledge of PHP,
+MySQL, HTML, XML. Knowledge of data structures, algorithms and database
+concepts is required. C/C++ and Perl programming languages knowledge is
+desirable.
+- At least two years experience in relevant field
+- Good knowledge of English
+- Team oriented, organized, initiative 
+- Willing to learn new skills","If you are interested in the Software
+Developers position, please email your cover letter and CV toinfo@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

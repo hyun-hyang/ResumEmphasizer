@@ -1,0 +1,35 @@
+C++ Software Developer,"The primary objective of this position is to produce
+required product in conjunction with team members insuring it is of high
+quality and is timely.","- Participate in gathering and producing requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Communicate effectively with management, be enthusiastic to contribute
+to the team and make a difference;
+- Have a willingness to untangle tough problems in existing code and
+propose elegant solutions;
+- Keep commitments;
+- Have a command of current technology;
+- Actively participate in discussions regarding technical issues.","- Bachelor's degree in Computer Sciences or in a related discipline;
+- At least 3 years of C++ development, enterprise-class system
+architecture and design or equivalent combination of education, skills
+and experience;
+- Knowledge of SQL is an advantage;
+- Demonstrated record of delivering high quality software products to
+market;
+- Good knowledge of Windows platform technologies including Win32 API,
+COM, threading and sockets is desirable;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good English language skills are preferred; 
+- Desire to learn new technologies;
+- Knowledge and application of software development methodology
+(preferably UML).","To apply, please send an application to:yer_job@... . Please, mention the position you are applying for in
+the subject line of your e-mail. If any questions, please call: (010)
+26-56-01 ext.7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it was founded in
+1980. It currently has over 500 employees worldwide in 15 offices. Its
+Yerevan office was opened back in 2004. For more information please go
+to: www.cqg.com"

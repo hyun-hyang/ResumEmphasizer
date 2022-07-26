@@ -1,0 +1,49 @@
+Senior Technical Expert/ Software Architect,"The incumbent will be responsible for all aspects of
+systems architectural and functional design, as well as coordination and
+guidance of technical staff on the project.","The expert will be responsible for but not limited
+to:
+- Participate in requirements gathering, analysis, design,
+implementation, testing and maintenance;
+- Develop general system design including internal and external
+information flows, current and future system requirements, interfaces and
+integration points, making specific determinations about system
+performance, availability and security;
+- Document system architecture including functional and integration
+components;
+- Document conceptual data model, key entities and elements, data
+transformations and conversions;
+- Develop new programs and customize existing programs utilizing
+different programming languages, frameworks, development environments and
+object-oriented methodologies;
+- Provide guidance to support staff on software development and
+maintenance;
+- Handle complications arising from the development of new software;
+- Utilize standard software development methodologies, processes,
+techniques and quality planning methods in all phases of work;
+- Facilitate effective communication between different stakeholders.","- University degree in Computer Sciences, Mathematics or a related
+discipline;
+- At least 8 years of experience in software development;
+- At least 4 years in system Architecture and Design;
+- Strong analytical skills, including gathering, compiling, and
+documenting system and technical requirements and writing
+specifications;
+- In-depth knowledge and production experience in working with relational
+databases (MYSQL and Oracle);
+- Experience in working with large databases and datasets is a plus;
+- Experience in tuning the systems for getting high-performance and
+reliable solution is a plus;
+- Experience in machine-learning and security solutions is a plus;
+- Experience in designing complex systems is a plus;
+- Experience in coordinating project teams of 4 or more members is a
+plus;
+- Ability to work independently is a must. Ability to participate and
+work well in a team environment;
+- Provide a professional appearance at all times.","Please, submit CVs to: info@... , clearly
+mentioning in the subject line the position you are applying for. Only
+shortlisted candidates will be contacted for further interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"E-Governance Infrastructure Implementation Unit CJSC
+(EKENG) was established in 2009 by the Government of the Republic of
+Armenia and is responsible for the technical implementation of e-Society
+in Armenia. For more information, please visit: www.ekeng.am."

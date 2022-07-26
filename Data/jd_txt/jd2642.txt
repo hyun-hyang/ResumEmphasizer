@@ -1,0 +1,43 @@
+Software Developer,"DoubleQuad is looking for a qualified Software
+Developer who will participate in various projects. This is a remote
+position.",NA,"- University degree in Computer Science, Information Technology or other
+related field;
+- Ability to understand and use object-oriented programming, including
+the design patterns;
+- Understanding of the database theory;
+- Strong knowledge of PL/ SQL and SQL DBMS Oracle 9i, 10g, 11g;
+- Confidence in designing relational databases;
+- Confidence in creating server objects;
+- Confidence in creating queries, understanding of the mechanisms of
+optimization and tracing;
+- Understanding of the client-server architecture;
+- Thorough knowledge of one of the following technologies and some
+experience with another one: 
+a) Borland (Embarcadero) Delphi:
+- Knowledge of Borland Pascal programming language, VCL base classes,
+knowledge of development of Win32/ 64 GUI projects, console applications,
+DLL projects, BPL projects;
+- Understanding of the mechanism of structured exception handling;
+- Ability to successfully work with Borland/ Embarcadero Delphi
+development environment;
+b) Microsoft NET Framework:
+- Knowledge of C#, ASP.NET Framework (Web Forms) programming language,
+and confident development of Win Forms projects, Class Library projects,
+ASP.NET web sites;
+- Understanding of web applications functioning architecture;
+- Ability to successfully work with Microsoft Visual Studio development
+environment;
+- Ability to work in a team, accept and follow existing development
+standards;
+- Ability to write efficient, clear and simple code understandable to
+others without further explanation;
+- Ability and willingness to learn new technology, passion, sociability;
+- Knowledge of English language, sufficient for reading the technical
+documentation;
+- Good knowledge of Russian language, sufficient for oral and written
+communication.","Interested candidates are encouraged to submit a
+CV to: contact@... with a note ""Software Developer"" in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

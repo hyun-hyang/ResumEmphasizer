@@ -1,0 +1,23 @@
+Web Developer,"K-Telecom CJSC is looking for a qualified and
+motivated Web Developer to work in Intranet web projects.",NA,"- At least 2 years of work experience in web development;
+- Proficient in PHP5 (object oriented approach); understanding MVC
+(model-view-controller) programming pattern;
+- Good knowledge and practical experience in the following fields: HTML,
+CSS, JavaScript (ECMAScript), DOM, AJAX, MySQL (required), Oracle, MS
+SQL, PEAR, XML
+- Smarty (or other PHP-driven) templating engine experience;
+- Web Services (SOAP/XML-RPC)  at least good understanding;
+- Understanding SSL, https, asymmetric encryption/decryption,
+certificates;
+- Skills in UNIX/Linux, Apache and Open Source systems/packages and
+applications;
+- Experience in Adobe Photoshop;
+- Good knowledge of English language (ability to read, study and analyze
+a lot of documentation and learning materials related to brand new
+technologies and approaches);
+- Highly motivated and easygoing personality with strong readiness to
+work; good team player.","Please, send your CVs to:webdeveloper@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VivaCell launched its activities in the mobile
+telecommunication sector on 1 July 2005."

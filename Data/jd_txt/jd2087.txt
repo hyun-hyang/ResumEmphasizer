@@ -1,0 +1,34 @@
+C/ C++ Software Engineer,"Dom-Daniel Armenia is looking for dynamic,
+self-disciplined, innovative, and passionate software engineers that have
+a desire to be part of a team developing complex scalable network enabled
+applications. The selected professionals will be assigned to one of the
+teams that develops various engines for a web oriented product.",NA,"- BS in Computer Sciences or related field or equivalent industry
+experience; MB is a plus;
+- At least 4 years of work experience in C/ C++ programming; 
+- Proficiency in Object Oriented Design;
+- Understanding of internet protocols (IP, TCP/ UDP and HTTP);
+- Good knowledge of Mathematics;
+- Strong debugging and performance-tuning skills;
+- Good knowledge of written and oral English language;
+- Passion for developing complex and challenging products;
+- Punctuality and accuracy in work; ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism .
+Desired Qualifications (At least two of the listed is a plus):
+- Advanced knowledge of and experience in WinAPI and Visual Studio
+Environment;
+- Experience with development in (Unix/ Linux) operating environment and
+GNU toolchain;
+- Experience with development in RTOS (Real Time Operating System)
+environment;
+- Advanced understanding and 2+ years of experience in Multi-threaded
+server applications development;
+- Advanced knowledge and understanding of Internet Protocols (IP, TCP/
+UDP, HTTP/ HTTPS);
+- Advanced knowledge and understanding of Cryptographic and Hash
+algorithms (RSA, Diffie-Hellman, AES, SHA-3);
+- Good knowledge of ASM (MIPS/ X86 Architecture).","Please submit a resume and a cover letter tohr@... with a subject ""C/ C++ Software Engineer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing IT solutions to medium and large size enterprises."

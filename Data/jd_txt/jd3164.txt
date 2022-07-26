@@ -1,0 +1,23 @@
+Database Administrator,"The Company is looking for a highly qualified Database
+Administrator.","- Install and upgrade different databases (MSSQL, Oracle);
+- Perform data backups and recoveries;
+- Control user access to resources and information;
+- Audit systems usage;
+- Monitor and allocate storage space for data;
+- Answer user questions;
+- Develop and assist in the development of scripts and applications;
+- Report on the activity to the Team Leader.","- University degree in Computer Sciences;
+- 3 years of experience in Databases administration and supervision;
+- Good knowledge of the Database organization, design, backup, restore;
+- Self-motivated, detail-oriented and organized personality;
+- Excellent communication skills;
+- Ability to work under pressure;
+- Good English language communication skills.","All qualified candidates who meet our
+requirements are requested to submit their CVs in the English language
+to: hr@... . Please mention the position you are applying for in the
+subject line of the message. Only the applicants who pass the initial
+choice will be called for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Fast Credit Capital"" Universal Credit Organization
+Closed Joint-Stock Company was registered and licensed in 2011."

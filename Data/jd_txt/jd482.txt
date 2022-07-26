@@ -1,0 +1,15 @@
+Senior Software Engineer,LinkGard Systems is looking for top experts in C++/C#.,"- Participate in Object Oriented Analysis/ Design;
+- Write software based on specifications/ design;
+- Test software.","- Over 5 years of work experience in software development;
+- Excellent OOP skills;
+- Excellent skills in C++ (Visual C++ is preferred);
+- Excellent skills in C#/.NET;
+- Excellent skills in COM/DCOM;
+- Excellent skills in Microsoft SQL Server.","To apply, email your cover letter and resume
+to: jobs@.... Please put the announcement code (LG025) in the
+subject line of your e-mail. Emails without an announcement code will be
+deleted. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting."

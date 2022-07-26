@@ -1,0 +1,62 @@
+MIS/ Database/ IT Specialist,"EMG is seeking staff for immediate start on a
+USAID-funded, multi-year project in Armenia, supporting health sector
+reform activities to increase utilization of sustainable and
+high-quality primary healthcare services. The MIS Specialist will be
+responsible for design, development, implementation and management of
+monitoring and evaluation database, monitoring and evaluation
+statistical analysis and information systems, responsible for training
+staff in use of M&E systems such as EPI INFO and EPIDATA, responsible
+for establishing an efficient system for data collection and data
+management, to strengthen user friendly design and appropriateness of
+project information for feed-back decision-making. He/ she will be
+managing project internal databases and working with other program and
+technical staff to ensure that information needs are met. The MIS
+Specialist will report to the Chief of Party and to Team leader to be
+determined. The MIS Specialist will also work as an integrated resource,
+together with the pool of project IT team. The incumbent will travel with
+part-time field-missions throughout all Marzes of Armenia.","- Design, develop, introduce and assist technical project staff to use
+the M&E database and M&E management information system. Design and
+modify software for project monitoring and evaluation, and associated
+statistical assessments to supporting intervention refinement, and
+reporting needs of the project;
+- Work with the technical Monitoring and Evaluation Team and with
+project Component teams, to create efficient analytic systems and data
+collection and data management, implement and maintain quality control
+in data management and maintain and help use project databases as needed
+for projects decision-making;
+- Work with project technical staff in the wider process of coordination
+and integration of information systems in/ with the primary healthcare
+level;
+- Participate together with the wider Project IT staff-pool in the
+creation and maintenance of office network (intranet) and IT solutions
+in office, and interfacing with offices and partners in the field;
+- Provide training to project staff, in use of database resources,
+software and methods;
+- Perform other duties as assigned by the Chief of Party and/ or Team
+Leader.","- Higher education, preferably in Computer Systems, Information Systems,
+etc.;
+- At least 2 years of work experience in design or support database
+driven information systems, preferably in the health and/ or social
+sector;
+- Work experience in Visual Basic and Visual Basic for Application
+(Visual Studio and .NET Framework, etc.);
+- Knowledge of SQL Server 2000 and proficiency with T-SQL;
+- Knowledge of MS Access application development;
+- Experience or any kind of exposure to VS 2005 and SQL 2005;
+- Experience or any kind of exposure to SQL reporting services is
+desirable;
+- Experience with XML, HTML, CSS and JavaScript;
+- Work experience with international organizations and donors in
+Armenia;
+- Demonstrated ability to coordinate programs or projects and work as a
+member of a team;
+- Excellent verbal and written communication skills in Armenian and
+English languages.","Please email CV and cover letter to:info@... with CC to Chief of Party at: STornquist@... and to
+Deputy Chief of Party at: JVartanian@.... Clearly put ""MIS
+Specialist"" in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Emerging Markets Group (EMG) provides international
+development consulting services, as contractor for the USAID in
+implementing the Primary Healthcare reform (PHCR) project, in
+collaboration with the Ministry of Health of the Armenian Republic."

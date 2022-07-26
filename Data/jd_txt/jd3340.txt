@@ -1,0 +1,37 @@
+Software Engineer in Test,"EPAM Systems, Inc. is seeking Software Engineers in
+Test to join the company's team in developing enterprise-level software
+solutions. The company is looking for results-driven, team-oriented,
+self-motivated professionals who are ready for teamwork and Agile
+software development.","- Design and build advanced automated test frameworks for web service
+testing;
+- Responsible for the automation testing of the whole flow which involves
+origination and delivery;
+- Work with the development and test engineering teams to automate
+testing;
+- Research new technologies;
+- Analyze a complicated software system;
+- Design a strategy to test this system.","- BS/ MS in Computer Science or a related engineering field; PhD is a
+plus;
+- 2-3 years of experience with Java and Python development;
+- Experience in the creation of Java or Python automation testing
+frameworks (based on Selenium/ WebDriver or other tools);
+- White box testing experience for back-end such as JUnit, mock testing
+and DbUnit;
+- Knowledge of SQL;
+- Understanding of different development methodologies (Scrum and
+Waterfall);
+- Experience in performance testing;
+- JavaScript experience is a plus;
+- Fluency in the English language.","Interested candidates are asked to submit their
+CVs in the English language to: WFARecruitingAM@... , indicating the
+position title in the subject line of the e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, the USA. The company has software development centers and
+branch offices in the United States, Canada, the UK, Switzerland,
+Germany, Sweden, Netherlands, Singapore, Belarus, Hungary, Russia,
+Ukraine, Kazakhstan, Poland, and Armenia. Learn more at:
+http://www.epam.com/."

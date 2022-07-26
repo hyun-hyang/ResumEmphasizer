@@ -1,0 +1,24 @@
+Software Test  Developer,"Software Test Developer will be responsible for
+transferring test bench development and maintenance to Armenia team.","- Maintain the performance machine and the scripts that run nightly on
+it;
+- Maintain and extend the scripts that analyze and report the company's
+performance results as graphs, send automatic e-mail notifications of
+violations;
+- Help in developing Orion scripts (through Tcl scripting or using Orion
+to create replay files) for new performance tests;
+- Manage some of the design data (and do some data prep, using Orion)
+that will be used as test case data.","- BS/ MS degree preferably in semiconductor engineering,
+microelectronics, Computer Science or similar area;
+- Minimum 1 year of experience in Test Development;
+- Knowledge of IC design/EDA tools, technical documentation, utilities;
+- Knowledge of UNIX shell scripting;
+- Knowledge of Tcl scripting;
+- Communication skills;
+- Ability to work under pressure.","Please submit your detailed CV to:dianan@... with CC to: hrantm@... indicating the
+position in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

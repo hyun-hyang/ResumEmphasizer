@@ -1,0 +1,24 @@
+Software Developer,"The Software Developers will be engaged in Windows and
+Web applications development based on .Net framework. He/she will be
+responsible for application design, development and technical
+documentation preparation.","- Work as a part of team on Web and Windows applications based on .Net
+framework;
+- Provide necessary documentation and reports;
+- Propose and document technical solutions for the given task.","- BS or MS in Computer Science or related field;
+- At least 1 year of experience in Windows or Web application
+development on .Net framework;
+- At least 3 years of experience in software engineering;
+- Good knowledge of C#, SQL and ADO .Net;
+- Good understanding of Web Services, XML and SOAP;
+- Good knowledge of English language;
+- Ability to work under pressure;
+- Ability to work in the team;
+- Knowledge of VB.NET is a plus;
+- Familiarity with programming and software development life cycle is a
+plus;
+- Expirience in database and application is a plus.","All interested candidates should submit their
+resumes to: jobs@.... Please mention in the subject line the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

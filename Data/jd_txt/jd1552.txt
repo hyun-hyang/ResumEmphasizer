@@ -1,0 +1,21 @@
+PHP and MySQL Developer,"Dasaran.am is currently seeking an experienced PHP and
+MySQL Developers.","- Write PHP-Mysql and Javascript-AJAX code;
+- Design MySQL database structure;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance.","- At least 3 years of professional work experience in PHP/ MySQL
+development;
+- Experience in designing and delivering complex web based applications
+using PHP, HTML/CSS, Javascript/ AJAX/ jQuery;
+- Knowledge of Apache Web Server for Unix and website application
+deployment and administration;
+- Experience with MySQL database design, programming and administration;
+- Familiarity with web technologies and web-based dynamic application
+development, especially JavaScript (DOM);
+- Ability to work both as individual contributor and as part of a team;
+- Ability to learn quickly and to work under pressure.","All interested and qualified candidates are
+encouraged to e-mail their CVs to: info@... . In the subject line
+of your message, please mention the position title you are applying for.
+Only shortlisted applicants will be invited to the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

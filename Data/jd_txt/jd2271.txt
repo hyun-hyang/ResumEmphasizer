@@ -1,0 +1,22 @@
+C# Software Developer,"Ucom LLC is looking for an experienced C# Software
+Developer to be engaged in a project. Within a software development team,
+the successful candidate will be responsible for a significant part of
+the development cycle of applications: understanding the requirements,
+performing the functional analysis, the design, the programming and
+testing of software solutions.","- Participate in software development in C#; 
+- Write unit tests and functional tests;
+- Work as part of cross functional software development team.","- University degree in Computer Sciences; Master's degree will be an
+asset;
+- At least 3 years of work experience in software application development
+on C# and .NET technologies; 
+- Experience in Visual Studio 2010;
+- Good understanding of HTTP, HTTPS and WEBDAV protocols;
+- Good understanding of C/ C++;
+- Good understanding of Windows Shell Extensions;
+- Understanding of windows file system and its drivers.","Qualified and interested candidates are
+requested to send by e-mail resumes to: career@.... Please clearly
+mention ""C# Software Developer"" in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Ucom"" telecom company provides network and other
+services to businesses and households."

@@ -1,0 +1,17 @@
+System/ Database Administrator,"Armenian Card CJSC is seeking candidates for the
+position of System/ Database Administrator.","- Assist the administration team in development and management of new
+and existing DB applications;
+- Manage the Windows Servers.","- Excellent knowlegde of Windows 2K/2003 servers;
+- Excellent knowlegde of MS SQL (T-SQL);
+- Knowlegde of Informix DBMS is a plus;
+- Knowlegde of Linux OS (advanced user-level) is a plus;
+- Ability to work independently and in a team;
+- Work experience is a plus;
+- Good knowledge of technical English language.","Interested candidates should send CVs to:develop@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Armenian Card"" CJSC presents service package, which
+gives an opportunity to the banks to issue and acquire bnaking payment
+cards. The company is MasterCard Europe Principal Member and Processing
+Centre (Member Service Provider); third party processor for VISA
+International."

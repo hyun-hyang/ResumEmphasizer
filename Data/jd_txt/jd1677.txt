@@ -1,0 +1,25 @@
+PHP Developer,"e-Works LLC is looking for a PHP Developer with an
+advanced knowledge of PHP/ MySQL to join the team of international
+projects.","This position will require but not be limited to
+the following roles:
+- Develop and maintain software applications in accordance with given
+specifications;
+- Participate in project planning;
+- Work collaboratively and effectively on team projects;
+- Be flexible in learning new technologies.","- At least 3 years of work experience as a Software Developer in PHP;
+- Strong knowledge of PHP 5, Java Script (JQuery, Prototype), HTML, CSS
+and XML;
+- Knowledge of Zend Framework, CodeIgniter, Symfony or other Frameworks
+is a big plus;
+- Experience in working with Open-source products is a big plus;
+- Good problem solving skills and ability to work independently;
+- Team player.","Please submit your CVs only to the following
+address: eworkswebdesign@... mentioning the position title in the
+subject line of your e-mail. The CVs will be accepted only in case the
+applicants correspond to the above-mentioned requirements. No phone calls
+will be accepted. Only short-listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"e-Works LLC is a French-Armenian Internet strategy and
+Web Design company based in Yerevan, Armenia."

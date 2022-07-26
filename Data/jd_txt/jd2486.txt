@@ -1,0 +1,48 @@
+Senior IT Specialist,"The IT Specialist  will provide direction for
+appropriate implementation of plans, present ideas, concepts and
+instructions in a clear manner, develop new concepts/ solutions applying
+them to complex strategic operating issues. He/ she will work
+independently on complex work assignments,  provide expertise in planning
+and coordinating the design, installation and connectivity of computer
+and network systems to ensure the stable operation of the  IT assets.
+This includes developing, configuring, maintaining, supporting and
+optimizing all new and existing network hardware, software and
+communication links. The position requires experience with implementing
+large scale systems.","- Collaborate with technical services team members to assess near and
+long term network capacity needs, as well as design and implement
+strategic plans to make certain network capacity meet existing and future
+requirements;
+- Develop and maintain documentation, as it relates to network
+configuration, network mapping, processes and service records;
+- Work closely with information systems team members and technical
+staff;
+- Perform users support;
+- Perform other relevant tasks, as assigned by the Chief Technology
+Officer.","- At least 6 years of experience in network/ system administration;
+- Excellent knowledge of Windows OS/ Server;
+- Advanced knowledge of MS Office;
+- Knowledge of MS Exchange;
+- Excellent knowledge of services like Domain Controller, DNS, Mail, Web,
+Proxy, NAT, firewall, VPN;
+- Knowledge of VMware ESX/ ESXi, vSphere;
+- Knowledge of Linux Family OS and shell scripting;
+- Experience in all areas of local and wide area networks management and
+administration including system configuration, setup, troubleshooting,
+planning, designing, implementation and user support;
+- Experience in network capacity planning, network security principals
+and general network management best practices;
+- Cisco certification or industry standard certifications such as CCNA
+are preferred;
+- Excellent technical knowledge of current network hardware, protocols
+and Internet standards;
+- Knowledge and understanding of system flow charts, data processing
+concepts and telecommunications principals;
+- Knowledge, understanding and ability to create and maintain thorough
+technical documentation;
+- Ability to communicate clearly and effectively;
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian, Russian and English languages.","Interested candidates are asked to send their
+CVs to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,41 @@
+Senior Software Engineer,"The Senior Software Engineer must have the passion and
+energy to work in an entrepreneurial, and fast paced environment. In
+addition, the incumbent must be an experienced professional with
+in-depth knowledge of software development in a web based environment.
+Senior Software Engineer should have the ability to write technical and
+functional specifications and present them to the other team members,
+and occasionally to the management.","- Work with the Senior Architect and the Product manager to get aligned
+with product roadmaps and assume a key role in the development of these
+products;
+- Design, proto-type, develop, and thoroughly unit test before
+submitting to Quality Assurance;
+- Work with the Quality Assurance team to develop and maintain unit
+tests based on product functional specifications.","Minimum 5-8 years of extensive development
+experience that includes:
+- Strong .NET skills, specifically with C#;
+- Strong HTML skills including CSS and Javascript;
+- Strong working knowledge of databases, specifically SQL Server;
+- Familiarity with AJAX and Web 2.0 technology;
+- Familiarity with LINQ; 
+- Good understanding of web development with multiple browsers in mind;
+- Solid understanding of web services and interacting with web service
+based APIs;
+- Ability to prepare crystal reports is a plus;
+- Some familiarity with Linux is a plus;
+- Some knowledge of Java is a plus;
+- Knowledge of UML architecture diagramming techniques;
+- Ability to work independently as well as with other members in the
+group, preferably in a leadership role;
+- Ability to work on multiple projects at once;
+- Thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle,
+including agile development process;
+- Strong inter-personnel skills;
+- Ability to work both independently and as part of a global team and
+thrive on technical challenges;
+- Excellent communication and writing skills, and experience in writing
+product specifications and technical documentation.","If interested, please send your resume to
+Harmik Baghdasarian at: hbaghdas@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,32 @@
+Senior Front-End Developer,"BigBek is looking for a passionate Senior Front-End
+Developer to build web applications where UI/ UX is a core value and it
+is at the forefront of development.","- Lead projects from an idea to prototype to product;
+- Build sophisticated and elegant user interfaces and identify all the
+elements of user experience;
+- Create flows, wireframes and other UX documents in collaboration with
+the product team;
+- Collaborate with designers, developers and product owners to implement
+scalable and interactive applications;
+- Keep abreast of novel technical concepts that should be adopted (or
+not);
+- Contribute to the team's technical growth by engaging in technical
+discussions and mentoring.","- At least 2 years of experience focused specifically on UX/ UI
+development of software applications (not just websites);
+- Bachelor's degree in Computer Science, Software Engineering or a
+similar field from an accredited institution;
+- Deep understanding of HTML5 and CSS3; experience with JavaScript/
+JQuery;
+- Work experience with Bootstrap or other Responsive UI frameworks;
+- Understanding of typical software architecture and best practices for
+software development;
+- Experience in implementing design, providing UX advice, and creating
+guidelines for the team, along with a passion for delivering appealing
+and easy-to-use user interfaces.","For further consideration please send your CV
+to: hr@... indicating ""Senior Front-End Developer"" in the subject
+line. Please include a portfolio or sample work, that clearly
+demonstrates successful implementation of user-focused design solutions
+and the art direction, along with the resume. Please note that only
+short-listed candidates will be notified for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,BigBek is a dynamic software development platform.

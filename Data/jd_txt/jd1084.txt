@@ -1,0 +1,29 @@
+Oracle DB Administrator,"The incumbent is responsible for the administration of
+Oracle production servers.","- Install and upgrade Oracle databases;
+- Perform data backups and recoveries;
+- Control user access to resources and information;
+- Audit systems usage;
+- Monitor and allocate storage space for data;
+- Answer user questions;
+- Develop and assist in the development of scripts and applications;
+- Report on activity to Team Leader.","- University degree in computer science;
+- 4 years of experience in Oracle administration and supervision;
+- Good knowledge of Oracle Database installation and tuning;
+- Organized, systematic and logical approach to the work;
+- Ability to work and communicate within a team;
+- Proficiency in Armenian, Russian and English languages.","To apply for this position please open (click)http://www.careerhouse.com website, register as a regular user (unless
+you have previously registered), fill out your Resume, then open the
+same announcement there, click on the ""Apply"" button and proceed to
+receive the confirmation message. Please make sure you necessarily fill
+out the References section in your Resume and attach any references you
+have.
+Shortlisted candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Should you have any questions regarding registration
+process, please call Career Center: +(374 10) 56 03 28.","France Telecom is a telecommunications operator
+providing services to more than 170 million customers on five continents
+of the world of which 120 million under the Orange brand. 
+France Telecom is starting its activity as the third operator in the
+mobile telecommunications sphere in Armenia.
+Visit www.orange.com for more information."

@@ -1,0 +1,23 @@
+Java Developer,"Boomerang Software LLC is looking for a Java Developer
+to be engaged in different long term projects.","- Develop Web application with Java;
+- Ability to develop high quality and clean code, apply proper language
+constructions and use quality algorithms.","- Advanced knowledge of OOP and OOD;
+- At least 2 years of work experience as a Software Developer in Java;
+- Experience in Web development;
+- Web Frameworks: Struts, JSP/Servlet;
+- Experience in the development of client-server applications, client
+and server Web application components;
+- Knowledge in web services (Axis, Soap) is a plus;
+- Database knowledge with MySQL and Oracle databases;
+- Knowledge in SQL language;
+- Knowledge in HTML, CSS, JavaScript, XML;
+- Persistence Layer knowledge (OJB, Hibernate) is a plus;
+- Knowledge of German language is a plus;
+- Knowledge of IBM Mainframe is a plus.","Interested candidates should email CVs to:hr@.... In the subject line of your e-mail message, please
+mention the title of the position you are applying for. Only
+short-listed candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software LLC is a software company that
+develops software products for American and European markets and
+provides IT services for partners all over the world."

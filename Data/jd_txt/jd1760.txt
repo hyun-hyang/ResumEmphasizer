@@ -1,0 +1,57 @@
+Senior Software Engineer for Mobile and Web Applications,"The Senior Software Engineer for Mobile and Web
+Applications will be involved into small to large scale projects, from
+Mobile and Web spheres through all stages of the software development
+life cycle, from requirements gathering to implementation and testing.
+He/ She will collaborate with management on defining software
+architecture, estimating technical challenges and developing time-line
+and risks.","- Work with a team to define the working schedule and technical
+activities associated with the project;
+- Work with team leads and management on pre-sales support including
+business requirements analysis, estimating technical challenges and
+development of time-line and risks;
+- Collaborate with team members on gathering project requirements, design
+interface and functionality, writing software specification and test
+plan;
+- Lead the software development, testing and documentation activities
+according to project requirements and guidelines (mainly iterative based
+approaches, including XP and SCRUM practices);
+- Release and deploy the project, provide post-release and maintenance
+support including improvements identification, bug reporting/ fixing and
+communication;
+- Communicate with team members on project progress, technical issues,
+etc.;
+- Communicate with product owner, provide project plan and status reports
+and participate in conference calls;
+- Participate in activities organized by Instigate Training Center,
+including interviewing students, selecting candidates for internship
+program, conducting trainings on various software engineering spheres and
+social events.","- Degree in Computer Science or in a similar discipline;
+- At least 2 or more years of experience in Mobile and Web applications
+development;
+- Knowledge of iOS, Android development environments and frameworks
+including XCode, Eclipse, ObjectiveC/ Cocoa, Java and Android SDK/ NDK;
+- Knowledge of HTML/ XHTML/ CSS, JavaScript, AJAX and CSS technologies,
+PHP, Zend or similar frameworks;
+- Familiarity with OO Programming and MVC Environments;
+- Knowledge of GNU/ Linux environment and Apache;
+- Knowledge of SQL/ MySQL and database design/ modeling;
+- Knowledge of HTML5/ jQuery/ ExtJs/ SenchaTouch is a plus;
+- Knowledge of PhoneGap/ Titanium is a plus;
+- Ability to produce clearly written and documented code;
+- Strong time management skills and ability to thrive in a fast-paced and
+startup environment;
+- Ability to participate in multiple projects and establish priorities
+while maintaining attention to detail and delivering high levels of
+quality and productivity;
+- Good organizational skills and attention to details;
+- Good oral and written communication skills;
+- Good English language skills; knowledge of German language is a plus.","Interested candidates should send their resumes
+in English, in PDF format to: job@... . Please mention
+the title of the position you are applying for in the subject line of
+your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate are in the USA and EU."

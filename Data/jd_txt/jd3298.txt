@@ -1,0 +1,21 @@
+Programmer,"""Electric Networks of Armenia"" CJSC is looking for a
+Programmer to work on Microsoft SQL Server, Microsoft Visual Studio
+(Visual Basic, C#) and Microsoft Dynamics AX (++).","- Work in a group of competence on the ERP system support on the platform
+of Microsoft Dynamics AX 2009 (Axapta);
+- Develop reports and program modules;
+- Cooperate with the technical specialists of the integrator;
+- Responsible for the automation of financial economic tasks and tasking
+of assets;
+- Responsible for the database structure and client part development;
+- Implement programs of own and third-party developers in the commercial
+operation;
+- Test the development of program modules.","- Experience in Microsoft Visual Studio (Visual Basic), Microsoft SQL
+Server projects and applications development;
+- Ability to work in a team;
+- Sociability and responsibility;
+- Knowledge of Russian and technical English languages.","All interested candidates are encouraged to send
+their CVs to: gspoyan_vg@... , mentioning ""Programmer"" in the subject
+line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,21 @@
+PHP Developer,"Company is looking for developers with advanced
+knowledge of PHP/ MySQL to join the team of international projects.","This position will require but not be limited to
+the following roles:
+- Develop and maintain software applications in accordance with given
+specifications;
+- Participate in project planning;
+- Work collaboratively and effectively on team projects.","- At least 2 years of work experience as a Software Developer in PHP;
+- Strong knowledge of PHP 5, Java Script (JQuery and Prototype), HTML,
+CSS and XML;
+- Knowledge of YiiFramework, ZendFramework or other frameworks is a big
+plus;
+- Experience in working with OpenSource products is a big plus;
+- Good problem solving skills and ability to work independently;
+- Team player;
+- Flexible in learning new technologies.","Send CV in Armenian and English languages to the
+following e-mail addres: info@... indicating the position in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NWSLAB specializes in creating dynamic database-driven
+web sites."

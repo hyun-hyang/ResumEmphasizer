@@ -1,0 +1,15 @@
+JavaScript/ PHP Software Developer,"We are looking for Java Script developers to program
+frontend for web application.","- Write JavaScript code and assure it works on different browsers;
+- Write simple server-side PHP code if necessary;
+- Work as part of a software development team;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance, if requested.","- Bachelor's degree in Computer Sciences or a related field;
+- Over 2 years of Java Script experience;
+- Experience with building frontends with JavaScript;
+- Experience in HTML, CSS and JavaScript;
+- Experience in PHP and MySQL (or any other SQL server) is a plus;
+- Knowledge of XMLRPC/ JSONRPC/ SOAP is a plus;
+- Basic English language skills.","Interested candidates should email resumes to:smart@... or call: 44 16 90.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Smart Tech LLC is a Software development company.

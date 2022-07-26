@@ -1,0 +1,30 @@
+Software Developer,"At Metakortex (Netsoft USA) the Software Developer will
+be part of a project team and help build applications from the ground up.
+Over the years, the Company has carefully assembled an unusually
+talented, friendly and enthusiastic team of software developers. This is
+an environment where your input is encouraged and your individual
+innovations are valued and appreciated. There is a genuine sense of
+teamwork and the team members learn from each other.","- Work in a technical team to craft and develop technical solutions that
+meet the Company's customers' requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Code applications using Microsoft C#;
+- Understand business and functional requirements, and translate them
+into amazing technical solutions;
+- Truly enjoy what you do for a living.","- Minimum Bachelors degree in Computer Science or a related field;
+- 2+ years of professional experience developing .NET Web and Windows
+applications
+- Solid coding skills;
+- Excellent command of English, both written and spoken;
+- Strong C# and ASP.NET development experience;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with AJAX, JQuery and Javascript;
+- Experience with relational database systems (MS SQL Server, Oracle,
+etc.);
+- Experience in data model and object design.","Please submit your cover letter along with
+resume to: suren.khachatryan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Metakortex CSJC is a subsidiary of Netsoft USA, a
+strategic technology and design firm headquartered in New York City with
+offices in Yerevan, Armenia and Toronto, Canada."

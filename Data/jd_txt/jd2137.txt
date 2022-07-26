@@ -1,0 +1,41 @@
+PHP Developer,"The Company is looking for an experienced PHP Developer
+who will participate in software development and maintenance of payment
+technologies.","This position will require but not be limited to
+the following:
+- Participate in all the stages of the software development process;
+- Participate in project planning;
+- Understand and correct already implemented web application, and perform
+bug-fixing;
+- Work collaboratively and effectively on team projects;
+- Design and develop web-based applications, according to technical
+documentation, using proven patterns and best practices;
+- Write technical documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop test cases.","- University degree in a relevant field is a plus;
+- At least 4 years of work experience as a Software Developer in PHP;
+- Excellent knowledge of PHP5 (OOP), relational databases (MySQL),
+Javascript (JSON, AJAX/ JQuery), MVC frameword, XML, SOAP and XML-RPC;
+- Ability to setup all necessary environments;
+- Proficiency in HTML, CSS and XSL;
+- Solid LAMP knowledge: Linux, Apache, MySQL and PHP;
+- Knowledge of payment technologies is a plus;
+- Good problem solving skills and debugging skills; ability to work
+independently;
+- Flexible in learning new technologies;
+- Good presentation and reporting skills;
+- Team player;
+- Knowledge of Armenian and Russian languages;
+- Good knowledge of English language is a plus;
+- Good time-management and organizational abilities that facilitate
+structured teamwork; 
+- Familiarity with OWASP (Web Security Standarts), and other
+web-application security standards/ techniques;
+- Good knowledge of Unix-based operating systems is a plus.","All qualified candidates are welcome to send
+their CVs along with a motivation letter to the following e-mail address:arca@... . Please indicate the position title in the subject field of
+your message. Only shortlisted applicants will be invited for the
+interview. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Card CJSC is a national payment system and
+processing center for most of the Armenian banks."

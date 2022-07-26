@@ -1,0 +1,33 @@
+Frontend Developer (ASP.NET MVC),"The successful candidate will become a part of the
+Company's growing development team. He/ she will work mainly on various
+parts of the web applications.","- Design and develop various web artifacts including and not limited to
+features, solutions and Responsive GUI's;
+- Design and build reusable modules to be used throughout the Company web
+sites;
+- Maintain and enhance the Company's home grown systems;
+- Building Custom UI Components;
+- Bugfix/ provide technical support (level 2) of the existing
+applications in production.","- B.S. in Computing Science;
+- At least 3 years of work experience in HTML (5), CSS(3)/ LESS and
+JavaScript/ JQuery;
+- Strong web designer skills; skills in converting design sketch-flows to
+HTML; 
+- Strong Graphic Designer skills, work experience with Photoshop or
+GIMP;
+- At least 1 year of work experience in Bootstrap or other responsive UI
+frameworks; 
+- Experience in .Net technologies, C#, ASP.Net (MVC) is plus;
+- Mastery of the technical English language;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","To apply for this position, please email your
+professional CV to: armjobs@... , specifying the position
+title in the subject line of the email. Please note that only
+short-listed candidates will be contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours are from 10 a.m. to 7 p.m., but a
+flexible rescheduling will also be required based on need. The job could
+include overtime work based on need.","CargoMatrix is a  logistics software solutions provider
+based in New York, USA."

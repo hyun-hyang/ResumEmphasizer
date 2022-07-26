@@ -1,0 +1,23 @@
+PHP Web Developer,"The incumbent will join the software development team
+to work on software project(s).","- Participate in all stages of website/ web application design and
+development;
+- Responsible for software development for new applications and
+pre-developed PHP applications;
+- Create and maintain web-based systems and other components of the
+website and web portals.","- At least 2 years of PHP programming experience;
+- Extensive knowledge of Web Front End technologies: HTML, CSS,
+JavaScript; 
+- Extensive knowledge of MySQL;
+- Experience with MVC Frameworks Symfony or Zend;
+- Experience with backend development/ individual application
+development; 
+- Good knowledge of English language;
+- Ability to manage the time, work load, project progress without
+supervision;
+- Knowledge of WordPress is a plus;
+- Knowledge of Magento is a plus;
+- Knowledge of Joomla is a plus;
+- Knowledge of Java or interest in learning Java is a plus.","Interested candidates should send their CVs to:jobs@... , mentioning ""PHP Web Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

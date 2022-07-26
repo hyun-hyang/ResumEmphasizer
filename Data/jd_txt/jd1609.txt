@@ -1,0 +1,40 @@
+Senior QA Engineer,"The Virtual Solution Global Services LLC is seeking for
+a motivated and experienced Software QA Engineer for Web based
+applications testing.","- Perform manual testing as well as generate automated regression and
+unit test cases;
+- Analyze functional requirements from QA perspective to find issues in
+requirements in early stage of development;
+- Be responsible for test plan/ test cases creation and maintenance
+throughout the development lifecycle;
+- Bug tracking (identify, reproduce and report bugs);
+- Verify fixed defects and perform regression tests to ensure the quality
+of releases;
+- Regularly create test reports;
+- Be responsible for close collaboration with other QA engineers,
+Business Analysts and developers to identify, discuss and solve project
+issues.","- University degree in Computer Science or similar field;
+- Ability to understand business and functional requirements and propose
+solutions/ corrections;
+- Minimum 2 years of software QA experience;
+- Excellent English writing and verbal skills;
+- Knowledge of automated Web GUI testing methods and tools;
+- Strong theoretical knowledge of SDLC;
+- Experience of working with Mantis and/or other bug tracking systems;
+- Knowledge of HTML, XML, SQL;
+- Strong organizational skills are a plus;
+- Experience of direct communication with the client is a plus;
+- Ability to work under pressure and in multi-task environment;
+- Ability to meet aggressive product release deadlines;
+- Excellent communication skills;
+- Excellent attention to details;
+- Ability to train junior staff and share knowledge with co-workers;
+- Ability to drive improvement process.","Interested candidates should email their resumes
+to: info-am@... . In the subject line of your e-mail
+message, please mention the title of the position you are applying for.
+Please send resumes only if you correspond to required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+Virtual Solution GmbH, German software development company. For
+additional information about the company, please visit website:
+www.virtual-solution.de."

@@ -1,0 +1,31 @@
+.NET Developer,"Exyzett LLC (Carson-Dellosa Armenian branch) is looking
+for a .NET Developer.","- Provide necessary technical and design documentation;
+- Deliver robust, scalable quality software products on time; 
+- Understand the overall business goal of the project and to be able to
+translate that into engineering requirements;
+- In coordination with the Group Lead, plan and execute projects through
+all phases of the project's development;
+- Respond promptly and professionally to bug reports;
+- Communicate effectively with local management and external team
+members.","- BS in Computer Science, Maths or in a related discipline;
+- Knowledge of C# and principles of .NET platform;
+- At least 1 year of experience in data access technologies (ADO.NET,
+LINQ to Entities);
+- At least 1 year of experience in using web service technologies (WCF,
+REST, JSON);
+- Experience in ASP.NET, MVC;
+- Some work experience in database and back end developer roles; 
+- Any experience with SiteCore CMS is a huge advantage;
+- Working with Microsoft SQL server 2008/ 2012 and/ or Sybase will be a
+plus;
+- Ability to work with the team manager to plan and prioritize team
+activities;
+- Good documentation skills;
+- Creativity and analytic thinking;
+- Ability to learn quickly; 
+- Ability to work under pressure;
+- Intermediate English language skills, both written and spoken.","To apply, please, submit a CV to:gmkrtchyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Exyzett is an Armenian branch of Carson-Dellosa US based
+company. For more information, please, visit:http://www.carsondellosa.com"

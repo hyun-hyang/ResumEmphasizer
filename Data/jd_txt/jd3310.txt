@@ -1,0 +1,25 @@
+Senior Android Developer,"SFL is looking for an experienced, user-focused Senior
+Android Developer.","- Work on the Android application architecture and drive development
+using the latest mobile standards;
+- Participate in all the phases of the software development life cycle to
+convert concepts and specifications into the development of Android
+applications and features;
+- Design, build and maintain a high performance Android code;
+- Support the maintenance of the code quality.","- Fluency in Java and Android SDK;
+- Work experience with SQLite;
+- Work experience with version control systems;
+- Work experience with the design patterns specific to mobile/ Android
+development;
+- Work experience in the mobile network stack connectivity, design and
+architecture;
+- Work experience in network protocols, data formats and API (including
+HTTP/ S, OAuth, RESTFul and JSON);
+- Experience in documentation and code readability;
+- Experience in the development of other mobile platforms is a plus; 
+- Good knowledge of the English language.","To apply for this position, please send your CV
+to: jobs@... . Please mention ""JobID12200"" in the subject line of
+your email. The Company will call you to discuss this job opportunity in
+more details.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,22 @@
+LabView Software Developer,"The position involves developing an application on
+various National Instruments hardware and software platforms such as
+Windows, VxWorks and Pharlap.",NA,"- Degree in Computer Science/ Information Science with at least 2 years
+of experience in creating LabView software applications;
+- Strong knowledge of programming in LabView. Knowledge of additional
+programming languages would be a plus;
+- Knowledge of tools for programming, debugging and testing;
+- Knowledge of Software development life cycle;
+- Familiarity of networking protocols such as TCP/ IP;
+- Knowledge of FPGA programming would be a plus;
+- Knowledge of programming on a real Time OS such as VxWorks would be a
+plus;
+- Knowledge of industrial communication protocols such as Modbus, CAN
+would be a plus;
+- Good knowledge of English and Russian languages.","Please send resumes to:employment.armenia@... . In the email subject please mention ""LabView
+Software Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"National Instruments (NI) is a high-tech company that
+develops computer-based products for measurement and automation
+applications. It is headquartered in Austin, Texas. For more information
+visit: www.ni.com."

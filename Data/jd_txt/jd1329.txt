@@ -1,0 +1,32 @@
+Microsoft .NET (C#) Developer,"TopSoft Solution Center (ShantComp Ltd.) is seeking an
+experienced developer to successfully cope with different projects based
+on the .NET platform.","- Analyze new software enhancement requirements;
+- Identify the need and analyze the impacts of adding new functionality
+to the existing software systems; 
+- Translate business requirements into technical requirements;
+- Translate technical requirements into computer programs; 
+- Support current software systems developed in Visual Studio (C#,
+ASP.NET, SharePoint) and Map Basic environments; 
+- Perform objected-oriented analysis and design;
+- Proactively recommend features and projects to benefit the customers; 
+- Deliverable include: technical requirement documents, use cases and
+their diagrams, class diagrams, sequence diagrams, activity diagrams,
+package diagrams, and project estimates; 
+- Analyze and design the software under Microsofts .NET platform.","- Bachelor's or Masters degree in Computer Science or related field is
+preferred;
+- Experience with Visual Studio 2008 environment; 
+- In depth knowledge of object oriented design and development; 
+- Development knowledge: Applications, Database, and Web-based;
+- Programming languages: C#/ C++;
+- Development platform: .NET Framework 3.5/4;
+- Database knowledge: SQL Server 2005 (or above)
+- Knowledge of Microsoft SharePoint is a great plus;
+- Development experience: At least 2 years of design and coding in
+Applications Development for database access/integration/migration;
+- Ability to work independently and communicate results effectively to
+peers in the team;
+- Must pass a background check.","Please submit a resume along with a cover letter
+to: tigran.topchyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

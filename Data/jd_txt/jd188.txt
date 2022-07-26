@@ -1,0 +1,27 @@
+Senior Developer(s)/ Software Engineers,"LinkGard Systems, LLC is seeking highly experienced
+Senior Software Engineers (four engineers in total) that can design and
+develop web-based J2EE applications. We need ethical, energetic, and
+highly motivated individuals with full software development life-cycle
+experience.","- Work in a team of developers on court-modernization software including
+case management and human resource management;
+- Interview with clients and requirements elicitation;
+- Design and analysis of software applications;
+- Application development using J2EE and Borland Integrated Development
+Environment;
+- Database programming using MySQL as back-end;
+- Develop test plans for manual functional testing;
+- Develop test scripts for automated testing;
+- Write documentation in English and Armenian langauges;
+- Train clients in the use of developed application.","- Excellent knowledge of English language;
+- University degree;
+- At least 3 years of development experience with Java and J2EE;
+- At least 3 years of experience with Linux (admin or development);
+- At least 3 years of experience with various SQL versions; MySQL
+preferred;
+- Experience with Apache Tomcat a big plus;
+- Previous experience in law/courtroom procedures is a big plus.","Send your cover letter and resume to:jobs@.... Please put LG008 in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting. LinkGard Systems is based in Armenia.
+Visit www.linkgard.com for more information."

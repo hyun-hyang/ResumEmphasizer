@@ -1,0 +1,22 @@
+Junior PHP Developer,"STDev is looking for highly motivated junior PHP
+developers to join the fast growing team.","- Read, understand and modify the existing code;
+- Develop and maintain applications in accordance with given
+specifications;
+- Work collaboratively and effectively on team projects;
+- Be flexible in learning new technologies.","- Bachelor's degree in IT;
+- Knowledge of PHP;
+- Basic knowledge of HTML, CSS, AJAX and JavaScript frameworks;
+- Basic understanding of OOP;
+- Basic knowledge of MySQL;
+- Good knowledge of English language;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Fast learner;
+- Detail oriented personality and a self starter;
+- Energetic and positive personality.","To apply for this position, please send a cover
+letter clearly stating your objective, as well as a CV to:jobs@... . Only short listed candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Highly motivated applicants without experience may
+still apply.","STDev is a web development team, specialized in web based
+applications and high performance websites."

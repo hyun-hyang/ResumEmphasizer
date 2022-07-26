@@ -1,0 +1,15 @@
+Sr. RF Design Engineer,"The Senior RF Engineer is responsible for the design
+and development of a highly bandwidth efficient high power (up to
+35W)and medium power (2W) radios operating in the UHF, VHF and ISM bands
+compliant with FCC and ETSI standards.","- System /circuits design;
+- Simulation, evaluation and preparation of specifications;
+- Supervision and assistance in PCB, hardware and packaging design;
+- Evaluation of new design tools, components and techniques;
+- Responsible for the entire process of development, from feasibility
+study to design, implementation and delivery to production;
+- Responsible for product sustaining during products life cycle.","- Master's degree in Radio Engineering, Computer Engineering, Electrical
+Engineering or a related field;
+- At least ten years of experience in RF design.","Please send us your CV/Resume in English toGHaruty@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

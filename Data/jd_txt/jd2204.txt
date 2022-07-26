@@ -1,0 +1,26 @@
+Senior C++ Software Developer,"If you are driven to work on some cutting-edge products
+in the digital photography, this position is for you. Company's client,
+one of the most respected companies in the industry, is aggressively
+looking for a C++ Developer to join Yerevan team. The incumbent will do
+cross-platform development focusing on the front-end, multi-threading and
+image processing algorithms.","- Professionally and effectively carry out software development tasks;
+- Participate in technical discussions as well as design and code
+reviews;
+- Assist in unit, integration, system level testing and providing
+support;
+- Develop and maintain technical documentation.","- Bachelor's Degree in Computer Sciences or closely related discipline
+and relevant experience;
+- Windows C++ and GUI development experience is required;
+- Knowledge of Mac OS X would be a key advantage;
+- Knowledge of UML is a plus;
+- Familiarity with image processing and graphics software packages is
+desired (Adobe Photoshop is strongly recommended);
+- Interest in image processing and photography is highly desirable;
+- Excellence both in self-management and as a team player.","Please submit your resume in English language
+to: jobs@... . Please reference ""JobID: 130401"" in the subject line
+of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zenta Limited is an Armenian software development and IT
+consulting company specialized in database-centric web, mobile and
+desktop application development."

@@ -1,0 +1,62 @@
+IT Security Administrator,"BetArchitect is looking for an experienced IT Security
+Administrator.","- Prepare, implement and guide IT projects;
+- Prepare the Business Continuity Plan for the Company IT;
+- Change and configure Software Firewall Systems (such as Kerio Control,
+Microsoft TMG, PFSense);
+- Maintain the smooth operation of Cisco UCS and IBM Blade Servers;
+- Maintain the smooth operation of EMC VNX and IBM SAN Storage;
+- Maintain and configure Cisco UCS Converged Switches;
+- Configure SSL and TLS Settings on Windows Servers and IIS to ensure the
+highest security;
+- Configure network devices to meet IT security guidelines;
+- Write PowerShell scripts to automate certain Windows tasks;
+- Examine the overall IT infrastructure security fully and implement
+missing parts;
+- Write a guideline/ map for IT security for both networking and
+servers;
+- Responsible for the big IT project implementation including examination
+of needed hardware/ software, personnel, deadlines, etc.;
+- Responsible for choosing right hardware for the IT project
+implementation;
+- Manage both Physical and Virtual Servers, do maintenance tasks, etc.;
+- Manage the Complex Microsoft AD environment with trusts, DNS
+Forwarders, etc.;
+- Implement completely new concepts from the ground up;
+- Guide the IT staff to implement projects and tasks.","- University degree in IT or a related technical field;
+- Strong knowledge of virtualization platforms (Microsoft Hyper-V 2008
+R2, 2012, 2012 R2) and VMWare ESXi (v. 5.0, 5.5, 6.0);
+- Strong knowledge of Windows Server OS (Microsoft Windows Server 2008
+R2, 2012, 2012 R2) and Linux OS (Debian, Ubuntu, CentOS);
+- Strong work experience with Blade Servers (Cisco, IBM or HP);
+- Strong knowledge of SAN Storage concepts; availability of
+certifications is a plus;
+- Strong work experience with San Storages (EMC VNX, IBM or HP 3PAR);
+availability of certifications is a plus;
+- Strong knowledge of Windows PowerShell scripting;
+- Strong knowledge of Microsoft Active Directory, Active Directory
+Trusts, DNS, DHCP;
+- Strong knowledge of Microsoft Failover Clustering;
+- Strong knowledge of Network Concepts (such as Routing protocols, NAT,
+BGP);
+- Knowledge of Linux Scripting (such as Bash) is a plus;
+- Knowledge of Microsoft SQL Server concepts and initial configuration;
+- Work experience with Software Firewalls (such as Kerio Control,
+PFSense, IPTables);
+- Strong knowledge of cryptography and security of both networking and
+server services;
+- Work experience with Managed Layer 2 Switches (HP, Cisco), Hardware
+Firewalls (Cisco, Fortinet), TOR Switches (Cisco, Extreme); Possession of
+Cisco CCNA or a familiar certification is a plus;
+- Strong work experience with VoIP Software (such as Elastix, Asterisk,
+FreePBX);
+- Work experience with Microsoft IIS, Linux Apache, Nginx;
+- Excellent knowledge of Armenian, Russian and English languages.","Interested candidates are asked to send a resume
+(CV) in the English or Armenian language to: hr@... . Please
+indicate ""IT Security Administrator"" in the subject line of email. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

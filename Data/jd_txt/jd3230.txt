@@ -1,0 +1,27 @@
+Senior Web Developer,"BigBek is looking for a self-driven, proactive Senior
+Web Developer.","- Analyse requirements, develop, maintain and lead web applications;
+- Participate in all phases of the development lifecycle;
+- Ensure project completion on schedule and in a high quality;
+- Interact with Project Managers to solve complex problems and deliver
+solutions;
+- Produce and maintain a well-documented code as well as debug the
+existing code.","- At least 2 years of experience in building dynamic web sites and
+implementing projects;
+- Bachelor's degree in Computer Science, Software Engineering or a
+similar field from an accredited institution;
+- Experience in building and delivering applications for the web;
+- Good understanding of best practices for UI/ UX;
+- Strong foundation in OOP, algorithms and design patterns;
+- Experience with PHP, Javascript, MySql, NoSQL databases (MongoDB,
+REDIS), HTML, CSS;
+- Good knowledge of frameworks such as ZF2, Symphony2, AngularJS,
+NodeJS;
+- Experience in creating RESTful, JSONRPC or other web services;
+- Good knowledge of the English language, both written and spoken.","For further consideration, please send your CV
+to: hr@... indicating ""Senior Web Developer"" in the subject line.
+Please include a portfolio or sample work, that clearly demonstrates
+successful project implementation, along with the resume. Please note
+that only short-listed candidates will be notified for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,BigBek is a dynamic software development platform.

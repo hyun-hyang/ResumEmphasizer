@@ -1,0 +1,20 @@
+Senior .NET Developer,"LinkGard Systems, LLC is seeking a highly experienced
+Senior Software Engineer that can design and develop Microsoft
+Applications. We need ethical, energetic, and highly motivated
+individuals with full software development life-cycle experience.","- Manage a software development team;
+- Design and analysis of software applications;
+- Application development using C#, VB .NET;
+- Work with relational databases including MSSQL and MySQL;
+- Write documentation in English.","- Excellent knowledge of English language;
+- University degree;
+- At least 3 years of experience with MS development tools (Microsoft
+C#, .NET, VB .NET);
+- Excellent knowledge of IT security;
+- Knowledge of C/C++ is a big plus;
+- Knowledge of Linux/UNIX is a big plus.","Send your cover letter and resume to:jobs@.... Please put LG007 in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT, consulting, and training. The LinkGard is based in
+Armenia.
+Visit www.linkgard.com for more information."

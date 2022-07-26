@@ -1,0 +1,43 @@
+Senior Oracle PL/ SQL Developer,"IUNetworks LLC is looking for a Senior Oracle PL/ SQL
+Developer who can design, tune and develop packages, procedures and
+functions to perform database activities on behalf of mid-tier
+applications. The position will require regular communication with senior
+technical management, as well as collaboration with peers including
+Principle Engineers, Statisticians, Java Developers and Analysts in a
+dynamic environment. This individual will perform new development and
+support enhancements on a complex data migration effort. The position
+requires experience in the design and coding of data retrieval/
+reformatting interfaces designed to provide data to be consumed by other
+platforms. It also requires teamwork, innovative thinking, and
+initiative; as well as solid Oracle and PL/ SQL skills.","Specific work elements of the job include but are not limited to:
+- Write PL/ SQL packages, stored procedures and functions as part of
+product development;
+- Assist the software development team in query performance tuning; help
+identify inefficient queries/ methods;
+- Follow SDLC standards, name conventions, change control,
+documentation;
+- Troubleshoot and field deep-level questions from multiple teams.","- University degree in Computer Sciences or Telecommunications
+Engineering or related fields; 
+- At least 5 years of experience in Oracle and PL/ SQL; 
+- At least 5 of experience as a technical team lead;
+- Knowledge of Oracle 10g (exadata 11g is preferred);
+- Strong experience in database development (Oracle, PL/ SQL, Packages,
+Indexes);
+- Knowledge of performance tuning; 
+- Knowledge of implementing data marts and data warehouses; 
+- Knowledge of ETL development; 
+- Knowledge of data migration; 
+- Knowledge of design and development Oracle packages, procedures,
+programming and data structures; 
+- Skills in OLAP and temporal data modeling techniques, Oracle Spatial
+are preferred;
+- Experience with Java is preferred; 
+- Full lifecycle experience in multi-tiered and multi-server application
+architecture using PL/ SQL on UNIX platforms; strong analysis skills; 
+- Ability to work on a project with the development team; 
+- Ability to work independently.","Interested candidates are asked to apply to this
+job by sending their CVs to: job@... . Please mention the name
+of the position you are applying for in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,IUNetworks LLC is an Information Technology company.

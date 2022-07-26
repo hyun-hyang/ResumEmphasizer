@@ -1,0 +1,25 @@
+Java Developer,"Lucipa Software is developing a new product and is
+looking for Java Developers to lead the application design efforts. This
+includes production of written design specifications and the definition
+of development activities required to meet the business requirements.
+The Java Developers are responsible for hands-on software development
+and ensuring the highest quality of all delivered solutions through
+unit, integrated, and full system testing activities. Efforts in
+software development will run from analysis through implementation.","- Design, code, and document custom software solutions which include
+database models, software architecture, process flow, and web
+navigation;
+- Produce and maintain accurate documentation and code comments on all
+aspects of the software architecture;
+- Develop common design patterns and document best practices that enable
+consistent architecture.","- BS/MS in CS or equivalent;
+- Strong Java skills and object oriented analysis and design
+experience;
+- Java programming experience, including SWING and RMI experience;
+- J2EE programming.","Please send your resume in English to:jobs@... for immediate consideration. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lucipa Inc. is a software development company
+headquartered in San Francisco, CA. For information about the company,
+please refer to: www.lucipa.com. The Yerevan office is located at
+Arabkir district."

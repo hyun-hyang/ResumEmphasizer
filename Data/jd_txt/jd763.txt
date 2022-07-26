@@ -1,0 +1,30 @@
+C++ Software Developer,"Directly communicating with team members, the C++
+Developer will be responsible for developing advanced map generation
+framework working on Win32 and Windows Mobile platforms, using common
+modern IDE and software development kits.","- Implement reliable and massively scalable framework backend using C++
+in a Windows environment;
+- Take part in detailed technical design reviews;
+- Enhance and maintain existing product/technology capabilities;
+- Play an active role in implementing and providing feedback on new
+processes;
+- Provide technical guidance and assistance to other software engineers.","- University degree in Computer Sciences;
+- Expert level C++ skills with demonstrated ability to resolve complex
+problems (at least 2-3 years of work experience in C++);
+- Knowledge of standard software development practices including project
+lifecycles, project management, code management and release process;
+- Experience in object-oriented design patterns;
+- Experience in Windows and Windows Mobile development;
+- Knowledge and experience in internal Windows architecture;
+- Experience in high performance computing;
+- Good knowledge of English language for conversation about technical
+details;
+- Knowledge of GIS systems is a plus;
+- Knowledge of GPS and positioning concepts is a plus;
+- Highly motivated personality, with strong readiness to work;
+- Proactive, solution oriented personality.","Please send your detailed CV and application
+letter to: jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ISMO Tech CJSC is the armenian branch of Austrian
+company IGISA GmbH. The company is specialized in providing complex
+positioning and tracking solutions based on Hi-Tech mobile technologies."

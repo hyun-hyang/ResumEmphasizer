@@ -1,0 +1,23 @@
+Senior Developer,"The Senior Developer will work on extending,
+maintaining and supporting Praemiums investment management platform
+technology. The platform has been developed in house and is web-based.","- Work with the local and global teams;
+- Support operational aspects of the technology platform; shift to
+extending the application over time;
+- Work closely with the local and remote teams to guide the delivery of
+changes from other local team members.","- Strong experience with .Net framework (VB.NET, C#);
+- Strong experience with SQL (2008) development, Stored Procedures; 
+- Knowledge of .Net datagrids, ComponentOne;
+- Experience in Agile/ Scrum environment;
+- Some knowledge of Javascript and web-based front-end technologies;
+- Knowledge of AngularJS would be an advantage;
+- Experience with the Microsoft development stack, including TFS, Visual
+Studio, GIT;
+- Understanding of object-oriented programming;
+- Understanding of finance/ investment technologies is preferable.","Interested candidates are asked to send their
+resumes and cover letters to: candace.ohanessian@... . Only
+shortlisted applicants will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Praemium is an investment platform that provides CRM.
+Praemium also has offices in the UK, Jersey, Australia, Hong Kong and
+China."

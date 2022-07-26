@@ -1,0 +1,19 @@
+Net C#/ C++ Senior Software Developer,"Altacode LLC is seeking a Net C#/ C++ Senior Software
+Developer to work in team of programmers engaged in development of
+financial chart applications.","- Participate in all cycles of software design and development; 
+- Assure full conformance of source codes to provided Coding standards;
+- Read, understand and modify the existing code.","- Proficiency in object oriented programming and Design Patterns; 
+- 3 years of work experience in C++/C# and .Net Framework; 
+- Strong mathematical mind and analytical skills;
+- Ability to work in a team;
+- Experience to work with graphic components;
+- Practice of complex networking and multithreading programming; 
+- Familiarity with Windows Presentation Foundation (WPF), WWF and WCF; 
+- Familiarity with PostScript and PDF formats; 
+- Good knowledge of technical English language; 
+- Communication skills.","Email your cover letter and CV to:resume@.... Important: in your cover letter please state your
+salary expectations.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is a software development company
+cooperating with US partners."

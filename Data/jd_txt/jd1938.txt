@@ -1,0 +1,20 @@
+Software Engineer - UI and Flows Department,"The Software Engineer will take part in design,
+implementation and execution of software tools. He/ she will develop
+software systems according to provided design/ implementation/
+specification and coding standards.",NA,"- BS in CS/ EE or a related field, MS is a plus; 
+- Strong C++/ STL programming skills; 
+- Experience in object-oriented software design and development in C++; 
+- Experience in design and developing of GUI is desirable; 
+- User knowledge of Linux is desirable; 
+- Experience in working with cross-functional product development teams
+is preferred;
+- Good communication and fast learning skills; 
+- Self-motivation; 
+- Knowledge of technical English language (both verbal and written); 
+- Fulfillment of military obligation or educational waivers of military
+obligation is preferred.","Please submit your CV through:http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

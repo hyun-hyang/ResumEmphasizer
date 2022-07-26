@@ -1,0 +1,21 @@
+PHP/MySQL Programmers,"NexusLab is looking for respectful and professional
+individuals with strong and productive work ethics.","- Produce and maintain clean, high quality standard compliant website
+applications;
+- Develop codes that are cross-browser and cross-platform compatible;
+- Assist with planning and development of rich user interfaces for new
+web-based applications in accordance to design specifications
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards, modern web browser capabilities and W3C
+standard compliance and accessibility issues.","- At least 2 years of work experience;
+- Advanced working knowledge in PHP, HTML/DHTML, XML, CSS, JavaScript,
+MySQL;
+- Knowledge of AJAX, ASP, ASP.NET is highly preferred;
+- Strong problem-solving skills and ability to work under pressure;
+- Hard-working, motivated, innovative personality and ability to work
+independently and within a team and interact professionally with diverse
+group of people.","All applicants must submit a portfolio of their
+work and a resume to: info@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NexusLab is a US-based web/software development and
+consulting company. It has a representation in Armenia."

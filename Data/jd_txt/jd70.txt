@@ -1,0 +1,17 @@
+Senior ASP/ASP.NET Developer,"SADA Systems, Inc. Armenian Office is looking for a
+skilled and experienced senior-level developer with proven expertise in
+web applications development to join our online team. The Senior
+Developer will be responsible for developing new and exciting e-commerce
+and online services, enhancing and supporting existing functionality, and
+overseeing a team of web developers.",NA,"Candidates must be able to demonstrate the
+following qualification:
+- Professional experience with ASP, ASP.NET, VS.NET, C#, XML, SQL;
+- Experience with Microsoft server platforms and security issues;
+- No less than 3 years experience developing web application in a
+professional setting;
+- Proficient in HTML, CSS, JavaScript;
+- Professional approach and strong work ethic.","To apply, please e-mail to:techjobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SADA Systems, Inc. is a Los Angeles, CA based computer
+technology consulting and development firm."

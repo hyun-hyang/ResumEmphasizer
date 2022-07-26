@@ -1,0 +1,23 @@
+Software Developer,"Boomerang Software LLC is looking for motivated
+software developers. Before starting the job, a training on Cobol, CICS,
+db2 will be provided to the right candidate if needed.","- Learn and develop IBM Cobol applications; 
+- Update source codes; 
+- Be responsible for testing; 
+- Calculate financial models and perform mortgage calculations; 
+- Work productively as part of a software development team.","- University degree; 
+- At least 1 year of experience in software development;
+- Good knowledge of C/C++ and C#;
+- Good knowledge of Cobol, CICS, db2;
+- At least 1 year of experience in database programming;
+- Good understanding of financial and banking systems/ mortgages;
+- Willingness and ability to learn new software languages;
+- Demonstrated attention to detail, ability to follow procedures, meet
+deadlines and work independently and cooperatively with team members;
+- Good English language knowledge is highly desired to be able to
+interact and communicate effectively with internal and external teams;
+- Knowledge of French is a plus.","To apply for this position, please submit a
+resume to: office@... or contact us at: (+37410) 393221*22.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets."

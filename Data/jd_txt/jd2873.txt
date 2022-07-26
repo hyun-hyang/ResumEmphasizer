@@ -1,0 +1,21 @@
+Senior .Net Developer,"Seven Smarts LLC is looking for a Senior .Net
+Developer.","- Participate in all the steps of the software project, from design to
+integration;
+- Read, understand and modify the existing code;
+- Develop applications in accordance with given specifications.","- BS degree in a relevant field;
+- Excellent knowledge of WPF and Win Forms with C#;
+- Strong knowledge of ASP.Net;
+- Strong knowledge of SQL, LINQ, Ado.Net Entity Framework; 
+- Experience in service-oriented development (web services, WCF); 
+- Ability to work within a team;
+- Strong problem-solving skills; 
+- Good communication skills; 
+- Knowledge of English language;
+- Flexibility in learning new technologies.","Interested candidates are asked to send their
+CVs to: jobs@... . Please, clearly mention in the subject line
+for what position you are applying. Only shortlisted candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Seven Smarts is a software development company which
+launched its activity in Armenia in 2009."

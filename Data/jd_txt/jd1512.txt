@@ -1,0 +1,66 @@
+Web/ Graphic Designer,"Synergy Armenia is looking for a Mid-Level Web/Graphic
+Designer to be responsible for website/GUI development and design, design
+of print materials according to the companys branding. The person in
+this position will translate requirements into design specifications,
+using the tools and techniques appropriate to the requirements and
+technology employed.","- Develop and design Web portals and GUI-s;
+- Design and implement graphical user interfaces using HTML, XHTML, CSS,
+JSF;
+- Produce simple graphics, icons and animations;
+- Develop and maintain Web portals developed using  Synergy Portal
+technology;
+- Manage the overall visual design for the application, including all
+branding and navigational elements;
+- Create front end design structure and design elements based on existing
+prototypes;
+- Support and update the existing websites;
+- Be responsible for testing and debugging;
+- Collaborate with Synergy designers to define the information
+architecture advocating Web interaction design best practices with a
+focus on consistency and usability;
+- Work closely with back-end developers to find ways to push the limits
+of existing Web technology in service of creating the best possible user
+experience;
+- Develop/update print designs, newsletters according to the companys
+branding.","- At least 2 years of experience using technologies such as HTML, XHTML,
+CSS, graphical editors, such as Adobe Photoshop, Adobe Illustrator and/or
+Corel Draw;  
+- Working web/graphics design works portfolio;
+- Experience in working with Content Management Systems;
+- General understanding of SEO;
+- Good knowledge of valid, cross- browser compatible XHTML, CSS code
+development, code semantics;
+- Basic knowledge of Java Script would be a plus;
+- Experience in working on sites that have a Java back-end, working
+knowledge of JSF;
+- General knowledge of Databases (MsSQL, MySQL, etc.);
+- Experience using HTML editors such as Macromedia Dreamweaver, Microsoft
+Office FrontPage, etc.;
+- Extremely detail oriented personality; 
+- Bachelors degree holder;
+- At least 2 years of relevant work experience;
+- Fluent in Technical English;
+- Ability to work under pressure and in multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+details;
+- Excellent interpersonal and organizational skills.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Web/Graphic
+Designer"", listing your qualifications and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:
+Ms. Mariam Kanayan
+Human Resource Manager
+E-mail: careers@...
+Candidates who meet these qualifications will be short-listed. Selected
+candidates will be notified of the test and interview dates directly. The
+company thanks all who apply but only those selected for an interview
+will be contacted. 
+Please note that applications received without position title specified
+in the subject line will not be considered.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

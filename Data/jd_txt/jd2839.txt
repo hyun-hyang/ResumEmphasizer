@@ -1,0 +1,34 @@
+Senior QA Engineer,"Kubisys CJSC is looking for a Senior QA Engineer who
+will be involved throughout the development life cycle to assure quality
+of software.","- Responsible for several aspects of test planning (including formal
+reviews, analyzing requirements and creating test cases);
+- Responsible for creation and maintenance of automated testing scripts;
+- Responsible for executing test cases and accurately reporting results
+and progress;
+- Report, assign and track resolution of software issues.","- At least BS in Computer Science or equivalent;
+- Over 5 years of experience in testing, quality control and test
+automation; 
+- Experience in test automation, knowledge of test automation tools; 
+- Knowledge of programming  to automate test workflows using high level
+languages;
+- Excellent ability to apply concepts of integration, system and
+acceptance testing;
+- Experience in testing tools and techniques; 
+- Knowledge of virtualization technologies, scripting languages is a
+plus;
+- Experience in JIRA and TestRail is a plus;
+- Experience in setting up Windows and Linux servers as a test
+environment is a plus;
+- Analytical and problem solving skills, methodical personality with a
+keen attention to details;
+- Strong verbal and written communication skills in English language;
+- Ability and desire to learn new technologies;
+- Good team player.","Interested candidates are asked to send their
+CVs to: gasparyan@... . Please indicate the title of the position
+in the subject line of the e-mail. Only short-listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC aims to automate and simplify the operations
+of enterprise data centers. For more information about the company's
+product and activities, please visit: www.kubisys.com ."

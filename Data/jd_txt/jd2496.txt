@@ -1,0 +1,22 @@
+Front End Developer/ Designer,"As a Front End Developer/ Designer, the incumbent will
+help build the company's web services where millions of users connect on
+a daily basis to learn, contribute and interact. The incumbent will work
+in HTML5, CSS3, Jquery, ASP.NET development environment, in the areas of
+UI Styling, Front End development and requirement analysis.","- Produce HTML and CSS3 styled, graphically rich components;
+- Identify and communicate best practices for Front-end Engineering;
+- Ensure user interface guidelines and standards are followed during the
+development phase;
+- Work within an Agile development environment;
+- Estimate and deliver on development tasks with high level of accuracy.","- At least 3 years of experience with HTML and CSS;
+- Experience with implementing responsive design principles on complex
+web applications;
+- Experience with front-end frameworks, such as Bootstrap, Foundation;
+- Photoshop, Illustrator production skills;
+- Knowledge of jQuery and Javascript is a big plus;
+- Experience dealing with cross-browser compatibility and CSS Best
+Practices;
+- Understanding of usability and interaction design;
+- Proactive and self-motivated learner.","Interested candidates are asked to send a CV to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

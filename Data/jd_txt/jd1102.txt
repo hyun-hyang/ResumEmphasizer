@@ -1,0 +1,38 @@
+Senior Circuit Design Engineer,"Senior Circuit Design Engineer will be responsible for
+all aspects of I/O library product development. S/he will provide
+technical leadership in the development of new products; lead technical
+team to deliver on complex project assignments; drive multiple projects
+and provide technical guidance to development teams; work with key
+resources to define and maintain specifications and standards for
+library development.","- Implement DDR I/O library products from design concept through final
+delivery;
+- Perform design, simulation, and analysis of I/O cell circuits;
+- Design and optimize circuits for specific application and product
+requirements;
+- Be responsible for quality and quality metrics of product through
+library delivery;
+- Define specifications for library development;
+- Prepare technical presentations;
+- Direct and manage technical activities of other engineers.","- Proficient background in I/O cells including all aspects of library
+development including I/O cell circuit design, architecture, physical
+design, DRC/LVS;
+- Experience with analog circuit design including level shifters,
+comparators, and bias circuits;
+- Working knowledge of physical electrical design space, including
+power, timing, performance, and advanced technology effects on physical
+and electrical behavior;
+- Understanding of ESD failure models, and physical and circuit design
+strategies to prevent ESD damage;
+- Knowledge of system design concepts including transmission line
+theory, coupling, impedance matching, SSO, ISI, jitter, etc.;
+- Proven technical leadership skills, able to manage multiple
+priorities.
+Experience:
+- BSEE + 5-7 years of experience;
+- Working knowledge of hspice, or a comparable spice simulator;
+- Hands on experience running DRC and LVS;
+- Knowledge of some programming or scripting language;
+- Knowledge of verilog modeling.","Please, send a CV to:hr.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

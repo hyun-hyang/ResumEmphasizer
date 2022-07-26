@@ -1,0 +1,41 @@
+C/ C++ Software Developer,"Energize Global Services is looking for an experienced
+C/ C++ Software Developer to be engaged in different long term projects.
+Within a software development team, the successful candidate will be
+responsible for a significant part of the development cycle of
+applications: understanding of the requirements, performing the
+functional analysis, the design, the programming and testing of the
+software solutions. The C/ C++ Software Developer will participate in the
+development of different software applications for various markets.","- Participate in software development in C/ C++;
+- Write unit tests and functional tests;
+- Work as part of cross functional software development team managed by
+Agile Scrum methodology.","- University degree in Computer Sciences; Master's degree will be an
+asset;
+- At least 3 years of work experience in software application development
+on C/ C++;
+- Excellent knowledge of C/ C++;
+- Experience in Cryptography and Encryption algorithms; 
+- Experience in development under Linux/ Unix OS;
+- Advanced knowledge of OOP and OOD;
+- Good knowledge of the life cycle of software development;
+- Knowledge of Unit testing principles and frameworks;
+- Experience in software development using Agile methodologies;
+- Advanced knowledge of Python or other scripting languages will be an
+asset;
+- Ability to understand the requirements and translate it into functional
+specifications;
+- Problem solving skills;
+- Analytical and integrative thinking;
+- Good communication skills;
+- Excellent knowledge of English language;
+- Ability to work in team and independently;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please e-mail your last updated
+and detailed CV to: hr@... . Please indicate ""C/ C++
+Software Developer"" in the subject line of your e-mail. Energize Global
+Services CJSC thanks all interested applicants; however, only shortlisted
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Energize Global Services"" is a software company that
+develops software products for American and European markets and provides
+IT services for partners all over the world."

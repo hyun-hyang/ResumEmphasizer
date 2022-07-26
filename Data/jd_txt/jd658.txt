@@ -1,0 +1,17 @@
+Developer,"Damaris AM Ltd. is looking for a qualified C++
+Developer to participate in Damaris products development.","- Design and develop in C++ and Java desktop and web-based
+applications;
+- Work on products technical choice and specifications;
+- Ensure weekly rapports on the projects;
+- Prepare testing and technical documentation.","- Bachelor's or Master's degree in computer sciences;
+- Knowledge of C++, Java and Perl;
+- Knowledge of SqlServer, MySql and Oracle;
+- Knowledge of HTML, XML/XSL, CSS, PHP, Javascript;
+- Lotus Domino and Websphere is an asset;
+- Written and spoken knowledge of English language;
+- Independent, motivated, hard-working personality;
+- At least 2 years of experience in development.","Please, submit CV to: aab@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM is the local branch of Damaris France Company
+providing software archiving package to different companies in Europe."

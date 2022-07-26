@@ -1,0 +1,27 @@
+Quality Assurance Engineer,"The incumbent will be responsible for developing,
+applying, and maintaining quality standards for company products.","- Develop and execute software test plans. Analyze and write test
+standards and procedures; 
+- Maintain documentation of test results to assist in debugging and
+modification of software;
+- Analyze test results to ensure existing functionality and recommend
+corrective action;
+- Follow standard practices and procedure in analyzing situations or
+data from which answers can be readily obtained;
+- Work on problems of limited scope.","- MS/BS in Computer Science/ Electrical Engineering;
+- 2-4 years of relevant experience in product testing;
+- Some knowledge of evaluation methods in the design, development and
+debugging of software programs; 
+- Advanced knowledge of Linux/ Unix and Windows; 
+- Knowledge of Scripting: Shell scripting, Perl, Tcl; 
+- Good spoken and written English language skills; 
+- Ability to learn quickly;
+- Basic knowledge of Microelectronics;
+- Understanding of Quality Assurance process; 
+- Ability to work independent and under pressure; 
+- Good organization and communication skills.","Please e-mail your detailed CV to:dianan@... indicating the position title in the subject line of
+your e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys, Inc."

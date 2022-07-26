@@ -1,0 +1,17 @@
+Software Developer,"""Cascade Investments"" announces a vacant position of
+Software Developer to work in the Back Office department. Any candidate,
+interested in securities trading and apposite software applications, is
+encouraged to apply.","- Develop codes and algorithms;
+- Design database;
+- Create and work with stored procedures.","- Higher education;
+- Good knowledge of computer network, Visual Basic 6.0, MS SQL Server,
+T-SQL;
+- Knowledge of ADO and OLE technologies;
+- Knowledge of network technologies; 
+- Ability to learn quickly;
+- Experience in financial institutions is preferred;
+- Knowledge of English and Russian languages is preferred.","Please send your cover letter with resume to:hr@.... Please, clearly indicate ""Software
+developer"" in the subject field of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

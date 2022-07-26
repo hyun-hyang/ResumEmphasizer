@@ -1,0 +1,30 @@
+Senior Flash Developer,"Joomag AM LLC is seeking a highly motivated Senior
+Flash Developer who will become a part of the company's team. The ideal
+candidate is a strong-team player that can be counted on to develop
+innovative solutions as well as champion the best practices and
+approaches. As a senior member the candidate is expected to be able to
+mentor and work with more junior members of the team, provide oversight
+and direction.","- Work with developers to identify and deliver tasks, managing production
+and deliverables within the team;
+- Program in a clear, structured and well-organized style;
+- Organize code reviews and apply the best practices within the team;
+- Maintain existing ActionScript libraries by making sure they support
+current and future company needs.","- At least 3 years of experience in object-oriented development using
+Adobe Flash and AS3;
+- Bachelor's/ Master's degree in Computer Science, Engineering or a
+related field;
+- Knowledge and clean understanding of object-oriented design patterns;
+- Deep knowledge of AS3, Adobe AIR/ Adobe Flash Player internals;
+- Ability to be comfortable in diving into the existing code, debugging
+and applying the correct solution within the time limit;
+- Experience with Git including merging, rebasing, a cherry-pick and
+pull-request branch strategy; 
+- Good knowledge of the English language;
+- Knowledge of Adobe Illustrator is a plus;
+- Experience in HTML5, CSS3 and JavaScript is a plus;
+- Experience in C++ is a plus.","All interested and qualified candidates are
+invited to apply online via: http://joom.ag/jobs/senior-flash .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

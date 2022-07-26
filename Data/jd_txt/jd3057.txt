@@ -1,0 +1,26 @@
+Senior Android Developer,"SoloLearn RA LLC seeks a Senior Android Developer
+responsible for all phases of SoloLearn's Android application
+development. The Senior Android Developer will report directly to the
+CEO.","- Continuously refine the UX, develop new features, improve application
+stability and performance;
+- Participate in product and/ or application definition activities;
+- Contribute to project release planning, architecture, and
+implementation planning for application development tasks;
+- Provide guidance to QA to ensure sufficient testing, provide required
+support and troubleshooting;
+- Work collaboratively and professionally with others in cross functional
+teams to achieve goals;
+- Apply a sense of urgency, commitment and focus on the right priorities
+in developing solutions in a timely fashion.","- BS in Computer Science, similar discipline related to software
+engineering, or equivalent professional experience;
+- At least 3 years of experience in Android application development;
+- Strong object-oriented programming and design skills;
+- Experience with Android application architecture and design;
+- Ability and desire to learn new skills and take on new tasks;
+- Experience in SaaS and Cloud Application Services.","All interested and qualified candidates are
+welcome to send their CVs to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SoloLearn is creating mobile, interactive learning
+platform available for free. For more information about SoloLearn, please
+visit the website at: www.sololearn.com."

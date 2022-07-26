@@ -1,0 +1,28 @@
+Java Developer,"The Company is looking for a highly qualified person
+with deep knowledge of and practical experience in Java programming. The
+selected candidate will be involved in all stages of the development life
+cycle.","- Develop Web Applications in accordance with the given specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with management and team members effectively.","- Bachelor's degree in Computer Sciences or a related discipline with at
+least 5 years of work experience in software development; higher degree
+is a plus;
+- At least 3 years of work experience in each of the following
+technologies:
+- Java/ JEE (JSP/ Servlet, EJB 1.x and 3.0);
+- Web Services (Axis and JAX-WS);
+- Web: HTML, CSS, JavaScript, AJAX, XML and jQuery;
+- Frameworks: Spring and JPA/ Hibernate;
+- Coding and testing: SVN, Maven and JUnit;
+- App. Servers: Apache, Tomcat, Orion and JBoss;
+- Databases: MS SQL Server and MySQL;
+- Optional technologies: iText, Jackson, JCIFS and SiteMesh;
+- Good knowledge of English language.","Please email your detailed resume with a photo
+to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft Inc. was established in January 2000. It is an
+international Internet infrastructure development and consulting company
+delivering bespoke business critical solutions using the latest advances
+in Internet technology."

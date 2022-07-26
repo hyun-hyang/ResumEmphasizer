@@ -1,0 +1,65 @@
+IT Manager,"In close cooperation with EPF Armenia Country/
+Associate Country Director and staff, the IT Officer will plan, maintain,
+administer and develop EPF Yerevan Office computer, telecommunications
+and information systems and facilities.","- Administer network workstations and servers utilizing TCP/ IP
+networking protocol for Windows based operating systems;
+- Provide system level support for computer software and computer network
+equipment used in business production;
+- Investigate user problems and needs, identify their source, and
+implement solutions;
+- Troubleshoot and resolve hardware, software or other network production
+problems and replace defective components as necessary;
+- Determine plans for new network/ computer hardware or modifications to
+existing hardware;
+- Perform daily system monitoring, verifying the integrity and
+availability of all hardware, server resources, systems and key
+processes;
+- Review system and application logs, and verify completion of scheduled
+jobs such as backups;
+- Install, configure and maintain personal computers, Windows networks
+and workstations, file servers, ethernet  networks, network cabling and
+other related equipment, printers and related equipment;
+- Plan and implement network security, including configuring firewalls,
+applying cryptography to network applications, managing host security,
+file permissions, backup and disaster recovery plans, file system
+integrity and adding and deleting users;
+- Develop and conduct various training and instruction for system users;
+assist users in maximizing use of networks and computing systems;
+- Work with vendors to resolve complex network, server and software
+application problems;
+- Monitor network performance to determine whether adjustments need to be
+made and to determine where change will need to be made in the future;
+- Maintain for IT equipment inventory control list and keep it up to
+date;
+- Assist in planning, organizing the tenders, coordinating and consulting
+with vendors and clients for hardware/ software purchases, product
+services and support;
+- Design solutions, configure or support Firewalls, Content Engines,
+Content filtering, Intrusion Detection or Prevention Systems;
+- Configure and support anti-virus software;
+- Configure and support patch management systems.","- Bachelor's degree in Computer Sciences or a related discipline; higher
+degree is a plus;
+- Knowledge of standard networking protocols including layer 1-7;
+- Proficient with the MS Windows operating systems: Windows Server 2003/
+2008/ 2012 (Active Directory, Group Policy, etc);
+- Experience with Cisco routers, security appliance and core switching;
+- Experience with WSUS management, Backup solutions and corporate
+antivirus applications;
+- Knowledge of information Security standards;
+- Knowledge of VPN technologies (L2L, IPSec, PPTP, SSL Web Based VPN);
+- Knowledge of System Administration, LAN, Proxy Servers, Networking
+(TCP/ IP, routing, switches and firewalls), Network concepts (DNS, DHCP
+and WINS);
+- Troubleshoot hardware/ software problems;
+- Experience with a wide array of hardware desired, including Dell, HP
+and other major vendors;
+- Work well independently or in a team setting;
+- Strong assessment and problem solving skills;
+- Fluency in English and Russian languages;
+- Preferred Education: Bachelors Degree in an information technology
+related field;
+- Preferred Certifications: Microsoft Certified IT Professional (MCITP);
+CompTIA Network+ and Security+.","Applicants should submit a CV  by e-mail to:resume@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

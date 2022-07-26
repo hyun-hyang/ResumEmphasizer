@@ -1,0 +1,23 @@
+Senior Software Engineer,"Virage Logic Yerevan Branch is looking for a Senior
+Software Engineer who will be supervising Junior Engineers and
+participating in design, implementation and support of a hardware
+oriented software project.",NA,"- 5+ years of C/C++, STL programming experience;
+- Experience developing cross-platform software for Linux and Windows;
+- Experience of developing software ATE equipment is a plus;
+- Knowledge of data structures, algorithms and their complexities;
+- Hardware design knowledge is a plus;
+- Good knowledge of oral and written English language;
+- Ability to work under tight schedules.
+Desired Skills:
+- Knowledge of Linux;
+- Knowledge of Qt;
+- Knowledge of TCL;
+- Ability to write functional/ implementation specifications; 
+- Good communication, leadership and fast learning skills; 
+- Formal training or test certification is a plus.","Please e-mail your detailed CV in English
+language to: Hr.Armenia@... indicating the position title in
+the subject line of your e-mail. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

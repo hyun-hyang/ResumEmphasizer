@@ -1,0 +1,50 @@
+Quality Assurance Specialist,"The QA Specialist is responsible for assisting the QA
+team leader at Synergy in performing software testing, execution of test
+plans and test cases, and bug tracking.","include the following. Other duties may be
+assigned. 
+- Test software at all levels;
+- Analyze and report test results;
+- Work independently with the aim of creating a test environment;
+- Analyze software performance and report data metrics.","- Training in Computer Science or related discipline;
+- Understanding of software life cycle;
+- Ability to effectively work in a fast-paced, high-growth environment;
+- Ability to learn new applications and processes;
+- Knowledge of test case development and bug tracking systems and test
+automation systems;
+- General knowledge of specifics and the strategies for web application
+testing;
+- Attention to details; 
+- Knowledge of SQL and Oracle Databases databases is an advantage;
+- Knowledge of one of programming languages is an advantage;
+- Ability to work under pressure and in multi-task environment;
+- Ability to manage time effectively; 
+- Strong interpersonal and organizational skills and ability to deal
+effectively in a team environment;
+- Excellent analytical and problem-solving skills;
+- Ability to analyze complex problems, interpret operational needs, and
+develop integrated, creative solutions;
+- Strong communication and writing skills and the ability to work
+directly with the development team; 
+- Fluency in English language;
+- 1 year of relevant work experience;
+- Ability to work effectively in a team environment, as well as being
+comfortable managing own projects with limited supervision;
+- Ability to take criticism;
+- Self motivated, technically proficient, able to grasp new concepts
+quickly;
+- Excellent oral and written communication skills and demonstrated
+ability to collaborate effectively with developers and non-developers.","Candidates who meet these qualifications will
+be short-listed and interviewed. Selected candidates will be notified of
+the interview dates directly.
+If interested, please send your resume with a cover letter listing your
+qualifications, position related experience, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:
+Ms. Hasmik Hovsepyan/Human Resource Manager 
+E-mail: mail@... 
+Phone: (374 10) 52 77 44; 56 76 81
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated Web Portal, Web Databases
+and Web Services systems."

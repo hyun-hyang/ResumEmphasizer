@@ -1,0 +1,22 @@
+Software Engineer,"The candidate will be responsible for developing and
+maintaining a Graphical User Interface (GUI) used for design entry and
+configuration of Sonics' products. 
+In addition he/ she will develop and maintain the data model used by the
+GUI and related design tools. The candidate will help with the support of
+infrastructure used to produce the Sonics' design generators for Verilog
+and SystemC.",NA,"- BS or MS in CS/ EE;
+- 2-5 years of work experience in developing software on Solaris/ Linux
+for Electronic Design Automation (EDA) applications; 
+- 2-5 years of work experiecne with C++ or other object oriented
+language; 
+- Proven work experience in developing GUI applications; 
+- Experience with applications in Python and Tkinter is a plus.","If you meet the requirements above and are
+confident that your background and experience qualify you for the
+position, please e-mail your detailed resume to: sonics@...,
+mentioning the position you are applying for in the subject line of your
+e-mail. Only short listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sonics is a privately held US company with a Design
+Center in Armenia. For more information please visit our website:
+www.sonicsinc.com."

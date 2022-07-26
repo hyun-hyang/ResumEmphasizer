@@ -1,0 +1,19 @@
+.NET Developer,"SystroTech LLC is looking for a .NET Developer to join
+a team working on the company's range of line of business applications.","- Develop applications in accordance with given specifications;
+- Read, understand and modify the existing code;
+- Work as a part of a software development team.","- Bachelor's or Master's degree in Computer Sciences or in a related
+discipline;
+- Good knowledge of C# and principles of .NET platform;
+- Good knowledge of ADO.NET and SQL;
+- Knowledge of C/ C++ is a plus;
+- Knowledge of Visual Basic is a plus;
+- Knowledge of Crystal Reports is a plus;
+- Good technical command of English language.","Please follow the instructions to apply:
+- Download the Application Form attached to the vacancy;
+- Fill in the application form and send to: jobs@... .
+Only shortlisted applicants, who have filled in the standard SystroTech
+Application Form, will be considered and contacted. No phone calls or
+personal visits, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

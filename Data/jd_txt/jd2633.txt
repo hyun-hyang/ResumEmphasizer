@@ -1,0 +1,38 @@
+.Net C# Developer,"BetConstruct is looking for a qualified .Net C#
+Developer who will participate in various projects. This is a great
+opportunity to work on new projects in a fast paced environment, with a
+highly creative team.","- Code, test, debug, implement and document programs;
+- Assist in the modification of company products and/ or customer/
+internal systems to meet the needs of the client and/ or end-user;
+- Research and analyze existing systems and program requirements;
+- Develop test plans to verify logic of new or modified programs;
+- Work as part of a software development team.","- At least BS in Computer Sciences;
+- At least 3 years of work experience as a Software Developer;
+- Experience and knowledge of C# .Net/ Entity Framework/ MSSQL Server;
+- Knowledge of strong Object-oriented programming;
+- Knowledge of QT/ C++ is a big plus;
+- Knowledge of WPF MVVM development;
+- Knowledge of WCF/ SOA;
+- Knowledge of SQL/ MSSQL;
+- Knowledge of ORM (Entity Framework);
+- Experience in Test Driven Development is a plus;
+- Ability to work well under pressure in a task/ module oriented project
+team environment;
+- Knowledge of Subversion/ Git version control tools.","Interested candidates are encouraged to submit a
+CV to: career@... with a note "".Net C# Developer"" in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetConstruct develops, provides and manages a complete
+range of products for online and land-based gaming companies. While the
+company specializes in Sportsbooks, its product range also includes a
+great selection of Poker, Skill, Virtual and Casino Games, including Live
+Dealer. The company's robust back-end, along with content, marketing and
+risk management tools presents a powerful solution for any betting
+business. Today BetConstruct serves clients based in Europe, Russia,
+Central and South Eastern Asia, and Africa. Backed by a powerful team of
+over 600 employees (traders, developers and other specialists) and
+informed by over 10 years of experience, it provides true 24/ 7 support
+to its clients, and responds quickly to changes in regulatory and
+consumer requirements. For detailed information, please visit:
+www.betconstruct.com ."

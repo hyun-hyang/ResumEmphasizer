@@ -1,0 +1,48 @@
+Senior QA Engineer,"As a Senior Quality Assurance Engineer and QA leader
+in Armenia, the incumbent will be responsible for creating, implementing
+and automating testing across multiple components of LookWhosClicking,
+the company's flagship product. He/she will design, document and
+implement test plans for new projects, report and manage defects,
+regress software fixes for new and existing products, assist development
+with replicating and debugging problems and develop test automation
+solutions as needed. In order to succeed in the team, the candidate must
+have the passion and energy to work in an entrepreneurial environment. In
+addition, the candidate must be an experienced senior architect and
+technical leader with in-depth knowledge of software development
+processes. The successful candidate will possess strong technical and
+test automation skills; have experience testing enterprise-class system
+software packages; and a working familiarity with Windows, Unix and
+Linux.","- Design, develop and implement comprehensive QA test plans and test
+cases, tools and infrastructure for assigned areas of the
+LookWhosClicking software;
+- Run regression tests and perform both white and black box testing
+against releases of the product; 
+- Perform all aspects of verification, including functional, structural,
+regression, load and system testing;
+- Document, troubleshoot and isolate problems encountered during
+testing;
+- Design, develop and implement complex test automation both at the
+functional and system level;
+- Work with other members of the global engineering team to improve the
+company's processes, tools, methods, effectiveness and efficiency.","- Minimum 5 years of cumulative experience developing or testing
+commercial web-based application software with at least 2 years of
+experience testing system software;
+- A strong technical background coupled with in-depth experience testing
+or developing software for Microsoft operating systems in a .NET
+framework and environment;
+- Extensive background in QA methodologies and experience developing and
+executing comprehensive test suites for system software;
+- Strong technical and programming/test automation skills;
+- Ability to troubleshoot software/ hardware configuration problems;
+- Demonstrated ability to handle/organize multiple complex technical
+projects simultaneously; 
+- Ideal candidate will have strong analytical and troubleshooting
+skills, as well as excellent written and verbal communication skills;
+- Must have strong inter-personnel skills, be able to work both
+independently and as part of the team and thrive on technical
+challenges.","Please e-mail your detailed CV to:hbaghdas@... indicating the position title in the subject line
+of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Inc. is a US/California based company involved in
+software development and consulting for the last 15 years."

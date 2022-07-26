@@ -1,0 +1,22 @@
+Senior Software Developer (several positions),"ZenteX.AM is seeking software developers to fill
+positions in its expanding development team. The primary directions are
+XML, Web Services, information processing and publishing.","- Designs, develops, implements, tests and writes documentation for
+software modules and systems produced by the company;
+- Provides technical support via e-mail and Internet to users of the
+software products;
+- Co-maintains the company's internal development environment.","We expect a successful candidate to be able to
+- Design and develop software products;
+- Create programs for heterogeneous environments (MS Windows, Unix)
+communicating by means of network protocols;
+- Author and maintain internal and end-user documentation.
+PREFERRED QUALIFICATIONS:  Applicants should have exposure to and
+previous experience with
+- Programming languages: C, Perl (or Ruby, Python), and Java (or C#);
+- Data processing technologies: XML, relational databases.
+REMUNERATION:   Competitive","Send cover letter and CV in Plain text or PDF
+(not as MS Word document) to zentex@.... Provide contact
+phone number.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ZenteX.AM is a software company specializing in the
+areas of data retrieval, processing and representation."

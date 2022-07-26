@@ -1,0 +1,55 @@
+Senior Software Testing Engineer,"EPAM Systems, Inc. is seeking Senior Software Testing
+Engineers to join the Company's team in developing enterprise-level
+software solutions mainly in healthcare industry. The Company is looking
+for results-driven, team-oriented, self-motivated professionals who are
+ready for new challenges, teamwork, and Agile software development.","- Perform functional, regression, usability testing on web and mobile
+applications;
+- Perform database testing using SQL queries in MS SQL Server;
+- Coordinate user acceptance testing;
+- Analyze business requirements and user specifications, identifying
+various test scenarios;
+- Conduct requirements walkthrough within the QA team;
+- Create test plan, test strategy and other test documentation based on
+the product requirements;
+- Prepare, execute and maintain test scenarios, test cases and test
+check-lists;
+- Identify issues and manage defect tracking;
+- Monitor and report testing results in a timely manner;
+- Perform quality assurance for software releases and patch builds
+through manual and automated tests;
+- Prepare test results reports, bugs reports and testing status reports;
+- Help to define and promote the quality assurance processes within the
+team;
+- Train and mentor other QA team members;
+- Work directly with customers, developers and business analysts;
+- Handle other tasks as assigned.","- Bachelor's/ Masters degree in Computer Sciences or in a related
+field;
+- More than 4 years of experience in Software Testing and Quality
+Assurance;
+- Experience with both manual and automation testing;
+- Good understanding of automated testing approaches;
+- Strong understanding of software development life cycle;
+- Solid understanding of QA processes and the methodology;
+- Experience in creation of various QA documentation;
+- Experience in testing web and mobile applications;
+- Good understanding of relational database concepts and experience in
+writing SQL queries;
+- Experience of working in a fast-paced environment;
+- Experience with test automation tools is a plus;
+- Experience with Agile software development methodologies is a plus;
+- Strong analytical skills;
+- Good problem solving skills;
+- Excellent analytical and troubleshooting skills;
+- Excellent verbal and written communication skills;
+- Fluency in the English language is essential.","Interested candidates are asked to submit their
+CVs in the English language to: Marine_Melikyan@... , indicating the
+position title in the subject line of the email. Only shortlisted
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The Company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

@@ -1,0 +1,21 @@
+Software Developer,"Jaguar LLC is seeking a specialist with deep knowledge
+and practical experience in programming. The selected candidate will
+participate in all company projects.","- Create innovative and elegant design of trade automation software;
+- Responsible for development of software applications;
+- Responsible for optimization and re-engineering of existing source
+codes.","- Bachelor's degree or higher in a field related to Programming;
+- At least 3 years of work experience in programming;
+- Experience with ASP.NET, C++; experience in creating multi-tier web
+applications;
+- Expert knowledge of .NET Framework;
+- Ability to create, develop and maintain web projects;
+- Experience in working with databases, building and administration of
+networks;
+- Good knowledge of Russian and English languages at the level of reading
+and understanding documentation;
+- Passion for interesting and tough tasks.","Interested candidates are asked to send a
+detailed resume with a photo to: hr@... , indicating the position
+title in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

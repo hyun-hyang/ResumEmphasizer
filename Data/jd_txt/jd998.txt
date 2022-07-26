@@ -1,0 +1,25 @@
+Software Engineer,"Essence Development LLC is seeking a highly motivated
+Software Engineer to develop and build high quality web applications. In
+this role, the developer will not only help building next generation web
+applications, but will also enhance and maintain existing Java/J2EE
+applications. The developer will be working on a range of challenging
+projects throughout the full development life cycle.","- Develop Web applications with Java;
+- Implement user web interface technologies;
+- Interact with business owners, enterprise and system architects,
+developers, project managers and QA.","- 2+ years of J2EE development experience; 
+- BS/MS in Computer Science, Engineering, or equivalent;
+- Strong Java skills and object oriented analysis and design
+experience;
+- Knowledge of JBoss, EJB, MySQL, JSP/Servlet, SOAP, Ajax, HTML,
+Javascript;
+- Candidate must be hard-working, motivated, innovative and able to work
+independently and within a team in a fast-paced environment; 
+- Ability to meet tight deadlines and overcome challenges;
+- Knowledge of English language.","Interested candidates should email resumes to:job@.... Please mention in your application the vacancy title
+you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is an IT company that works in
+partnership with be2 presented in 31 countries on 5 continents. For
+information about the company, please visit www.be2.am  and for more
+information about the product, look: www.be2.com."

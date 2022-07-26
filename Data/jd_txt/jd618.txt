@@ -1,0 +1,9 @@
+Programmer,"MP-Hi Tech LLC is looking for a motivated programmer
+for creating and developing projects with team.",NA,"- Bachelor's or higher degree in CS;
+- Over 2 years of work experience;
+- Excellent knowledge of the following programming languages/ libraries:
+C++, MS Visual C++.net, Win32 API, STL, OS: Windows NT, 2000, XP,
+Database: MSSQL Server.","Please, email your resume to:naltakyan@... and mention in the subject line ""Programmer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,MP-Hi Tech LLC is a software development company.

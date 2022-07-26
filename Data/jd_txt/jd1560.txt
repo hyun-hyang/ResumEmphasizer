@@ -1,0 +1,41 @@
+Senior Quality Assurance Engineer,"Metakortex CJSC seeks an experienced Senior Quality
+Assurance Engineer to contribute to help meet the needs of its growing
+business. As a Senior Quality Assurance Engineer, the incumbent will be
+involved in designing, planning, integrating and executing test tools and
+techniques for clients ranging from medium-sized businesses to Fortune
+500 companies.","- Prepare Test Plan documents and coordinate the Test Design process;
+- Work with Program Managers and Business Analysts to enhance and
+maintain QA and software testing process;
+- Plan and execute functional, stress, load, regression, performance,
+security and integration testing;
+- Analyze functional requirements to identify problems early in the
+process;
+- Manage defect tracking, reporting and monitoring of defect rates and
+obstacles;
+- Drive quality management practices throughout the project lifecycle;
+- Track and publish quality metrics throughout the project lifecycle;
+- Prepare and conduct presentations for internal and external use,
+including but not limited to QA process trainings for business and
+technology partners, technical presentations for external clients and
+project specific technical proposals.","- 5+ years of experience in software testing and quality assurance;
+- 2+ years of experience with test automation tools;
+- Advanced knowledge of defect prevention activities, quality metrics and
+measurements;
+- Advanced knowledge in QA processes as part of overall SDLC, including
+experience with test planning  samples will be required to build at the
+interview;
+- Excellent knowledge of web technologies including .NET 3.5 (ASP.NET),
+C#, WCF, WS;
+- Good understanding of DBMS (SQL Server 2005/2008 is a plus);
+- Experience with Microsoft Visual Studio 2010 (Tester's Edition) is
+preferred;
+- Good communication and interpersonal skills, working knowledge of
+English language, fluency is a significant plus.","To apply, please submit your resume to:QA@... , mentioning ""Senior QA Engineer"" in the subject line
+of your email. Interviews will be held in English language. Only
+shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Metakortex CJSC, the subsidiary of Netsoft USA
+(www.netsoft-usa.com), is a strategic technology and design firm
+headquartered in New York City with offices in Yerevan, Armenia and
+Toronto, Canada."

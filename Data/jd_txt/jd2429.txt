@@ -1,0 +1,31 @@
+Software Engineer,"The Software Engineer will be part of the project team
+and help build applications from the ground up. The input of the
+incumbent will be highly encouraged and his/ her individual innovations
+will be valued and appreciated.","- Work in the technical team to craft and develop technical solutions
+that meet the company's customer needs;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Understand business and functional requirements and translate them into
+high-level technical solutions;
+- Identify company-paid training opportunities to expand his/ her
+technical horizon.","- At least Bachelors degree in Computer Science or a related field;
+- Understanding of REST and how to build RESTful services;
+- Strong coding skills;
+- Experience with XML, HTML, CSS and cross-browser compatibility;
+- Experience with AJAX, JQuery and Javascript;
+- Knowledge of OpenSource software, programming languages Perl, PHP;
+- Experience working on Unix; 
+- Experience with relational database (MS SQL Server, Oracle);
+- Experience in data modeling and object design;
+- Excellent communication skills;
+- Readiness to learn new technologies, including Ruby, for ongoing and
+future business projects;
+- Quick learner;
+- Excellent command in written and spoken English language.","All interested and qualified candidates are
+asked to send their CVs to: yerevan.careers@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Oz Soft CJSC is the Armenian representation of Netsoft
+USA and specializes in creating custom business solutions for a diverse
+client base. For more information, please visit the website of the
+company: www.netsoft-usa.com."

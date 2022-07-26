@@ -1,0 +1,41 @@
+Senior Python Developer,"The company is looking for a bright minded and
+passionate Senior Python Developer, who will join the company's mobile
+development team to work on the current and future projects. The
+incumbent should be a quick learner who is committed to permanent
+professional growth and is able to master new technologies.","- Lead python development team;
+- Introduce latest technological solutions and industry standards into
+the development workflow;
+- Mentor python developers team, advise and guide;
+- Develop and integrate proper architectural solutions;
+- Write needed documentation for project technical part;
+- Develop server side parts for mobile applications;
+- Analyse client requirements and offer suitable solutions;
+- Carry out Scrum Master responsibilities.","- Degree in Computer Science or a related field;
+- At least 3 years of programming experience in Python;
+- Background in object-oriented design and development strategies;
+- Ability to program confidently in Python/ Django;
+- Strong experience with designing and building REST APIs and JSON;
+- Strong understanding and past usage of reusable Django Apps;
+- Understanding of forming Database Architecture and Models;
+- REST Framework experience is a plus;
+- Familiarity with Vagrant;
+- Experience working in a Linux, knowledge of bash;
+- Comprehensive understanding of underlying web technologies such as
+HTML, XML, CSS, JavaScript, Ajax;
+- Proficiency with relational databases, strong PostgreSQL experience
+(MySQL experience is a plus);
+- Understanding and experience of working with NoSQL databases;
+- Knowledge of formalized QA/ Testing processes;
+- Co-development and version control using Git or Mercurial;
+- JIRA, Redmine or related bug tracking software;
+- Excellent problem solving skills and love technical challenges;
+- Excellent teamwork skills with an ability to get the work done with
+minimal supervision;
+- Ability to write clean code;
+- Decision making skills.","Qualified and interested candidates should send
+their CVs to: job@... . In the subject line of your e-mail message,
+please mention ""Senior Python Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Geno6 is a company providing business solutions in web
+and mobile technology sector."

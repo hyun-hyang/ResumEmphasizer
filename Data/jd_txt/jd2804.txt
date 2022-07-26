@@ -1,0 +1,47 @@
+Web Applications Developer (for EGAR Project),"he Web Applications Developer will collaborate with
+business units to improve the end-user experience and adoption of web
+applications. The incumbent will build and maintain end-to-end solutions
+based on business functional requirements. Additionally, he/ she should
+ensure that the applications performance metrics meet stated targets.","- Partner with in-house and cloud vendors to negotiate and customize
+business, functional, and design requirements for enhanced end-user
+experience;
+- Create user-centered designs based on business and functional
+requirements, user research, market analysis, customer feedback, and
+usability findings;
+- Design user interfaces by using conceptual design techniques such as
+creating visual mockups, prototypes and diagrams;
+- Collaborate with business unit liaisons to understand and develop
+business and functional requirements;
+- Enhance, maintain and troubleshoot web application requests;
+- Develop software and design standards, processes and procedures, and
+guidelines to ensure they meet business rules and government
+regulations;
+- Participate in user research and usability testing to help improve the
+user experience;
+- Improve the user-experience by applying best practices and industry
+trends currently in the marketplace.","- Ability to understand end-user needs and user experience;
+- Independent worker proactively seeking to innovate;
+- Demonstrated problem-solving and analytical skills; 
+- Excellent verbal and written communication skills;
+- Knowledge of the following applications and tools:
+a) Relational databases (MS Access, Oracle, SQL Server);
+b) Programming languages (HTML5, Java, .NET, J2EE, CSS, XML);
+c) Operating systems: Windows, UNIX;
+- Knowledge of graphic design software and tools such as Adobe CS4/ 5,
+3DStudio Max, Maya, Flash, Photoshop, Illustrator, Flex, Dreamweaver,
+HTML, DHTML, XHTML, CSS, Javascript, and equivalents;
+- Comfortable person with Agile and iterative methodologies;
+- Experience using software project lifecycle tools (Bug Tracking,
+Requirements Management);
+- Experience with server side architectures and system design and
+development;
+- Fluency in Russian language, working knowledge of English language;
+- BS in Computer Science or a related field;
+- At least 2-5 years of experience.","Those who meet the requirements above and are
+confident that their background and experience qualify them for this
+position, are asked to e-mail their detailed CV to Finca at: hr@...
+. Please specify the subject line of the email as ""Web Applications
+Developer - Name, Surname"" naming the CV by your name and surname.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

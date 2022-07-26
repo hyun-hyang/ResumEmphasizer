@@ -1,0 +1,25 @@
+Web Developer,"Instigate CJSC is looking for a candidate for the
+position of Web Developer.",NA,"- Strong HTML/XHTML, JavaScript, AJAX and CSS development experience;
+- Knowledge of jQuery and ExtJs is a plus;
+- Web-site development experience with PHP;
+- Familiar with OO Programming and MVC Environments;
+- Zend frameworks experience;
+- Working knowledge of SQL/MySQL and database design/ modeling;
+- Knowledge of UNIX and Apache;
+- Full life cycle development experience;
+- Ability to produce clearly written and documented code;
+- Strong time management skills and the ability to thrive in a
+fast-paced, start-up environment;
+- Good organizational skills and attention to details;
+- Ability to successfully manage multiple projects and establish
+priorities while maintaining attention to detail and delivering high
+levels of quality and productivity;
+- Ability to communicate clearly in writing and verbally;
+- Good English and communication skills.","Interested candidates should send their resumes
+in English, in PDF format to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia. An R&D branch of
+the company is located in Gyumri, Armenia. Main partners of Instigate are
+in the USA and EU."

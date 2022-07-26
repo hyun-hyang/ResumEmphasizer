@@ -1,0 +1,23 @@
+Logic Design Engineer,"Responsibilities for this position include micro
+architecture specification, implementation, simulation, verification and
+synthesis of design relating to system-on-a-chip. The focus of this
+position is design of a highly configurable core elements of Sonics
+system-on-a-chip integrated solutions.",NA,"- Skills/ experience in Logic Design and implementation of configurable
+modules and systems;
+- Skills/ experience  in RTL, unit and system level  verification/
+validation;
+- Knowledge of Verilog HDL;
+- Good English communication skills;
+- Familiarity with Object Oriented Programming; knowledge of Python is a
+strong plus;
+- Familiarity with OCP and/ or AMBA protocols; AXI, AHB and APB is a
+strong plus.","If you meet the requirements above and are
+confident that your background and experience qualify you for the
+position, please e-mail your detailed resume to: armenia@...
+mentioning the position you are applying for in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sonics Armenia Holdings Inc. is a Branch of Sonics Inc.,
+headquartered in Milpitas, California with offices worldwide. For more
+information, please visit: www.sonicsinc.com and www.sonicsinc.com/blog."

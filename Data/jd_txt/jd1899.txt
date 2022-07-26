@@ -1,0 +1,23 @@
+Java Web Developer,"SFL is seeking for talented and motivated developers to
+expand company's team.","- Take ownership of the project functionality;
+- Produce and maintain clean and high quality code;
+- Prioritize and set goals in order to meet deadlines.","- At least Bachelor's degree in Computer Sciences or a related discipline
+with at least 3 years of work experience in software development;
+- At least 2 years of work experience with enterprise Java;
+- Strong understanding of OO design, best practices and design patterns;
+- Working knowledge of Java UI frameworks such as - JSP, JSF, Wicket and
+GWT;
+- Enthusiasm and experience in HTML/ CSS, JavaScript and AJAX;
+- Working experience in development of multi-layered applications;
+- Ability to work independently or collaborate within a team;
+- Strong personal commitment to quality;
+- Good communication skills in English language;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11370"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is custom software development for
+the clients from Western Europe and Armenia. More details can be found
+at: http://www.sflpro.com"

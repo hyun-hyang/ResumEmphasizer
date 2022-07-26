@@ -1,0 +1,24 @@
+Database Administrator,"The Database Administrator will be responsible for
+managing and maintaining database servers and applications. The Database
+Administrator will also be responsible for the performance, integrity and
+security of a database.","- Install and restore databases used in the Bank;
+- Monitor/ troubleshoot, fix data issues, track bugs and support
+applications;
+- Ensure database storage, backup and archive;
+- Design and create new service plans;
+- Ensure implementation and planning of database optimization;
+- Organize proper maintenance and performance of databases.","- Higher Technical education;
+- At least 3 years of professional experience;
+- Knowledge of network technologies;
+- Proved knowledge of MS SQL Server 2008 system;
+- Fluency in Armenian and Russian languages; knowledge of English is a
+plus;
+- Strong interpersonal and communication skills, ability to work in
+teams;
+- High sense of responsibility.","To apply, please submit a brief CV/ Resume in
+Armenian language to: hr@... or the to the head office of
+Prometey Bank at: 44/2 Hanrapetutyan Str., Yerevan, Armenia.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Prometey Bank LLC is a commercial bank in Armenia. For
+more information about the company, please visit: www.prometeybank.am."

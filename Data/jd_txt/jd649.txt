@@ -1,0 +1,34 @@
+C++ Senior Software Developer,"The primary objective of this position is to produce
+required product in conjunction with team members insuring it is of high
+quality and is timely.","- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Accurately plan software development activities and follow established
+processes;
+- Share knowledge, mentor peers, listen and hear team members view
+points and provide a fair evaluation of differing opinions;
+- Work productively as part of a software development team;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a command of current technology;
+- Actively participate in discussions regarding technical issues.","- Bachelors degree in Computer Sciences or a related discipline;
+- Over 3 years of Object Oriented C++ development, enterprise-class
+system architecture and design or equivalent combination of education,
+skills and experience;
+- Knowledge of UNIX platform technologies including threading and
+sockets is preferable;
+- Demonstrated record of designing and implementing high quality
+software products delivered to market;
+- Real time programming experience;         
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good English language skills and ability to develop those skills;
+- Desire to learn new technologies;
+- Knowledge and application of software development methodology
+(preferably UML).","Interested candidates should email resumes to:yer_job@.... If you have questions, please call: (+374 10) 26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. It was established in 1980 and is headquartered in
+Denver, Colorado. 50 Senior Software Developers already work in Yerevan
+office. For additional information about the company, please visit its
+website: www.cqg.com."

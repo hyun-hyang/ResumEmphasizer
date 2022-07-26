@@ -1,0 +1,29 @@
+Senior Software Engineer,"The Senior Software Engineer will work under general
+supervision and typically report to the Project Manager and higher. The
+incumbent will be engaged in client-server Web application design and
+development using MS Visual Studio 2005, .NET 2.0 and MSSQL 2005.","- Write C#, VB and JavaScript code (using .NET 2.0, 1.1);
+- Write store procedures, triggers, view SQL code;
+- Work as part of a software development team;
+- Read, understand and modify the existing code;
+- Develop software and database architecture and technical
+documentation;
+- Provide technical support and assistance, if requested;
+- Work as a part of team on Web and Windows applications based on .Net
+framework;
+- Provide necessary documentation and reports in English language;
+- Propose and document technical solutions for the given task;
+- Implement code team software engineers code revision;
+- Evaluate team software developers technical solutions.","- At least 4 years of work experience in Web application development
+based on .Net framework;
+- Strong knowledge of C#, VB.Net, SQL, NET 2.0;
+- Strong knowledge of ASP.Net, Style Sheets, HTML, JavaScript;
+- Good knowledge of XML, XSLT, ASP;
+- Good knowledge of Visual Studio 2005 and MS SQL Server 2005; 
+- Ability to evaluate algorithms and technical solutions;
+- Ability to work under pressure;
+- Good knowledge of English language.","To apply, please send your resumes to:techjobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sada Systems, Inc. is a Los Angeles, CA based computer
+technology consulting and development firm. For more information see the
+company's website: www.sadasystems.com."

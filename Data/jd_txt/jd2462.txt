@@ -1,0 +1,27 @@
+PHP Developer,"The incumbent will be part of the Online Marketing (OM)
+team of Insparx/ be2, and his/ her main task will be to develop tools
+which will help Online Marketing Managers to optimize campaigns for
+several companies.","- Provide and optimize tools so that landing pages can be modified in
+real-time by other people without technical skills, website a/ b tests
+can be set up, tracking requirements can be added easily, e-mail
+templates can be created without technical skills, but in a way that they
+are displayed well in 90 percent of the e-mail clients;
+- Ensure quality of everything that goes live, e.g. by use of automated
+testing;
+- Develop and support modules for CMS Drupal and in-house tools.","- University degree in IT;
+- Strong technical skills in PHP (OOP), Drupal, HTML, CSS, JS, DB (My
+SQL), Selenium;
+- Experience in a relevant online business is highly preferable;
+- Experience with CMS coding, especially Drupal and Wordpress is a plus;
+- Experience in server administration and development in teams;
+- Good oral and written communication skills; fluency in English
+language;
+- Ambitious and autonomous worker; fast learner;
+- Logical and analytical-oriented personality.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 Ltd. is an online matchmaking company which offers
+its service in 37 countries, to more than 30 million members. For more
+information about the company's product and activities please visit:
+www.be2.com or www.insparx.com."

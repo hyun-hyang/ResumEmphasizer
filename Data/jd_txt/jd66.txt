@@ -1,0 +1,13 @@
+Java Programmer,Creating online systems for banking sphere,"- Learning new programming standards (XP),
+- Creating databases for online systems.","- Expert in Java programming
+- SQL experience (preferabl mysql)
+- Good in object orientated design
+- Working knowledge in OO patterns (MVC, Singleton,...)
+- Working knowledge in UML
+- Working knowledge in English","Please send your applications (CV and cover
+letter) to resume@... (Please indicate in subject line ""for Java
+programmer position"")
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ASPO-IT is a new Armenian-Austrian company in
+informetion technologies sphere"

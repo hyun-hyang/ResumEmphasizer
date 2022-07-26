@@ -1,0 +1,29 @@
+Software Architect,"The role requires dedicated and responsible Software
+Architect professionals that will apply the latest technologies for
+solving challenging tasks with the Lycos architecture team. Lycos
+Armenia is seeking candidates with good experience in Object oriented
+design and programming.","- Understand Modelling Concepts;
+- Develop critical framework components/reusable modules;
+- Establish, maintain and adhere to set of development standards and
+patterns;
+- Document technical findings/decisions and make technical
+presentations;
+- Maintain, improve and optimize Lycos internal software development
+process.","- Technically the key skill requirements are Java (J2SE, J2EE) with at
+least 2 years experience, web based technology, Servlet/JSP, XML/XSL,
+HTML/DHTML with at least one year of experience, familiarity with
+widespread WEB frameworks, Spring, Struts;
+- Familiarity with UML and design patterns;
+- Additional experience with the following: Linux, BASH scripting,
+Apache, JBoss, MySQL, CVS;
+- Problem solving, troubleshooting, analytical and communication skills
+are much desired;
+- Academic degree of a minimum BS; 
+- Good English language knowledge is highly desired to be able to
+interact and communicate effectively with internal and external teams.","If interested, please apply with your CVs in
+English to: info@... stating ""Software Architect"" in the
+subject line of your email.
+For additional information, please call (374-10) 51-21-21.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,35 @@
+Senior Mobile Application Developer,"Aragast Web Technologies is seeking a Senior Mobile
+Application Developer to join the team in delivering mobile applications
+for Android and iOS supporting the new social networking solution
+(www.cafe4tune.com). Company is looking for energetic people who are
+ready to get involved in Mobile software development and have a good
+understanding of Agile software development methodologies and frameworks.","- Lead the effort of mobile development team in delivering Android and
+iPhone applications;
+- Be engaged in entire life cycle of application: concept, design, build,
+deploy, test, release to app stores and support;
+- Work directly with developers and the product manager to conceptualize,
+build, test and realize products;
+- Gather requirements around functionality and translate those
+requirements into elegant functional solutions.","- At least 3 to 5 years of experience in software development;
+- Strong object oriented design and analysis skills;
+- In-depth programming experience in Android and iPhone (Objective C/
+Cocoa);
+- In-depth programming experience and knowledge of Java, C++ and
+Objective C;
+- Experience in using platform frameworks, such as CoreLocation,
+CoreData, UIKit for iPhone and Activities, Services, as well as Intent
+for Android;
+- Experience in using platform and management tools (e.g. Eclipse, XCode,
+SVN and Basecamp);
+- Experience with technologies, such as REST/ XML/ SOAP Web Services and
+JSON;
+- Good knowledge of English language;
+- Ability to work independently in an Agile development environment;
+- Knowledge of and previous experience in Scrum project management
+framework is a plus.","Please submit your CV in English language to:aragast@... , indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Aragast Web Technologies a software development company
+using cutting edge technologies and methodologies to provide market
+competitive solutions."

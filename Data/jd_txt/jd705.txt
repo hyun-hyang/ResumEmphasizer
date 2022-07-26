@@ -1,0 +1,24 @@
+Senior Software Developer,"AccuSoft-AM LLC is looking for a motivated developer
+for expanding current development team. Main focus is the development
+and enhancement of cross-platform (Windows and Linux)
+systems/applications for image and data manipulation.",NA,"- Bachelor's/Master's degree in CS or related discipline required;
+- 3+ years of work experience in professional software development;
+- Analytical, technical, and communication skills (English and
+Russian);
+- Excellent knowledge of C, C++;
+- Ability to work on multiple projects at the same time;
+- Experience in system and application programming under Linux and
+Windows systems;
+- Strong experience in GUI design and development under Linux/UNIX
+platform;
+- Good experience in using XWindow for GUI development is a big plus;
+- C#/.NET knowledge are desired;
+- Good knowledge of Perl is desired and knowledge of UNIX shell scripts
+is a plus;
+- Strong mathematical background is a plus.","If this position is of interest or you would
+like more information on the role, please email CV to:accusoft@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AccuSoft-AM LLC is the business partner of AccuSoft
+Corp. (www.AccuSoft.com), USA. Founded in 1985, AccuSoft is a supplier
+of software systems in the area of image and data processing."

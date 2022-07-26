@@ -1,0 +1,35 @@
+Quality Assurance Engineer,"In this position the selected candidate will be the
+part of a small team and get  experience in all areas of Quality
+Assurance.","- Design test cases, perform manual functional, cross-browser,
+regression, usability and performance testing and develop automated
+tests;
+- Implement automated frameworks to test end-to-end functionality in both
+Android and iOS Worlds;
+- Create and maintain automation testing scripts while using cutting edge
+technologies, such as Selenium WebDriver/ RC;
+- Interact with various stakeholders - product management, development
+and operations;
+- Serve as a strong contributing technical member of the team.","- Higher education in a relevant field;
+- At least 3 years of software testing and QA experience, preferably in
+online environment;
+- Solid experience in Manual/ Automated Testing of web-based and mobile
+applications (iOS, in particular);
+- Knowledge of testing techniques, problem reporting and documentation;
+- Knowledge of Core Java, JUnit, Shell Scripting, Ajax,Javascript, HTML,
+CSS, Xpath, Regexp;
+- Knowledge of SQL and Mongo (NoSQL) and basic understanding of database
+structures;
+- Knowledge of Continuous Integration (Jenkins);
+- Experience in working with industry standards and tools (Selenium,
+WebDriver, Jmeter);
+- Experience with Linux and Windows platforms;
+- Operational experience in at least bug tracking system;
+- Very good knowledge of English language (it is the company's working
+language).","All interested candidates should e-mail their
+CVs to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""be2"" Ltd is an online matchmaking company which offers
+its service in 37 countries, to more than 30 million members. For more
+information about the company, please visit: www.be2.com or
+www.be2.com/corp."

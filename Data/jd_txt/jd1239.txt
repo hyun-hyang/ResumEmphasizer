@@ -1,0 +1,22 @@
+Hardware Engineer,"The intern will be responsible for designing,
+developing, modifying and evaluating electronic parts, components or
+integrated circuitry for electronic equipment and other hardware
+systems. S/he will follow standard practices and procedure in analyzing
+situations or data from which answers can be readily obtained.",NA,"- 3-4 course university student;
+- Good knowledge of English language. 
+Competency Areas:
+- Analog/ mixed Signal Design using the following components: Discrete,
+Standard Logic, CPLD, DAC/ADCs, Filters, Voltage Regulators, Op Amps.
+Design Skills:
+- Source/ measure cards for ATE;
+- DPS cards for ATE;
+- Low voltage and high voltage power supply design.","Interested candidates are kindly requested to
+mail CV/ resume in English languages to: naira_nikoghosyan@... .
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"Credence Systems Armenia LLC is an engineering
+development company based in Armenia and a subsidiary of LTX-Credence
+Corporation (USA).
+LTX-Credence is a global provider of focused, cost-optimized ATE
+solutions designed to enable customers to implement best-in-class test
+strategies to maximize their profitability."

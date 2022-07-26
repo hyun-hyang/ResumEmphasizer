@@ -1,0 +1,34 @@
+Embedded Software Engineer,"VadaTech CJSC is seeking a Software Engineer for its
+Embedded System Development team. The candidate will be working as part
+of a small, dynamic team and will be responsible for designing, coding
+and testing embedded systems related functionality. Another necessary
+aspect of the position will be the problem isolation and timely
+resolution of issues with existing drivers, working with the Applications
+Engineering Team for a field deployed releases.","- Work with team to define and design system solutions;
+- Create/ maintain requirements, design and User's manual
+specifications;
+- Produce clearly written and documented code;
+- Develop flexible software intended to run on different hardware
+platforms;
+- Integrate third party (commercial) solutions to company's products;
+- Communicate with team members on project progress, technical issues,
+etc.","- Bachelor's degree in Computer Sciences or a similar discipline; higher
+degree is a plus;
+- Over 4 years of work experience in C/ C++, Embedded OS and device
+Drivers for Embedded Platform;
+- Excellent understanding of Linux operating system;
+- Experience in Linux device driver development;
+- Experience with source code/ platform cross-compiling & porting;
+- Experience with PowerPC, ARM and MIPS 32-bit is a plus;
+- Familiarity with the embedded software development process;
+- Telecommunication experience is a plus;
+- Strong problem solving skills;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Good English language skills.","If interested, please email your Resume to:amjobs@... . Please indicate ""Embedded Software Engineer"" in the
+subject line of your e-mail, otherwise your Resume will not be reviewed.
+Only shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VadaTech is a board level design and manufacturing
+company focused on quick-turn designs for the embedded market."

@@ -1,0 +1,25 @@
+Junior C++ Developer,"XNTrends is eager to hear from the Junior C++
+Developers looking to make their mark and work on a challenging project.
+As a Junior C++ Developer, you will be tasked with developing and
+optimizing the innovative software solutions of the Company's clients. 
+Working as a part of an international software development team, you'll
+design and develop software, as well as implement embedded software
+solutions. Performing engineer-level testing, you will ensure that all
+the work is of a high quality and any risks or issues are reported to the
+Team Leader. You will become a part of a professional team, working
+according to international business processes and standards. You will
+learn quickly to adapt and react to the requirements of international
+clients.","- Develop a code;
+- Test the developed code;
+- Participate in peer software code reviews.","- At least 1 and a half year of experience with C++; 
+- Experience of working with version control systems is desired;
+- Experience in working with Agile is preferred;
+- Good knowledge of the English language;
+- Degree or equivalent in Computer Science, Electronics, Mathematics,
+Physics or a related field;
+- Willingness to learn and grow.","Interested candidates can send their CV to:
+hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"XNTrends Ltd. is a software development company. For more
+information, please visit: www.xntrends.com."

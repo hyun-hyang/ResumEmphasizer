@@ -1,0 +1,15 @@
+PHP/MySQL Programmers,"Cubix Development LLC is looking for 5 PHP/MySQL
+programmers for programming various Internet-based projects such as an
+Internet content store, an international restaurant guide, a hostel and
+hotel reservation system and other new projects.","Program clean PHP code according to OOP
+techniques.","- At least 2 years of experience;
+- OOP techniques knowledge.","Please do the following test and send it
+together with your CV to: hr@... .
+Create a dynamic form processing script containing Name, Email, URL and
+a text area. Verify a correct format of all these fields and display
+either a competent error or a success message. You must use OOP and
+design patterns according tohttp://www.php.net/manual/en/language.oop5.patterns.php.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Cubix Development LLC is a development company based in
+Yerevan starting its work on 01 May 2008."

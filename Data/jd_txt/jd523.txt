@@ -1,0 +1,18 @@
+DBA/ SQL Developer,"DFM, Armenian division of Synopsys is looking for
+qualified candidates to help in the development of DBA project. The
+position holder will work in cooperation with the company's
+international teams.",NA,"- BS/MS relative to Computer Science;
+- Knowledge of Oracle (8i-10g), MSSQL, MySQL;
+- Knowledge of DB2 is a plus;
+- Knowledge of SQL Performance Tuning;
+- Knowledge of PL/SQL, T-SQL;
+- Knowledge of Windows/Linux;
+- Knowledge of C++, STL, QT is a plus;
+- Ability to work under pressure (not always);        
+- Desire to work 8 hours per day (except weekends of course);
+- Fluent knowledge of written and verbal English language is a plus.","Interested candidates should e-mail their
+detailed resumes to Anahit Krishchyan at: akrishch@.... No hand
+deliveries, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Fore detailed information visit: www.Synopsys.com.

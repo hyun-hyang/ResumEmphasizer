@@ -1,0 +1,49 @@
+SharePoint Developer,"AltaCode LLC is seeking highly qualified and motivated
+SharePoint Developers. This is a position requiring a motivated
+self-starter with deep knowledge and practical experience in object
+oriented programming and web development. The applicant's skill set must
+include skills in working with SharePoint 2013 Provider Hosted Apps; DOM
+manipulation, OSS, frameworks (bootstrap, angular, knockout etc), C#/
+.NET, Single Page Application design/ development experience, CSS and
+PowerShell.","- Develop SharePoint  Apps (AppPart) in accordance with given
+specifications;
+- Customize SharePoint Apps as per client-specific requirements;
+- Utilize JavaScript, CSS3, HTML5, CAML and C# to develop solutions
+against client requirements
+- Develop App Parts and Packaged Solutions in SharePoint 2013 that meet
+the clients requirements and constraints;
+- Follow change management processes for the extension or modification of
+existing Apps; 
+- Create Custom workflows using SharePoint Designer or Visual Studio and
+create custom workflow actions;
+- Document all code appropriately and provide deployment instructions for
+customer deliverables;
+- Test and troubleshoot code for SharePoint 2013;
+- Maintain cutting edge knowledge of new technologies related to the
+SharePoint;
+- Assist in R and D activities to identify potential pool of Apps/
+Features;
+- Provide technical support and assistance, if requested.","- Bachelor's degree in Computer Science, Information Systems Management
+or a related field;
+- Proficiency in object oriented programming and Design Patterns;
+- At least 3 years of experience and full understanding of SharePoint
+2010/ 2013 functionality and capabilities;
+- Practical work experience with SharePoint 2013;
+- Experience in designing solutions using SharePoint Designer, SharePoint
+Designer workflows, lists, libraries, web parts and app parts;
+- Experience with App Part development for SharePoint 2013 is a great
+advantage;
+- Strong understanding of SharePoint best practices and platform
+strengths and limitations;
+- Competence with common SharePoint administration tasks;
+- Deep knowledge of HTML 5, CSS 3, JavaScript, JQuery;
+- Strong skills in WCF, Entity Framework and PowerShell;
+- Experience in .Net Framework - ASP.NET, C#  is a great advantage;
+- Effective written and verbal communication skills;
+- Mastery of technical English language;
+- Good team player, ability to accept criticism.","Qualified candidates are asked to send their
+resumes to: resume@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for the US market of information technologies."

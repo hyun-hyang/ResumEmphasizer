@@ -1,0 +1,12 @@
+Senior Software Engineer,"Virage Logic Yervan Branch is seeking a Senior
+Software Engineer for developing and supporting the AutoChar Project.",NA,"- 5+ years of experience in software development;
+- Masters of Science degree;
+- Background/knowledge in Electrical Engineering;
+- Experience in programming with C/C++;
+- English communication skills.
+The following skills can be a plus:
+- TCL/TK toolkit, GUI development experience with Qt;
+- Experience of working with spice simulators (hspice, hsim).","Please send your resume on:hr.armenia@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

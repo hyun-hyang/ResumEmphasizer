@@ -1,0 +1,37 @@
+Software Engineer/ Database Department,"The Software Engineer will take part in design and
+implementation of advanced software products for physical verification of
+ICs.",NA,"- MS in CS/ Math/ Physics/ EE or in a related field; PhD is preferred;
+- At least 3 years of work experience in designing and developing
+software products;
+- Strong C++/ STL programming skills and good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux; 
+- Knowledge of TCL/ TK is desired;
+- Strong knowledge of data structures and algorithms and their
+complexities;
+- Knowledge of computational geometry algorithms, discreet math and
+combinatorial optimization;
+- Experience in designing EDA databases and solving tasks related to fast
+data access, storing and processing is desired;
+- Previous experience in designing efficient algorithms for IC layout
+processing is highly desired;
+- Knowledge and experience in Physical Design Automation or in related
+domains is preferred; 
+- Previous experience in designing EDA tools is desired;
+- Knowledge of YACC and LEX and previous experience in designing YACC/
+LEX based parsers is a plus;
+- Good knowledge of oral and written English language;
+- Ability to write functional/ implementation specifications;
+- Good communication, leadership and fast learning skills;
+- Ability to work under time pressure;
+- Ability to work in a team;
+- Formal training or test certification is a plus;
+- Other achievements: participation/ winning in math and programming
+Olympiads/ competitions is a big plus;
+- In case of a male candidate it is preferred that military obligation or
+educational waivers of military obligation is fulfilled.","Please submit your CV through:http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

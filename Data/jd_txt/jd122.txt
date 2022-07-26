@@ -1,0 +1,17 @@
+Software Development Team Leader,"The incumbent will be responsible for technical lead
+of the team software developers working on the real time software for
+the DSP based wireless system as well as on the software applications
+for the SNMP based Network Management. The target of these applications
+is ArWest Communications Narrowband Point-to-Point and
+Point-to-Multipoint wireless systems developed for SCADA and GPS
+applications.","The incumbent will be responsible for the entire
+process of development, from feasibility study to design, implementation
+and delivery to quality assurance group.","- Master of Science in Engineering or its foreign equivalent;
+- 10 years of experience in Software Engineering, including real-time
+software and networking software development; 
+- Fluency in C, C++, MFC and COM/DCOM as well as in networking
+technologies such as TCP/IP, SNMP, TFTP, BOOTP and HDLC.","Please, send your resume and cover letter togharuty@... (resumes sent in the past will not be considered
+as current job application).
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

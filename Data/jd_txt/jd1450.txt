@@ -1,0 +1,41 @@
+ASIC Design Engineer/ SG,"ASIC Design Engineer's job is to participate in the
+design and/or verification of digital and/or mixed-signal logic blocks in
+compliance with the projects specifications and Synopsys design
+methodologies. The successful candidate will work on a variety of design
+and/or verification tasks, incorporating any of specification generation,
+RTL coding, behavioral coding, test bench and test case generation, RTL
+simulation, synthesis, STA, gate-level simulation, formal verification,
+documentation, and prototype evaluation.","- Understand and assist in the generation of design specifications;
+- Participate in complex block and/or chip planning and architecture
+studies;
+- Write synthesizable RTL code for circuit portions of integrated
+circuits;
+- Write behavioral models;
+- Generate test benches and test cases;
+- Perform complex RTL simulations of circuits, interpret the results and
+optimize the code until the predetermined functionality is satisfied;
+- Generate timing constraints for synthesizable designs;
+- May perform logic synthesis and/or static timing analysis;
+- Perform gate-level simulations of circuits, interpret the results and
+optimize the design until the predetermined functionality and timing is
+satisfied;
+- May perform mixed-mode simulations;
+- Be responsible for documentation of functionality, code, verification
+environments/plans, and design procedures;
+- May participate in prototype evaluation using bench top laboratory
+instruments or automated test equipment;
+- Work toward improving efficiency in design procedures and
+methodologies;
+- Perform other related duties as assigned by the upper manager.","- Requires a degree in Engineering or Applied Science (or equivalent);
+- 3-4 years of work experience in a related field;
+- Familiarity with Verilog circuit design and design verification;
+- Familiarity with generation of timing constraints for ASIC designs;
+- Familiarity with UNIX operating systems;
+- Good knowledge of spoken and written English.","Please submit your detailed CV in English to:mariana@... indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys is a provider of electronic design automation
+(EDA) software and services. Synopsys Armenia CJSC was established in
+October 2004 by Synopsys Inc. Please visit: www.synopsys.com for more
+information."

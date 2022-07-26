@@ -1,0 +1,26 @@
+Senior PHP Developer,"Joomag AM LLC is seeking a highly motivated Senior PHP
+Developer who will become a part of the company's team and contribute to
+all aspects of the ongoing software development from the initiation,
+through to developing, testing and launching.","- Develop and deploy new features to facilitate related procedures and
+tools if necessary;
+- Write ""clean"", well-designed code;
+- Follow industry best practices;
+- Contribute in all phases to the development of lifecycle;
+- Produce detailed specifications.","- At least 3 years of software development experience in PHP;
+- Bachelor's/ Master's degree in Computer Science, Engineering or in a
+related subject;
+- Strong knowledge of PHP and MySQL;
+- Strong knowledge of HTML, CSS and JavaScript;
+- Experience with GIT;
+- Experience with Apache web server;
+- Experience with Linux;
+- Knowledge of PHP frameworks;
+- Knowledge of OOP and Design Patterns;
+- Good knowledge of English language;
+- Team leading/ project management skills is a plus.","All interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

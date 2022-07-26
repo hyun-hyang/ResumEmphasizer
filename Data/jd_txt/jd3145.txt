@@ -1,0 +1,27 @@
+Web Developer,"VOLO is looking for experienced, result-oriented
+professionals to fill the position of Web Developer to work for
+international clients in an enterprise-focused team.","- Work on new and existing international projects, develop and support
+new and existing business solutions;
+- Build pages to be compliant with web standards and web accessibility;
+- Develop and test across multiple browsers, platforms and devices;
+- Work closely with other developers and customers to define
+requirements.","- At least 2 years of experience in technologies (such as ASP.NET,
+ASP.NET MVC);
+- At least 2 years of experience in using web service technologies (WCF,
+REST, JSON);
+- Experience with HTML5, CSS3, jQuery, AngularJS, Knockout;
+- Experience with data access technologies (ADO.NET, LINQ to Entities) is
+a big plus; 
+- Strong knowledge of C# and principles of .NET platform;
+- Experience in Sitefinity and Sitecore is a plus;
+- Experience of working in database and backend developer roles;
+- Writing and speaking skills in the English language.","To apply for this position, please submit your
+CV to: hr@... , mentioning the position you are applying for in the
+subject line of the email. No personal visits, deliveries or phone calls,
+please. Only short-listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VOLO is an IT Solutions provider with its main office in
+Yerevan, Armenia. The Company implements projects for international
+clients including several long-term clients. For more information, please
+visit: http://volo.global/."

@@ -1,0 +1,29 @@
+Java Engineer,"AtTask, Inc. is looking for J2EE programmers to assist
+in the development of its award-winning project management application at
+Yerevan office.","- Create the best project management software on the market;
+- Perform software development, test case development, and usability of
+products;
+- Assist with integration services related to the AtTask product;
+- Work in a scrum project framework.","- Undergraduate degree in computer science or related field;
+- Minimum 5+ years of relevant experience;
+- 3+ years of J2EE specific experience;
+- Professional work experience in projects as a Java developer in J2EE
+for more than 3 years;
+- Knowledge of agile and scrum environments;
+- Advanced knowledge of OOP and OOD;
+- Web Frameworks: Struts, JSP/Servlets;
+- Knowledge in HTML, CSS, JavaScript, XML;
+- Oracle/MySQL/MSSQL knowledge;
+- Other valued skills: SOAP, JBoss, Oracle Toplink, Seleniun;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to communicate well with operations and technology;
+- Ability to work on multiple tasks and to prioritize personal
+workload;
+- Detail oriented and self starter.","Please, email your CVs to:jobs.armenia@.... In the subject line of your e-mail message
+please mention the title of the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask Inc. is a project management software company
+based in Utah. Please read more about the company visiting
+www.attask.com."

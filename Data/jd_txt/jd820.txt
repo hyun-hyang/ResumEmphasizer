@@ -1,0 +1,23 @@
+PHP Software Developer,"We are looking for a PHP/ MySQL Software Developer to
+join our team. Under the direct supervision of the company president the
+candidate must work on development of web software related to employment,
+education and career.","- Write and test the written PHP and MySQL code using internationally
+accepted design patters;
+- Work both independently and as part of a software development team
+when necessary;
+- Provide technical support and assistance, if requested;
+- Work every Monday - Saturday, 15:00 - 18:00.","- At least 2 years of work experience with PHP/ MySQL;
+- Knowledge of OOP techniques;
+- Good knowledge of Armenian language and basic knowledge of English;
+- Good knowledge of Java is highly desired.","Please send us your CV including your salary
+expectations to mailbox@... mentioning the Job Title in the
+subject line of your message.
+Also attach a sample code written by you on the following: 
+""Create a dynamic form processing script containing Name, Email, URL and
+a text area. Verify a correct format of all these fields and display
+either a competent error or a success message. You must use OOP and
+design patterns according tohttp://www.php.net/manual/en/language.oop5.patterns.php
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","A successful candidate may be offered a full time
+permanent job after 3 months.",NA

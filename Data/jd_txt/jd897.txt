@@ -1,0 +1,27 @@
+Software Support Engineer,Inecobank CJSC is seeking a Software Support Engineer.,"-	Provide support for in-house banking software;
+-	Provide training on custom developed desktop applications to internal
+users;
+-	Provide documentation of problems, works, reports and defects;
+-	Repair and recover from hardware or software failures. Communicate
+with impacted constituencies;
+-	Develop and maintain installation and configuration procedures.","-	Higher education;
+-	Analytical thinking;
+-	Good logical and mathematical skills;
+-	Ability to work in a team and under pressure;
+-	Ability and willingness to work extra hours if necessary;
+-	Knowledge of network technologies;
+-	Highly motivated results-driven contributor with excellent
+troubleshooting skills;
+-	Knowledge of RDMBS systems and SQL scripting;
+-	Previous work experience with programming languages and environments;
+-	Experience with testing and QA is highly preferred;
+-	Experience in financial institutions is preferred;
+-	Advanced working knowledge in AJAX, HTML/DHTML, XML, CSS and
+JavaScript is highly preferred;
+-	Knowledge of English and Russian languages.","Interested applicants should submit their CVs
+to: resume@....
+Only short-listed candidates will be invited for interviews. Please put
+on subject line of your e-mail Software Support Engineer.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

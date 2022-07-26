@@ -1,0 +1,19 @@
+Software Developer,"Smart-Tech is seeking experienced software developers
+to join the team of programmers, designing and implementing front-end
+software solutions for financial industry.","- Work as a part of team, developing Unix based multithread
+applications;
+- Provide necessary documentation and reports;
+- Communicate with customers, providing necessary technical support for
+installed products.","- BS or MS in Computer Science or related field;
+- At least 2 years of experience in software engineering;
+- Familiarity with multithread programming and interprocess
+communication;
+- Familiarity with network protocols and security (SSL);
+- Some knowledge of functional programming is a plus;
+- Some knowledge of java script programming (AJAX) is a plus;
+- Any experience in Erlang is a plus.","If interested, please email your detailed CV in
+English, Russian or Armenian to: smart@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, visit its website:
+www.smart.am."

@@ -1,0 +1,76 @@
+Senior .NET Developer,"The ideal candidate for this position must be
+experienced in designing and developing highly performing and scalable
+applications that meet the business requirements. The incumbent will be
+involved in small to large scale projects through all stages of the
+software development life cycle, from requirements gathering to
+implementation. The Senior .NET developer will also collaborate with user
+interface team, .NET developers and database architects to design and
+develop functionally rich, robust and user-friendly web applications as
+defined by business requirements.","- Design, develop and implement client-facing and internal web
+applications using .NET specifications and proven design patterns; 
+- Responsible for architecture analysis and documentation of the software
+specifications both for client-facing and internal web applications;
+- Be actively involved in designing new application features and
+functionality, writing APIs, scalability and maintainability
+improvements;
+- Responsible for the support and expertise for a multi-tier environment
+and  evaluation (with recommendations) for any additional infrastructure
+or software required to support the web application;
+- Meet and interact with user interface team, database architects and
+.NET developers as needed to elicit, define, analyze and document
+requirements for new applications;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support; 
+- Assist and support other team members on multiple projects;
+- Provide support and enhancements to existing production applications in
+a timely and accurate manner;
+- Play active role in defining and implementing best practices, standards
+and procedures, including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Support the Team Lead in technical decisions and development
+estimates;
+- Ensure quality & reliability of code from the intermediate developers
+by conducting a smoke testing and code reviews;
+- Participate in the project architecture exercise and assume
+responsibility for ongoing data architecture for the project;
+- Propose and sometimes decide on technologies used;
+- Propose and finalize the database design in collaboration with the
+DBA;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Conduct researches and proof of concepts;
+- Produce rapid prototypes for the project if needed;
+- Share knowledge and lessons learned with team members.","- Degree, diploma or equivalent directly related to work experience;
+- At least 6 years of work experience in web-based technologies; 
+- .NET Microsoft Certified Professional is an asset; 
+- Strong understanding of object-oriented (OOP) development;
+- Hands-on experience in and proficient knowledge of the following:
+a)Web technologies: HTML, DHTML, JavaScript, .NET, ASP.NET, ADO.NET, C#/
+VB.NET, Web Services, WCF, SOAP and XML; 
+b)Database server: Sybase, MS SQL Server 2005/ 2008, SSIS, SSRS,
+performance tuning, stored procedures, functions (PL/T-SQL) and data
+warehouse; 
+c)System environment: Microsoft ASP.NET/ .NET framework on Windows 2008
+server;
+d)Tools: MS Visual Studio 2005/ 2008, Subversion and MS Team Foundation;
+- Experience with unit testing frameworks; 
+- Strong skills in performance application tuning;
+- Excellent written and oral communication skills; 
+- Strong problem-solving and decision-making skills; 
+- Excellent time-management and organizational skills that facilitate
+structured teamwork; 
+- Ability to work with a minimal supervision;
+- Highly developed communication, presentation, facilitation and
+negotiation skills 
+- Experience and/ or personal interest in the financial industry an
+asset; 
+- Understanding of trading life cycle, risk management, financial,
+operational and regulatory considerations;
+- Ability to analyze information and make appropriate recommendations;
+- Ability to adapt and change according to new business requirements and
+environment.","Please submit resume to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=239
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit www.questrade.com."

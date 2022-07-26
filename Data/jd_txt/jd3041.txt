@@ -1,0 +1,23 @@
+Mid-level PHP Developer,"ST-Dev is in search of experienced and willing to learn
+further Mid-level PHP Developer with passion for technologies.","- Write, review, debug, edit PHP based web interfaces;
+- Create Web software based on business requirements;
+- Collaborate with local and foreign team and work on projects together;
+- Work with not very technical people;
+- Love, learn and apply fast new technologies;
+- Other activities that position requires.","- At least 1 year of professional experience with PHP;
+- Expertise in PHP;
+- Experience of PHP frameworks: CakePHP; experience with Laravel, Yii
+will be a plus;
+- Experience in LAMP enviroment;
+- Ability to build good relationships with XHTML/ HTML5, CSS, AJAX and
+JavaScript frameworks;
+- Version control system deep understanding (GIT, SVN);
+- Knowledge of OOP and OOD;
+- Profound experience with MySQL;
+- Ability and willingness for further development, responsibility;
+- BA in IT is a plus;
+- Knowledge of Ruby or Python or ASP.NET languages will be a plus.","If interested, please, write to: int@...
+attaching all the files you find appropriate.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

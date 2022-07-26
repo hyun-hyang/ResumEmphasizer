@@ -1,0 +1,41 @@
+Senior Computer Network Administrator,"The incumbent will be responsible for management and
+service of the CBA Internet active directory, clusters, servers
+(security, active directory controller, mail, web, domain controller,
+anti-virus, etc.) and service of workstations connected to Internet.","- Be responsible for development and drafting of the CBA Internet
+network logical structure design and maintenance of network due to
+network design;
+- Be responsible for maintenance of the servers and management of
+configuration parameters;
+- Be responsible for management of the servers (security, mail, web,
+DNS, etc.);
+- Be responsible for service of the CBA workstations connected to the
+Internet, management of their configuration parameters and malfunction
+repair.","- In case of higher technical education  2 years of professional
+experience;
+- In case of higher non-technical education  3 years of professional
+experience;
+- Knowledge of basics of Networking, Network Operating System, Security
+Servers, Mail Servers, Web Servers and basics of anti-virus and
+anti-spam protection;
+- Knowledge of English and Russian languages (technical vocabulary to
+communicate and provide programming, as well as to read professional
+literature). Good knowledge of Armenian language;
+- Ability to work with computers (MS Office), to provide management of
+Microsoft Windows 2003 (and further versions) operating systems, to
+create and control active directory, cluster, DNSs and network, Internet
+Security  and Acceleration (ISA) Security server, Microsoft Exchange Mail
+Server and Microsoft Internet Information Web Server.","Following documents must be presented to the
+HR
+Management Department of the Central Bank of Armenia:
+- Application form;
+- The passport or copy of the passport;
+- Social security card or copy of social security card;
+- Diploma, diploma loose leaf or copies of diploma and loose leaf;
+- Military card or copy of military card (for males);
+- Work-book or copy of work-book;
+- 2 color photography of 3x4 size.
+The application form is available at the following link:http://www.cba.am/mer/dimum.pdf.
+The questionnaire and relevant information is available at:http://www.cba.am/armannoun/mrcuit2011.doc.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

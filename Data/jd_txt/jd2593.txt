@@ -1,0 +1,35 @@
+Analist/ Programmer,"The incumbent will be in charge of analysing and/ or
+developing information systems. He/ she will develop interfaces which
+will let the entry of information in a semi-automatic way (fast) by
+production operators; elaborate control facilities/ tools and participate
+in the improvement of the production chain of the organisation.","- Analyse and develop facilities/ tools for internal and external clients
+of the organisation;
+- Give feedback of eventual anomalies/ gaps in the information system;
+- Supervise and control tasks and automated operations during the process
+of final production.","- Compliance of deliverables to demands;
+- Strictness; interpersonal skills;
+- Good communication skills and ability to provide information feedback;
+- Autonomy, versality and strictness;
+- From a Bachelor's degree to Master's degree;
+- Professional experience in commercial prospecting is desirable;
+- Fluency in written and spoken English language;
+- Proficiency in the following computer langauges and tools: PHP, MySQL,
+Linux, HTML, CSS, XML;
+- Sound understanding of issues related to production demands;
+- Ability to listen, adapt, be autonomous and organised;
+- Strong interpersonal skills and ability to work with multiple
+interlocutors;
+- Availability.
+Desirable knowledge:
+- Fluency in written and spoken French language;
+- Proficiency in the following computer langauges and tools: WebServices
+SOAP, Apache, Mantis, Eclipse, Subversion, Zend Framework, Jquery;
+- Knowledge of French institutions and administrations;
+- Interest in economic news both international and French;
+- Knowledge of processing chain of OCR (Optical Character Recognition)
+with Abbyy FineReader, Tesseract or OmnipagePro.","Interested candidates are asked to send their
+CVs in French and Armenian languages to: abalayan@... andabadalyan@... not later than the deadline. Please in the title
+mention the posiotion you are applying.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

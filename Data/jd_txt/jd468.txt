@@ -1,0 +1,24 @@
+MS SQL Database Developer,"The primary objective of the Software Developer
+position is to produce required product following processes in
+conjunction with team members that is of high quality and is timely.","- Create innovative and elegant software designs to meet current
+business needs; 
+- Ensure the integrity of component designs as those pass through all
+phases of the software development lifecycle;
+- Play a handson role in driving the successful implementation and
+enhancements of high-quality system components;
+- Work productively as part of a software development team;
+- Have a command of current technology.","- Bachelors degree in Computer Sciences or a related discipline; 
+- Over 2 years of database experience in MS SQL Server environment;
+- Knowledge of Windows platform technologies including Win32 API, COM,
+OLEDB,  ADO, ADO.Net, threading and sockets; 
+- Strong knowledge of DataBase Theory;
+- Strong knowledge of object-oriented analysis and design methodologies,
+SQL Server, MSDE, TSQL, stored procedures, extended stored procedures and
+indexing & replication;
+- Basic English language skills and ability to improve those skills.","Interested candidates should email resumes to:yer_job@.... Should you have any questions, please call: (+374 10)
+265-604.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US software development company.
+For additional information about our company, please visit our website
+at: www.cqg.com."

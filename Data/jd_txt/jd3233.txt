@@ -1,0 +1,42 @@
+IT Administrator for Linux,"BetArchitect is looking for an experienced IT
+Administrator for Linux.","- Provide and maintain Unix and Linux servers in production and
+development environments;
+- Troubleshoot complex technical problems related to the infrastructure
+and applications;
+- Perform architectural design and capacity planning;
+- Develop tools for automation, monitoring, and system reporting;
+- Work on daily operational tasks and long-term projects with minimum
+supervision;
+- Participate in an on-call rotation;
+- Build and maintain technical relationships across teams;
+- Effectively communicate technical proposals to team members and the
+management;
+- Develop and maintain documentation for standards, processes, policies
+and procedures;
+- Work within the established configuration and change management
+policies to ensure awareness, approval, and the success of changes made
+to the infrastructure.","- At least 5 years of experience with Unix/ Linux administration in a
+24x7 business critical environment;
+- Strong understanding of Unix/ Linux performance tuning and kernel
+parameters;
+- Detailed knowledge of standard Unix/ Linux services (DNS/ BIND, NTP,
+SMTP, POP3(s)/ IMAP(s), LDAP, Postfix, Apache, Jabber/ OpenFire);
+- Certifications in RHEL (or other Unix/ Linux mainstream) are a plus;
+- Understanding of network and storage principles;
+- Experience with configuration management;
+- Experience with HP, CISCO, EMC and IBM hardware;
+- Experience with virtualization is a plus;
+- Working knowledge of the MySQL, PostgreSQL database product;
+- Experience with vendor management;
+- Demonstrated scripting ability (such as bash, TCL, awk, Perl);
+- Strong communication skills and the ability to collaborate closely with
+remote team members.","Interested candidates are asked to send a resume
+(CV) in the English or Armenian language to: hr@... . Please
+indicate ""IT Administrator for Linux"" in the subject line of email. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

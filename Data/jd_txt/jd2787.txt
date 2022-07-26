@@ -1,0 +1,32 @@
+Frontend Developer,"Joomag AM LLC is seeking for a motivated and
+highly-skilled Frontend Developer. The candidate should be an expert in
+Javascript, CSS and PHP, should thrive on quality and be passionate about
+what he/ she is doing.","- Lead development efforts on large-scale web-based projects, ensuring
+robust and lasting solutions are implemented;
+- Work closely with web and mobile designers and translate their designs
+into websites, apps, HTML e-mails and interactive experiences;
+- Test, debug and build code that works across multiple browsers and
+digital platforms;
+- Maintain existing JavaScript libraries making sure they support the
+engineering and creative needs of the company's website;
+- Make innovations and build things that people will blog about.","- Strong knowledge of modern Web Standards: HTML5, CSS3;
+- JavaScript/ jQuery experience; ability to write plugins;
+- Experience in PHP object-oriented design, MVC architecture, frameworks
+and development;
+- Experience in MySQL;
+- Experience in responsive design, jQuery mobile or other approaches used
+designed for mobile users;
+- Experience with subversion, git or other source control tools;
+- Knowledge in typography, whitespace, and other details that occur at
+the intersection of design and code;
+- Ability to work independently and as part of a team;
+- Basic knowledge of Adobe Photoshop;
+- Knowledge of design patterns;
+- Good knowledge of English language.","All interested and qualified candidates are
+invited to send their CVs/ resumes to: hr.armenia@... . Please
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag is a digital publishing service, providing
+integrated solution for publishing, distributing, tracking and monetizing
+publications online. More information can be found at: www.joomag.com."

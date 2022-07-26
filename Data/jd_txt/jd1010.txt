@@ -1,0 +1,17 @@
+Software Developer,"LinkGard Systems LLC is seeking Software Engineers
+that will participate in the design and development of several Linkgard
+products. The company needs ethical, energetic, and highly motivated
+individuals with full software development life-cycle experience.","- Participate in Object Oriented Analysis/ Design;
+- Write software based on specifications/ design;
+- Write unit tests.","- Over 3 years of work experience in software development;
+- Excellent OOP skills;
+- Excellent skills in C++ (Visual C++ is preferred);
+- Excellent skills in C#/.NET;
+- Knowledge of COM/DCOM a plus;
+- Excellent knowledge of Microsoft SQL Server is a plus;
+- Knowledge of MAPI/Extended MAPI is a plus.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (LG044)
+in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

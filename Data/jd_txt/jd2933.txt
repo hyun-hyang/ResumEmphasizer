@@ -1,0 +1,32 @@
+Junior Database Specialist,"SFL LLC is looking for candidates who can use SQL,
+design, program, and maintain various RDBMS that they use at the company.
+This is a junior level position with opportunity for growth. In the
+future the candidate will work with data technologies such as Hadoop,
+Apache Spark and etc.","- Design and build database systems and document them in an accessable to
+the team knowledge space;
+- Write code for database access, modification, and construction
+including stored procedures, functions, maintenance scripts;
+- Develop and maintain database systems on Oracle RDBMS, Oracle BI cubes,
+MySQL/ MSSQL, PostgreSQL;
+- Improve performance and availability of RDBMS;
+- Provide realistic time estimations on the given projects/ assignments;
+- Perform self-improvement and learning of new technologies and solutions
+in data management, analysis and reporting field.","- No prior working experience is required;
+- Understanding of relational database systems and relational algebra;
+- Expertise in SQL language;
+- Familiarity with writing complex database queries, and doing basic
+performance optimisations (Indexes, PKs, joins etc.);
+- Familiarity with high level programming languages such as Java is a
+plus;
+- Slight familiarity with Big Data/ Hadoop or Apache Spark is a plus;
+- Slight familiarity with replication/ synchronization technologies used
+in database management systems is a plus;
+- Familiarity with UNIX/ LINUX and scripting in bash will be a plus;
+- Responsibility and dedication to their work;
+- Eagerness to achieve the best possible solution to a given problem.","If this sounds like your next challenge send
+your CV to: jobs@... and you will be contacted to discuss it in
+more details. Please mention ""JobID 11960"" in the subject line of the
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

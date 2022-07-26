@@ -1,0 +1,21 @@
+Sr. .NET  Developer,"We are looking for a person to join our team and work
+on .NET application development and play a key role in the growing
+organization.",NA,"- Minimum Bachelors degree in Computer Sciences or a related field;
+- Knowledge of English language;
+- 3-7 years of work experience in programming;
+- Extensive knowledge of object oriented programming concepts;
+- Extensive knowledge of web development and database technologies;
+- Knowledge of ASP.NET; C#; XML; MS SQL or ORACLE;
+- Good organizational and time management skills;
+- Ability to meet deadlines;
+- Good communications skills;
+- Knowledge of HTML and JavaScript is preferred;
+- Understanding of SDLC and Project Management skills is preferred;
+- Experience in lead role is desired;
+- Knowledge of C++, Java, AJAX and Lucene is desired;
+- Knowledge of management configuration and process release.","To apply, please email cover letters and
+resumes to: jobs@.... Clearly mention the announcement code
+in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Metacortex is a software development company.

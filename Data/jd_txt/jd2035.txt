@@ -1,0 +1,45 @@
+iOS Software Engineer,"As a Software Developer, you will be part of a team
+working for a company where software development is the business, rather
+than a company where it's merely considered a necessary expense that
+supports the business (such as IT for a bank). At Netsoft USA, your
+skills and creative processes are the profit generator, rather than an
+expense against the profit.","- Work in a technical team to craft and develop technical solutions that
+meet company's customers requirements;
+- Develop state-of-the-art applications for a diverse client base;
+- Participate in all phases of SDLC;
+- Develop mobile iOS based apps;
+- Understand business and functional requirements, and translate them
+into amazing technical solutions;
+- Identify company paid training opportunities to expand your technical
+horizon;
+- Truly enjoy what you do for a living.","- Insane coding skills;
+- Excellent knowledge of English language, both written and spoken;
+- At least Bachelors degree in Computer Sciences or a related field;
+- 1 to 2 years of professional experience in developing applications in
+iOS;
+- Strong understanding of Cocoa/ UIKit frameworks and iOS SDK;
+- Experience with user interface design and development in a project
+setting;
+- Strong C++/ Objective C experience;
+- Experience with XCode;
+- Knowledge of HTML5 and jQuery Mobile;
+- Strong portfolio of mobile application designs demonstrating relevant
+user interface work;
+- Experience in data model and object design.
+Desired Qualifications:
+- Experience in leveraging Core Animation;
+- Application on the iTunes App Store;
+- Experience in web services and social platforms integration;
+- Experience with multiple mobile platforms (Windows Mobile 7+, Google
+Android, WebOS, Bada, WinCE and Symbian);
+- Experience with relational database (MS SQL Server, Oracle, etc.);
+- 1 to 2 years of professional experience in developing Java web based
+applications.","Please email your professional CV to:narine.voskanyan@... , specifying the job position name in
+the subject line. Please note that only shortlisted candidates will be
+contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Company offers fully paid Health Benefits and company
+paid training.","Netsoft USA is specialized in creating custom business
+solutions for a diverse client base. For more information, please visit
+company's web site at: www.netsoft-usa.com."

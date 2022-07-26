@@ -1,0 +1,44 @@
+Embedded Linux BSP Engineer,"We are seeking several candidates for the Embedded
+Linux BSP Engineer position to join our partner company's Board Support
+Package (BSP) development / board bring-up team. This team is responsible
+for performing initial board bring-up on new hardware, porting board
+support packages from reference designs, and developing custom device
+drivers.","- Cooperate with design and test engineers throughout the product
+development cycle;
+- Work with embedded hardware and system engineers to define and design
+system solutions;
+- Customize boot-loader and Linux operating system for embedded
+platforms;
+- Review hardware schematics and establish methods to support the
+hardware design with low-level software components;
+- Work with senior staff to resolve design problems;
+- Contribute to technical documentation;
+- Integrate software and hardware components to meet requirements and
+design specifications.","- Bachelors degree in Computer Sciences or Electrical Engineering
+(Masters degree a plus);
+- At least 5 years of experience in embedded software development;
+- Hands-on software development with the C programming language;
+- Energetic and comfortable personality;
+- Ability to work in a fast-paced environment;
+- Strong written and verbal communication skills;
+- Knowledge of using multi-core processors is a plus;
+- Experience with PowerPC, ARM and MIPS 32-bit;
+- Working knowledge of Linux driver development;
+- Working knowledge of the Linux File System, how to build a root file
+system and building Linux distributions;
+- Working knowledge of u-boot;
+- Some experience in hardware engineering a plus.","To apply for this position, please register in
+www.careerhouse.com website as a regular user (unless you have previously
+registered), fill out your Resume (including your recent Photo), then
+open this announcement, click on the ""Apply"" button in the upper right
+corner of the announcement and proceed to receive the confirmation
+message.
+Only short listed applicants will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Our Partner Company is a board level design and
+manufacturing company focused on quick-turn designs for the embedded
+market. The company dedicates itself to introducing leading edge
+technology for the most demanding applications, and it differentiates
+itself with its extraordinary capability to rapidly create new designs in
+response to complex customer requirements."

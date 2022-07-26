@@ -1,0 +1,32 @@
+Quality Assurance Engineer,"The individual will be responsible for design,
+implementation, and execution of application specific functional tests
+and will work closely with software developers.","Responsible for design, development, application
+and maintainance of test systems.","Must have BS/MS in CS/EE.
+SKILLS/KNOWLEDGE:
+- Scripting: TCL, Perl.
+- Unix shell scripting (C-Shell, Bash, T-Shell, etc.), Python, HTML,
+etc. is plus.
+- Test Automation.
+- Tools: Purify, Valgrind, Quantify, Kachgrind, PureCoverage, etc. is a
+plus.
+- User knowledge of Linux, MS Windows .
+- Knowledge of English for free use of technical literature and written
+and oral communication.
+- Candidate must have good communication skills, be self-motivated.
+- General programming, C++
+DOMAIN KNOWLEDGE: 
+- Preferred knowledge and experience in Electronic Design Automation
+(EDA), - Physical Design Analysis (PDA), IC Design, and Design for Yield
+(DFY) or related domains. 
+- Preferred knowledge of design data including LEF, DEF, and GDSII.
+WORK EXPERIENCE:
+- Must have 1-2 years work experience in testing roles with increasing
+responsibilities.
+- Preferred offshore candidates have fulfilled military obligation or
+educational waivers of military obligation.","Send a cover letter and CV in Plain text, MS
+Word document or PDF format (no hand delivery please) to job@....
+Provide contact phone number.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"UNICAD CJSC is an Armenia based subsidiary of E-Z-CAD
+(USA)."

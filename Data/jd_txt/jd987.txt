@@ -1,0 +1,38 @@
+Senior Software Engineers,"Game Theorem is looking for Senior Software Engineers.
+Suitable candidates will have experience in software architecture,
+designing and developing commercial, client/server web applications. The
+incumbents' skills and experience will be applied to developing games,
+banking applications, e-commerce applications, payment systems and
+enterprise systems. Ideal candidates must be eager to learn new
+technologies and apply their existing skills to the e-Gaming domain.",NA,"Qualification and Certifications:
+- University degree or equivalent in Software Engineering, Computer
+Science, Engineering, Mathematics or related field.
+Relevant Experience:
+- 4+ years of work experience as a Senior Software Engineer with:
+- Client/Server Web development;
+- Database development;
+- OOP (Object Oriented Programming), OOD (Object Orientated Designer);
+- Network programming;
+- Systems programming.
+Required Technical Expertise: 
+- Programming languages: C/C++, Java;
+- Web development: PHP, CSS, XHTML, HTML, JavaScript, AJAX, Flash;
+- Database: MySQL;
+- Technologies: Design Patterns, WinAPI, DLL, ODBC, STL;
+- Environments: NetBeans, Eclipse;
+- Operating Systems: Linux, UNIX, Solaris, Windows.","Applicants can send their updated resumes to:sanjeev.sharma@... or recruitment@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Game Theorem is looking for the brightest and most
+talented employees. We demand integrity, intelligence, innovation,
+creativity, commitment and plain hard work to ensure commercial success.
+In return, we ensure the employees contributing to that success are
+recognized and handsomely rewarded. Importantly, we are looking for
+those who enjoy the intellectual purity of a good challenge and will
+dedicate themselves to understanding and delivering a long term vision.
+Engaging in one of the fastest growing industries today, your measurable
+contribution to the organization's success will be met with immense
+opportunities to grow intellectually and professionally and will quite
+likely make your time with us a defining period in your life and career.","Game Theorem is a pioneering developer of e-Gaming
+technology. The company has established operations on the island of
+Mauritius."

@@ -1,0 +1,33 @@
+Senior Ruby on Rails Developer,"GreaterGood Europe LLC is seeking a highly capable
+Senior Ruby on Rails Developer who has an elegant user experience and is
+passionate about web technologies. The incumbent will be joining the
+company's web team in building next generation features of various
+eCommerce web properties. The candidate, who is an experienced web
+developer (PHP, Java, .NET etc.) and want to get into Ruby/ Rails
+development can apply.","- Develop enterprise-level software solutions according to technical
+specifications;
+- Participate in all cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of source
+codes;
+- Provide necessary technical and design documentation;
+- Analyze requirements and work with team members to create quality
+results;
+- Communicate effectively with local management and external team
+members;
+- Participate in internal and external meetings.","- Good English language proficiency in both written and verbal
+communications;
+- Knowledge of HTML, CSS, Javascript;
+- Strong understanding in Ruby and Rails are highly preferred but
+optional;
+- PHP, JAVA, .NET or similar web programming background is a strong
+plus;
+- Sound design skills (send some UI/ UX design work);
+- Strong understanding of server-side programming and database related
+work;
+- Strong understanding of AJAX and client/ server interaction;
+- Ability to work independently with limited supervision;
+- Sound judgement in designing simple, intuitive and elegant products;
+- Strong attention to detail.","Applicants are requested to send their CVs to:yervand@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

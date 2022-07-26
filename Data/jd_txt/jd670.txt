@@ -1,0 +1,28 @@
+Junior Automated Test Engineer,"The primary objective of this position is automation
+of testing process to ensure the quality of CQG products. Automated Test
+Engineer will perform wide range of automated testing and work with test
+documentation.","- Design and code automated testing scripts;
+- Create test plans from requirements and design documents;
+- Record test results;
+- Identify, reproduce and report defects;
+- Execute manual test scripts according to process;
+- Maintain test plans;
+- Test defect fixes.","- Bachelor's degree in Computer Sciences or a relevant discipline;
+- 1-2 years of work experience in Software testing and quality assurance
+to include;
+- Ability to write Tes Cases;
+- Ability to develop and implement test plans and test cases;
+- A strong working knowledge of testing client/server applications;
+- Excellent understanding of QA theory;
+- Experience with bug tracking to resolution and software development
+support;
+- Expert knowledge of PCs and Operating Systems across multiple Windows
+environments including Windows 2000/2003 Server;
+- 1+ years of hands-on Automated Test experience and Scripting
+experience.","To apply, email your applications to:yer_job@.... Please mention the position you are applying for in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US software development company.
+For additional information about the company, please visit its website:
+www.cqg.com."

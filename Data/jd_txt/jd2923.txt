@@ -1,0 +1,25 @@
+Software Test Engineer,Aarki is seeking a Software Test Engineer.,"- Perform functional, regression, usability testing on web-based
+applications;
+- Responsible for test case creation/execution and maintenance;
+- Responsible for issue identification and reporting;
+- Ensure the quality of software releases and patch builds through manual
+and automated testing;
+- Ensure the full coverage of requirements with test cases;
+- Prepare test status report on weekly and daily milestone basis;
+- Research and track open issues related to projects;
+- Handle other tasks as assigned.","- At least 2 years of experience in a Software Quality Assurance;
+- Experience writing SQL queries;
+- Experience with testing web applications;
+- Experience of working in a fast-paced environment;
+- Experience with test automation tools such as Selenium;
+- Good problem solving skills;
+- Strong analytic skills;
+- Excellent verbal and written communication skills;
+- Good writing and reading skills of English language.","All interested and qualified candidates are
+welcome to send their CV to: hr-armenia@... . Please indicate the
+position title in the subject field of your message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Aarki is transforming mobile monetization with joyful
+creative. For more information about the company please visit:
+www.aarki.com."

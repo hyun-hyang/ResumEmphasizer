@@ -1,0 +1,18 @@
+Senior Software Developer,"Synopsys Armenia CJSC is seeking for a Senior Software
+Developer to be engaged in software design and development using C/C++.",NA,"- BS in CS/EE with at least 4 years of work experience in software
+development;
+- Familiarity with programming and software development cycle;
+- Ability to design algorithms and data structures;
+- Excellent knowledge of C/C++ together with STL library;
+- Good knowledge of Qt;
+- Tcl knowledge is a plus;
+- Excellent knowledge of Linux;
+- Good English language skills;
+- Ability to work in a team.","Please e-mail your detailed CV to:dianan@... with CC to: ghevond@...,hhovik@..., vbel@..., garegin@... indicating
+the position title in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

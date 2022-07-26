@@ -1,0 +1,30 @@
+Software Developer,"Software Developers should demonstrate creativity and
+analytical thinking skills, learn quickly and deliver in an evolving and
+challenging work environment, conceptualize and propose innovative ideas
+and solutions, perform creative and out-of-box researches and
+problem-solvings.",NA,"- Professional knowledge and ability to code in Java with previous
+experience in developing algorithms and writing technical documentation
+to solve complex problems; 
+- Familiarity with J2EE application servers (WebSphere, WebLogic,
+JBoss), Java Servlet Containers (mainly Jakarta Tomcat), web services
+and related technologies;
+- Work experience with the Jakarta Struts framework and surrounding JSP
+Servlet technologies such as JSP tag libraries;
+- Knowledge and experience in XML Public Specifications such as XML DOM
+Level2 and Level3 or Web Services Specifications such as WSDL, SOAP,
+etc. will be a big advantage; 
+- Knowledge and experience in quality assurance for stability, security,
+scalability and optimization of software products;
+- Knowledge and experience of structural design of rich, intuitive, 
+modular and interactive graphical user interfaces; 
+- 5+ years of experience in software industry;
+- Ability to communicate in English sufficient for developing technical
+documentation;
+- Ability to work in an English-speaking environment;
+- Willingness to work in a team and deliver in synchronized development
+cycles in close cooperation with other members of the companys team
+worldwide.","Please submit your applications to:cv@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Integrien International is a software development
+company."

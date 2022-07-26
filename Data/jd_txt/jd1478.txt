@@ -1,0 +1,21 @@
+Senior Developer (.NET/ C#/ ASP.NET/ MS SQL Server),"Firmplace Corporation is looking for a Senior Developer
+(.NET/ C#/ ASP.NET/ MS SQL Server).","- Take part in gathering requirements and work with international teams;
+- Drive technical design and implementation with a hands-on approach;
+- Participate in technical design reviews, functional specification
+reviews, contribute to the development of project estimates, scheduling,
+test plans and code reviews;
+- Examine software issues and recommend solutions.","- Minimum 2 years of experience in C#, .NET Framework, including 4.0;
+- Experience with ASP.NET, HTML JavaScript, Ajax;
+- Knowledge of jQuery and ASP.NET MVC is a plus;
+- Skills in MS SQL Server Reporting Services is desired;
+- Knowledge of design patters, multi-tier projects; 
+- Expertise in Visual Studio 2010, Team Foundation Server 2010 and Agile
+software development; 
+- Very good communication skills;
+- Very good knowledge of English language writing and speaking;
+- Ability to express thoughts clearly;
+- Ability to adapt to changing business requirements.","All interested candidates should send their CVs
+to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

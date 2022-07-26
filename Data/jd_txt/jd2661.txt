@@ -1,0 +1,20 @@
+Senior PHP Developer,"Smart-Tech LLC is looking for a Senior PHP Developer to
+work on new and existing projects.","- Design and develop enterprise web applications;
+- Develop features according to technical specifications;
+- Design and build reusable modules to be used throughout company
+products;
+- Maintain and enhance companys existing products.","- B.S. in Computing Science;
+- At least 3 years of work experience in PHP5, MySQL, JavaScript;
+- Strong understanding of OOP and Design Patterns;
+- Experience with HTML(5) and CSS;
+- Good communication skills;
+- Good team player.","To apply for this position, candidates are asked
+to send a CV addressing relevant qualifications and experience to:info@... . In the subject line of the e-mail message, please write
+""Application for Senior PHP Developer"". No information inquiries will be
+handled over the phone. Only short listed candidates will be notified for
+the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Smart-Tech"" LLC was founded in 2003 with the aim of
+designing, implementing and developing technologies in the banking
+industry of the Republic of Armenia."

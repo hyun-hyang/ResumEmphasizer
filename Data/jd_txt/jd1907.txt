@@ -1,0 +1,54 @@
+MS SQL Database Developer,"Altacode LLC is looking for a MS SQL Database Developer
+for complex and long-term projects. The position entails working with
+Microsoft products.","- Design and develop databases tables, triggers, stored procedures,
+backup, restore and disaster recovery plans to meet new user needs and
+new technological innovations;
+- Manage development, test and production environments; 
+- Monitor/ troubleshoot, fix data issues, track bugs, support
+applications, analyze data and provide daily operational metrics without
+any technical assistance;
+- Design and create new databases (capacity planning, including analysis
+of database partitions, available memory, database size, database and
+database manager configuration options);  
+- Responsible for all database production support tasks (including
+reorgs, backups and upgrades);  
+- Tune database and query performance;
+- Configure and manage SQL Server Clusters in Windows 2008R2;
+- Deploy and support database components in all DB environments which
+include Development, Staging, Quality Assurance and Production;
+- Develop scripts to automate routine and repetitive database
+administration tasks;
+- Create/ tune/ optimize indexes, stored procedures, DTS/ SSIS packages
+and SQL jobs;
+- Participate in the formulation of policies, procedures and standards
+relating to database management. Work with the teams in the design and
+implementation of database security policies and integrity controls;
+- Provide technical guidance to system architects and application
+programmers;          
+- Develop monitoring tools for current set of applications in production
+and applications ready to enter production life cycle.","- At least 3 years of support experience with SQL server; 
+- Web development skills (HTML, JS and AJAX);
+- Solid skills in Microsoft.NET Framework; 
+- Bachelor of Science degree preferred from accredited college/
+university or equivalent;
+- Ability to work in a remote team environment;
+- Strong interpersonal skills are needed to work well with a talented
+team of software developers;
+- Effective time management skills;
+- Experienced in best practices for design, development, modeling and
+implementation of data warehouses and relational databases;
+- In depth understanding of the SQL, RDMS and reviewing query execution
+plans;
+- Software development experience with Visual C# is a plus;
+- Experience with IIS and Apache is a plus;
+- In depth understanding of data replication, mirroring and log
+shipping;
+- Excellent analytical skills along with excellent oral and written
+communications skills are essential;
+- Detail-oriented, self-motivated and quick learner;
+- Understanding of SQL 2008 R2 features, such as StreamInsight, Parallel
+Data Warehouse, Master Data Services, Data collectors, Utility points,
+Clustering and Memory management is a big plus.","Please send you CVs/ Resumes to:resume@... , mentioning ""MS SQL Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

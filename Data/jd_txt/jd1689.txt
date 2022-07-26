@@ -1,0 +1,19 @@
+Software Developer,"Damaris AM LLC is looking for a qualified Software
+Developer to participate in Damaris products development.","- Design and develop desktop and web-based applications;
+- Work on products technical choice and specifications;
+- Ensure weekly reports on the projects;
+- Prepare testing and technical documentation.","- University degree in Technical Sciences;
+- At least 3 years of work experience in software development;
+- Good knowledge of JAVA, J2EE, Spring, Mysql and SQL Server,
+web-services and Joomla;
+- Practice of SVN, Eclipse, CubicTest, Apache and Tomcat; 
+- Good knowledge and experience of principles of J2EE, Spring 3.1, JSF
+2.0, Hibernate 3.2, CSS, SQL language, Apache Tomcat Server/ OOP, MVC, XP
+and SCRUM; 
+- English language skills;
+- Participation in an open-source project is a plus.","Please, submit CVs to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM LLC is the local branch of Damaris France
+Company providing software archiving package to different companies in
+Europe."

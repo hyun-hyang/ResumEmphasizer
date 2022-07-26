@@ -1,0 +1,39 @@
+Embedded Linux BSP Engineer,"VadaTech CJSC is seeking a candidate for a full-time
+Embedded Linux BSP Engineer position in company's Board Support Package
+(BSP) development/ board bring-up team located in Yerevan, Armenia. This
+team is responsible for performing initial board bring-up on new
+hardware, porting board support packages from reference designs, and
+developing custom device drivers.","- Interface with design and test engineers throughout the product
+development cycle;
+- Work with embedded hardware and system engineers to define and design
+system solutions;
+- Customize boot-loader and Linux operating system for embedded
+platforms;
+- Review hardware schematics and establish methods to support the
+hardware design with low-level software components;
+- Work with senior staff to resolve design problems;
+- Contribute to technical documentation;
+- Integrate software and hardware components to meet requirements and
+design specifications.","- BS in Computer Sciences or Electrical Engineering (Masters degree a
+plus);
+- At least 5 years of experience in embedded software development;
+- Hands-on software development experience with the C programming
+language;
+- Energetic and comfortable in a fast-paced environment;
+- Strong written and verbal communication skills;
+- Knowledge with using multi-core processors is a plus;
+- Experience with PowerPC, ARM and MIPS 32-bit;
+- Some experience in hardware engineering is a plus;
+- Working knowledge of Linux driver development;
+- Working knowledge of the Linux File System'
+- Understanding of how to build a root file system and build Linux
+distributions;
+- Working knowledge of u-boot.","If interested, please email your last updated
+and detailed Resume to: amjobs@... . Please indicate ""Embedded
+Linux BSP Engineer"" in the subject line of your e-mail, otherwise your
+Resume will not be reviewed. Only short listed candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VadaTech is a board level design and manufacturing
+company focused on quick-turn designs for the embedded market."

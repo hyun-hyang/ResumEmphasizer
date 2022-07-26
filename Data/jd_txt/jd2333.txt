@@ -1,0 +1,28 @@
+Ruby Developer,"Kubisys CJSC is looking for a Ruby developer with a
+passion for clean code and great products. Company's current technology
+stack includes Ruby on Rails, Shell, Python and a variety of standalone
+Ruby components and applications. Writing unit tests using modern
+framework like RSpec, RCov should be second nature to the incumbent, and
+he/ she should be comfortable performing and receiving code reviews.","- Development: Create and maintain scalable software;
+- Quality control: Create and run unit tests;
+- Architect: Collaborate on software design;
+- Stay current on new, relevant technologies;
+- Participate in code reviews and discussions.","- At least BS in Computer Science or equivalent;
+- Over 3 years of experience with developing in Ruby language and Ruby on
+Rails framework;
+- Experience with MySQL or another relational database;
+- Knowledge of any Web technologies like HTML, CSS, JavaScript is a
+plus;
+- Experience in JIRA and Git is a plus;
+- Excellent analytical skills;
+- Strong verbal and written communication skills in English language;
+- Ability and desire to learn new technologies;
+- Good team player.","If interested, please email your CV to:gasparyan@... . Please indicate the title of the position in the
+subject line of your e-mail. Only short listed candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys Inc. is dedicated to the mission of automating
+and simplifying the operations of enterprise data centers. For more
+information about the company's product and activities, please visit:
+www.kubisys.com."

@@ -1,0 +1,28 @@
+Senior Flash/ Flex Developer,"SFL is looking for a Flash/ Flex Developer to join a
+team working on a complex and long-term project.","- Be responsible for designing and developing complex flash
+applications;
+- Be responsible for estimations and planning.","- Extensive experience with Actionscript 3.0;
+- Strong knowledge of OOP;
+- Strong knowledge of design patterns like MVC, Memento and the Command
+pattern (multi-level undo);
+- Tangible experience (i.e. lead-role in delivered projects) in both
+Flash and Flex projects;
+- Experience with Flash Professional CS5 and Flash Builder 4;
+- Experience in long-term maintained applications (versus one-off
+development);
+- Experience in splitting data-intensive applications into logical blocks
+(architecture);
+- Experience with Flash-10 specific features like direct usage of
+FileReference (for photo uploads), the Text Layout Framework and the
+enhanced Graphics drawing API;
+- Experience with XML, XSLT and SVG and HTTP-based server communication.
+Optional:
+- Experience with image-, text- or layout-oriented applications;
+- Experience with Pixel Bender.","If interested, please email your CV to:jobs@... . Please mention ""JobID 1170"" in the subject line of your
+email. Only shortlisted candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services for the
+clients from Europe, United States and Armenia. Since 2007, SFL is a
+Microsoft Gold certified partner. More details about the company can be
+found at: www.sflpro.com."

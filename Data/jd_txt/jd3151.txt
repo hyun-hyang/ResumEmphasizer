@@ -1,0 +1,18 @@
+C++ Software Developer,"Triosoft LLC is seeking a highly motivated person for
+the position of C++ Software Developer to join the Company's software
+development process. The incumbent will be responsible for the GUI and
+backend programming of automated control system.","- Write C++ code;
+- Read, understand and modify the existing code.","- Professional knowledge and work experience with C++, STL;
+- Knowledge of MySQL is preferred;
+- Versatile, flexible person and the ability to learn quickly;
+- Ability to understand problems from the point of view of clients;
+- Creativity and imagination;
+- Ability to meet deadlines.","If you meet the requirements above, the Company
+encourages you to send your CV in the English language to:
+job@... . Please indicate the name of the position in the subject
+line of your email. The Company thanks all interested applicants;
+however, only short-listed candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tiosoft LLC is engaged in program design for business
+process automation."

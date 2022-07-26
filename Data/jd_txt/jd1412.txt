@@ -1,0 +1,39 @@
+Software Specialist,"""Finca"" UCO CJSC is looking for a Software Specialist 
+who should be a qualified AS Bank 4.0 Software Specialist, Bank Reporting
+Developer and IT Programmer by specialization.","- Be responsible for AS Bank administration;
+- Prepare and submit AS Bank 4.0 OLAP reporting;
+- Insure the maintenance of all reports for financial planning analysis
+departments;
+- Create business intelligence reports for the further development of the
+company;
+- Maintain support for all AS Bank 4.0 users;
+- Be responsible for system and quality control procedures.","- University degree in IT or relevant field;
+- At least 3 years of experience in Management information and reporting
+of banking systems;
+- Excellent knowledge of AS Bank 4.0 administrating;
+- Excellent knowledge of AS Bank 4.0 OLAP reporting;
+- Knowledge of ""User reporting"" making in AS Bank 4.0;
+- Knowledge of AS 3.x programming;
+- Knowledge of AS Accountant 4.0 administrating;
+- Good knowledge of Excel (Financial and statistical function);
+- Solid understanding of database structures and design;
+- Good understanding of data quality issues and impact on information
+delivery;
+- Experience in using queries or analytical languages in Excel, MSAccess,
+SQL Server 2005-2008, etc.;
+- Knowledge CB of Armenia regulation legal act for Banks and credit
+organizations.","If you meet the requirements above and are
+confident that your background and experience qualifies you for the
+position, please e-mail your detailed CV and a motivation cover letter to
+Finca at: hr@... mentioning the position you are applying for in the
+subject line of your email. The company will start the selection process
+as soon as sufficient number of qualified applications is received.
+Therefore, early applications are welcomed. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Finca"" Universal Credit Organization CJSC (Finca UCO) is
+established and licensed credit organization founded by Finca
+International, Inc., a U.S. non-profit organization whose mission is to
+provide financial services to the world's lowest-income entrepreneurs so
+they can create jobs, build assets, and improve their standard of living."

@@ -1,0 +1,31 @@
+Java Developer,"Energize Global Services CJSC is looking for Java
+Developers (mid and senior level) for an international project on
+ePayment/ bank payment systems.","- Design and develop enterprise-level software solutions according to
+technical specifications;
+- Write test plans and test cases for the developed modules;
+- Work productively as a key member of a software development team;
+- Enhance the existing code by identifying the areas for improvement;
+- Participate in requirements gathering and task definitions with the
+colleagues abroad;
+- Actively participate in the estimation and planning of the defined
+tasks.","- Bachelor's degree in Computer Science or in a related field;
+- At least 4 years of work experience as a Java Developer;
+- Solid professional work experience in Java/ J2EE;
+- Experience with the source control management and Maven build tools;
+- Solid experience with OOP/ OOD;
+- English language proficiency in both written and verbal
+communications;
+- Ability to work on competing priorities and adapt to changes in the
+project scope;
+- Work experience in Agile/ Scrum projects is a plus;
+- Knowledge of TDD principles is a plus;
+- Knowledge of the French language is a plus.","If interested, please email a last updated
+detailed resume to: hr@... . Please indicate ""Java
+Developer"" in the subject line of your email, otherwise your resume will
+not be reviewed. Only short-listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

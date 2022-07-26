@@ -1,0 +1,42 @@
+Senior Software Engineer (EDA),"The Senior Software Engineer will be involved in small
+to large scale projects from EDA software development sphere through all
+stages of the software development life cycle, from requirements
+gathering to implementation and testing. He/ She will collaborate with
+team leads and management on defining software architecture, estimate
+technical challenges and develop time-line and risks.","- Participate in all stages of the software development life-cycle;
+- Contribute to the improvement of development processes;
+- Update/ write documentation on project interface definition and
+technical documentation on codes and algorithms; 
+- Work with a team to define the working schedule and technical
+activities associated with the project (project requirements, design
+interface and functionality, writing software specification and test
+plan);
+- Lead the software development, testing and documentation activities
+according to project requirements and guidelines;
+- Release and deploy the project, provide post-release and maintenance
+support including improvements identification, bug reporting/ fixing and
+communication.","- BA or MA degree in Computer Science or in a similar discipline;
+- At least 4 or more years of experience in C/ C++ applications
+development;
+- Knowledge of Object Oriented Programming, STL and Generic Programming;
+- Knowledge of data structures and algorithms;
+- Knowledge of Digital, Analog and Mixed design techniques;
+- Ability to produce clearly written and documented code;
+- Ability to thrive in a fast-paced and startup environment;
+- Excellent verbal and written English language skills;
+- Knowledge of GNU/ Linux architecture and development environment;
+- Strong time management skills;
+- Ability to establish priorities while maintaining attention to detail
+and delivering high levels of quality and productivity;
+- Good organizational skills and attention to details;
+- Knowledge of Trolltech QT is desired;
+- Knowledge of Open Access is desired;
+- Familiarity with hardware design is desired.","Interested candidates should send their resumes
+in PDF format to: job@... . Please mention the title of
+the position you are applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia.  R&D branches of
+the company are located in Gyumri, Vanadzor and Stepanakert. Main
+partners of Instigate are in the USA and EU."

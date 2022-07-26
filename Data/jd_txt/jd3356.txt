@@ -1,0 +1,26 @@
+C/ C++ Developer,"NASDAQ OMX Armenia is seeking an energetic C/ C++
+Developer to join the company's team to develop enterprise level software
+solutions.",NA,"- Master's degree in IT, Engineering or a related technical field;
+- Good knowledge of C and C++;
+- Ability to develop in assembler;
+- Knowledge of TCP/ IP;
+- Multithreading skills;
+- At least 3 years of real world experience as a C/ C++ Developer;
+- 3 years of experience of working in Unix and Windows environments;
+- Ability to create a high-performance and low-latency customer facing
+application;
+- Experience in financial markets is preferred;
+- Knowing of T-SQL and PL/ SQL is preferred;
+- Fluency in the English language; good knowledge of the Russian
+language;
+- Strong interpersonal and communication skills; ability to work in a
+team;
+- Good analytical and business-oriented thinking skills;
+- Flexibility and ability to meet tight deadlines and carry out multiple
+tasks.","Interested candidates can submit their CVs to:
+info@... . Please indicate ""C/ C++ Developer"" in the subject
+line of the e-mail. Only short-listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.nasdaqomx.am."

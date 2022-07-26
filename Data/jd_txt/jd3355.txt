@@ -1,0 +1,28 @@
+Java Developer,"NASDAQ OMX Armenia is seeking an energetic Java
+Developer to join the company's team to develop enterprise level software
+solutions.","- Responsible for developing and building high-quality web applications;
+- Enhance the existing code by identifying areas for improvement;
+- Re-engineer the code base safely.","- Master's degree in IT, Engineering or a related technical field;
+- Strong skills in Java;
+- Good knowledge of J2EE, Spring (IOC, MVC) and Hibernate;
+- Excellent knowledge of MSSQL, PL/ SQL and SQL Plus;
+- Knowledge of JavaScript, PHP, HTML, SOAP and XML is preferred;
+- At least 3 years of real world experience in developing Java web-based
+applications;
+- Experience with relational databases (such as Oracle and MSSQL);
+- Experience with JSP, AJAX, JavaScript, HTML, CSS, SOAP, XML and
+cross-browser compatibility;
+- Experience in financial markets and Net Programming is preferred;
+- Fluency in the English language; good knowledge of the Russian
+language;
+- Strong interpersonal and communication skills;
+- Ability to work in a team;
+- Good analytical and business-oriented thinking skills;
+- Flexibility;
+- Ability to meet tight deadlines and carry out multiple tasks.","Interested candidates can submit their CVs to:
+info@... . Please indicate ""Java Developer"" in the subject line
+of the e-mail. Only short-listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.nasdaqomx.am.

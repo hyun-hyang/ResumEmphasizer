@@ -1,0 +1,72 @@
+Senior Java Developer,"The incumbent will perform complex software engineering
+duties using own initiative, following established standards and
+procedures and working closely with other engineering disciplines. He/
+she will work under general supervision and direction. The incumbent will
+regularly exercise discretionary and substantial decision-making
+authority.","- Perform complex software engineering duties, including the full-range
+of programming tasks: problem analysis, solution determination, code
+design and development, integration, test, modification and
+documentation; 
+- Plan and participate in software systems development, from inception to
+completion, including gaining customer acceptance;
+- Assist in the preparation of design specifications;  
+- Responsible for design and coding of software components for Java-based
+Web Applications;
+- Design and implement RDBMS schemes and data access components;
+- Develop strategies for deployment of high performance RDBMS
+operations;
+- Create logic flowcharts and block diagrams;
+- Coordinate and develop project concepts, objectives, specifications and
+resource needs;  
+- Define test schedules and test data requirements;  
+- Recommend test controls, strategies and equipment;
+- Prepare design proposals to reflect cost, schedule and technical
+approach;  
+- Develop technical and cost data and assist in writing new business
+proposals;
+- Monitor project status and progress;
+- Manage budget and schedule for software engineering tasks if needed;
+- Interface with customers, contractors and marketing vendors as
+required;  
+- Evaluate vendor capabilities to provide required products or services;
+- Consult with other Engineers to evaluate hardware/ software interfaces
+and optional performance requirements; 
+- Conduct and participate in in-house design reviews and technical
+meetings;
+- Organize and coordinate programming tasks assigned to other Software
+Engineers;  
+- Provide technical guidance to lower level programming personnel;  
+- Keep informed of improvements in software engineering techniques; 
+- Show commitment to Company values, ethics, safety, security, labor
+charging and quality; 
+- Participate in total quality management/ continuous process improvement
+teams if needed;
+- Perform other Software Engineering tasks as required by company
+management.","- 4-year college degree in Computer Sciences or other related technical
+discipline; MA and PhD are preferred;  
+- Desired experience in designing, developing and troubleshooting
+software in Java and related web technologies;
+- From 5 to 10 years of experience in programming, especially in Java;
+- At least 4 years of work experience in J2EE development;
+- Previous experience with one or more production/ mission critical web
+applications is highly desirable;  
+- Working knowledge of and experience in Web technologies and web-based
+dynamic application development, especially Java Servlets, JSPs and Web
+Services;
+- Working knowledge of XML, XSLT, HTML, CSS, Java Scripts, AJAX and
+related technologies;
+- Experience with Java/ RDBMS ORM technologies and DBMS design, as well
+as programming within web applications;
+- Effective written and oral communication skills;  
+- Knowledge of customer needs and competing products is desirable;
+- Ability to analyze and solve complex software engineering problems;
+- Ability to prioritize work, complete multiple tasks and work under
+deadline and budget guidelines;
+- Fluency in English language.","Please submit your detailed CV in English
+language to:  jobs.yeam.cgts@... , indicating the position in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Cubic Global Tracking Solutions designs, develops and
+provides systems for continuous tracking and monitoring of assets all
+over the world. For more information, please visit:http://www.cubic.com/Solutions/Cubic-Global-Tracking-Solutions"

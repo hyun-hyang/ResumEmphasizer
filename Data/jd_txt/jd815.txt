@@ -1,0 +1,25 @@
+Quality Assurance Engineer,"Essence Development LLC is looking for a Software
+Quality Assurance Engineer for long-term projects. Selected candidate
+will maintain a wide range of automated tests like functional,
+regression, stress, load and performance to test and ensure the quality
+of products.","- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform GUI, functionality, performance, load, compatibility and
+usability tests of website; 
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases.","- Higher education in relevant field;
+- Minimum 1 year of work experience as a QA engineer;
+- Knowledge of software development process; 
+- Knowledge of testing techniques and problems documenting;
+- An operational experience with bug-tracking systems; 
+- Ability to meet deadlines;
+- An operational experience with MySQL database; 
+- Knowledge of the English language;
+- Knowledge of HTML, XML, Java-script is desirable;
+- Experience in developing scripts for automated testing is desirable.","Interested candidates should email resumes to:job@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Essence Development LLC is a software development
+company."

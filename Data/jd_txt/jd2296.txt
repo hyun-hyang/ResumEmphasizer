@@ -1,0 +1,33 @@
+Oracle Specialist,"The Company is seeking a specialist who is strongly
+familiar with Oracle, to maintain and develop databases.","- Responsible for troubleshooting databases' performance;
+- Responsible for development of integration, replication and backup/
+restoration strategies;
+- Responsible for development of required stored procedures for the
+applications;
+- Develop and maintain databases, software data access guidelines,
+standards and use of data model tools.","- Bachelors degree;
+- Understanding of Database Architectures (Oracle 11g/ Oracle 10g);
+- Proven background in the installation, administration and management of
+Oracle databases (Oracle 11g/ Oracle 10g);
+- Ability to understand (read/ write) Transact  SQL/ PL SQL Language,
+stored procedures, triggers and user defined functions;
+- Working knowledge of Unix;
+- At least 3 years of experience in a relevant field;
+- At least 3 years of experience in SQL Server/ Oracle performance
+tuning;
+- At least 2 to 3 years of experience in reading and writing stored
+procedures - SQL stored procedures and external stored procedures;
+- At least 2 to 3 years of experience in reading and writing triggers
+(SQL triggers and external triggers) and user-defined functions - SQL
+user-defined functions and external user-defined functions;
+- Fluency in technical English language;
+- Excellent analytical and problem-solving skills and attention to
+detail; 
+- Excellent interpersonal and organizational skills.","All qualified candidates are welcome to send
+their CVs along with motivation letter by the following e-mail address:arca@... . Please indicate the position title in the subject field of
+your message. Only shortlisted applicants will be invited for the
+interview. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Card CJSC is a national payment system and
+processing center for most of the Armenian banks."

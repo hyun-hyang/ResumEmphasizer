@@ -1,0 +1,16 @@
+Senior PHP Developer,"""Norvik"" Universal Credit Organization CJSC is looking
+for an experienced PHP Developer to perform duties of the Organization's
+IT department on freelance basis.","- Design, develop and test software applications;
+- Understand and modify the existing code;
+- Find and fix bugs in existing code;
+- Provide technical support and assistance;
+- Communicate with management effectively.","- At least 3 years of experience as a PHP Developer;
+- Expert skills in PHP, MYSQL, HTML, CSS;
+- Skills in AJAX and JavaScript is a plus;
+- Problem solving skills;
+- Knowledge of technical English language.","Please, send your CV to: it@... . Please
+mention the position you are applying for in the subject of your email.
+No phone calls or personal visits, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

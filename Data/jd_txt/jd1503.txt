@@ -1,0 +1,42 @@
+IT Officer/ Network Administrator,"This is a permanent position in IT Support Department
+reporting directly to the Department Head. 
+The jobholder may occasionally be required to attend the workplace at
+evening and/or weekend hours in response to needs of the systems being
+supported.","- Administer network workstations, utilizing one or more TCP/IP or
+non-TCP/IP networking protocols; 
+- Install, configure and administer Cisco networking devices;
+- Administer network servers such as file servers, VPN gateways,
+intrusion detection systems, etc.;
+- Perform and/or oversee software and application development,
+installation, and upgrades;
+- Plan and implement network security, including building firewalls,
+applying cryptography to network applications, managing host security,
+file permissions, backup and disaster recovery plans, file system
+integrity, and adding and deleting users;
+- Troubleshoot networks, systems and applications to identify and correct
+malfunctions and other operational difficulties;
+- Install, configure and administer personal computers, ethernet
+networks, network cabling and other related equipment, devices and
+systems; 
+- Investigate user problems, identify their source, determine possible
+solutions, test and implement solutions.","- Computer Science or Computer Engineering university degree; 
+- At least 3 years of professional work experience in a related field;
+- Training and certification on network equipment and protocols;
+- Knowledge of English language;
+- Knowledge of Linux operating system;
+- Knowledge of programming languages, such as Visual Basic, XML, SQL
+and/or PHP is a big advantage;
+- Proven ability to work under pressure.","All interested and qualified candidates are
+encouraged to email their CVs (preferably in English and with a photo)
+to: recruitmentarmenia@... . In the subject line of your
+message, please mention the position title you are applying for. Only
+shortlisted applicants will be invited to the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Byblos Bank Armenia is a member of Byblos Bank Group
+which is a universal financial institution operating in twelve countries
+and providing all kind of financial services to commercial and retail
+customers. Group activity is led and supervised by the Head Company 
+Byblos Bank SAL, based in Lebanon. 
+More about Byblos Bank Armenia can be learned from the web page:
+www.byblosbankarmenia.am."

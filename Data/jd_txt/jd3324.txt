@@ -1,0 +1,48 @@
+IP Network Engineer,"The IP Network Engineer will manage all the activities
+related to the IP Network, as well as will manage corrective, preventive
+and adaptive operations.","- Establish a networking environment by designing system configuration,
+directing system installation, defining, documenting, and enforcing
+system standards;
+- Maintain the International IP Network, International peering and
+International MPLS transport network;
+- Maintain the Core IP production network;
+- Design and implement new solutions and improve the resilience of the
+current environment;
+- Maximize network performance by monitoring performance, troubleshooting
+network problems and outages, scheduling upgrades and network
+optimization;
+- Undertake fault investigations of data network in local and wide area
+environments, using information from multiple sources;
+- Support and administer firewall environments in line with the IT
+security policy;
+- Update job knowledge by participating in educational opportunities,
+reading professional publications, maintaining personal networks and
+participating in professional organizations;
+- Upgrade data network equipment to the latest stable firmware releases;
+- Configure routing and switching equipment;
+- Configure firewalls;
+- Responsible for the capacity management of the IP address allocation.","- Excellent knowledge of IP networking fundamentals and extensive
+experience in the application of IP protocols;
+- In-depth knowledge of OSPF and BGP with experience in administering
+these protocols in a large, distributed network;
+- In-depth knowledge of and experience with Cisco IOS, Cisco ASA, Juniper
+EX and Juniper MX  platforms;
+- Excellent knowledge of network analysis fundamentals; robust
+troubleshooting skills;
+- Experience in deploying and maintaining wide area networks with
+emphasis on BGP, IPSec, and MPLS transport;
+- Deep understanding of TCP internals, especially across wide area
+networks;
+- At least 3 years of experience in a similar environment;
+- Excellent communication and documentation skills;
+- Significant past experience with and expertise in many of the following
+protocols and technologies: 802.2/ 3, 802.1d VLANs/ STP, IPv4, TCP
+(internals and flow control), BGP, OSPF, HSRP/ GLBP, PIMv2, IGMP, LDP,
+IPSEC and VPNs, Netflow, DNS, DHCP, HTTP and Multicast.","Qualified and interested candidates are
+encouraged to send a CV and a motivation letter to: hr.oam@... .
+Please indicate the title of position in the subject line of the email.
+The Company thanks all interested applicants, however only short-listed
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

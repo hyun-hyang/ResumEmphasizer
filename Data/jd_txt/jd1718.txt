@@ -1,0 +1,33 @@
+Software Developer,"Haypost CJSC is looking for a qualified and motivated
+Software Developer.","- Develop and implement new information technologies and software;
+- Be responsible for effective solution for the bank problems: study the
+possibilities of using new software, be responsible for development and
+automation of new software in case of necessity;
+- Develop and implement appropriate software tools (modules) within
+frames of operating system used by the bank which comes both from
+interest of different structural units orders as well as of the banks;
+- Implement changes and improvements to existing software modules, if
+necessary;
+- Be responsible for development and automation of software systems
+""Bank-Client"" and ""Internet-Bank"" for remote control of customer
+service;
+- Develop various information processing systems, like LanHello,
+TouchScreen, SMS Banking and other systems in order to provide necessary
+information to customers.","- Higher education in Information Technology field;
+- Understanding of programming process;
+- Good technical knowledge;
+- C++, C#, MS VISUAL BASIC, PHP programming language knowledge and work
+experience;
+- MS SQL, T-SQL, PARADOX, MySQL database knowledge and work experience;
+- At least 2 years of experience as a programmer;
+- High sense of responsibility;
+- Analytical thinking;
+- Ability to work in a team;
+- Good knowledge of technical English.","All interested candidates who meet the
+requirements for the position are kindly requested to send theirs CVs to:haypostrecruitment@... . The subject field of the message should be
+filled as follows: ""Software Developer"", ""Name_Surname"". Only properly
+filled applications will be considered. Only short listed candidates will
+be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

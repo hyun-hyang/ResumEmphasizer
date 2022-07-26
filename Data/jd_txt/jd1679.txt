@@ -1,0 +1,35 @@
+.NET Software Developer,"Ogma Applications Inc. CJSC is seeking few .Net
+Software Developers. The individual must have good experience in MS SQL
+Re3porting Services (SSRS) 2005/ 2008.","- Work with Senior Architect in USA to get aligned with product roadmaps
+and assume a key role in the development of these products;
+- Design, proto-type, develop and thoroughly unit test before submitting
+to QA;
+- Write technical and functional specifications and present them to the
+other team members and occasionally to the management;
+- Work with the Quality Assurance team to develop and maintain unit tests
+based on product functional specifications.","- At least 2 years of experience with report development using Microsoft
+SQL Server Reporting Services (SSRS) 2005/ 2008;
+- Experience in using report writing best practices, optimization, use of
+joins and sub-queries;
+- Experience in writing stored procedures, T-SQL, functions and SQL
+Queries;
+- Ability to use complex expressions to calculate, group, filter,
+parameterize, optimize and format custom reports;
+- Experience in pulling data from Microsoft SQL Server 2005 and/ or 2008
+databases for reports;
+- Experience in reports development using SSRS 2005 and/ or 2008;
+- Experience in SSIS;
+- Experience in MS Excel/ Cube reporting;
+- Experience in reporting delivery/ integration with SaaS product
+offerings;
+- Ability to manage report scheduling and delivery;
+- Ability to work closely with Business and Technical teams;
+- Strong communication/ documentation skills;
+- Good knowledge of English language.","Please submit your detailed CV in English to:hbaghdas@... indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications Inc. CJSC is a software development
+company based in Los Angeles, California that develops web-based
+applications for clients around the world. For additional information
+please visit: www.ogmainc.com."

@@ -1,0 +1,20 @@
+I/O Circuit Design Engineer,"Virage Logic Yerevan is looking for an I/O Circuit
+Design Engineer to be responsible for all aspects of standard cell
+library product development.","- Design and simulate Logic gates circuit;
+- Characterize Logic library;
+- Build and validate Logic library; 
+- Prepare Logic library PnR (Place and Route) package.","- BS/ MS in Electrical Engineering;
+- Good background in standard cells, including all aspects of library
+development, including standard cell circuit design, architecture,
+physical design and DRC/LVS;
+- Experience with Low Power circuits designs and techniques;
+- Working knowledge of physical electrical design space, including
+power, timing performance technology effects on physical and electrical
+behavior;
+- Proven technical skills and ability to manage multiple priorities;
+- Ability to work on multiple projects.","Please send resumes to:hr.armenia@... . 
+Please mention the position title you are applying for. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

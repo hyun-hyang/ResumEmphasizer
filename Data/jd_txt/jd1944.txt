@@ -1,0 +1,21 @@
+ASP.Net Developer,"Maeutica Branding Agency is looking for a motivated and
+experienced candidate to take over the position of ASP.Net Developer.","- Participate in all stages of the software development life-cycle; 
+- Contribute to improvement of development processes; 
+- Develop applications with C#, ASP.NET, ADO.NET, LINQ and MS SQL,
+JavaScript and jQuery.","- BA degree in Computer Sciences; 
+- At least 1 year of work experience with ASP.Net and C#; 
+- Knowledge of XML and .NET Framework, AJAX and JavaScript;
+- Good knowledge of ASP.NET, ADO.NET, T-SQL and HTML/ CSS; 
+- Database knowledge with MS SQL; 
+- SVN knowledge;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines; 
+- Good knowledge of Russian language (oral and written).","To apply for this job position, please send your
+CV to the following address: info@... .  Please clearly mention
+in subject line the job position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Maeutica branding and marketing agency (former SP
+Marketing Solutions) was founded in 2007. Currently the  company has a
+Head Office in Moscow. It provides consultation on professional branding
+strategy based on comprehensive research."

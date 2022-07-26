@@ -1,0 +1,27 @@
+GIS and Database Management Specialist,"The USAID Water Resources Management Program in
+Armenia is actively recruiting for a GIS Specialist to assist the team
+of national and international experts on the water resources database
+construction and maintenance.","- Prepare spatial databases and ArcGIS shape layers for water resources
+of Armenia; 
+- Assist in GIS-based mapping including scanning and digitizing;
+- Contribute to training of counterpart agency staff in database
+management techniques (GIS and populating databases);
+- Conduct comprehensive populating of State Water Cadastre Information
+System databases under MS Access.","- University degree in Computer Sciences, Applied Mathematics or a
+relevant field;
+- At least 3 years of work experience with ArcGIS 8.x/9.x and Microsoft
+Access.","Interested individuals should email
+applications to: office@.... A complete application package
+should consist of: 
+- A detailed CV with current contacts (in English);
+- A list of references.
+Applications may also be delivered to the Program office at: 11/6
+Proshian Street, Yerevan 0019, Armenia.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The USAID Water Resources Management Program in Armenia,
+implemented by PA Government Services, Inc., provides technical
+assistance and training to support the development and implementation of
+the National Water Program, the strengthening of monitoring and
+regulatory agencies, and the improvement of the legal framework of the
+water sector."

@@ -1,0 +1,33 @@
+Senior Software Developer/ Team Lead,"Rosgosstrakh-Armenia ICJSC is looking for a high
+qualified Senior Software Developer who intends to lead software
+development division and power up the software project development team
+in the company. The candidate for this position must have experience in
+object oriented programming and development of client server
+applications.","- Gather and produce requirements and designs;
+- Accurately plan software development activities and follow established
+processes;
+- Share knowledge, mentor peers, listen and hear team members view
+points and provide a fair evaluation of differing opinions;
+- Communicate effectively with management and with team members;
+- Keep commitments;
+- Have a command of current technology;
+- Actively participate in discussions regarding technical issues;
+- Write codes for the required product;
+- Create reports from DB (select, procedure, view).","- University degree in Computer Sciences or a related field;
+- At least 5 years of experience in C #, TSQL programming, database
+design, development and optimization technology;
+- Excellent knowledge of OOP, design templates, classical algorithms and
+data structures;
+- Good knowledge of .NET;
+- Problem-solving and decision-making skills;
+- Project management skills to facilitate team;
+- Good written and verbal skills in Armenian and Russian languages;
+- Knowledge of Accounting and Insurance is a plus.","Interested candidates are asked to send a resume
+to: hr@... . Please mention the position title Senior Software
+Developer/ Team Lead in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Rosgosstrakh Armenia"" Insurance CJSC was established
+within the framework of implementation of the CIS market entry strategy
+of Rosgosstrakh (Russia). For more information, please visit the website:
+www.rgs.am ."

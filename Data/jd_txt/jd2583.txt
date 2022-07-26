@@ -1,0 +1,31 @@
+Database Developer,"The Database Developer will participate in the
+development of OneQuantData product line found at:http://www.onetick.com/web1/one_quantdata.php . Typical projects deal
+with the integration of financial market data into the product.","- Implement data delivery from the vendor (scripting);
+- Analyse the data, understand data content, work with the vendor to
+clarify any issues (scripting, SQL);
+- Transform the data into the formats required by the product (scripting,
+SQL);
+- Consolidate the data with other sources (scripting, SQL);
+- Create APIs for viewing the data on the web (SQL, scripting, basic Web
+development);
+- Maintain the existing data products;
+- Prepare the data for final release to the clients (SQL, scripting);
+- Prepare the product for use on multiple platforms (scripting);
+- Work with clients to clarify their issues, answer questions.","- Technical educational background;
+- At least 2 years of experience in a related area;
+- Strong knowledge of relational databases, including schema design,
+stored procedures and query tuning/ optimization (with basis in Oracle or
+Mysql);
+- Strong scripting skills and proven experience, preferably in Perl on a
+Unix system;
+- Web programming skills (PHP-mysql under apache);
+- Good analytical skills;
+- Good knowledge of technical English language, including ability to
+comfortably communicate with clients via email.","Interested candidates are asked to send their
+resume to: jobs_am1@... . The subject must read ""Database
+Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data storage, analytics
+and CEP solutions for financial institutions (www.onetick.com)."

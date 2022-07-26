@@ -1,0 +1,44 @@
+Senior Android Developer,"The Senior Android Developer is expected to be a
+skilled developer with experience in coding in Java and Android SDK. As a
+Senior Android Developer, the candidate will play a key role in the
+design and implementation for new applications and features on Android
+devices that will disrupt the market and advance technology for
+analytics, mobility, and security.","- Design, develop, test, deploy, maintain and enhance software solutions
+for Android platforms;
+- Ensure the best possible performance, quality and responsiveness of
+mobile applications;
+- Provide necessary technical and design documentation;
+- Manage individual tasks, priorities, deadlines and deliverables;
+- Work closely within a team of developers and product managers;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency.","- Excellent knowledge of Java and OOP concepts;
+- At least 5 years of software development experience;
+- At least 3 years of experience in Android mobile applications
+development using Android SDK; iOS platform experience is a big plus;
+- Solid understanding of the full mobile development life cycle;
+- Experience in using RESTful API and JSON;
+- Strong knowledge of Android SDK, different versions of Android, and how
+to deal with different screen sizes;
+- Strong knowledge of Android UI design principles, patterns, and best
+practices;
+- Experience with offline storage, threading, and performance tuning;
+- Ability to understand business requirements and translate them into
+technical requirements;
+- Familiarity with cloud message APIs and push notifications;
+- Knack for benchmarking and optimization;
+- Strong debugging and analytical skills;
+- Ability to be a team-player, contribute independently, and collaborate
+with tech-savvy professionals;
+- Familiarity with continuous integration;
+- Experience with C and C++ development is a big plus;
+- English language skills, both written and spoken.","To apply for this position, please send a letter
+of intent with the last updated and detailed CV in PDF format addressing
+relevant qualifications and experience to: jobs@... .  In the
+subject line of your e-mail message, please write ""Application for Senior
+Android Developer"". No information inquiries will be handled over the
+phone. Only short-listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"PicsArt LLC is a US based free and full featured
+photo-editing and drawing mobile app available on Android, Apple and
+Windows devices. Find more at: http://picsart.com/."

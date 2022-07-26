@@ -1,0 +1,20 @@
+ASP.NET MVC/ C# Developer,"KSPE Software is looking for an ASP.NET MVC/ C#
+Developer to be engaged in different long term projects.","- Read, understand and modify the existing code;
+- Design MSSQL database structure; 
+- Develop test plans to verify logic of new or modified programs; 
+- Work as part of a software development team.","- At least 3 or more years of experience in web-based technologies;
+- Strong understanding of object-oriented (OOP) development;
+- Strong knowledge C# language;
+- Strong understanding of web technologies - ASP.NET MVC;
+- Knowledge of JavaScript, jQuery, Ajax;
+- Knowledge of HTML5, CSS;
+- Knowledge of and experience in LINQ/ Entity Framework;
+- Knowledge of MSSQL/T-SQL; 
+- Knowledge of WCF, DevExpress, KendoUI is a big plus;
+- Knowledge of JS frameworks like Knockoutjs, AngularJS is a plus.","Interested candidates are asked to send a resume
+(CV) in English language directly to: career@... . Please
+indicate ""ASP.NET MVC/ C# Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"KSPE Software is presented by ""Karapetyanner""
+Scientific-Production Experimental LLC."

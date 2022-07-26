@@ -1,0 +1,15 @@
+Senior Developer,"Firmplace Corporation is looking to hire a Senior
+Developer with .NET/C#/ASP.NET/MSSQL experience.","- Participate in technical design and programming with a hands-on
+approach; technical design reviews, functional/ technical specification
+reviews, contribute to development project estimates, scheduling, test
+plans and code reviews;
+- Proactively mentor fellow developers in areas of expertise;
+- Produce technical documentation.","- Adequate knowledge of written and spoken English language; ability to
+express thoughts clearly;
+- 3-5 years of experience in C#, .NET Framework; proficiency with MSSQL
+design and development;
+- Experience with Ajax, ASP.NET, WCF and WPF is desired;
+- Ability to adapt to changing business requirements.","To apply, please send your CV to:jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,25 @@
+Mobile Application Developer,"Damaris AM LLC is looking for a qualified Mobile
+Application Developer to participate in projects of mobile devices.","- Participate in specific projects for Mobile Devices (Windows mobile,
+Windows phone, iOS and Android);
+- Participate in internal projects for Mobile Devices;
+- Provide support for internal projects based on C/ C++ and C#.","- At least 1 year of work experience;
+- Experience with team working;
+- Experience in mobile application development;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Very good knowledge of C#, .NET Framework, .NET Compact Framework and
+WCF;
+- Good knowledge of iOS SDK;
+- Database proficiency of MySQL;
+- Good knowledge of OOP principles;
+- Good knowledge of MVC pattern;
+- Good knowledge of English language.
+Desired qualifications:
+- Skills in Android SDK and MonoCross Framework;
+- Database proficiency in SQLServer and Oracle.","All interested candidates should send their last
+updated resume to: hr@... . Please mention in the subject line the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM is the local branch of Damaris France Company
+providing software archiving package to different companies in Europe.
+For more information, please visit: www.damaris.am  www.damaris.fr."

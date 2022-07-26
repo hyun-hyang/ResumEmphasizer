@@ -1,0 +1,29 @@
+Senior iOS Developer,"Science Inc. Armenia is looking for a Senior iOS
+Developer who will be involved in the project requirements, analysis and
+the project planning. Strong mobile development background, preferably
+cross-platform based is a big plus.","- Lead development efforts on projects, ensuring robust and lasting
+implemented solutions;
+- Implement new features in existing applications, as well as develop
+complex applications from top to bottom (user interface design to design
+and implementation of supporting frameworks);
+- Develop high quality and clean code, that works across all devices;
+- Optimize the size and performance of applications and frameworks;
+- Participate in all cycles of software design and development;
+- Support the Team in technical decisions and development estimations;
+- Share knowledge, lessons learned with team members.","- In-depth development experience with iOS SDK (UIKit, Cocoa Touch, Core
+Data, Core Location);
+- Strong object-oriented design and programming skills in Objective-C.
+- Experience with third-party libraries and APIs;
+- Experience with CPU/ memory profiling;
+- Deep understanding of web services architecture, networking protocols
+(XML/ JSON, REST, OAUTH);
+- Excellent problem-solving, critical-thinking and communication skills;
+- Experience working with version control systems;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Knowledge of Android App development is a huge plus.","All interested and qualified candidates are
+invited to send their CVs/ resumes to: hr-armenia@... .
+Please indicate the position title in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.science-inc.com .

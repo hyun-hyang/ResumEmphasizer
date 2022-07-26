@@ -1,0 +1,35 @@
+Senior QA Engineer,"LinkGard Systems is looking for an experienced,
+thorough quality assurance (QA) engineer to provide internal support for
+development and to ensure that product quality standards are always met.","- Design and implement a quality assurance solution plan;
+- Keep track of all performed test case scenarios;
+- Perform manual and automated testing of all front-end and back-end
+aspects of developed software;
+- Prepare reports of all performed tests on a regular basis;
+- Troubleshoot program functionality issues and identify bugs;
+- Follow up with employed programming solutions designed to resolve
+discovered bugs Lead QA/Integrate;
+- Regular interaction with software developers and team leaders.","- Minimum two years of experience in QA testing;
+- Fluency in English language;
+- Proficiency in Rational Robot and Mercury Winrunner software testing
+solutions;
+- Knowledge of both Windows and UNIX environments and scripting skills
+(including Perl, bat and shell);
+- Proficiency in all standard Windows programs such as Office as well as
+in HTML, XML, Java and other Web technologies;
+- Knowledge of Microsoft Exchange, MS SQL, Oracle Database 10g, Windows
+2003 Server, automated file archiving solutions, and some programming
+languages such as C++;
+- Familiarity with Apple Mac OS X is also a plus;
+- Bachelor's degree or higher in computer sciences or a related field;
+- Ability to learn new programs quickly and apply their skills to their
+undertakings at hand even with minimal working knowledge of the
+developed product;
+- Ability to meet tight deadlines and work extra hours to help deliver
+the product;
+- Willingness to work in a hands-on teamwork-fostered environment.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (LG031)
+in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting."

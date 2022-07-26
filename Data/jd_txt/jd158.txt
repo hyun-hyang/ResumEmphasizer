@@ -1,0 +1,35 @@
+Software Engineers,"Basically we are looking for smart, organized and
+responsible developers.
+This position offers an opportunity for the dedicated individuals with
+limited amount of experience.
+For the experienced professionals leadership position is available when
+responsibility makes perfect sense with the power of execution.","Job responsibilities include various tasks
+related to the full software development lifecycle.
+From analysis and development of business requirements through the
+design and implementation towards test and verification.
+C++ possibly C# will be the main development languages therefore good
+understanding of the Object Oriented methodology is highly appreciated.
+Some system administration and Quality Assurance tasks will be required
+by these position holders.","For all candidates school grades play an
+important role so please have university and high school grades
+available if requested during selection process.
+- Understanding basic concepts of OOA/OOD;
+- Knowledge of C++ and SQL;
+- Acquaintance with MS Visual Studio environment.
+Desired skills:
+- MS SQL Server or any other relational database;
+- Development experience;
+- Any experience developing web applications is big plus;
+- Familiarity with .NET framework;
+- Knowledge of English language is huge plus.","Please send the resumes with salary
+requirements to marg_arm@....
+Please, include salary history (if any) and current salary
+expectations.
+After the first review selected candidates will be contacted for the
+phone interview
+which will proceed with formal interview including possible technical
+tests.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"MargaSoft is a California Based startup software company
+specializing in custom software development."

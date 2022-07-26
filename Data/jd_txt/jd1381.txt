@@ -1,0 +1,36 @@
+Software Development Intern,"In conjunction with the student's university and in
+accordance with the company's Engineering Co-Op Program, receive various
+trainings and assignments in software development area thus acquiring
+real-life experience.
+The candidate will participate in software development process,
+particularly:
+- GUI based application development using C++ and Java languages;
+- Batch mode application and library development using C++ and Tcl
+languages.
+The candidate will be also involved in software QA process,
+particularly:
+- Analysis and elimination of FlexeLint, Purify and compile time issues
+and warnings;
+- Automated test development for batch mode and GUI based tools.",NA,"- Be a 1st year MS student;
+- Basic scripting skills (knowledge of Unix Shells, Tcl);
+- Basic knowledge of C++ and STL;
+- Ability to search and study documentation;
+- Basic knowledge of object oriented programming;
+- Basic knowledge of data structures and algorithms;
+- Ability to quickly study and apply new tools and methodologies;
+- Good English communication skills;
+- Team working capability.
+Desired Skills:
+- Pro-active ""can-do"" mentality, self-motivated and assertive
+personality; 
+- Multitasking and organizational skills; 
+- Written and verbal English language communication skills; 
+- Good team interaction skills with engineers and other support staff; 
+- Hard working, reliable personality.","Please submit your detailed CV in English to:nlucy@... indicating the Internship title in the subject line of
+your e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"Synopsys is a provider of electronic design automation
+(EDA) software and services. Synopsys Armenia CJSC was established in
+October 2004 by Synopsys Inc. Please visit: www.synopsys.com for more
+information."

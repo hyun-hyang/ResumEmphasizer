@@ -1,0 +1,37 @@
+Junior Software Developer,"Junior Software Developer will develop software systems
+according to clients' requirements, and continue debugging, enhancing and
+maintaining developed systems. Primary responsibilities of the incumbent
+include developing, debugging and testing software components for
+database driven web based enterprise level software using C# programming
+language and SQL.","- Develop software code based on the existing design;
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Constantly update technical knowledge and skills;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/ write technical documentation on codes and algorithms;
+- Work productively in a software development team;","- Bachelor's degree in Computer Sciences, Physics, Mathematics or related
+disciplines;
+- Good grades in undergraduate and other studies;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Familiarity with object oriented programming and C#;
+- Familiarity with web technologies;
+- Familiarity with relational databases and SQL language;
+- Familiarity with algorithms, ability to estimate algorithm complexity;
+- Familiarity with data structures;
+- Good English language skills including reading, writing, and speaking;
+- Ability to learn fast.
+DESIRED QUALIFICATIONS:
+- Familiarity with Java, C++ or other object oriented programming
+languages;
+- Familiarity with Silverlight and WCF;
+- Ability to write programs using different programming languages and
+environments;
+- Familiarity with MVC and MVVM patterns;
+- Familiarity with ASP.NET","Interested candidates should send their CVs and
+inquiries to: Armen Nahapetyan at: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The main specialization of the company is developing and
+licensing large-scale computer models and software."

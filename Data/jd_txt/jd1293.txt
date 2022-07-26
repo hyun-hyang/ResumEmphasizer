@@ -1,0 +1,89 @@
+Senior Network Administrator,"The responsibilities of the Senior Network
+Administrator are focused on installation, configuration and maintenance
+of company's local area network (LAN) and overseeing it, to ensure that
+it functions smoothly. The Senior Network Administrator may be
+responsible for customizing the network to the company's needs by
+connecting the necessary software and hardware to the network.","- Perform backups of the servers and workstations;
+- Add and delete new network users, work with active directory;
+- Ensure that virus protection software is up-to-date and clean any
+viruses that infect staff computers and servers;
+- Train and assist staff in using hardware and software efficiently;
+- Troubleshoot any routine problems;
+- Be responsible for software installation, maintenance and upgrading;
+- Be responsible for hardware installation, maintenance and upgrading;
+- Administrate and maintain routine network;
+- Be responsible for network documentation;
+- Supervise the database;
+- Set up, configure and maintain the LAN;
+- Maintain external and internal connectivity;
+- Evaluate changes to current and future network requirements to meet
+company's needs;
+- Ensure security of the information stored;
+- Be responsible for grant access and operating rights to relevant
+people;
+- Install, maintain and troubleshoot computers;
+- Make recommendations on installation of new hardware and software;
+- Install and maintain emergency systems to back up the main network
+server.","- Master's degree and a strong background in math, systems science,
+computer science or engineering;
+- 3-5 years of experience in a similar work;
+- Minimum 5 years of maintaining large-scale LANs;
+- Knowledge and experience with network software installation;
+- Knowledge and experience with hardware installation and upgrades;
+- Knowledge of and work experience in Microsoft Windows operating system,
+ability to implement Active Directory, DNS, DHCP, VPN, RRAS, etc.;
+- Knowledge of unix-based operating systems;
+- Knowledge of computing and network hardware and peripheral equipment;
+- Ability to install and maintain LANs supporting various networking
+technologies;
+- High energy and positive personality;
+- Effective oral and written communication skills;
+- Strong organizational skills;
+- Excellent interpersonal skills;
+- Ability to work under pressure and meet deadlines;
+- Ability to travel as necessary;
+- Ability to quickly grasp and support new concepts, systems and
+applications;
+- Ability to manage time effectively, work under pressure and in
+multi-task environment;
+- Ability to work in a team while being self-directed and highly
+motivated;
+- Strong interpersonal and organizational skills and ability to deal
+effectively in a team environment;
+- Excellent analytical and problem-solving skills and attention to
+details;
+- Ability to analyze complex problems, interpret operational needs and
+develop integrated, creative solutions;
+- Strong communication and writing skills and ability to work directly
+with the development team;
+- Fluency in English language;
+- Display professionalism and have well-developed interpersonal skills;
+- Ability to work effectively in a team environment, as well as being
+comfortable managing own projects with limited supervision;
+- Ability to take criticism;
+- Self motivated, technically proficient personality, able to grasp new
+concepts quickly;
+- Excellent oral and written communication skills and demonstrated
+ability to collaborate effectively with developers and non-developers;
+- Ability to communicate technical information to non-technical
+personnel.","If interested, please send your resume along
+with a cover letter listing your qualifications, position related
+experience, and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) and mentioning the position you
+are applying for in the subject line to:
+Ms. Mariam Kanayan, HR Manager
+E-mail: careers@.... 
+Candidates who meet these qualifications will be shortlisted and
+interviewed. Selected candidates will be notified of the interview dates
+directly. 
+The company thanks all who apply but only those selected for an interview
+will be contacted.
+Please note that initial consideration will be given to the applications
+received prior to the date indicated above. Thereafter, applications will
+be reviewed on an as-needed basis.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

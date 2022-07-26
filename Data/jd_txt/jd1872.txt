@@ -1,0 +1,27 @@
+Senior Java Developer,"AtTask has an opening for Senior Java Developer with
+extensive UI experience in Web 2.0 development to assist in the
+development of work management platform at Yerevan office.","- Create the best project management software on the market;
+- Perform software development, test case development and usability of
+products;
+- Assist with integration services related to the AtTask product;
+- Work in a scrum project framework.","- Bachelor's degree in Computer Science; Master's degree is a plus;
+- At least 5 years of relevant work experience;
+- Fluency in English language both written and spoken;
+- Expertise in HTML, CSS, AJAX and JavaScript frameworks;
+- Over 3 years of professional experience in projects as a Java Developer
+in J2EE;
+- Knowledge of agile and scrum environments;
+- Advanced knowledge of OOP and OOD;
+- Knowledge of Web Frameworks: Struts, JSP/ Servlets;
+- Knowledge of Oracle/ MySQL and MSSQL;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to communicate well with operations and technology;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Detail oriented personality and a self starter;
+- Skills in JBoss, Oracle EclipseLink and Seleniun are desired.","Please, email your CV to:jobs.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask Inc. is a project management software company
+based in Utah. Please read more about the company visiting:
+www.attask.com."

@@ -1,0 +1,17 @@
+Java Developer,"The incumbent will join the software development team
+to work on software project(s).","- Participate in all stages of web application design and development;
+- Responsible for software development for new applications and 
+pre-developed Java applications.","- At least 3 years of Java programming experience;
+- Extensive knowledge of Web Front End technologies: Apache Wicket,
+Struts 2, JSF;
+- Extensive knowledge of MySQL, Hibernate;
+- Experience with backend development/ individual application
+development;
+- Experience with MQ, JMS;
+- Experience with JasperReports and POI library;
+- Good knowledge of English language;
+- Ability to manage time, work load, project progress without
+supervision.","Interested candidates should send their CVs to:jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

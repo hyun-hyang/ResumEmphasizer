@@ -1,0 +1,33 @@
+Senior Frontend Developer,"Joomag AM LLC is seeking a highly motivated Senior
+Frontend Developer who will become a part of the company's team and
+contribute to all aspects of the ongoing software development from the
+initiation, through to developing, testing and launching.","- Work on large-scale web-based projects, ensuring robust and lasting
+solutions are implemented;
+- Work hand to hand with web and mobile designers and translate their
+designs into websites, HTML e-mails and interactive experiences;
+- Test, debug and build code that works across multiple browsers and
+digital platforms;
+- Maintain existing JavaScript libraries making sure they support the
+engineering and creative needs of the company's website;
+- Develop new user-facing features;
+- Build reusable code and libraries for future use;
+- Ensure the technical feasibility of UI/ UX designs.","- At least 3 years of experience in web application development;
+- Bachelor's/ Master's degree in Computer Science, Engineering or in a
+related subject;
+- Strong knowledge of native JavaScript; 
+- Strong knowledge of web markup, including HTML5 and CSS3;
+- Strong knowledge of jQuery;
+- Strong understanding of AJAX;
+- Experience with GIT;
+- Good knowledge of PHP and MySQL;
+- Knowledge of OOP and Design Patterns;
+- Good knowledge of Adobe Photoshop/ Adobe Illustrator;
+- Knowledge of LESS is a plus;
+- Strong knowledge of AngularJS is a plus;
+- Good knowledge of English language.","All interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

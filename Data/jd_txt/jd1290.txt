@@ -1,0 +1,33 @@
+Software Co-Op Engineer,"In conjunction with the student's university and in
+accordance with Virage Logic Engineering Co-Op Program, the incumbent
+will receive various trainings and assignments in software development
+area thus acquiring real-life experience.
+The candidate will be involved in software QA process, particularly:
+- Analysis and elimination of FlexeLint, Purify and compile time issues
+and warnings;
+- Automated test development for batch mode and GUI based tools.
+The candidate will participate in software development process,
+particularly:
+- Batch mode application and library development using C++ and Tcl
+languages;
+- GUI based application development using C++ and Java languages.",NA,"- First year MS student;
+- Basic scripting skills (knowledge of Unix Shells, Tcl);
+- Basic knowledge of C++ and STL;
+- Ability to search and study documentation;
+- Basic knowledge of object oriented programming;
+- Ability to quickly study and apply new tools and methodologies;
+- Good English language communication skills;
+- Team working capability. 
+Desired Skills:
+- Pro-active 'can-do' mentality, self-motivated and assertive
+personality; 
+- Multitasking and organizational skills; 
+- Written and verbal English language communication skills; 
+- Good team interaction skills with engineers and other support staff; 
+- Hard working, reliable personality.","Please e-mail your detailed CV in English
+language to: Hr.Armenia@... , indicating the position title
+in the subject line of your e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

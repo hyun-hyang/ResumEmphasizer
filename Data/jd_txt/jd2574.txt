@@ -1,0 +1,23 @@
+Front-end Developer,"Giant Slayer Ltd is an international company looking
+for a broadly skilled and competent Front-end Developer to join its
+Yerevan team. The Front-end Developer will have overall responsibility
+for the look and feel of the company's web-based Investment Platform. He/
+she will build on the work of the company's part-time and contract
+designers and coordinate any on-going external design input.",NA,"- At least 2 years of experience in web application development with HTML
+5, CSS, JavaScript;
+- Good knowledge of JQuery;
+- Knowledge of Twitter Bootstrap is a plus;
+- Detail-oriented personality and good team player;
+- Knowledge of Git;
+- Experience in creating responsive web pages for different media;
+- Knowledge of basic Photoshop or other image editing applications;
+- Fluency in written English language;
+- Experience working in an agile development environment is a plus;
+- User Experience (UX) and Graphic design knowledge for an online
+business web site is a plus.","Interested candidates are asked to submit
+English language CVs and application letters to: arevh@... .
+CVs without application letters will not be considered. Please submit
+applications as soon as possible.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

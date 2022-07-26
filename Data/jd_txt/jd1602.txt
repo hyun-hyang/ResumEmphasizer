@@ -1,0 +1,46 @@
+User Experience Specialist,"Synergy Armenia is looking for a User Experience
+Specialist to apply knowledge of user-centered design methods and
+industry best practices to drive useful and usable interface design
+solutions.","- Be responsible for hands-on development of rich user interface for web
+applications;
+- Create complete prototype user interface designs quickly from scratch;
+- Participate in the definition and design of new application
+interfaces;
+- Perform documenting high-level annotations and functional and design
+specifications;
+- Translate client goals into user-centered designs.","- Bachelor's degree in Computer Science;
+- 2+ years of experience in graphic design and user interface development
+for commercial software applications;
+- 2+ years of experience using JavaScript frameworks;
+- Strong experience in all of the following: DHTML, CSS, Flash, AJAX;
+- Thorough understanding of memory management and unit testing with
+JavaScript frameworks;
+- Proven experience in creating scalable interfaces and writing unit
+tests;
+- Ability to quickly produce prototypes to evaluate look, feel and flow
+of new applications;
+- Experience with software engineering best practices, including use of
+version control systems, change and defect tracking tools, and test
+automation tools;
+- Ability to work under pressure and in multi-task environment;
+- Ability to work in a team while being self-directed and highly
+motivated;
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Excellent interpersonal and organizational skills.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title User Experience
+Specialist, listing your qualifications, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:
+Ms. Mariam Kanayan 
+Human Resource Manager 
+E-mail: careers@...
+Candidates who meet these qualifications will be short-listed and
+interviewed. Selected candidates will be notified of the interview dates
+directly. The company thanks all who apply but only those selected for an
+interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

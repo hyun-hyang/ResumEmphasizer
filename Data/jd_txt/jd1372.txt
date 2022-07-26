@@ -1,0 +1,30 @@
+Java Software Developer/ UI Specialist,"Integrien, Subdivision of VMware, is seeking a highly
+experienced software development professional to join the engineering
+team in Yerevan. The successful candidate will join UI (User Interface)
+development team.","- Participate in whole development cycle, including initial requirement
+discussions, design, implementation and documentation;
+- Deliver robust, scalable, quality software products on time;
+- Produce high-level deliverables to effectively communicate design
+interaction and concepts;
+- Develop user interaction models and interfaces for enterprise
+software;
+- Troubleshoot existing modules and fix problems;
+- Write technical and code level documentation;
+- Assist team members.","- Strong educational background and 3+ years of demonstrated experience
+in the development of rich, intuitive, modular and interactive user
+interfaces with advanced to expert-level skills for complex enterprise
+software products;
+- Solid knowledge of UI/UX best practices and methodologies;
+- Strong knowledge and experience in structural design of rich,
+intuitive, modular and interactive graphical user interfaces using web
+environment;
+- Excellent object-oriented architecture and design skills;
+- Strong experience with Java SE and Java EE;
+- Strong experience with JavaScript, HTML, CSS and DOM;
+- Experience with JavaScript libraries (ExtJS, etc.):
+- Experience working with Databases and SQL;
+- Ability to work under pressure in a dynamic environment;
+- Strong English writing and speaking skills.","Please apply to this job by sending your CV to:cv@.... For enquiries, please call: +(374 10) 29 70 24.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

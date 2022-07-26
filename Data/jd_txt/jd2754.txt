@@ -1,0 +1,49 @@
+Senior QA Engineer,"The Senior QA Engineer will provide expertise in the
+area of Manual and Automated QA activities for client-server
+applications, with particular focus on web components and high volume
+data flow and transactions.","- Write test plans and test cases throughout the development lifecycle;
+- Ensure test plans thoroughly cover all requirements and use cases;
+- Plan, schedule and perform manual and automated software tests;
+- Develop automated regression test suites using automated testing
+tools;
+- Foster a continuous improvement approach to QA activities;
+- Review tools implementations and encourage best practices and sound
+design principles while remaining practical and deadline driven;
+- Work closely with Software Developers to perform early testing on
+components prior to integration builds;
+- Manage defect tracking; monitor and report results;
+- Report QA status, as appropriate, to keep project stakeholders informed
+on deliverables and timelines.","- Excellent knowledge of English language on both communication and
+technical levels;
+- BS in Computer Science or a related field;
+- At least 2 years of experience as a Senior QA Engineer with solid
+progression in responsibility;
+- Experience with testing high performance systems is a plus;
+- Working knowledge of Linux/ Unix, Solaris and Windows environments is a
+plus;
+- Advanced knowledge of system development lifecycle, methodology and
+testing knowledge;
+- Solid knowledge of the quality assurance techniques, testing concepts,
+methodologies and tools;
+- Expert ability to apply quality assurance knowledge to in-depth testing
+and test plans;
+- Excellent analytical skills with the ability to investigate and
+research multiple sources;
+- Excellent interpersonal and oral/ written communications skills;
+- Advanced knowledge of Trading Systems and Trading concepts,
+particularly within the Equities realm, is considered a very important
+asset;
+- Expert ability to apply concepts of unit, system, regression, product,
+integration and acceptance testing;
+- Knowledge of testing tools: broad experience using different testing
+tools (jmeter, jprofiler, selenium, etc.); ability to adapt and learn
+quickly with any other testing tool;
+- Good understanding of automation testing approaches.","All interested and qualified candidates are
+welcome to send their CVs to: hr@... . Please indicate the
+position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis (a TeamViewer company), is a global IT monitoring
+and analytics provider. For more information about the company please
+visit: http://www.monitis.com/about-us."

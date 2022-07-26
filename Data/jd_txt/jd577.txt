@@ -1,0 +1,27 @@
+Web Developer,"Toto International Bookmakers is looking for a
+qualified Web Developer to participate in development and maintenance of
+its in-house corporate solutions. The main responsibilities of this
+position are focused on designing and developing state-of-the-art
+desktop- and Web-based applications for the company as well as designing
+Web interface and ensuring compliance with the required standards.","- Write ASP.NET 2.0 based code;
+- Write Web front interfaces;
+- Work as part of a software development team;
+- Read, understand and modify the existing code.","- At least 2 years of work experience in Web development;
+- At least 2 years of work experience in Web development using ASP.NET
+and C#;
+- Knowledge of Ajax, Web Services, SQL and ADO.NET;
+- Excellent knowledge of HTML, CSS and JavaScript;
+- Willingness to participate in creation of web applications;
+- Basic knowledge of English language;
+- Good knowledge of technical English language;
+- Knowledge of Macromedia Flash is desired.","If interested, please send your resume with a
+cover letter listing your qualifications, web development related
+experience, and indicating your contact details (phone, fax, and/or
+e-mail address where you can be reached) to: resume@....
+Candidates who meet these qualifications will be interviewed and will be
+required to take a test. Selected candidates will be notified of the
+interview dates directly.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Toto International Bookmakers is a bookmaker company in
+Armenia."

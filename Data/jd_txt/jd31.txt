@@ -1,0 +1,21 @@
+Java/C++ Programmer,"Responsible for performance of systems analysis,
+applications programming, and user training, connected with the
+development and maintenance of automated data processing functions.","Responsibilities include:
+- Design and development of scalable, data-intensive infrastructure
+- Architecture design, database schema design, software design and
+implementation
+- Add support for multiple image formats (e.g. PDF) and page layout
+description","Specific knowledge, application, technical,
+educational, and/or management skills required to perform duties as
+specified: 
+- 5+ years programming experience.
+- Excellent knowledge of Object Oriented programming and design.
+- Very good knowledge of Java and C++
+- Knowledge of image/graphics file formats a plus
+- BS / MS in Computer Science desirable","To apply for this position please send your
+cover letter and CV to the e-mail address resumes_mx@.... Please
+indicate the job title in the subject line of your e-mail. No phone
+calls please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

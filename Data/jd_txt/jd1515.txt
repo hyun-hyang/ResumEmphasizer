@@ -1,0 +1,20 @@
+.NET Senior Developer C#,"Fast Credit LLC is looking for a Senior Developer
+(.NET/ C#/ WCF/ MS SQL Server)","- Write and test code according to technical documentation;
+- Support, maintain and document software functionality;
+- Stay organized to achieve mission and purpose, goals and objectives;
+- Work hard towards self-development.","- Experience in C#, .NET Framework, including 4.0;
+- Experience in WCF services development;
+- Excellent communication skills;
+- Excellent knowledge of English language writing and speaking;
+- Ability to express thoughts clearly;
+- Strong knowledge of design patters, multi-tier projects and .NET, C#,
+WCF, WPF technologies;
+- Expertise in Visual Studio 2010, Team Foundation Server 2010 and Agile
+software development;
+- Ability to adapt to changing business requirements;
+- Good knowledge of SQL, T-SQL languages, familiarity with MS SQL Server.","To apply, please email your CV to:hrfastcreditltd@... .
+In the subject field obligatory mention the job title for which you are
+applying, otherwise your email cannot be observed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

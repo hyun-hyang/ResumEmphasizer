@@ -1,0 +1,36 @@
+Web UI Developer,"AtTask needs Web UI Developers to bring their talents
+to Yerevan office and help company deliver on the promise of Enterprise
+Work Management. The Engineer will contribute to an Agile team, choosing
+what he/ she wants to work on and executing at a rapid pace. As a Web UI
+Developer you can expect to spend your days interacting with like-minded
+people who share your passion for building great software and believe in
+the AtTask mission. If you are looking for a performance oriented culture
+with great benefits and greater freedom, join AtTask team.","- Design and build amazing new features using HTML, CSS, Javascript and
+MooTools;
+- Focus on details to produce cross-browser, pixel perfect UI using
+current web development technologies;
+- Work with members of Product Management, UX, and QA on cross-functional
+teams;
+- Guide and mentor those around him/ her;
+- Demonstrate technical excellence by delivering enterprise-grade
+quality;
+- Move fast and ship fast in a continuous delivery model;
+- Contribute in a meaningful way to the success of AtTask.","Excellent knowledge of:
+- MooTools, JQuery, Backbone and Less;
+- Object-oriented Javascript;
+- HTML5/ CSS;
+- Jasmine/ Rhino/ JSLint.
+Experience with:
+- Agile software development;
+- SaaS business model;
+- Java/ J2EE;
+- SQL (Oracle and MySQL);
+- Git;
+- Contributing to Open-Source.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 0913"" in the subject line of your email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company, visiting: www.attask.com."

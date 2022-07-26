@@ -1,0 +1,29 @@
+Senior Firmware/Software Engineer,"This individual will develop products, technologies
+and test tools making use of advanced wireless, location and sensor
+technologies.",NA,"- Senior level experience with at least 8 years in the software
+development, at least 4 of those years should be in the area of embedded
+and real-time systems;
+- Experienced in Assembler, C, and C++ (embedded, Window, Linux),
+scripting languages Make, Perl, Python. Knowledge of C# and Java is
+desirable;
+- Experienced in structured methodologies, to include design through
+system integration and test for embedded systems;
+- Experienced with a variety of the following, RTOS, ICE, IDE;
+- Experienced with version control software and automated build
+environment;
+- Fluent in English language;
+- BSEE, BSCE, BSCS or equivalent. Advanced degree is a plus. 
+DESIRABLE EXPERIENCE: 
+- Experienced with several of wired and wireless data communications
+technologies, including TCP/IP, 802.11, 802.16, 802.15, ZigBee, and
+anti-collision techniques for RFID systems;
+- Familiarity with compression, authentication, encryption, search
+algorithms;
+- Experienced with low power consumer electronics to include power
+management and diagnostics;
+- Familiarity with hardware schematics, design, and development;
+- Familiarity with test tools e.g. oscilloscope, logic analyzer.","Please, email your CV to:ra-eng-jobs@... . In the subject line of your e-mail message
+please mention the title of the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

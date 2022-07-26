@@ -1,0 +1,24 @@
+DHTML and Javascript Programmer,"At Lycos we are developing a new Chat/Flirt/Games
+Community. In this community we will need a lot of dynamic pages where
+content on the webpages change via Javascript and DHTML, so we are
+looking for a skilled DHTML / Javascript programmer to fill this
+position.",NA,"- High skill of JavaScript and DHTML 
+- Extensive knowledge of the Document.Object.Model (DOM standards) 
+- Extensive knowledge of Object oriented programming 
+- Extensive knowledge HTML and CSS 
+- Optimizing HTML to W3C standards 
+- Optimizing Javascript and DHTML for speed 
+- Must be able to do Browser optimization 
+- Good knowledge of Mozilla and Internet Explorer browsers","Send e-mail info@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Armenia currently employs 71 employees, and is
+heavily growing in all areas. Since there is a growing demand by our
+European development offices we are actually engaging new staff and plan
+to employ 100 employees at the end of the year. Additionally Lycos
+Armenia is building up an operations department, the plan is to have 20
+employees before the end of the year. Lycos Armenia offers excellent
+working conditions in several ways. As a portal Lycos is on top in many
+aspects, and for the development office here in Armenia it is the same.
+Many Lycos products are partially or fully programmed in Armenia.
+We are located at 9 Alek Manookian Str."

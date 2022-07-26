@@ -1,0 +1,73 @@
+SharePoint Developer,"The ideal candidate for this position must be
+experienced in designing and developing highly performing and scalable
+applications that meet the business requirements. The incumbent will be
+involved in small to large scale projects through all stages of the
+software development life cycle, from requirements' gathering to
+implementation. The SharePoint developer will also collaborate with
+business stakeholders, user interface team, .NET developers and database
+architects to design and develop functionally rich, robust and user
+friendly web applications as defined by business requirements.","- Architect, implement and maintain SharePoint environment; 
+- Develop and implement SharePoint collaboration portals/ sites using
+SharePoint Designer/ Visual Studio .NET Framework;
+- Provide daily administration and support of applications within the
+SharePoint environment; 
+- Develop custom SharePoint-based solutions, implementing customizations
+via solutions framework; 
+- Design solutions that leverage out-of-the-box SharePoint functionality;
+- Develop custom web parts, work flows, InfoPath Forms and list event
+handlers; 
+- Responsible for support and expertise for a multi-tier environment and 
+evaluation for any additional infrastructure or software required to
+support the SharePoint environment; 
+- Work with customers and business analysts to design SharePoint
+solutions that satisfy business requirements; 
+- Manage deployment of applications within the SharePoint; 
+- Act as the subject matter expert on development techniques;
+- Create documentation and participates as a reviewer and contributor in
+requirements' design and estimation; 
+- Identify ideas to improve system performance and impact availability
+and resolve complex technical design issues;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support;
+- Play active role in defining and implementing best practices, standards
+and procedures, including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products; 
+- Support the Team Lead in technical decisions and development estimates;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects; 
+- Conduct researches and proof of concepts; 
+- Produce rapid prototypes for the project if needed;  
+- Share knowledge and lessons learned with team members.","- Degree, diploma or equivalent directly related to  work experience; 
+- At least 3 to 5 years of experience in customizing sites with
+SharePoint Designer; 
+- At least 3 to 5 years of experience in implementing or supporting
+SharePoint solutions; 
+- Strong experience in MOSS 2007/ 2010 Software Development, including
+design, development and implementation of custom Web Parts, workflows and
+InfoPath; 
+- Strong experience with the .NET Framework (C# and  ASP.NET), HTML, CSS,
+JavaScript, AJAX and XML/ XSL/ XSD;
+- Microsoft Certified Professional certification (MCAD or MCSD) is an
+asset; 
+- Proficient knowledge of designing and developing Microsoft enterprise
+server products, specifically MS SharePoint Designer, MS Office
+SharePoint Server 2007/  2010, Windows SharePoint Services v3.0 and
+InfoPath; 
+- Strong customer service skills and demonstrated ability to build
+professional relationships;
+- Excellent written and oral communication skills; 
+- Strong problem-solving and decision-making skills; 
+- Excellent time-management and organizational skills  that facilitate
+structured teamwork; 
+- Highly developed communication, presentation, facilitation and
+negotiation skills; 
+- Experience and/ or personal interest in the financial industry is an
+asset;
+- Ability to work with minimal supervision; 
+- Ability to adapt and change based on new business requirements and
+environment.","Please submit resume to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=223
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit www.questrade.com."

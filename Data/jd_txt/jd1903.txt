@@ -1,0 +1,41 @@
+IT Specialist,"The IT specialist will be responsible for all IT
+matters of the company.","- Maintain Company's Information Systems administration;
+- Maintain and administer Companys database server, as well as maintain
+the WEB page;
+- Install, maintain and administer the Email server;
+- Perform daily system monitoring, verify the integrity and availability
+of all hardware and server resources, systems and key processes, review
+system and application logs, and verify completion of scheduled jobs such
+as backups;
+- Perform regular security monitoring to identify any possible
+intrusions;
+- Perform daily backup operations, ensuring all required file systems and
+system data are successfully backed up to the appropriate media, recovery
+tapes or disks are created, and media is recycled and sent off site as
+necessary;
+- Install new/ rebuild existing servers and configure hardware,
+peripherals, services, settings, directories, storage, etc. in accordance
+with standards and project/ operational requirements;
+- Apply OS patches and upgrades on a regular basis; configure/ add new
+services as necessary;
+- Get involved in IT systems and services procurement process;
+- Prepare technical requirements for IT projects and provide ongoing
+support to developers; 
+- Customize new system development and existing system;
+- Research and recommend innovative and where possible automated
+approaches for system administration tasks;
+- Work under the rules and regulations of the Central Bank of Armenia;
+- Perform other tasks as assigned by General Director.","- Bachelor's degree in Computer Sciences; Master's degree is a plus;
+- At least 2 years of relevant work experience;
+- Fluency in English language;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to explain clearly the problems to the development team(s);
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","Please email a CV and cover letter to:mail@... . No phone calls please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Company is intended to apply to the Central Bank for
+investment fund management Companys license. As a newly created company
+it will need to build a good IT infrastructure to handle its functions
+efficiently."

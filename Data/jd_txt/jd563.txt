@@ -1,0 +1,43 @@
+Java Developer,"EPAM Systems is actively looking for Java developers
+for complex and long-term projects. The position entails working with
+Sun and IBM products, portal solutions, the latest Java technologies.","- Develop software according to requirements;
+- Participate in tasks estimation;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills.","- Good knowledge of OOP and OOD;
+- Experience in projects as a Java developer in J2EE (JSP, Servlets,
+JDBC, EJB, JMS, Struts) for more than 1 year;
+- Experience in the development of multi-layered client-server
+applications, client and server components;
+- Experience in Oracle and MS SQL databases;
+- Good understanding of design patterns;
+- Basic knowledge in UML;
+- Ability to develop quality code, apply proper language constructions,
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism;
+- Basic knowledge of English language;
+- Fluent knowledge of Russian language.
+Desired qualifications:
+- Ability to responsibly complete assigned tasks according to
+deadlines;
+- Good productive capacity;
+- Energetic personality;
+- Ability to express your thoughts clearly;
+- Ability to work on one task at the same time without supervision.","Please, email your CVs to: jobs@... and
+refer to the announcement code in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","In 2006 EPAM Systems merged with VDI, which had
+presence and development expertise in Armenia along with its global
+workforce. The combined company has 18 branches in 8 countries with
+2700+ employees. 
+EPAM is distinguished by its technology expertise, proven by such
+customers as SAP, Reuters, Microsoft, BEA Systems, EMC and many others.
+The company has a combined expertise in such horizontal solutions as
+CRM, ERP, DMS, CMS, SCM, EAI, BI.","According to Brown-Wilson Group Survey* EPAM Systems is
+the #1 software engineering outsourcing services provider in Central and
+Eastern Europe. Founded in 1993, EPAM maintains North American
+headquarters in Lawrenceville, NJ. EPAM software development centers are
+located in Russia, Hungary, Belarus, Ukraine and Armenia.
+*http://www.theblackbookofoutsourcing.com/top10itooffshoreeasterncentraleurope.html"

@@ -1,0 +1,32 @@
+Web Developer,"SAS Group is seeking a Web Developer who will have
+hands-on responsibilities for the development, testing and deployment of
+front and back-end software solutions ensuring successful and timely
+development of modules, databases, applications and new technologies to
+provide an enhanced user experience and more secure and efficient
+infrastructure.","- Program and develop database-driven websites, troubleshoot web-related
+issues, perform general web site maintenance and web tasks as needed;
+- Create efficient, imaginative and sophisticated solutions for software
+feature requests;
+- Provide informed, innovative recommendations regarding the use of
+JavaScript/ PHP/ MySQL, ASP.NET/C#, HTML/CSS to meet a variety of
+business needs;
+- Function as liaison between design and software development teams to
+ensure accurate implementation of specified design and functionality;
+- Update web pages to ensure site accuracy and currency;
+- Find, diagnose and fix problems with existing web applications and
+sites.","- Bachelor's degree in the field of information systems;  
+- Experience creating database-driven web sites using some of the
+following web programming technologies: JavaScript/ PHP/ MySQL,
+ASP.NET/C#, HTML/CSS; 
+- Ability to work in a structured development environment with build and
+configuration management tools;
+- Knowledge and understanding of application development methodologies;
+- Excellent relationship building skills.","Interested candidates are encouraged to submit
+a CV to: hr.sas@... with a note of ""Web Developer"" in the
+subject line or call +(374 10) 52 57 22 for inquiries. The Group thanks
+all who express interest in this opportunity; however only those
+selected for an interview will be contacted. Applications privacy and
+confidentiality guaranteed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

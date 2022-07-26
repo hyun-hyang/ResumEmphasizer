@@ -1,0 +1,42 @@
+PHP Developer,"Company is looking for a PHP Developer to work on web
+projects and backend development for CRM and/ or PM systems. The PHP Web/
+Backend Developer will join a fast paced development team working on a
+number of commercial projects.","- Develop and maintain new and existing PHP web applications; 
+- Participate in all phases of software development life cycle to convert
+concepts and specifications into deployed applications and features; 
+- Interact daily with the systems and processes used in professional
+software development, including source control, bug tracking, testing,
+etc.; 
+- Design, prototype, implement and deploy one or more core Tejux platform
+services within the first six months of work;
+- Develop an early understanding of the product and code details and
+participate in peer code reviews; 
+- Write maintainable code with extensive test coverage, working in a
+professional software engineering environment (with source control, dev/
+stage/ prod release cycle, continuous deployment)  cowboy coders need
+not apply; 
+- Tackle complex problems in distributed computing, virtualization
+performance, distributed queuing, and more.","- At least 1 year of full-time relevant work experience;
+- Experience in writing PHP-based applications; 
+- Bachelors degree in Computer Sciences, Computer Engineering, or
+equivalent experience;
+- Proficient with CSS and JavaScript, preferably jQuery; 
+- Proficient with PHP frameworks (at least one); 
+- Experience with traditional RDBMS databases (at least one), such as
+Postgres, MySQL, Oracle, etc.; 
+- Experience in optimizing code for application performance;
+- Enthusiasm for working in a fast-paced startup. Company ships to
+thousands of people on a very regular basis, with tight schedules and
+small teams, and it takes a certain kind of energy and drive to get it
+done. 
+Desired Qualifications: 
+- Zend framework experience; 
+- Ruby or Ruby on Rails experience;
+- Java experience;
+- Experience with payments processing and/ or Social APIs (Facebook,
+Twitter, etc.).","Please send your CV to: vahagn@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tejux develops websites utilizing a team approach to
+product development. Tejux team reviews all current projects and client
+contacts within a weekly team meeting held every Monday morning."

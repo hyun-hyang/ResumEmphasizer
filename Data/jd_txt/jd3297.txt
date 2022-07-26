@@ -1,0 +1,57 @@
+Database Administrator,"EKENG CJSC is looking for a smart, motivated and
+experienced technical expert for the position of Database Administrator
+(DBA) to support and develop effective and efficient IT infrastructure in
+line with business requirements. The incumbent will provide expertise in
+planning and coordinating the design, installation and connectivity of
+infrastructure databases to ensure the stable operation of the critical
+environment. This includes developing, configuring, maintaining,
+supporting and optimizing all new and existing databases.
+The DBA will be responsible for the performance, integrity, security,
+support and administration of databases. Additional role requirements are
+likely to include planning, development and troubleshooting.","- Design and develop databases, tables, triggers, stored procedures,
+backup, restore and disaster recovery plans;
+- Monitor or troubleshoot, fix data issues, track bugs, support
+applications, analyze data and provide operational metrics;
+- Ensure and test online database backup;
+- Guarantee the online replication of data into a backup platform located
+in another location;
+- Responsible for capacity planning including analysis of database
+partitions, available memory, and database size, database and database
+manager configuration options;
+- Responsible for all database production support tasks, including
+backups and upgrades;
+- Check database logs on a daily basis;
+- Periodically change the database security password;
+- Trace and optimize application user activities;
+- Check database storage and increase the database size for normal and
+exceptional data growth on a daily basis;
+- Coordinate with suppliers/ vendors on the installation and upgrade of
+databases;
+- Responsible for integration with other systems, the creation and
+support of reports and various reporting requirements;
+- Ensure the implementation and planning of database optimization;
+- Ensure the documentation of database configuration and procedures;
+- Identify application problems, analyze error messages and troubleshoot
+application errors and find solutions;
+- Provide regular monthly reports on the activities done.","- Bachelors degree in Engineering, Information Technology or in a
+related field;
+- At least 6 years of work experience as a Database Administrator,
+preferably in mission critical infrastructures with an emphasis on
+database performance tuning and optimizations;
+- Advanced knowledge of MySQL and PostgreSQL Server databases;
+- Good knowledge of IP networking, Windows and UNIX operating systems;
+- Advanced knowledge of SQL languages and optimizations;
+- Good knowledge of Armenian, English and Russian languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner with internal and external
+contacts.","To apply for this position, please submit your
+CV to: hr@... , clearly mentioning the position you are applying for
+in the subject line. Only short-listed candidates will be contacted for
+an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"E-Governance Infrastructure Implementation Unit CJSC
+(EKENG) was established in 2009 by the Government of the Republic of
+Armenia and is responsible for the technical implementation of e-Society
+in Armenia. For more information, please visit: www.ekeng.am."

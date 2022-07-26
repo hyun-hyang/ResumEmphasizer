@@ -1,0 +1,25 @@
+Database Developer/ Data Analyst,"SFL is looking for a full-time Database Developer to
+join a team working on a complex and long-term project.","- Design and develop data models and database architecture;
+- Analyze existing databases and prepare data migration and
+synchronization scripts;
+- Develop views, stored procedures and triggers;
+- Assess database performance and perform necessary tuning;
+- Work as part of a software development team.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 3 years of work experience in software
+development;
+- Excellent knowledge of SQL;
+- Strong experience in ETL (extract, transform, load);
+- Work experience with Oracle, Microsoft SQL server, Postgre SQL and
+MySQL databases;
+- Experience as an Oracle DBA is a plus;
+- Punctuality and accuracy in work;
+- Ability to work efficiently without supervision;
+- Good communication skills in English.","If interested, please email your CV to:jobs@... .
+Please mention ""JobID 1180"" in the subject line of your email. Only short
+listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

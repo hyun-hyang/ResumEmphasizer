@@ -1,0 +1,59 @@
+IT Specialist,"Abt Associates is seeking an IT Specialist to provide
+support to its HS-STAR office in Yerevan, Armenia.","Immediate Support:
+- Provide technical support for major and urgent problems with LAN or any
+of its components (server crash, virus attack, hard drive failure,
+etc.);
+- Provide on-call assistance to individuals as needed.
+Weekly support: 
+- Perform Windows Server maintenance and administration, including
+Windows 2003 patches and upgrades (Service Packs) installation;
+- Monitor server logs and perform necessary operations to ensure the
+proper state of the systems;
+- Monitor the Antivirus software and apply updates; 
+- Perform File Server backup;
+- Perform weekly full backup, daily incremental on file server, monthly
+backups of file server and users data;
+- Monitor site firewall, manage VPN accounts, if any;
+- Monitor File Server;
+- Monitor Group Policy, NTFS permissions, EFS;
+- Perform LAN Administration: create and modify user accounts and
+privileges/rights (for network and exchange); manage disk space, printer
+queues, and internet connection; update antivirus software and definition
+files.
+Monthly support:
+- Perform desktop and laptop computer support, including performing
+routine preventive maintenance (disk scan, deleting temp files,
+defragmentation, etc.); install software patches and upgrades,
+troubleshoot hardware or software problems; and ensure users are backing
+up their data files on the server;
+- Provide basic trainings of Windows Office products;
+- Make monthly conference call with International IT Management; review
+monthly activity, articulate and implement Action Plans relating to
+identified IT needs.
+Support as needed: 
+- Perform hardware troubleshooting, including identifying hardware
+failure for all hardware warranties; coordinate with hardware vendors/
+manufacturers for the prompt replacement of any defective components and
+working with the Project internet service to solve any problems accessing
+the internet and/or sending and receiving email;
+- Assist the office in the physical inventory of all equipments and
+software (PCs, laptops, printers, etc.);
+- Perform other duties as assigned by the project Chief of Party.","- Possession of a Secondary School diploma and two-year post-secondary
+school technical diploma or Bachelors degree in Computer Science or
+Computer Engineering;
+- 4-5 years of experience in IT Network Administration in small/medium
+Windows 2000/2003 environments, including Internet access support; 
+- Good interpersonal, communication, team-working skills;
+- Flexible and self-directed personality;
+- Ability to pay attention to details;
+- Fluency in English language (both oral and written);
+- MCSE certification is a plus;
+- Experience in working with Windows Sharepoint Services is a plus;
+- Fluency in Active Directory, DHCP, DNS, Group Policies, Windows
+2000/2003 server, Windows XP Professional, software and basic hardware
+troubleshooting skills;
+- Ability to network.","Please, submit a CV and a cover letter to:Armenia_jobs@... . Only those candidates chosen for an interview
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

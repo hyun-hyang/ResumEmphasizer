@@ -1,0 +1,22 @@
+Software Developer (Medical Imaging),"AccuSoft-AM LLC is looking for a motivated developer
+to expand current development team. 
+Main focus is development and enhancement of cross-platform (Windows and
+Linux) systems/applications for image and data manipulation. This
+candidate will be mainly working on developing a toolkit for medical
+image processing.",NA,"- Bachelor's/Master's degree in CS or related discipline required;
+- Experience in system and application programming;
+- 3+ years of experience in professional software development;
+- Analytical, technical, and communication skills (in English and
+Russian languages);
+- Excellent knowledge and skills of C, C++, and C# languages;
+- Attention-to-details;
+- Experience in COM and ATL programming is a plus;
+- Background in medical image processing is a big plus;
+- Ability to work independently with help from the team leader;
+- Strong mathematical background is a plus.","If this position is of interest or you would
+like more information on the role, please email CV to:accusoft@... and mention in the subject line as Medical.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AccuSoft-AM LLC is the business partner of AccuSoft
+Corp. (www.AccuSoft.com), USA. Founded in 1985, AccuSoft is a supplier
+of software systems in the area of image and data processing."

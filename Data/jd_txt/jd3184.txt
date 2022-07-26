@@ -1,0 +1,25 @@
+Senior Software Engineer,"Lime Tech is seeking a highly professional programmer
+for the position of Senior Software Engineer to lead the development
+process of a new product.","- Lead the process of product development from scratch;
+- Participate in the process of gathering of product requirements and
+discussions;
+- Develop the core architecture of the product;
+- Assist in creating and tracking technical documentation;
+- Read, understand and modify the existing code as needed;
+- Develop applications in accordance with given specifications;
+- Mentor and lead the junior developers team.","- BS in a relevant field;
+- 2 years of work experience as a WinForm Developer with C#;
+- Strong knowledge of ASP.Net;
+- Strong knowledge of SQL, LINQ, Ado.Net Entity Framework, JavaScript and
+Jquery;
+- Experience in service-oriented development (web services, WCF);
+- Drive for learning new technologies;
+- Leadership skills for mentoring junior mates;
+- Team working, strong problem-solving and good communication skills;
+- Knowledge of the English language is a plus.","All interested candidates should send their CVs
+to: hr@... mentioning the title of the position in the subject
+line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the Company, please visit:
+www.limetech.am."

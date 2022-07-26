@@ -1,0 +1,21 @@
+Software Engineer of Wireless Network Embedded Software,"The incumbent will lead a small team of software
+engineers developing products and technologies using advanced wireless
+communications technologies.",NA,"- 2 years of work experience in developing embedded software;
+- Experienced in C and C++ (embedded, Window and Linux), scripting
+languages (Perl and Python);
+- Experienced with version control software and automated build
+environment;
+- BSEE, BSCS or equivalent;
+- Experienced with several of wired and wireless data communications
+technologies, including TCP/IP, 802.11, 802.16, 802.15, ZigBee and
+anti-collision techniques for RFID systems is desired;
+- Experienced with low power consumer electronics to include power
+management and diagnostics is desired;
+- Familiarity with hardware schematics, design and development is
+desired.","Please email your detailed CV directly to:ra-careers@... indicating the position title in the subject line
+of your email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Impeva Labs, Inc. is a privately-held firm developing
+and providing container monitoring, tracking and security products and
+services."

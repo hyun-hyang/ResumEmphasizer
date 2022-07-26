@@ -1,0 +1,24 @@
+Flash Developer,"Firmplace Corporation is urgently seeking a Flash
+Developer. The ideal candidate will have a background in creative work,
+software development and some recent online course development
+experience.","- Create photo applications;
+- Perform creative work;
+- Develop graphics and animation;
+- Work with Atlantic Link eLearning Course Authoring Software;
+- Work with the clients internal visual designers and content
+developers.","- Bachelor's degree in computer science or a related field, or
+significant equivalent experience;
+- At least 3 years of professional experience developing rich Flash user
+interfaces;
+- Experience developing in Action Script 2 and 3; 
+- JavaScript expert, including practical use of libraries such jQuery; 
+- Proficient in server side development (IIS/ASP.NET is preferred); 
+- Fluent in HTML and CSS and cross browser compatibility; 
+- Excellent communication skills, self-motivated individual who has the
+ability to work in a fast paced environment;
+- Flash certification is preferred;
+- Online portfolio of previous work is preferred.","All interested candidates should send their CVs
+to: jobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

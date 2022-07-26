@@ -1,0 +1,21 @@
+iOS Developer,"Karapetyanner Scientific-Production Experimental (KSPE)
+is looking for experienced result-oriented professionals to fill the
+position of iOS Developer.","- Develop an iOS mobile application;
+- Closely follow the updates announced by Apple for the iOS platform;
+- Develop a code structure that can be easily compiled for multiple
+devices;
+- Manage individual tasks, priorities, deadlines and deliverables.","- Knowledge of Cocoa, iOS SDK, XCode and XCTest;
+- In-depth understanding of the iOS platform and its applications
+development ecosystem;
+- Experience in consumer facing UI development;
+- Previous experience of working with a team of developers;
+- Possession of previously deployed applications in the Apple iPhone App
+Store;
+- Strong planning and communication skills.","To apply for this position, please send your CV
+to: career@... . Please mention the position title in the
+subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Karapetyanner Scientific-Production Experimental LLC is a
+global software development company with more than 10 years of
+professional experience."

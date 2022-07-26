@@ -1,0 +1,23 @@
+.Net Developer,"Tel-Cell CJSC is looking for a qualified .Net
+Developer.","- Responsible for programming, development of new products, services,
+software tools and utilities;
+- Analyze complex problems, interpret operational needs and develop
+integrated creative solutions;
+- Support the developed software.","- At least 2 years of professional work experience in C#, ASP.NET (MVC,
+Web Forms);
+- Good knowledge of OOP;
+- Knowledge of MS SQL Server 2008/ 2012 (stored procedures, functions);
+- Knowledge of  XHTML/ HTML5, CS2/ CSS3, XML, JavaScript, Jquery, Ajax;
+- Knowledge of  JSON, Asp.net  Web API is a plus;
+- Bachelor's degree or higher education in Computer Science or in a
+related field;
+- Fluency in the Russian language;
+- Knowledge of the technical English language;
+- Ability to study.","To apply for this position, please submit CVs
+to: hr@... . Please write the position title in the subject line
+of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Tel-Cell"" CJSC is a system of payments intake in Armenia
+covering the capital and other regions and the centers of the Republic of
+Armenia."

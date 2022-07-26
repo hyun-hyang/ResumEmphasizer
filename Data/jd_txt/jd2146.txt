@@ -1,0 +1,31 @@
+Transmission/ IP Engineer,"The incumbent will be responsible for design and
+planning of IP/ MPLS networks, as well as for managing and operating IP
+projects and networks.","- Design and plan the IP/ MPLS networks;
+- Contribute to evolution of master plan;
+- Participate to Orange Armenia choice of equipments;
+- Manage and operate IP projects and networks;
+- Responsible for MPLS, VPLS, LAMP, Shell scripting, Virtualization,
+Testers, IP, Cisco and ALU 7750;
+- Work on hierarchical IP address Planning & Plan for the routing
+protocol (OSPF, BGP, Border Gateway Protocol) Layer 3 and Layer 2.5
+MPLS;
+- Analyse the network and Systems behaviour with specialized tools;
+- Move from site to site on the country deploying, installation and
+commissioning of IP/ transmission equipment.","- Higher education in technical field; 
+- At least 1 year of experience in a relevant field; 
+- Knowledge of Aggregation techniques (LAG), L1 to L3 Testers, IP address
+planning routing protocol (OSPF and BGP), ACLs, MPLS and VPLS;
+- Knowledge of LAMP, Shell scripting, Virtualization techniques, open
+source products CACTI and Nagios;
+- Desired hardware experience in Cisco, Juniper and ALU 7750;
+- Strong analytical skills;	
+- Strong problem solving skills;
+- Organized personality; 
+- Excellent knowledge of Armenian, English and Russian languages.","If you meet the requirements, we encourage you
+to send your CV and Motivation Letter to: hr@... . Please
+indicate the name of the position in the subject line of your e-mail.
+Company thanks all interested applicants; however, only shortlisted
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

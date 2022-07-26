@@ -1,0 +1,35 @@
+Web Designer/ Developer,"Unicomp CJSC is seeking a highly motivated Web
+Designer/ Developer who will be responsible for managing and supporting
+the company website, ticketing and other systems and resources.","- Manage and support company website;
+- Design web-based materials, such as website pages, landing pages and
+website banners;
+- Responsible for code writing, detailed code review and testing;
+- Build web pages and e-mails for various marketing campaigns;
+- Utilize and provide feedback on page templates, processes, etc.;
+- Enforce web standards compliance and ensure that web pages and content
+are tested across multiple platforms and browsers;
+- Introduce and implement innovative techniques and technologies; 
+- Work with internal customers to ensure satisfaction;
+- Manage multiple tasks and timelines;
+- Thoroughly review work to ensure high quality.","- Knowledge of PHP, HTML5, CSS3, Javascript, jQuery;
+- Experience with Joomla CMS, MySQL;
+- Experience with Linux, Apache web server;
+- Experience with e-commerce platforms;
+- Ability to read, understand and modify the existing code;
+- Knowledge of Adobe Photoshop, Corel Draw and/ or Adobe Illustrator;
+- Solid understanding of design principles; 
+- Detailed knowledge of website usability issues;  
+- Creativity and analytical thinking;
+- Experience in identifying ways to improve the site to better serve the
+customers is a plus;
+- Ability to define the technical aspects of online marketing projects,
+such as monthly newsletters and e-mail campaigns;
+- Ability to handle multiple tasks/ projects at the same time;
+- Strong understanding of current web standards and best practices;
+- Motivation to research and learn about new technologies and practices;
+- Good communication skills;
+- Fluency in Armenian, English and Russian languages.","Interested candidates are asked to send their
+CVs to: irina.margaryan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Unicomp CJSC is an IT company in Armenia.

@@ -1,0 +1,40 @@
+UI Software Engineer (HTML5),"Dom-Daniel Armenia is looking for dynamic,
+self-disciplined, innovative, and passionate software engineers that have
+passion for building amazing user interface for web, mobile and desktop.","The select professionals will be part of a team
+tasked to create inspirational and intuitive user experience to increase
+the efficiency and ease of use of company products. Responsibilities
+include participation in the design process, development of prototypes
+and mockups, high quality code development according to internal
+standards, code and code security review and technical documentation
+development.","- BS in Computer Sciences or related field or equivalent industry
+experience; MS is a plus;
+- Over 3 years of experience in working with JavaScript, CSS, and HTML;
+- Over 3 years of experience in product/ web interface design;
+- Experience in HTML 5 and CSS3;
+- Good understanding of web protocols and technologies (HTTP, AJAX/
+XMLHTTP, SOAP/ JSON/ XML-RPC);
+- Proficiency in prototyping, interactive design, web design and visual
+design;
+- Experience in creating mockups for web applications;
+- Good sense of UI design and user-oriented focus;
+- Good knowledge of written and oral English language;
+- Passion for developing of complex and challenging products;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism. 
+Desired Qualifications (At least one of the listed is a must):
+- Knowledge of Objective-C and experience in iOS Mobile Application
+Development;
+- Knowledge of C#/ .NET/ WPF and experience in Windows Application
+Development;
+- Knowledge of Java for Android Application Development and experience in
+Android Mobile Application Development;
+- Knowledge of C++/ XAML and experience in Windows Store Application
+Development.","Applicants will be considered on rolling basis.
+Please submit a resume along with a cover letter to: hr@... .
+Subject line of the email should include the title of the position that
+you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing IT solutions to medium and large size enterprises."

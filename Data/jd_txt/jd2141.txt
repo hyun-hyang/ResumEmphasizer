@@ -1,0 +1,27 @@
+PHP Developer,"Damaris AM is looking for a PHP Developer to
+participate in specific projects based on PHP and provide support for
+internal projects based on C/ C++ and C#.","- Develop new features for Windows Applications;
+- Perform bug fixing in existing functionalities of Windows
+Applications;
+- Develop Web applications using PHP;
+- Ensure compliance with the framework of the company;
+- Meet deadline requirements;
+- Ensure quality of output.","- At least 1 year of work experience;
+- Experience with team working;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Very good knowledge of PHP, JavaScript, HTML and CSS;
+- Database proficiency of MySQL;
+- Good knowledge of C# and .NET Framework;
+- Good knowledge of OOP principles;
+- Good knowledge of MVC pattern;
+- Good knowledge of English language.
+Desired Qualifications:
+- Skills in C/C++, HTML5, iOS SDK and Android SDK;
+- Experience in Windows Mobile development;
+- Database proficiency in SQLServer and Oracle.","Please, submit CVs to: hr@... , clearly
+mentioning in the subject line the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM is the local branch of Damaris France Company
+providing software archiving package to different companies in Europe.
+For more information, please visit: www.damaris.am  www.damaris.fr."

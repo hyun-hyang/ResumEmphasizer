@@ -1,0 +1,22 @@
+Programmer,"""Electric Networks of Armenia"" CJSC is looking for a
+Programmer with experience in ERP system support.","- Work in ERP system support competence group on the basis of Microsoft
+Dynamics AX 2009 (Axapta);
+- Develop reports, develop the functional; 
+- Collaborate with the integrators specialists.","- Knowledge of Microsoft SQL Server, Microsoft Visual Studio (Visual
+Basic, C#), knowledge of Microsoft Dynamics AX (C++) is desirable;
+- Knowledge of target setting;
+- Knowledge of database structure development;
+- Knowledge of client part development;
+- Knowledge of developed functional testament;
+- Knowledge of adaptation of own or third-party developers programs onto
+the commercial operation;
+- Ability to work in a team;
+- High sense of responsibility, sociability;
+- Knowledge of Russian language (for work with the integrator), technical
+English language (for working with documents).","All interested and qualified candidates are
+encouraged to email their CVs to: vasilian_as@... . Please, mention
+Programmer in the subject line of the e-mail. Only short-listed
+candidates will be invited for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,31 @@
+C#.NET Developer,"Smart-Tech is seeking an experienced software
+developer to join the team of programmers, designing and implementing
+software solutions for financial industry.","- Develop software according to requirements;
+- Participate in tasks estimation;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills.","- Good knowledge of OOP and OOD;
+- Experience in projects as a .NET developer (C#, ADO.NET, ASP.NET,
+WinForms) for more than 1 year;
+- Good knowledge of C++ is preferable;
+- Experience in the development of multi-layered client-server
+applications, client and server components;
+- Experience in MS SQL databases;
+- Good understanding of design patterns;
+- Ability to develop quality code, apply proper language constructions,
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism;
+- Basic knowledge of English language;
+- Fluent knowledge of Russian language.
+Desired qualifications:
+- Ability to responsibly complete assigned tasks according to
+deadlines;
+- Good productive capacity;
+- Energetic personality;
+- Ability to express your thoughts clearly;
+- Ability to work in the team.","Please, email your detailed CV directly to:armen@... indicating the position title in the subject line of your
+email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

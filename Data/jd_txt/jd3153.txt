@@ -1,0 +1,25 @@
+Ruby Developer,"The incumbent will develop software applications
+working in a distributed team.","- Participate in all the steps of the software project from design to
+integration;
+- Analyze and investigate architectural defects of existing projects;
+- Implement features;
+- Fix problems.","- 3-5 years of work experience in software development;
+- At least 1 year of experience with Ruby;
+- Strong knowledge of Ruby on Rails;
+- Strong knowledge of JavaScript;
+- Strong OOP knowledge;
+- Eagerness to switch technologies during the work process;
+- Experience in working with CMS is plus;
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable person and eagerness to learn
+new technologies and methods;
+- Fluency in the English language (reading, writing and speaking);
+- Good communication skills;
+- Good team player and the ability to accept criticism;
+- Fast learner, responsible personality.","To apply for this position, please email your CV
+to: careers-armenia@... . Please mention the position you are
+applying for in the subject line of your email. Only short-listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,59 @@
+Senior Database Developer,"The position involves development and maintenance of
+SQL Server and Sybase databases. Senior database developers are also
+responsible for documenting the database, creating the deployment plans
+and installation instructions.","- Work with a team to define the work breakdown structures for the
+technical activities associated with the project;
+- Lead and participate in data modeling and other data initiatives
+addressing both new and existing systems;
+- Work closely with developers to provide data services to existing and
+new applications;
+- Analyse data model requirements from functional specification,
+formulating and maintaining the data subject area and Entities/
+Attributes/ Relationships definitions;
+- Participate in performance tuning, backup and recovery, administration
+and monitoring of internal databases;
+- Identify new ways to improve existing database designs and deployments
+and work with Developers to ensure database related code is being
+optimally written for applications;
+- Provide expertise and assessment of enterprise database structures,
+assuring that all enterprise database applications fit into a single
+documented enterprise data model which minimizes duplication of data and
+assures logical data access;
+- Design and implement data feed mechanisms to ensure the safe reliable
+transfer of data from different source systems.","- Degree in Computer Science or similar discipline;
+- Minimum 7 years of experience with large scale database design and
+development;
+- Extensive hands-on experience and proficient knowledge of the
+following:
+I) Database technologies: Relational database management system (RDBM),
+data mining, extract, transformation and load (ETL), Business
+Intelligence (BI);
+II) Database Systems: MS SQL Server 2005/ 2008; preferable to have
+knowledge of SQL Server Integration Services, SQL Server Reporting
+Services, SQL Server Analysis Services;
+III) Sybase ASE 15: Sybase Adaptive Server Enterprise 15, Replication
+Server, Sybase IQ, Sybase Cluster Edition;
+- Extensive experience in Transact SQL scripting;
+- Proficiency in the understanding of Sybase stored procedures;
+- Proficiency in query optimization;
+- Familiarity with Linux operating system and Shell scripting is
+critical;
+- Development applications: DB Artisan, Toad SQL, MS SQL Server
+Enterprise Manager, MS SQL Server Management Studio, MS SQL Server
+Business Intelligence Development Studio, Red Gate Tools, SVN;
+- Experience with data warehousing and multidimensional database design
+would be an asset;
+- Experience developing databases for real time, high performance,
+customer facing applications;
+- Excellent written and oral communication skills;
+- Excellent problem solving and debugging skills;
+- Ability to work in a fast paced, team oriented environment;
+- Excellent time-management and organizational abilities that facilitate
+structured teamwork;
+- Highly developed communication, presentation, facilitation and
+negotiation skills;
+- High energy and strong motivation to make a difference.","Please submit your CVs to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=224
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.questrade.com.

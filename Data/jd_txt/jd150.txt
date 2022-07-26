@@ -1,0 +1,22 @@
+Developers Team Leader,"The duties of the Developers Team Leader include
+planning and permanent coordination of developers work, taking full
+responsibility for realization of each project on time and in
+appropriate volume, cooperating with the contractor during the whole
+process of development.",NA,"We are expecting our Developers to have:
+- Ability to develop program systems that work in heterogeneous
+environment and intercommunicate through network protocols;
+- Experience in creating of internal and user documentation;
+- Extensive knowledge of several programming languages from the
+following list (C or C++; Java or C#; Perl, Ruby or Python);
+- Ability to use different tools for group development.
+Obviously, the Developers Team Leader must be an experienced developer
+with a broad professional outlook and an extensive experience in
+commercial development projects. He must have at least 3 years of
+experience in leading successful software development projects.
+We also expect the applicant to have an active, energetic personality,
+to be a competent leader willing and able to take his team to success.","Please send your resume and cover-letter to:human-resourses@... in a plain text or PDF format.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"We are a compact team that develops commercial software.
+You can get more information about our activities after visiting our
+partners site at: www.renderx.com."

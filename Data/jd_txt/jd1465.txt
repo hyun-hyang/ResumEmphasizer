@@ -1,0 +1,27 @@
+Senior Java Spring Software Engineer,"At Metakortex the Software Engineer will be part of a
+project team and help build applications from the ground up. In this
+environment the incumbent's input is encouraged and his/her individual
+innovations are valued and appreciated. There is a genuine sense of
+teamwork and the team members learn from each other.","- Work in a technical team to craft and develop technical solutions that
+meet the company's customers requirements;
+- Develop applications using Java Spring Framework for a diverse client
+base;
+- Participate in all phases of SDLC;
+- Understand business and functional requirements and translate those
+into amazing technical solutions.","- Excellent command of English, both written and spoken;
+- Minimum Bachelors degree in Computer Science or related field;
+- 5+ years of professional experience developing Java web-based
+applications;
+- Strong Java and Spring development experience;
+- Experience with Hibernate, JSP, JSF and DOJO;
+- Experience with XML, HTML, CSS, cross-browser compatibility;
+- Experience with MVC, AJAX, JQuery and Javascript;
+- Experience with relational database (MS SQL Server, Oracle, etc.);
+- Experience in data model and object design.","Please apply only if you have solid Java
+experience. Send your Resume and Cover Letter to:suren.khachatryan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Metakortex CJSC, the subsidiary of Netsoft USA
+(www.netsoft-usa.com), is a strategic technology and design firm
+headquartered in New York City with offices in Yerevan, Armenia and
+Toronto, Canada."

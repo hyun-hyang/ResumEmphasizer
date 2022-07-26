@@ -1,0 +1,26 @@
+SCM Engineer (SW),"Varnita Ltd is seeking an SCM Engineer to
+maintain/develop scripts, procedures, standards, documentation and
+reports required to support engineering and project management related
+to configuration management of products.","- Develop additional training materials and user documentation required
+for software developers, applications engineers, and software project
+managers for SW Engineering tools usage. Provide training to SW
+Engineering tools users on startup of new projects;
+- Assist with the development of the policies, procedures, and processes
+needed for development and release paradigms for the software systems
+throughout the corporation;
+- Support and inhance CM policies for managing development projects and
+related documentation;
+- Assist with the improvement, design, documentation, training, and
+implementation of the build system in multiple OS environments.","- BSCS or BSCE, or equivalent experience;
+- Three years of experience in software build and configuration
+management systems;
+- Demonstrated knowledge of Make files, Perl, and software structure;
+- ClearCase experience is desisred, experience with other source control
+systems;
+- Demonstrated project management skills;
+- Demonstrated user support skills;
+- Good knowledge of English language.","Please e-mail your detailed CV to:jobs_varnita@... indicating the position title in the subject line
+of your e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Varnita Ltd is an SW development company.

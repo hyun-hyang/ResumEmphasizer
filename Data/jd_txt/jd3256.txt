@@ -1,0 +1,19 @@
+Front-End Developer,"The Company is seeking an experienced Front-End
+Developer.","- Work on the implementation of common frameworks and solutions;
+- Maintain existing production code in the field and develop new
+enhancements and products to the own projects and Company's client base;
+- Work closely with a cross-functional team of developers, UI/ UX
+designers and QA engineers to produce high quality web based solutions.","- At least 3 years of practical experience as a Front-End Developer;
+- Degree in Computer Science or a related field;
+- Advanced knowledge in HTML5, CSS3 and LESS;
+- Advanced knowledge in JavaScript, jQuery and AngularJS;
+- Familiarity with JS testing, browser testing and debugging;
+- Ability to work independently and as part of a team;
+- Strong multitasking skills;
+- Ability to meet deadlines and cope with fast changing situations.","All interested and qualified candidates are
+welcome to send their Portfolios and CVs to: hr@... . Please
+indicate the position title in the subject line of your message. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

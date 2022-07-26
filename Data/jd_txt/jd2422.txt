@@ -1,0 +1,74 @@
+Business Intelligence and Reporting Developer,"The ideal candidate will be an experienced Business
+Intelligence and Reporting Developer that demonstrates in-depth knowledge
+and understanding of data warehousing and business intelligence with
+emphasis on reporting and data analytic issues through the development
+life cycle. He/ she should be open-minded, flexible and prepared to work
+in a very dynamic environment, supporting multiple business units with
+operational reporting requests required.","- Create, support and maintain ongoing operational, managerial and
+executive business intelligence infrastructure;
+- Maintain a reporting infrastructure and performance reporting process
+within a high-growth financial services environment;
+- Extract data and perform analysis on activities of the brokerage
+business;
+- Deliver ad hoc reports alongside standard daily, weekly, monthly
+reporting; 
+- Pay attention to details, in particular as it relates to compliance and
+accuracy of data;
+- Develop understanding of information sources and correct interpretation
+of data, answer user questions regarding report interpretation;
+- Analyze existing reports and data sources, develop innovative
+prototypes to identify improvements with the reporting process;
+- Gather, document and analyze requirements from stakeholders on existing
+and new reports;
+- Plan, manage timelines for deliverables, generate work breakdown
+structures, prioritize work items;
+- Improve and streamline processes regarding data flow and data quality
+to improve data accuracy, viability and value;
+- Develop corporate standards for data and information display across all
+reports and dashboards to ensure consistent visualization of data and
+ease of analysis;
+- Meet and interact with all levels of management as needed to elicit,
+define, analyze and document requirements for new reporting and business
+intelligence initiatives;
+- Lead efforts to introduce a business intelligence architecture that
+enables fact-based decision making and ad hoc analysis and insight
+generation;
+- Work with operational managers to understand trends and make
+recommendations for improvements;
+- Design the conceptual, logical and physical data models necessary to
+support new reporting and data analysis.","- At least 3 years of related experience;
+- Understanding of Data Warehouse lifecycle;
+- Excellent proficiency in writing SQL and T-SQL;
+- Advanced proficiency with Microsoft BI Suite - SQL Server 2008/ 2012,
+SSIS, SSAS, SSRS;
+- Strong knowledge and experience with MS Reporting Services
+performance-tuning;
+- Ability to create, maintain and monitor reporting systems and decision
+support tools to report and analyze performance at multiple levels of a
+financial institution;
+- Advanced experience with MS Excel and VBA macros;
+- Understanding of relational and dimensional data modeling concepts;
+- Experience with managing timelines, creating work breakdown structures,
+project management principles;
+- Experience with facilitating meetings, gathering requirements and
+writing requirements documents;
+- Experience with creating and delivering reports from large relational
+database systems;
+- Strong knowledge and comprehension of technology and data management
+used in the process of collecting, storing and retrieving data;
+- Post-secondary education, preferably in Economics/ Finance, Math/
+Statistics/ Computer Science;
+- Superior writing, editing and communication skills, capacity to
+interact with all levels of the organization;
+- Experience coordinating multiple concurrent projects and adapting to
+changing priorities;
+- Superior leadership qualities, ability to mentor junior staff, develop
+standards and processes;
+- Experience and/ or personal interest in the financial industry is an
+asset;
+- Experience in documentation of processes.","Interested candidates are asked to apply through
+the following link address:http://ch.tbe.taleo.net/CH06/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=331#.UmZ-RvmnpuY
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.questrade.am.

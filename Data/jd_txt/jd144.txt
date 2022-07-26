@@ -1,0 +1,50 @@
+Developer Ad Technology ID No. 2,"To build up our Engineering Team in Armenia, we are
+currently looking for motivated technical persons to take over a new
+position as a Developer. You will belong to a young and dynamic team
+working on the advertising system (named DART Enterprise) and its
+existing interfaces. You will work on very different projects like
+customisation of the system, building of complex new interfaces, further
+development of our reporting tools, technical support to our Sales
+departments, etc. During these projects you will also work together with
+your colleagues in different European countries. You will be a technical
+key contact person for the users of the tool and will support them for
+all technical purposes. You will be our programmer for new pre-defined
+project assignments that are planned.Do you have fun by solving
+technical complex problems? Can you approach the problems and the
+requirements in a systematic and detailed manner? Do you enjoy working
+in a team as a key player? Are you able to drive important projects
+successfully and to document your work?
+If yes, you are definitely the right person for this job and we are
+looking for your application!","- Learn and understand the AdServing technology (DART Enterprise), its
+functionality and then understand the surrounding systems and the system
+architecture as it maps to our business needs;
+- Become an expert in customising and integrating the AdServer
+software;
+- You will be our key contact person for our reporting system and will
+be responsible for its maintenance and all further technical
+developments in the tool.","- More than 2 years of experience in Microsoft SQL Server and advanced
+SQL queries;
+- Experience in Java, ASP, VBScript;
+- XML/XSL and IIS web server experience;
+- University degree in computer science or a similar education;
+- More than 1 year of experience in system development. A previous
+experience with ad systems and other enterprise systems are desirable;
+- Very good knowledge of written and spoken English language;
+- Pro-active, calm, thorough personality;
+- Analytically strong, excellent organisational skills;
+- Reactive and independent in problems solving, document your work.
+Additionally specific technical requirements:
+- Experience in high load systems would be desirable.","Please send your application letter and CV in
+English answering the 2 questions below to: info@... and
+state the profile No.2.
+Question 1: Please let us know, why you are the right person fulfilling
+the specific technical demands? 
+Question 2: Describe the last programming project you have worked on in
+detail (give us examples). What were your tasks and how did you deliver
+them?
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is a European Internet company that
+operates a pan-European network of websites in nine languages. Lycos
+Communities is developing and operating a chat in Europe along with a
+dating system, games and entertainment."

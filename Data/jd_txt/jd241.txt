@@ -1,0 +1,24 @@
+C/C++ Software Engineer,"The primary objective of this position is the
+development of software-hardware complexes, and designs up-to-date
+multilevel automation systems of technological processes.","- Accurately plan software develoment activities and follow established
+processes;
+- Gather and produce requirements and designs;
+- Work productively as part of a software development team;
+- Communicate effectively with the management and team members;
+- Write and test code for the required product.","- Bachelor's degree in Computer Science or related discipline;
+- 1+ years of object oriented C++ development;
+- Enterprise-class system architecture and design or equivalent
+combination of education, skills and experience;
+- Extensive knowledge of Windows platform technologies including Win32
+API, threading;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Basic English language skills and ability to develop those skills;
+- Ability to work independently;
+- Ability to work under pressure.","All interested and qualified candidates should
+submit their resume/CV with the cover letter to ABM Soft Prof Ltd.,
+Miasnikyan ave. 5 or send to: info@....
+Only shortlisted candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

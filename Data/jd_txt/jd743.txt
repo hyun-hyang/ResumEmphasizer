@@ -1,0 +1,14 @@
+C++ Software Developer,"""OMD"" LLC is looking for a responsible, qualified and
+motivated C++ Software Developer who will participate in the creation
+and enhancement of the company's products.","Participation in all stages of product
+development.","- University degree in computer science or a related field;
+- Strong knowledge of C++ (OOP, generics);
+- 2+ years of experience developing C++ applications;
+- Java or scripting experience is a plus;
+- Experience in Unix/Linux environment is a plus.","Please, send your resume to:jobs_am@..., mentioning ""C++ Developer"" in the subject. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York based producer of enterprise market data solutions for
+financial institutions: www.onemarketdata.com."

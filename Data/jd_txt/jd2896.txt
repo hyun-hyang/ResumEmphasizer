@@ -1,0 +1,33 @@
+System Architect,"The System Architect will be a key member of the
+development team in Armenia designing, developing new workflows,
+services, and components for a new customer service application using BPM
+(Business Process Management) software platform.","- Develop new workflows, services, and components for a new customer
+service application using BPM software platform;
+- Maintain and enhance existing software components;
+- Play an active role in team- and company-wide architecture discussions
+and design decisions;
+- Provide technical guidance to other software engineers, particularly
+with regard to BPM architecture and design;
+- Perform technical evaluations of third party solutions;
+- Responsible for rapid prototyping to demonstrate possible solutions;
+- Responsible for employing technical expertise in helping team members
+overcome technical problems;
+- Adhere to release/ project schedule and milestones.","- Experience/ ability in analysis, design, development, and application
+deployment of Java centric enterprise application systems;
+- Experience in J2EE (JSP, Servlets, EJB, XML, Java), Oracle, DB2,
+MS/SQL, Microsoft .NET and Web development;
+- Ability to complete PRPC/Appian Certification within 2 months from
+joining the company;
+- BS in Computer Science, Computer Engineering, Electrical Engineering;
+- Good analytical and business process understanding abilities;
+- Great ability to communicate on technical and business level;
+- Fluency in English language;
+- Ability for extensive travel;
+- 2-3 years of experience.","Interested candidates are asked to submit their
+detailed CVs in English language to: hr@... , indicating the
+title of the position ""System Architect"" in the subject line of the
+e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Symphony teams help clients to achieve operational
+improvements. More information can be found at: www.symphony.eu.com."

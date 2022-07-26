@@ -1,0 +1,47 @@
+UNIX Systems Administrator,"ArmenTel is seeking for candidates to fulfill the
+position of UNIX Systems Administrator. The incumbent will be
+responsible for the continuous and efficient operation of UNIX systems
+and will work under the general supervision of a System Administrator or
+Systems Manager.",NA,"- University degree in Computer Sciences or a relevant field.
+Post-graduate degree is optional. Cisco certification (CCNA, CCNP and
+CCIE) is strongly advised;
+- Strong interpersonal and communication skills;
+- Ability to write purchase justifications, train users in complex
+topics, make presentations to an internal audience and interact
+positively with upper management;
+- Independent problem solving skills; 
+- Ability to work with most aspects of UNIX systems administration; for
+example, configuration of mail systems, system installation and
+configuration, printing systems, fundamentals of security and installing
+third-party software; 
+- A solid understanding of a UNIX-based operating system (paging and
+swapping, inter-process communication and filesystem concepts (""inode""
+and ""superblock"")); 
+- Familiarity with fundamental networking/ distributed computing
+environment concepts; 
+- Ability to write scripts in some administrative language (Tk and
+Perl);
+- Ability to do minimal debugging and modification of C programs;
+- Ability to solve problems quickly and completely;
+- A solid understanding of networking/ distributed computing environment
+concepts; understand principles of routing, client/ server programming
+and the design of consistent network-wide filesystem layouts;
+- Ability to program in an administrative language (Tk, Perl and a
+shell), port C programs from one platform to another and write small C
+programs;
+- Over 1 year of work experience in a related field.","Qualified and interested candidates are kindly
+requested to email applications to: hrm@.... In the subject
+line of your e-mail mention the title and announcement code of the
+position you are applying for. Only short-listed candidates will be
+contacted. Incomplete applications will not be considered. A complete
+application package should consist of:
+- A CV;
+- A letter of motivation (in English) explaining your eligibility and
+level of interest for the job you are applying for;
+- An application form in English or Armenian language (available to
+download below).
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ArmenTel is a telecommunications provider in Armenia.
+For additional information about our company, please visit our website:
+www.armentel.com."

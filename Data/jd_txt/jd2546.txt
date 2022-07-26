@@ -1,0 +1,35 @@
+Senior QA Engineer,"BetArchitect LLC is seeking for Senior QA Engineer to
+join the team in developing enterprise level software solutions. The
+company is looking for energetic person who is ready for new challenges
+and have a good understanding of Software Quality Assurance.","- Perform functional, regression, usability testing on web based and
+desktop applications;
+- Test case Creation/ Execution and maintenance;
+- Responsible for issue identification and reporting;
+- Ensure the quality of software releases and patch builds through manual
+and automated testing;
+- Research and track open issues related to projects; 
+- Ensure the requirements full coverage with test cases;
+- Handle other tasks as assigned; 
+- Interact with various stakeholders - product management, development
+and operations.","- BS in Computer Science or any related technical field; 
+- At least 3 years of experience in a Software Quality Assurance;
+- Good knowledge of software quality assurance and defining quality
+strategies for projects; 
+- Experience writing SQL queries;
+- Expert ability to apply concepts of unit, system, regression, product,
+integration and acceptance testing;
+- Experience with test automation tools such as Visual Studio 2012;
+- Experience using different testing tools (jmeter, jprofiler,
+selenium);
+- Good problem solving skills;
+- Strong analytical skills;
+- Experience with VMware or any virtual environment creation tools are
+preferred;
+- Knowledge of Scrum methodology is preferred;
+- Good English language writing and reading skills.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Senior QA Engineer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

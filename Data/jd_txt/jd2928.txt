@@ -1,0 +1,23 @@
+Web Developer,Monitis CJSC is seeking a Web Developer.,"- Take part in development of new features and changes according to given
+specifications;
+- Read, understand and modify the existing code;
+- Work as a part of team.","- University degree in the appropriate field of studies;
+- At least 2 years of work experience in the appropriate field;
+- Good knowledge of Java, MySQL;
+- Experience of work with Ajax, Hibernate;
+- Knowledge of JavaScript, HTML, CSS;
+- Knowledge of Selenium would be a plus;
+- Experience of work with PayPal, Stripe API would be a plus;
+- Detail-oriented personality;
+- Problem-solving and analytical skills with the ability to clearly
+communicate and share solutions with fellow team members;
+- Ability to respect deadlines;
+- Good knowledge of English language.","All interested and qualified candidates are
+welcome to send their CV to: hr@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis, a TeamViewer company, is all-in-one cloud based
+IT monitoring and analytics platform. For more information about the
+company please visit: http://www.monitis.com/about-us."

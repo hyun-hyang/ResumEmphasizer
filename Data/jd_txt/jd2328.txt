@@ -1,0 +1,36 @@
+C++ Developer,"Ingato is seeking an experienced C++ Developer to be
+responsible for designing and implementing applications.","- Design, develop and implement internet based applications and
+applications in other technologies;
+- Follow all appropriate design, development, and testing
+specifications;
+- Assess available technologies, as well as develop and present
+solutions;
+- Perform or integrate work at a senior level of complexity, and work
+in-depth within a technical or business area;
+- Identify business problems and implement programming solutions in
+functional project environments;
+- Analyze, debug and resolve high level of complexity application
+software problems;
+- Responsible for interface design/ implementation;
+- Provide standard documentation for all phases of application
+development;
+- Provide effort and duration estimates, and track actual effort and
+duration.","- Over 3 years of experience in developing with C++;
+- Knowledge in C++ debugging and memory profiling, as well as performance
+tuning tools;
+- Strong knowledge of procedural and object oriented programming
+techniques;
+- Ability to leverage a background in technologies as well as
+understanding of the latest technologies and their impact on product
+development;
+- Strong interpersonal skills and ability to work in a team environment;
+- Strong and independent person with the ability to work with little
+direction;
+- Knowledge of a program in C++ and other object oriented and procedural
+programming languages;
+- Understanding of the business function(s) supported by the application
+software.","Interested candidates are encouraged to submit a
+CV to: hr@... , mentioning ""C++ Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Ingato is represented by Sagarko CJSC.

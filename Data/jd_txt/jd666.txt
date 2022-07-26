@@ -1,0 +1,17 @@
+Flash Developer,"RMP GmbH is looking for Flash Developers to be engaged
+in the development of gaming software for the company's clients. The
+Developers are responsible for hands-on software development and
+ensuring the highest quality of all delivered solutions, from analysis
+through implementation.","- Design, code, and document custom software solutions which includes
+Xml, ActionScript 2/3, Flash8/9, SOAP, RPC;
+- Produce and maintain accurate documentation and code comments on all
+aspects of the software architecture;
+- Develop common design patterns and document best practices that enable
+consistent architecture.","- Strong Flash and ActionScript skills and object oriented analysis and
+design experience; 
+- Knowledge about Networking, Sockets and Security used within Flash.","Please send your resume in English to:info@... for immediate consideration. Only shortlisted
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Red Planet Marketing GmbH is a gaming design and
+software development company: www.redplanetmarketing.net."

@@ -1,0 +1,19 @@
+C# Web Developer,"eXYZett LLC is looking for a C# Web Developer to be
+engaged in different long term projects.","- Participate in all stages of the software development life-cycle;
+- Contribute to improvement of development processes;
+- Develop applications with C# using ASP.NET, ADO.NET and MS SQL.","- BA degree in Computer Sciences or a related discipline; Master's degree
+is a plus;
+- 1 year of work experience is preferable;
+- Proficiency in OOP/ OOD and knowledge of software design patterns;
+- Good knowledge of ADO.NET, ASP.NET and C#;
+- Database knowledge with MS SQL;
+- Good knowledge of ASP.NET MVC is preferred;
+- Good knowledge of JQuery is preferred; 
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language.","Interested candidates are asked to e-mail their
+updated and detailed resume to:   gmkrtchyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

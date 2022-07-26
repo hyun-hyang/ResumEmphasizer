@@ -1,0 +1,38 @@
+Senior JavaScript Developer,"Joomag AM LLC is looking for a Senior JavaScript
+Developer who is motivated to combine the art of design with the art of
+programming. The responsibilities will include implementing visual
+elements and their behavior with user interaction. The incumbent will
+work with both front-end and back-end web developers to build all
+client-side logic. He/ she will also bridge the gap between visual
+elements and the server-side infrastructure, taking an active role in
+both sides, and defining how the application looks and functions.","- Work on large-scale web-based projects, ensuring robust and lasting
+solutions are implemented;
+- Test, debug and build a code that works across multiple browsers and
+digital platforms;
+- Maintain the existing JavaScript libraries making sure they support the
+engineering and creative needs of the company's website;
+- Develop new user-facing features;
+- Build a reusable code and libraries for future use;
+- Ensure the technical feasibility of UI/ UX designs;
+- Optimize applications for maximum speed and scalability.","- At least 5 years of software engineering experience;
+- At least 3 years of professional experience in working with
+Object-Oriented JavaScript and JavaScript front-end frameworks;
+- Bachelor's/ Master's degree in Computer Science, Engineering or a
+related field;
+- Expert-level knowledge of JavaScript, CSS, HTML and HTTP;
+- Knowledge of OOP and design patterns;
+- Expertise with the best practices of browser performance: DOM
+rendering, script and asset load optimization;
+- Experience with Sass or LESS CSS transpilers;
+- Experience in developing with REST APIs, JSON/ XML data manipulation,
+Ajax, and cross-origin issues/ solutions;
+- Experience with Git including merging, rebasing, a cherry-pick and
+pull-request branch strategy;
+- Experience with Node.js, React, and AngularJS is a plus; 
+- Good sense of what is required of a great user interface;
+- Good knowledge of the English language.","All interested and qualified candidates are
+invited to apply online via: http://joom.ag/jobs/senior-javascript .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

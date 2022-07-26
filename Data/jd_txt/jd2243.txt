@@ -1,0 +1,27 @@
+PHP Developer,"The Company is looking for an experienced PHP Developer
+who will participate in payment technologies software development and
+maintenance.","- Participate in all the stages of the software development process;
+- Participate in project planning;
+- Read, understand and modify the existing code;
+- Develop and maintain applications in accordance with given
+specifications;
+- Work collaboratively and effectively on team projects.","- University degree in a relevant field is a plus;
+- At least 4 years of work experience as a Software Developer in PHP;
+- Strong knowledge of PHP;
+- Proficiency in HTML, JavaScript, CSS, jQuery, XSL, XML and JSON;
+- Solid LAMP knowledge: Linux, Apache, MySQL and PHP;
+- Knowledge of payment technologies is a plus;
+- Experience in working with Open-source products is a big plus;
+- Good problem solving skills and ability to work independently;
+- Good presentation and reporting skills;
+- Team player;
+- Knowledge of Armenian, Russian and English languages;
+- Flexible in learning new technologies;
+- Ability to setup all necessary environments.","All qualified candidates are welcome to send
+their CVs along with motivation letter by the following e-mail address:arca@... . Please indicate the position title in the subject field of
+your message. Only shortlisted applicants will be invited for the
+interview. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Card CJSC is a national payment system and
+processing center for most of the Armenian banks."

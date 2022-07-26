@@ -1,0 +1,54 @@
+Senior QA Engineer - Validation Department,"Mentor Graphics Development Services CJSC is looking
+for a Senior QA Engineer, the main duty of which will be automation and
+improvement of software testing process.","- Improve existing test framework system (applications and modules)
+higher the performance (using grid, optimal use of CPU, etc.); 
+- Embed different 3-rd party testing tools into company's testing system
+(memory & cache checkers, coverage tools, automated GUI testers, etc.);
+- Quickly understand the tested feature (mathematical model, parameters,
+etc.);
+- Work in contact with developers and decide how to achieve maximum
+coverage, and work out corner cases of the tested feature;
+- Develop test plans; 
+- Develop functional and feature regression tests and test suites,
+including maximum possible test-cases to achieve highest code coverage,
+including all corner cases; 
+- Manage testing projects (assign tasks to project engineers, prepare
+time tables, documentation, etc.);
+- Look through the results of test runs, and inspect the reasons of filed
+tests and fix them;
+- Look through testing tools logs, as well as understand the reasons of
+crashes and errors.","- At least 5 years of work experience in software testing or
+programming;
+- Programming background (Master's degree of appropriate department YSU
+or SEUA); 
+- High scripting/ coding skills; 
+- Good knowledge of Object Oriented programming; 
+- Ability to study quickly new scripting languages; 
+- Basic knowledge of C++ coding; 
+- Search and understand documentation about domain, software tolls,
+etc.;
+- Experience with working in UNIX environment; 
+- Good knowledge of UNIX shell scripting; 
+- Basic knowledge about grid engines; 
+- Good knowledge of and experience in working with software testing
+tools; 
+- Knowledge of memory and cache testing tools (purify, valgrind, etc.); 
+- Knowledge of Code coverage analyzers (Numega, gcov, Pure coverage,
+etc.); 
+- Knowledge of GUI testing tools (Rational Robot, Squish, etc.); 
+- Basic knowledge of third party EDA tools; 
+- Basic knowledge of design data formats (LEF, DEF, GDSII and Open
+Access);
+- Ability to organize and drive projects; 
+- Develop complicated validation scripts and modules to use in testing
+framework; 
+- Ability to write qualified documentation (in English language) for the
+projects and developed software in MS office or Open Office environment;
+- Ability to train junior engineers and internees; 
+- Good English language communication skills; 
+- Team working capability.","Please submit your CV through:http://amyhrs.mentor.com
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

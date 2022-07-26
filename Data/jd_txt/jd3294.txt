@@ -1,0 +1,27 @@
+iOS Developer,"VOLO is looking for experienced result-oriented
+professionals to fill the position of iOS Developer to work on different
+projects for mobile application development.","- Design, develop, test, deploy, maintain and enhance software solutions
+for iOS platforms;
+- Ensure the best possible performance, quality and responsiveness of
+mobile applications;
+- Provide necessary technical and design documentation;
+- Manage individual tasks, priorities, deadlines and deliverables;
+- Work closely within a team of developers and product managers.","- Excellent knowledge of Objective-C, Cocoa, Xcode, and OOP concepts;
+- Over 2 years of experience in iOS mobile applications development using
+iOS SDK;
+- Solid understanding of the full mobile development life cycle;
+- Knowledge of Swift is a plus;
+- Good knowledge of databases (such as SQLite) and database design is a
+plus;
+- Experience in using RESTful API and JSON;
+- English language skills, both written and spoken.","Interested candidates are asked to submit their
+CVs to: hr@... , mentioning the title of the position they are
+applying for in the subject line of the email. No personal visits,
+deliveries or phone calls, please. Only short-listed candidates will be
+notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VOLO LLC is an IT innovative solutions provider with
+development bases in Yerevan and Ukraine, and sales offices in the USA,
+Canada, the UK, Germany, Switzerland, and other countries. For more
+information, please visit: http://volo.global/."

@@ -1,0 +1,25 @@
+Team Leader and Architect of Wireless Network Embedded Software,"The incumbent will lead a small team of software
+engineers developing products and technologies using advanced wireless
+communications technologies.",NA,"- At least 10 years of work experience in development of embedded
+systems, at least 4 of those years should be in a team leadership
+position developing embedded software;
+- Experienced in C and C++ (embedded, Window and Linux), scripting
+languages (Perl or Python);
+- Experienced in structured methodologies, to include design through
+system integration and test for embedded systems;
+- Experienced with a variety of the following: RTOS, ICE and IDE;
+- Experienced with version control software and automated build
+environment;
+- BSEE, BSCS or equivalent. Advanced degree is desired;
+- Experienced with several of wired and wireless data communications
+technologies, including TCP/IP, 802.11, 802.16, 802.15, ZigBee, and
+anti-collision techniques for RFID systems;
+- Experienced with low power consumer electronics to include power
+management and diagnostics;
+- Familiarity with hardware schematics, design and development.","Please email your detailed CV directly to:ra-careers@... indicating the position title in the subject line
+of your email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Impeva Labs, Inc. is a privately-held firm developing
+and providing container monitoring, tracking and security products and
+services."

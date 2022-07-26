@@ -1,0 +1,24 @@
+Senior Java Developer,"Lycos Armenia is looking for motivated technical
+persons to take over a new position as a Java Developer. The incumbent
+will work on Lycos business solutions projects. During these projects
+the selected candidate will have a chance to cooperate with colleagues
+from Germany.",NA,"- At least 4 years of programming experience;
+- Technically the key skill requirements involve hands on experience in
+Java (SE/EE), Web Services, Servlet/JSP, XML/XSL, UML, JBoss, Eclipse,
+JUnit, Hibernate, Spring, Struts and iBatis;
+- Familiarity with MySQL DBMS (knowledge of Oracle will be a plus);
+- Skilled in Unix/ Linux;
+- Technical analytical and debugging skills;
+- Understanding requirements, high-end and detailed solution design and
+development;
+- Participation in the design process for new projects, in reviews of
+requirements, design, source code, and supporting documentation;
+- Experience working on complex projects;
+- Good troubleshooting skills;
+- Academic degree of a minimum BS;
+- Good English language writing and reading skills.","Please send your CVs to: info@...,
+stating ""Senior Java Developer"" in the subject line of your email. For
+additional information call: (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

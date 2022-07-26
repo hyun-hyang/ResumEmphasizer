@@ -1,0 +1,17 @@
+JavaScript Developer,"Interloto LLC has a vacancy of the JavaScript Developer
+who will take part in development of the new version of www.totobet.am
+website and its future maintenance.","- Perform UI development of the web site using JavaScript functionality;
+- Learn the concepts of the framework, developed by other members of the
+team, the web site will be based on;
+- In development process stay close to the concepts of the framework.","- Minimum 5 years of developer experience;
+- Expertise in HTML, CSS, Microsoft AJAX, jQuery and JavaScript;
+- Professional work experience in projects as a JavaScrip developer for
+more than 3 years;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to communicate well with operations and technology;
+- Excellent knowledge of the MS Visual Studio 2010 development
+environment.","Please email your CV to: dev.cv@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

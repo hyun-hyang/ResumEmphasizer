@@ -1,0 +1,19 @@
+Java Developer,"Lycos Armenia is looking for a motivated technical
+person to take over a new position as a Java Developer. The incumbent
+will work on Lycos business solutions projects. During these projects
+the selected candidate will cooperate with colleagues from Germany.",NA,"- Practical experience in the area of informatics or computational
+science;
+- At least 2 years of programming experience;
+- Competent with Java (J2EE) applications and their surrounding tools
+and technologies (JSP, XML and Struts);
+- Familiarity with MySQL as partitioned, distributed & scalable database
+solution (knowledge of Oracle will be a plus);
+- Experience of software architecture and design by means of UML and
+OOA&D;
+- Skilled in Unix/ Linux;
+- Good English language writing and reading skills.","Please send your CVs to: info@...,
+stating ""Java Developer"" in the subject line of your email. For
+additional information call: (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

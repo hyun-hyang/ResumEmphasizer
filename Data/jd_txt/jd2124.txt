@@ -1,0 +1,37 @@
+Senior Software Engineer,"Synopsys Armenia is looking for a Senior Software
+Engineer to take a leading role in design, development, troubleshooting,
+or debugging of software programs and development of software tools.","- Design algorithms and data structures;
+- Resolve issues in creative ways. Exercise judgment in selecting methods
+and techniques to obtain solutions;
+- Execute projects from start to completion. Contribute to moderately
+complex aspects of a project;
+- Receive little instructions on day-to-day work and general instructions
+on new assignments and projects;
+- Determine and develop recommendations to solutions;
+- Work on team-driven or task- oriented projects;
+- Guide more junior peers with aspects of their job;
+- Network with senior internal and external personnel in own area of
+expertise.","- At least MS in CS/ Math/ Physics/ EE or a related field;
+- At least 3 years of related experience;
+- Experience in development of complex software projects, familiarity
+with C/ C++ coding, and a strong background in data structures and
+algorithms;
+- Strong desire to learn and explore new technologies and demonstrate
+good analysis and problem-solving skills;
+- Strong C++/ STL programming skills, good knowledge of OOD;
+- Good knowledge of oral and written English language;
+- Good communication, leadership and fast learning skills.
+Preferred Qualifications:
+- Knowledge of Linux;
+- Knowledge of TCL;
+- Experience in designing EDA databases, solving tasks related to fast
+data access, as well as storing and processing is desired;
+- Ability to write functional/ implementation specifications.","Please submit your detailed CV in English
+language to: dianan@... indicating the position in the subject
+line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys Inc. For more information, please
+visit: www.synopsys.com."

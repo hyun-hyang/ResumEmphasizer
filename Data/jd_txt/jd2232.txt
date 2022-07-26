@@ -1,0 +1,24 @@
+Web Programmer,"Triosoft  LLC is seeking a qualified and experienced
+candidate for the position of Web Programmer.","- Write PHP-MYSQL and JavaScript code;
+- Design MySQL database structure;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance.","- Bachelor's degree in Computer Sciences or a related field;
+- Excellent knowledge of PHP;
+- Excellent knowledge of HTML/ CSS/ Javascript/ jQuery/ jQuery UI/ AJAX;
+- Knowledge in developing, theming, customizing and
+upgrading open source applications (WordPress, Joomla and Drupal);
+- Knowledge of jQuery Mobile/ PhoneGap/ jQTouch/ Zepto Frameworks is
+preferred;
+- Knowledge of MySQL and node.js is preferred;
+- Versatile, flexible and ability to learn quickly;
+- Ability to understand problems from the point of view of clients;
+- Creativity and imagination;
+- Ability to work to deadlines.","If you meet the requirements, we encourage you
+to send your CV in English language to: job@... . Please,
+indicate the name of the position in the subject line of your e-mail.
+Company thanks all interested applicants; however, only shortlisted
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tiosoft LLC is engaged in program design for business
+process automation."

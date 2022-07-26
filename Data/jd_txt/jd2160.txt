@@ -1,0 +1,56 @@
+Software Development Manager,"AtTask builds software that helps people get organized
+and work together. The company needs a Software Development Manager to
+lead a group of Java developers and help deliver on the promise of
+Enterprise Work Management. As a Development Manager with AtTask, the
+incumbent will help AtTask take its technology, processes and
+organization to the next level. The primary focus of this role is to
+drive the creation of world-class software through a combination of
+technical expertise, thought leadership, and direct management of several
+engineers. The Software Development Manager will help the team develop
+their skills and become more innovative, productive and successful at
+their craft. The incumbent will also contribute to the development of the
+AtTask application 20-30% of the time by contributing on an Agile team,
+choosing what they want to work on and executing at a rapid pace.
+Company's success is based on hiring top talent, so the incumbent can
+expect to spend his/ her days interacting with like-minded people who
+share his/ her passion for building great software and believe in the
+AtTask mission.","- Provide leadership by providing context and direction to company's
+developers;
+- Guide and mentor your team and those around you;
+- Move fast and ship fast in a continuous delivery model;
+- Work with members of Product Management, UX, and QA on cross-functional
+teams;
+- Contribute in a meaningful way to the success of AtTask;
+- Design and build amazing new features using Java/ J2EE, HTML, CSS and
+Javascript;
+- Demonstrate technical excellence by delivering enterprise-grade
+quality.","- Bachelor's degree in Software Engineering or Computer Sciences;
+Advanced degree in Business Management, Technology or Planning is
+desirable;
+- Over 8 years of technical experience in software research/ development
+with 2 years in development management;
+- Fluent knowledge of written and spoken English language;
+- Awesome at:
+a) High performance software delivery in a team;
+b) Communication, Organization and Vision;
+c) Agile software development;
+d) Team-centric software development;
+e) Saas business model;
+f) Java/ J2EE;
+g) SQL (Oracle and MySQL);
+h) Javascript;
+i) HTML5/ CSS;
+- Experience with: 
+a) MooTools, JQuery and Less;
+b) Git;
+c) Open source projects;
+d) JUnit/ Selenium;
+- Knowledge of the tech or process no one has thought of that will change
+the way people work or build software.","All qualified and interested candidates should
+submit their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 0613"" in the subject line of your email. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company, visiting: www.attask.com."

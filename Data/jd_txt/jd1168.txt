@@ -1,0 +1,28 @@
+"Software Engineer, User's Interface and Flows Department","The Software Engineer will take part in design and
+implementation of software products.","- Design and develop GUI;
+- Define communication of GUI module with other parts of the tool.","- BS/ MS in CS/ EE or related field;
+- 3+ years of experience in software development;
+- Good communication and fast learning skills;
+- Self-motivation;
+- Good experience in designing and developing of GUI;
+- Previous experience of working on critical projects;
+- Formal training or test certification is a plus;
+- Strong C++/ STL programming skills, experience in widely accepted
+methodologies such as OOP, OOD, etc.; 
+- Qt 4 library experience is a plus;
+- User knowledge of Linux is desired;
+- Knowledge of TCL/TK is desired; 
+- Previous experience designing design Layout visualization is strongly
+desired;
+- Design/ implementation specification writing skills;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Knowledge of technical English language(both verbal and written);
+- In case of a male candidate it is preferred that military obligation
+or educational waivers of military obligation is fulfilled.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail and/ or submit your CV through http://amyhrs.mentor.com/.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

@@ -1,0 +1,32 @@
+Software Development Engineer in Test,"Energize Global Services CJSC is looking for an
+experienced Software Development Engineer in Test.","- Develop and test new solutions;
+- Provide a technical description of the solution based on  customer's
+requirement;
+- Perform design, development and integration of the solution;
+- Be involved in the entire lifecycle of the product;
+- Maintain the existing applications already present on the market,
+implement additional features, provide support to the integrators and
+customize the existing solution for the customers.","- University degree in Computer Science or a related field;
+- At least 3 years of experience in professional software testing and
+development; 
+- Development skills in Python and C;
+- Experience in development under Linux/ Unix OS;
+- Proven capabilities in test case design and automation;
+- Proven track record of helping test and ship products with high quality
+and performance;
+- Proven design, implementation and debugging skills; 
+- Work experience in an XP Agile environment is an advantage; 
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language;
+- Ability to explain clearly the problems to the development team(s);
+- Ability to work under pressure on multiple tasks and within tight
+deadlines.","If interested, please email your last updated
+and detailed Resume to: hr@... . Please indicate ""Software
+Development Engineer in Test"" in the subject line of your e-mail,
+otherwise your Resume will not be reviewed. Only shortlisted candidates
+will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

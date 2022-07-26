@@ -1,0 +1,45 @@
+Mobile and Web Applications Developer,"AVC is looking for Mobile and web applications
+developer to perform IT related duties in mobile and web spheres,
+including design, development, analysis and maintenance of high-quality
+software product applications.","- Interact with stakeholders to understand the needs and analyze business
+requirements; 
+- Follow the software development lifecycle process;
+- Participate in software design meetings and analysis to determine
+technical requirements, gather project requirement data and define
+project implementation plan;
+- Create high profile mobile and web applications in a fast-paced working
+environment;
+- Design and develop high-quality codes and provide post-release and
+maintenance support;
+- Test, debug, analyze and fix application problems/ issues and recommend
+improvements;
+- Interact with stakeholders to support product releases and/ or resolve
+project problems;
+- Perform other duties and projects as assigned.","- Bachelor's degree in Computer Sciences or related field; Master's
+degree is a plus; 
+- Knowledge of software development methodologies and lifecycle;
+- At least 1 year of software development experience in Mobile and Web
+applications;
+- Ability to provide solutions to a variety of technical problems of
+moderate scope and complexity independently;
+- Strong technical, analytical and programming skills;
+- Effective verbal and written communication skills;
+- Effective customer service skills;
+- Ability to work independently or within a team environment and handle
+multiple projects simultaneously.
+Specific skills:
+- Extensive experience with mobile and web applications development
+environment, including: iOS, ObjectiveC/ Cocoa, Android development
+environments and frameworks (Java, XCode, Eclipse and Android SDK/ NDK);
+- Knowledge of OO Programming and MVC Environments;
+- Knowledge of SQL/ MySQL;
+- Knowledge of HTML/ XHTML/ CSS, PHP, JavaScript, CSS or similar
+frameworks;
+- Knowledge of GNU/ Linux environment and Apache;
+- Knowledge of HTML5/ jQuery/ ExtJs/ SenchaTouch and PhoneGap/ Titanium
+is highly desired;
+- Proficiency in databases development and maintenance is a plus.","Interested candidates are invited to submit a
+cover letter and CV to: career@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

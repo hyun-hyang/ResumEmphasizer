@@ -1,0 +1,49 @@
+Oracle Database Administrator,"Damaris AM is looking for a qualified Oracle Database
+Administrator for administrating and maintaining Company's Databases.","- Create and maintain all databases required for development, testing,
+education and production usage;
+- Perform the capacity planning required to create and maintain the
+databases; work closely with system administration staff because
+computers often have applications or tools on them in addition to the
+Oracle Databases;
+- Perform ongoing tuning of the database instances;
+- Install new versions of the Oracle RDBMS and its tools and any other
+tools that access the Oracle database; 
+- Plan and implement backup and recovery of the Oracle database;
+- Control migrations of programs, database changes, reference data
+changes and menu changes through the development life cycle;
+- Implement and enforce security for all of the Oracle Databases; 
+- Perform database re-organisations as required to assist performance and
+ensure maximum uptime of the database;
+- Enforce and maintain database constraints to ensure integrity of the
+database;
+- Administer all database objects, including tables, clusters, indexes,
+views, sequences, packages and procedures; 
+- Assist with impact analysis of any changes made to the database
+objects;
+- Troubleshoot with problems regarding the databases, applications and
+development tools;
+- Create new database users as required;
+- Manage sharing of resources amongst applications;
+- Responsible for the physical database design.","- Good knowledge of all operating systems;
+- Good knowledge of physical database design;
+- Ability to perform both Oracle and also operating system performance
+monitoring and the necessary adjustments;
+- Ability to provide a strategic database direction for the
+organisation;
+- Excellent knowledge of Oracle backup and recovery scenarios;
+- Good skills in all Oracle tools;
+- Good knowledge of Oracle security management;
+- Good knowledge of how Oracle acquires and manages resources;
+- Experience and knowledge in migrating code, database changes, data and
+menus through the various stages of the development life cycle;
+- Good knowledge of the way Oracle enforces data integrity;
+- Sound knowledge of both database and program code performance tuning;
+- Sound understanding of the business;
+- Sound communication skills with the management, development teams,
+vendors, systems administrators and other related service providers;
+- Good relational skills in English language.","All interested candidates should send their last
+updated resumes to: hr@... . Please mention in the subject line
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

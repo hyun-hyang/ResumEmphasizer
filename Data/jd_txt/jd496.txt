@@ -1,0 +1,18 @@
+PHP Developer,"Lycos Armenia is looking for motivated technical
+persons to take over a new position as a Developer. The incumbent will
+work on Lycos business solutions projects. During these projects the
+selected candidate will have a chance to cooperate with colleagues from
+Germany.",NA,"- Technically the key skill requirements are at least 2 years of
+experience in PHP, C++ (with good understanding of OO programming
+concept), web based technologies, JavaScript, XML, XSL, HTML, DHTML with
+at least 2 years of experience. Knowledge of AJAX is a plus; 
+- Additionally experience with some of the following would be desirable:
+Linux, Apache, MySQL;
+- Academic degree of a minimum BS is essential;
+- Knowledge of English language is desired (writing English skills are
+obligatory).","Please send us your CVs toinfo@..., stating PHP Developer in the subject line of your
+email. 
+For additional information call (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,48 @@
+Senior Software Developer/ Specialist,"In order to succeed in this team, you must have the
+passion and energy to work in an entrepreneurial, and fast paced
+environment. In addition, you must be an experienced senior developer in
+.NET environment with in-depth knowledge of software development
+processes.
+As a senior member of the team in Armenia, you will be working closely
+with other developers and your peers in the US and other teams around the
+globe, to analyze, design, develop, test and deliver the best in class
+software.","- Work with the Senior Architect in the organization to get aligned with
+product roadmaps and assume a key role in the development of these
+products;
+- Design, proto-type, develop, and thoroughly unit test before submitting
+to QA;
+- Work with the Quality Assurance team to develop and maintain unit tests
+based on product functional specifications.","- BS/MS in Computer Science, Information Services or a related field;
+- Minimum of 3-5 years of extensive development experience, and minimum
+of 3+ years with the following technologies:
+a) ASP.NET  for building the new Control Panel;
+b) Pure C# code both on the middle tier and as part of the web UI layer
+of ASP.NET;
+c) IIS 6 and/or IIS 7 Experience;
+d) MS SQL Server 2000, or 2008 Experience;
+e) MSMQ Service.
+- Familiarity with the .NET Framework, specifically the following
+packages:
+a) Messaging, Threading, Generic Collections, Custom Controls and LINQ to
+SQL classes and also ADO.NET.
+- Experience with technologies such as XML, HTML, Resin, MyEclipse, Ant,
+Junit, Subversion and related tools;
+- Extensive programming experience with standard management and
+instrumentation API's;
+- Ability to work independently as well as with other members in the
+group, preferably in a leadership role;
+- Ability to write technical and functional specifications and present
+them to the other team members, and occasionally to the management;
+- A thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Strong inter-personnel skills, ability to work both independently and
+as part of a global team and thrive on technical challenges;
+- Excellent communication and writing skills, and experience in writing
+product specifications and technical documentation;
+- Good communication skills in English language.","Interested candidates should email their resumes
+to: hbaghdas@... . Please send resumes only if you correspond to
+the required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications head office is based in Los Angeles,
+California. For additional information please visit: www.ogmainc.com."

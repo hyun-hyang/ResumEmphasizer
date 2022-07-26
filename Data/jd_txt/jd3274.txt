@@ -1,0 +1,19 @@
+Senior Programmer,"ACRA Credit Reporting is looking for a motivated Senior
+Programmer.","- Responsible for PHP-MySQL and .NET Framework (C#) programming;
+- Responsible for MySQL database design and development;
+- Monitor and maintain the existing modules;
+- Provide consultation to partner companies such as banks and credit
+companies.","- Bachelor's degree in Computer Science or a related field; 1 year of
+professional work experience in IT programming;
+- Good knowledge of MySQL, PHP, HTML, JavaScript (jQuery and Ajax), XML,
+CSS and C#;
+- Experience in service-oriented development (web services);
+- Knowledge of English and Russian languages; ability to read
+professional literature and communicate.","Interested candidates are encouraged to submit a
+CV with a photo to: info@... , mentioning ""Senior Programmer"" in the
+subject line, or send it to: RA, Yerevan, 0010, 15 M. Khorenatsi Str.,
+Elite Plaza Business Center, floor 9. Only short-listed candidates will
+be interviewed. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

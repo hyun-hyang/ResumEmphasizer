@@ -1,0 +1,27 @@
+Senior Web Developer,"""4h"" LLC is searching for a result-oriented
+professional to fulfill the position of Senior Web Developer. The product
+is cloud based multi-country training management platform. The main
+responsibility is to develop completely automated micro-service together
+with one of the five small teams.",NA,"- At least 3 years of experience with PHP and JavaScript;
+- Understanding of the concept of Domain Driven Design;
+- Understanding of the concept of Test Driven Development;
+- Understanding of the concept of Agile/ Scrum development;
+- Experience with modern PHP frameworks like Symfony2, Zend Framework,
+Laravel or CakePHP;
+- Experience with modern JavaScript frameworks like Backbone.js,
+Angular.js and/ or Marionette.js.;
+- Understanding the concept of Continuous Integration and Continuous
+Delivery;
+- Communication skills in both verbal and written English language;
+- Experience working with tradition and noSQL databases.","All interested candidates are kindly requested
+to submit their CVs, cover letters and a portfolio of products you have
+built or led to: people@... . Please indicate the name of the position
+""Senior Web Developer"" in the subject line of the e-mail. Company is
+grateful to all interested applicants, however, only shortlisted
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""4h"" LLC is software development company, consisting of
+12 people, which develops cloud based training platform as a service. The
+company was founded in 2011 and is working for Learnship Networks GmbH
+(located in Germany)."

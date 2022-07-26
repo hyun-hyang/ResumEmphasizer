@@ -1,0 +1,31 @@
+Mobile iOS Developer,"SyncMobile is looking for a bright-minded and
+passionate Mobile iOS Developer, who will join the mobile development
+team to work on the Company's current and future projects. The incumbent
+should be a quick learner who is committed to permanent professional
+growth and is able to master new technologies. Willingness to work in
+collaboration with the Company's team and mind openness are principal
+qualities of all the Company's potential team members.",NA,"- Degree in Computer Science or a related field;
+- Working knowledge of Xcode4+ and Instruments, iPhone SDK, Objective C,
+Cocoa Framework, Push Notifications, In-App Purchases and Interface
+Builder;
+- Background in object-oriented design and development strategies;
+- At least 3 years of commercial object-oriented development experience;
+- At least 1 year of iOS development experience; the availability of at
+least one published app;
+- C++ or other OOP language experience is a plus;
+- Strong knowledge of RESTful web-services, XML and JSON data format;
+- Firm understanding of iOS programming paradigms and memory management;
+- Knowledge of co-development and version control using Git, Mercurial or
+SVN;
+- Knowledge of JIRA or related bug tracking software;
+- Love for UI and the perfect User Experience;
+- Excellent team working skills with an ability to get the work done with
+minimum supervision;
+- Good analytical and problem-solving skills;
+- Writing a clean code.","Interested and qualified candidates can send
+their CVs to: artashes@...  mentioning ""Mobile iOS Developer"" in
+the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Geno6 (represented by SyncMobile LLC) provides business
+solutions in web and mobile technology sector."

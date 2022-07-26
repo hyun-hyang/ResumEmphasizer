@@ -1,0 +1,54 @@
+Senior Quality Assurance Engineer,"An American software development company is actively
+looking for Quality Assurance Engineers for complex and long-term
+projects. The position entails working with Microsoft products. The
+projects will deal with large, well-known customers.","- Software quality assurance in accordance with developed requirements
+- Taking part in requirements development and analysis
+- Taking part in testing strategy development, testing documentation
+development
+- Taking part in planning
+- Commitment to meeting deadline according to a plan
+- Keeping rules of team work on a project
+- Improving skills, learning new tools and testing technologies 
+- Taking part in improving professional level of other team members
+- Taking part in managing a testing team","Professional skills:
+- Advanced PC user 
+- Experience in administrating Windows (9x/2000/2003) and Unix
+- Experience in administrating DBMS (MS SQL Server, Oracle, Sybase),
+IIS, Java Application Servers. 
+- Experience in testing client-server applications, client and server
+web application components
+- Experience and knowledge of VB, TSQL, ADO, VB script, JavaScript,
+HTML, XML/XSL. 
+- Knowledge of English (reading, technical writing). Fluent English is
+a plus.
+- Ability to grasp a problem quickly, be creative and propose variants
+to a problem solution
+- Highly responsible, ability to work effectively without supervision
+- Have an endeavor to improve professional skills;
+Desired qualifications:
+- Highly responsible, commitment to meeting deadlines 
+- High productivity, ability to work under pressure, take
+responsibility and make decisions 
+- Team leader 
+- Ability to make decisions of his competence fast 
+- Ability to express his thoughts clearly 
+- Ability to work on a few tasks simultaneously without supervision.","Please, send your CVs to jobs@... and
+refer to the announcement code in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","VDI's global software development teams have an
+impressive track record of developing software applications that meet
+the critical needs of Fortune 500 companies. With it's team of 300
+employees, VDI has successfully completed dozens of large IT projects in
+various fields of information technology, including DMS, KMS, Workflow,
+B2B, CRM, ERP, SCM, Web-based applications, etc.
+More than 90% of VDI projects are completed on time and on budget
+(compared with an industry average 16%).
+Our products have successfully withstood the test of the US marketplace
+and demanding international User Groups.","Vested Development, Inc. (VDI) is an international
+provider of offshore software development services, which has been
+operating since it's founding in 1997. Headquartered in Burlington, MA,
+VDI also has office in Armenia. VDI is an example of mutually beneficial
+international cooperation, as its formula for success combines American
+management skills with the proven talent and renowned technical and
+scientific education of Armenia engineers."

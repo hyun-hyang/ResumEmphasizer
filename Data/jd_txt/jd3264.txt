@@ -1,0 +1,21 @@
+Junior PHP Developer,"Nork CJSC is seeking a proactive Junior PHP Developer
+to join the Company's team with long-term perspectives and career growth
+opportunities within the Company.","- Write and comment PHP code;
+- Design the PostgreSQL database structure and run SQL commands against
+the database;
+- Design the MySQL database structure and run SQL commands against the
+database;
+- Read, understand, comment and modify the existing code;
+- Provide technical support and assistance;
+- Perform other duties as assigned.","- Bachelors degree in Computer Science or a related field;
+- At least 6 months of experience working with PHP;
+- PostgreSQL, MySQL, PHP and JavaScript skills;
+- Experience in working with Yii PHP framework;
+- Reasonable level of HTML4/ 5 knowledge.","To apply for this position, please submit a
+resume including your relevant qualifications, work experience and
+information on professional reference to: norq@... . Please, mention
+the position title ""Junior PHP Developer"" in the subject line of your
+email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

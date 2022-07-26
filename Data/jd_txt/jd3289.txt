@@ -1,0 +1,27 @@
+PHP Developer,"Altacode is looking for a highly qualified and
+motivated PHP Developer with deep knowledge and practical experience in
+Android development. The PHP Developer will use PHP, (X)HTML, CSS, and
+JavaScript to help build and maintain the company's network of over 100
+public-records sites in a fast-paced environment. The incumbent will also
+have the opportunity to work on the Yii-based application that powers
+these sites.",NA,"- Real-world experience with customer-facing PHP applications;
+- Experience in working with an MVC PHP framework (such as Yii, Symfony,
+Zend, Cake and Code Igniter);
+- Experience with OOP, MVC, ORM and design patterns;
+- Experience with APIs (SOAP and REST);
+- Experience with MySQL (query analysis);
+- Knowledge of both XHTML and HTML5;
+- Knowledge of CSS and JavaScript (including jQuery);
+- Understanding of version control (preferably Git);
+- Attention to detail;
+- Excellent organizational skills;
+- Knowledge of Yii Framework;
+- Understanding of system administration for Linux servers;
+- Knowledge of Twig, MongoDB, NetBeans, and PHP unit testing.","All the interested candidates who meet the
+requirements for the position are encouraged to send their CVs to:
+resume@... mentioning the position title in the subject line of
+the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for the US market of information technologies."

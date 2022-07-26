@@ -1,0 +1,40 @@
+Senior QA Engineer,"The Company is looking for an expert in the field of
+manual and automated QA activities for client-server applications who has
+a passion for supporting and providing high-quality products. Senior QA
+Engineer will mainly be responsible for the quality assurance of our
+brand new product.","- Perform manual testing as well as generate automated regression test
+cases;
+- Analyze functional requirements from QA perspective to find issues in
+requirements in early stage of development;
+- Test plan/ test cases creation and maintenance throughout the
+development lifecycle;
+- Bug tracking (identify, reproduce and report bugs);
+- Verify fixed defects and perform regression tests to ensure the quality
+of releases;
+- Responsible for close collaboration with other QA engineers, Business
+Analysts and developers to identify, discuss and solve project issues.","- University degree in Computer Science or similar field;
+- Ability to understand business and functional requirements and propose
+solutions/ corrections;
+- Minimum 3 years of software QA experience;
+- Strong experience with automation testing tools;
+- Excellent English writing and verbal skills;
+- Strong experience of testing on mobile devices (iPhone, iPad,
+Android);
+The following skills/ experience would be a plus:
+- Knowledge of any development or scripting language (Java, C++, Python,
+etc.);
+- Strong theoretical knowledge of SDLC;
+- Knowledge of HTML, XML, SQL;
+- Experience of working with bug tracking systems;
+- Excellent communication skills;
+- Strong organizational skills;
+- Experience of direct communication with the client;
+- Ability to work under pressure and in multi-task environment;
+- Ability to train junior staff and share knowledge with co-workers;
+- Ability to drive improvement process.","Interested candidates should email their resumes
+to: info-am@.... In the subject line of your e-mail
+message, please mention the title of the position you are applying for.
+Please send resumes only if you correspond to required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

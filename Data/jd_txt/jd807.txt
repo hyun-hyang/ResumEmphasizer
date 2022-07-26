@@ -1,0 +1,26 @@
+Database Programmer,"PA Government Services, Inc. is accepting expressions
+of interest from qualified candidates with in-depth knowledge and
+practical experience in database programming under MsAccess for an
+on-going USAID funded Program for Institutional and Regulatory
+Strengthening of Water Management in Armenia.","- Develop MsAccess application using Visual Basic for Applications (VBA)
+following the given design standards and structure;
+- Read, understand and modify the existing code;
+- Modify existing MsAccess databases by adding import/export tools to
+facilitate data sharing among various institutions and information
+exchange through the State Water Cadastre Data Warehouse of WRMA;
+- Integrate unique water object identifiers into existing MsAccess
+databases of various institutions;
+- Communicate with management and team members effectively.","- Graduate degree or equivalent in Computer Sciences or a related
+discipline;
+- Three years of work experience in database programming;
+- Good knowledge of MsAccess and VBA;
+- Ability to work in team;
+- Fluent knowledge of Armenian and Russian languages, good English
+language skills.","Please e-mail a full, current curriculum vitae
+(CV) in reverse chronological format, to: office@... or fax
+to Lolita Adibekyan at 586013. Please refer to ""Database Programmer"" in
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"PA Government Services, Inc. is an Equal Opportunity
+Employer."

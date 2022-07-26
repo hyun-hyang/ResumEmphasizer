@@ -1,0 +1,41 @@
+1C Developer,"Link Ltd. is actively looking for energetic and
+purposeful personalities, who  will be involved in implementation of a
+new project as Software Developers and will participate in developing
+products of a newer version. The product will constitute a software
+solution for automating economic, financial and trading activities. The
+incumbent  will have to attend a training course of 2-3 months before
+starting work on software product.","- Take part in gathering user requirements;
+- Take part in system architecture development;
+- Develop software according to requirements;
+- Complete work according to deadlines;
+- Take part in mentoring other developers professional skills;
+- Systematically study technical documentation.","- Essential knowledge of object-oriented methodology;
+- Essential knowledge of database theory;
+- Ability to develop quality code, apply proper language constructions
+and use quality algorithms;
+- Willingness to increase competency and professionalism;
+- Ability to identify problems on the fly and separate joint moments;
+- Good knowledge of Russian language;
+- Knowledge of English for technical documentation reading.
+Desired qualifications:
+- Ability to responsibly complete assigned tasks according to
+deadlines;
+- Highly productive: ability to work under pressure, adapt to dynamic
+business environment, make decisions, and take responsibility;
+- Energetic, capable of being a team leader;
+- Ability to appropriately make decisions on issues of different
+complexity for areas of responsibility;
+- Ability to express thoughts clearly;
+- Ability to work on many tasks at the same time without supervision.","All interested candidates are requested to send
+their CVs (in Armenian, Russian or English) to: job@... or submit to
+the Link Ltd. office at: 49 Komitas ave., 3-rd floor, Yerevan, Armenia.
+Tel: +374 (10) 23 05 10. The candidates will be invited for interviews
+in the Link Ltd. office between May 14 and 19. The short-listed
+candidates will be invited to the second interview. Time for interviews
+will be announced while contacting the candidates. The starting date
+will be discussed with successful candidates.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Link Ltd. since 1998 has been engaged in developing of
+software solutions for financial and managerial accounting based on
+technological platform of Russian ""1C:Enetrprise"" system."

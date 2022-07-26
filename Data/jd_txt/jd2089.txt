@@ -1,0 +1,38 @@
+C Software Developer,"Energize Global Services is looking for an experienced
+C Software Developer to be engaged in different long term projects.
+Within a software development team, the successful candidate will be
+involved in the full cycle of software development: understanding of the
+requirements, performing the functional analysis, design, implementation,
+documentation and testing.","- Responsible for software development in C/ C++;
+- Write unit tests and functional tests;
+- Write automated test cases in Python; 
+- Work as part of cross functional software development team.","- Advanced knowledge of OOP and OOD; 
+- At least 3 years of professional experience with software development
+using C/ C++;
+- Ability to understand the requirements and translate it into functional
+specifications;
+- Knowledge of software development life cycle;
+- Knowledge of Unit testing principles and frameworks; 
+- Development experience under Linux/ Unix OS;
+- Analytical and integrative thinking; 
+- Good communication skills;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language;
+- Ability to work in team and independently;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Knowledge of Python or other scripting languages will be an asset.
+The following skills/ experience would be a plus: 
+- Experience with embedded software development; 
+- Knowledge of Cryptography; 
+- Understanding of software development processes and experience with
+Agile methodologies.","If interested, please email your last updated
+and detailed Resume to: hr@... . Please indicate ""C
+Software Developer"" in the subject line of your e-mail, otherwise your
+Resume will not be reviewed. Only shortlisted candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

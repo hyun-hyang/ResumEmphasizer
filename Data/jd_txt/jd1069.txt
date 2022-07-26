@@ -1,0 +1,27 @@
+Software Developer,"Armenian Datacom Company is looking for a talented
+Software Developer.","- Develop software according to requirements;
+- Take part in gathering requirements;
+- Participate in planning and architecture development;
+- Complete work according to deadlines.","- Excellent knowledge of JAVA, PHP, MySQL's SQL, JavaScript, DOM-API,
+XML;
+- Work experience with Apache Web server, Unix/FreeBSD/Linux;
+- Experience in UI design and front-end development will be an
+advantage;
+- Source management with CVS will be an advantage;
+- Work experience with Eclipse development environment will be an
+advantage;
+- Willingness to learn new programming languages and technologies;
+- Good knowledge of technical English language;
+- Punctuality and accuracy in work, ability to work efficiently with
+minimal supervision;
+- Motivated, energetic personality, flexible, willingness to increase
+competencies and professionalism;
+- Creativity and team spirit.","Please send your CV and application document
+(cover letter) to: ashot.tonoyan@... mentioning the position title in
+your email subject.
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Armenian Datacom Company"" CJSC (ADC) was formed as an
+Armenian-Norwegian joint venture in April 2006, and has in January 2009
+been joined by Dubai based Delta Partners. Website: http://www.adc.am"

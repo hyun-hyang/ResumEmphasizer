@@ -1,0 +1,18 @@
+Software Engineer,"Candidate will be involved in the architecture,
+design, development and maintenance of networking systems and middleware
+for multiplayer gaming on Pocket PC and cell phone wireless devices,
+delivering flexible and scalable solutions. This individual will work in
+a team setting to help with the specification and development of
+specialized custom servers, application servers, and client interfaces.",NA,"- Strong object-oriented design skills;
+- Strong analysis and problem solving skills;
+- Strong math skills;
+- Experience with a full product development cycle;
+- Ability to anticipate and prevent problems;
+- Ability to meet a schedule;
+- Communications skills, ability to work well individually and as part
+of a team of programmers;
+- 3-5 years of experience programming in C++;
+- Passion for computer games.","Please send CV to: resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

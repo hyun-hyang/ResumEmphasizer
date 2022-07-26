@@ -1,0 +1,21 @@
+Junior PHP Developer,"Joomag AM LLC is seeking a highly motivated Junior PHP
+Developer who will become a part of the company's team and contribute to
+all aspects of the ongoing software development from the initiation,
+through to developing, testing and launching.","- Develop and deploy new features to facilitate related procedures and
+tools if necessary;
+- Write ""clean"", well-designed code;
+- Follow industry best practices;
+- Contribute in all phases to the development of lifecycle;
+- Produce detailed specifications.","- Strong knowledge of PHP and MySQL;
+- Knowledge of HTML, CSS and JavaScript;
+- Experience with GIT is a plus;
+- Knowledge of PHP frameworks is a plus;
+- Knowledge of OOP and Design Patterns is a plus;
+- Knowledge of C/ C++ is a plus;
+- Good knowledge of English language is a plus.","All interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC is providing digital publishing services.
+More information can be found at: www.joomag.com."

@@ -1,0 +1,50 @@
+Senior Flash Developer,"Aragast Web Technologies is seeking a Senior Flash
+Developer to join the team in developing a new social networking solution
+(www.cafe4tune.com). Company is looking for energetic people who are
+ready for new challenges and have a good understanding of Agile software
+development methodologies, practices and frameworks. The past experience
+with Scrum framework is highly desirable, as the company practices Scrum.","- Work with designers, architects, developers, QA and product managers in
+developing applications;
+- Develop and build applications in Flash CS3 and Action Script 2.0 and
+3.0;
+- Develop server side action scripts for Flash Media Server (RTMP);
+- Perform unit/ system and integration testing on own work and the work
+of others;
+- Participate in Design and Code Reviews;
+- Measure and verify that new and old code has acceptable performance and
+scalability;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to coding standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Contribute to the continuous improvement of software engineering
+practices and tools;
+- Participate in the Sprint planning meeting;
+- Provide technical support and assistance, if requested.","- From 3 to 5 years of Flash development experience;
+- Extensive knowledge of Flash CS3, Action Script 2.0 and 3.0 is
+required;
+- Understanding of OOP and OOD;
+- Up to date on Flash trends and best practices, Design patterns and Flex
+3.0;
+- Knowledge of Flash video development; other video experience is a
+plus;
+- Experience with optimizing design for various bandwidth and platform
+requirements;
+- Experience on integration with web technologies such as XML, JSON,
+JavaScript, Web Services and ASP.NET;
+- Experience in any of HTML5, JavaScript, JQuery, CSS, ASP.NET is highly
+desired;
+- Strong experience in all aspects of the software development
+lifecycle;
+- Team-oriented experience is highly desired;
+- Knowledge of user-centered UI design and usability is highly desired;
+- Good knowledge of technical English language;
+- Excellent communication and teamwork skills;
+- Ability to work independently;
+- Attention to details.","Please submit your CV in English language to:aragast@... , indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Aragast Web Technologies is a software development
+company using cutting edge technologies and methodologies to provide
+market competitive solutions."

@@ -1,0 +1,35 @@
+Web UI Developer,"EPAM Systems, Inc. is seeking for an experienced Web UI
+Developer to join the company's team in developing enterprise-level
+software solutions. The company is looking for an energetic person who is
+ready for new challenges, teamwork, and agile software development.","- Design and build new features using HTML, CSS and JavaScript;
+- Focus on details to produce cross-browser, pixel perfect UI using
+current web development technologies;
+- Deliver robust, scalable quality software products on time;
+- In coordination with the Team Lead, plan and execute projects through
+all phases of the projects development;
+- Update and modify web pages to improve efficiency;
+- Work with members of Product/ Project Management and QA on
+cross-functional teams;
+- Respond promptly and professionally to bug reports.","- BS/ MS in Computer Science or a related discipline;
+- At least 3 years of experience as Web UI Developer using JavaScript,
+HTML, CSS;
+- Experience with JavaScript frameworks: jQuery, Ext JS, Prototype;
+- Experience with Adobe Fireworks or Photoshop;
+- Ability to manage and realize problem solutions within a specified time
+range;
+- Creativity and analytical thinking;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Strong and effective inter-personal and communication skills;
+- Good oral and written English language skills;
+- Ability to multi-task and stay organized in a dynamic work
+environment;
+- Ability to work in a team environment in close cooperation with other
+members of the companys team worldwide.","To apply for this position, qualified candidates
+are asked to send their CVs to: Marine_Melikyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

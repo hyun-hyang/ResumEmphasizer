@@ -1,0 +1,54 @@
+Senior Software QA Engineer,"The Senior Software Quality Assurance Engineer will be
+primarily responsible for creating automated test harnesses for primarily
+back end components and the company's server applications; ensuring that
+quality requirements are satisfied to specification. The incumbent will
+also be responsible for performing a variety of QA Engineering tasks,
+including the design and execution of API level tests for Java
+Application Services, Integration Testing of Web Services, Test plan
+design, development and execution, User Interface testing of Web
+Applications and Automation, ad hoc testing, etc. The incumbent may also
+be responsible for helping establish a test framework and developing
+other test tools as needed in Java.","- Work closely with the Development teams and Management and internal
+users during the software development cycle on complex, large scale
+applications;
+- Review functional and design specifications to develop test automation
+frameworks using Java/JUnit, SQL and shell scripting for all product
+components, including back-end processes;
+- Design and execute test plans and test cases by performing Unit,
+Functional, Regression, and Integration testing from the system,
+customer, performance, and usability perspectives;
+- Perform queries, automate and run a subset of the production data in
+testing environments, configure environments and administer databases to
+ensure that business rules are enforced on the various external/internal
+systems;
+- Lead the implementation of quality processes appropriate with
+effectively testing/releasing large-scale applications, while working
+with a defect management system (Bugzilla) and release management tool;
+- Follow project milestones; design, implement, document, and execute
+tests; evaluate and communicate results; and investigate product
+features (including ad hoc testing).","- Bachelor's degree with emphasis on Computer Science, Computer and
+Electrical Engineering majors. Master's degree with emphasis on Computer
+Science is preferred;
+- 5+ years of overall Information Technology experience;
+- 3+ years software quality assurance testing, including Unit and
+Integration Testing;
+- 2+ years of experience coding of automation frameworks Java/JUnit;
+- 1+ years of Unit test case design and execution/whitebox testing
+experience;
+- Depth of experience in the testing of Relational Databases such as
+Oracle and MySQL;
+- Strong UNIX background preferably Linux, including web servers
+(Apache, Tomcat);
+- Experience with bug tracking and defect management systems
+(Bugzilla);
+- Working knowledge of code coverage tools and analysis;
+- Exposure to Spring, AJAX and familiarity with Java IDE tools such as
+Eclipse;
+- Automation design and performance testing;
+- Build and Configuration Management exposure with Subversion and Ant;
+- Strong self starter with ability to work in dynamic and fun
+environment.","Please, email your CV to:ra-evn-jobs@... . In the subject line of your e-mail message
+please mention the title of the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

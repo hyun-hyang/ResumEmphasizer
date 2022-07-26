@@ -1,0 +1,22 @@
+VHDL Programmer,"The position involves developing end to end application
+and system software on various NI FPGA based hardware platforms such as
+PXI, FlexRIO, IF RIO, cRIO; defining phases of software lifecycle
+including prototyping, functional specification, design architecture,
+development, testing and release management.",NA,"- Good knowledge of VHDL programming. Knowledge of additional programming
+languages like C or Assembly would be a plus;
+- Knowledge of tools for programming, debugging and testing of VHDL
+code;
+- Knowledge of programming on an embedded platform would be a plus;
+- Familiarity of LabVIEW/LabVIEW FPGA platform would be a plus;
+- Knowledge of various IPs on FPGA in field of communications/ protocols
+would be a plus;
+- Good knowledge of English and Russian languages;
+- Willingness and adaptability to travel to customer sites;
+- Self starter with minimal intervention and a positive can do
+attitude.","Please send resumes to:employment.armenia@.... In the email subject please mention ""VHDL
+Programmer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"National Instruments (NI) is a high-tech company that
+develops computer-based products for measurement and automation
+applications. For more information please visit: www.ni.com."

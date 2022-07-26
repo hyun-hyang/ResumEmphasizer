@@ -1,0 +1,26 @@
+Junior Software Developer,"Numetrics Management Systems Inc. is seeking Junior
+Java Developers for development of features for its ERP solution.","- Design and implement Java/J2EE based, database driven web application;
+- Develop software components that fits into layered application
+framework including user interface, business logic and back-end
+service/data access components;
+- Participate in design discussions and project related team meetings;
+- Communicate effectively with management, development and QA team
+members.","- University degree in Computer Science or Applied Mathematics (MS is
+preferred);
+- Good knowledge of core Java, OOP principles and data structures;
+- Basic knowledge of J2EE (servlets, JSP, JDBC);
+- Basic knowledge of RDBMS concept and database driven application
+development;
+- Experience in developing software products is an advantage;
+- Basic knowledge of the following Java frameworks is a plus: Struts,
+Spring, and Hibernate;
+- Familiarity with HTML, CSS, JavaScript, XML and AJAX development is an
+advantage;
+- Good analytical and problem solving skills;
+- Good English language skills including reading, writing and speaking.","Please e-mail your detailed CV in English to:vasilb@... indicating the position title in the subject line of
+your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Numetrics provides a suite of enterprise resource
+planning (ERP) software to semiconductor companies. For more information,
+please visit: http://www.numetrics.com"

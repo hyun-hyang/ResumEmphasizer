@@ -1,0 +1,29 @@
+SCM Engineer,"The primary objective of this position is to ensure
+consistency of infrastructural tools and processes being used within
+Product Development.","- Monitor and manage source control and configuration management systems
+- Administer regular builds and releases;
+- Manage internal and development tools;
+- Infrastructural support of PD projects.","- Bachelors degree in Information Technology, Computer Science, or
+related discipline;
+- 2+ years of Source Control Management experience to include: 
+a) Working in a multi-project, multi-system, distributed team
+environment;
+b) Knowledge of versioning tools and processes;
+c) Experience with scripting languages (Perl, TCL, etc.);
+d) Ability to work with various operating systems, including Windows,
+Unix, and Linux;
+e) Experience with MKS and Development Studio is preferred;
+- Ability to effectively work in a team environment while being
+self-directed and highly motivated;
+- Follow set processes and procedures;
+- Good problem solving and analytical skills;
+- Strong attention to detail;
+- Ability to meet deadlines and overcome challenges.","Interested candidates should email their
+resumes to: yer_job@.... Please mention the position you apply for.
+For questions, please call: (+374 10) 26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. It was established in 1980 and is headquartered in
+Denver, Colorado. For additional information about the company, please
+visit website: www.cqg.com."

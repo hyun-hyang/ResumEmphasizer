@@ -1,0 +1,11 @@
+Junior Software Engineer,"The incumbent will use PC-lint/FlexeLint tool to
+determine potential problems in the company's programs, to reveal
+unusual constructs that may be a source of subtle and undetected errors
+and fix them.",NA,"- Good knowledge of programming languages C, C++;
+- Knowledge of Unix/Linux OS;
+- Ability to quickly search and study documentation;
+- Good English language communication skills;
+- Team working capability.","To apply, please send your resume to:hr.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,46 @@
+Network Administrator,"The Network Administrator will be responsible for
+administration, maintenance and organization of networks and report to
+Head of MIS.","- Administer and maintain local and global networks, servers and
+workstations of the organization, as well as connections to Internet and
+provision devices;
+- Explore and fix the malfunctions in hardware and software in
+workstations, servers, networks, OS and applications;
+- Control the functionality of network and provide the accessibility to
+users;
+- Implement the software to control traffic flow via networks and
+security monitoring and optimization of servers;
+- Responsible for start-up of networks as required and maintenance of
+records of control logs;
+- Implement the backups of data as prescribed and maintenance of disaster
+and recovery logs;
+- Implant test and perform actions to ensure the quality and security of
+communication lines;
+- Control and implement monitoring of usage of E-mail, web navigation and
+applications at users workstations;
+- Implement shell scripting and other scripting as required; 
+- Control other members of work group; 
+- Support the implementation of mission of the organization and strategic
+planning, and perform the tasks required by internal regulatory normative
+of the organization.","- Higher education in IT related fields is a plus;
+- At least 2 years of experience in the field of network administration
+and implementation;
+- Strong knowledge of administration of MS windows r2, e-mail servers,
+network protocols, routing control, etc.;
+- Good knowledge of administration and configuration of CISCO network
+equipment is a plus;
+- Certification in Network/ System Administration related field and
+trainings is a plus;
+- Excellent communication skills;
+- Ability to conduct team and individual tasks.","Please send your CVs to: vacancy@...  or
+deliver hard copies to: Amiryan Str. 4/6, Office 152, Yerevan, RA,
+""Aregak"" UCO CJSC. Please mention ""Network Administrator"" in the subject
+line, otherwise your CV will not be considered. Only shortlisted
+candidates will be invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Aregak"" UCO CJSC has started the activity as a
+microcredit program of United Methodist Committee (UMCOR) in 1997 and in
+2006 was registered as a Universal Credit Organization. ""Aregak"" UCO CJSC
+is providing financial services in all the regions of the Republic of
+Armenia and Nagorni Karabakh. The head office of the organization is
+located in Yerevan. For more information, please visit: www.aregak.am"

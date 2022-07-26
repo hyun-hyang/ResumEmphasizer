@@ -1,0 +1,33 @@
+Web Developer,"Union of Banks of Armenia is developing an electronic
+library of financial and financial related literature co-financed by the
+PFS Program of USAID. In this regard UBA is looking for qualified Web
+Developers for the development of a web site for the E-Library of
+professional books. The website should be of modern design, with simple
+and user-friendly interface, with smooth navigation system, technically
+reliable and assure administrator-friendly infrastructure.",NA,"- University degree in Computer Science, Programming or other relevant
+field;
+- Advanced knowledge of the modern web development technologies;
+- 3-4 years of relevant work experience in web development;
+- Proven experience in web development field, solid portfolio of
+accomplished web projects/ created websites (previous experience in
+similar project will be a plus);
+- Skills in Software Development, Database Architecture, Web Design;
+- Good communication skills;
+- High sense of responsibility and discretion;
+- Detail oriented personality;
+- Superior organizational and time management skills;
+- Ability to meet specified deadlines;
+- Demonstrated ability to maintain confidentiality.","To apply, please send your CV/ Resume with the
+addresses of previously created websites to: career-uba@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","This research paper was co-financed by a PFS Program
+grant, a regional financial sector development program financed by the
+United States Agency for International Development (USAID).  The opinions
+expresses herein are those of Institution and do not represent the
+opinions of the PFS Program or USAID.","Union of Banks of Armenia is a non-commercial
+organization, founded on the 27th of July, 1995, in accordance with Law
+""On Banks and Banking Activity"", to present banking sectors corporate
+interests as well as enhance banking sectors role in strengthening
+Armenias economy. Currently all commercial banks are members of the
+Union in Armenia."

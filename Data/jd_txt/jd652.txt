@@ -1,0 +1,41 @@
+Senior ETL Informatica Developer,"The Senior ETL Informatica Developer will be
+responsible for implementing Mappings between source and target Data
+Marts. The projects will require the specialist to interact/communicate
+with the customers directly in English language.","- Review functional design specification, and give feedback on aspects
+which need further clarity;
+- Review reports already created for Release 1, to learn about solutions
+which were found, and to consider using a similar style;
+- Understand and manage the project scope;
+- Provide guidance and supervision in hiring and management of
+additional ETL development personnel;
+- Prepare timeline for ETL mapping process;
+- Communicate regularly with the Development team and other personnel to
+ensure problems are recognized and addressed before they endanger the
+success of the project;
+- Work closely with other Development team members to improve quality
+and consistency of all deliverables; provide guidance, as necessary;
+- Do unit testing (or supervise other developers in unit testing);
+- Responsible for run in development, QA and production;
+- Respond quickly to issues which emerge in Systems and User Acceptance
+testing.","- 10+ years of total IT experience;
+- 5+ years experience in Informatica, ETL;
+- 2 years minimum Data Warehousing experience;
+- Multiple projects designing Enterprise ETL Architecture;
+- Proven experience in data profiling and analysis;
+- Proven experience with data cleansing;
+- Experience in a couple of large scale implementation with complete
+life cycles;
+- 5 years of Oracle experience  SQL, PL/SQL;
+- 23 years of SQL Server experience;
+- Informatica Server Administration experience;
+- Ability to deliver within short time frames;
+- Ability to work independently;
+- Ability to maintain mapping documents;
+- Excellent verbal and written communication skills in English
+language;
+- Ability/willingness to travel to US, for experience exchange, customer
+visits, and training purposes.","To apply for this position, please send your
+resumes to: Sergey.Barikyan@...,Vahe.Stepanyan@... or Artashes.Hakobyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

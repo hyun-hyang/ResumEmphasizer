@@ -1,0 +1,23 @@
+.Net Programmer,"We are looking for a .Net Programmer (ASP.NET/ C#/
+SQL) to work at our Yerevan office.",NA,"- Experience in designing and delivering complex web based applications
+using C# and ASP.NET 1.1 and 2.0; 
+- Experience in developing custom server controls for ASP.NET; 
+- Background in component/ object development in .Net; 
+- Experience in developing ASP.NET Web Services;
+- Experience in accessing data using ADO.NET; 
+- Work experience with Style Sheets, HTML, JavaScript, XML and XSLT; 
+- Knowledge of IIS and Web Site Application Deployment; 
+- Experience with SQL Server 2000/ 2005 database design, programming and
+administration; 
+- Experience in developing stored procedures; 
+- Experience with database design, normalization, UDFs, views, triggers
+and scheduled jobs; 
+- Knowledge of database Security; 
+- Experience with SQL Server Reporting Services, Analysis Services and
+Integration Services;
+- Demonstrated problem solving skills;
+- Responsible and motivated personality.","To apply, please email your resume to:techjobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","SADA Systems, Inc. is a Los Angeles, CA based
+computer technology consulting and development firm.",NA

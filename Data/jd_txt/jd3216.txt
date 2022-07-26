@@ -1,0 +1,31 @@
+Senior Android Developer,"Citymobil is looking for a Senior Android Developer who
+possesses a passion for pushing mobile technologies to the limit and who
+will work with the Company's team of developers to design and build the
+next generation of the Company's mobile applications.","- Design and build advanced applications for the Android platform;
+- Collaborate with cross-functional teams to define, design and ship new
+features;
+- Work with outside data sources and API's;
+- Test automation using Robotium;
+- Work on bug fixing and improving the application performance;
+- Discover, evaluate and implement new technologies to maximize
+development efficiency;
+- Ability to quickly handle the codes written by others.","- Bachelor's degree in Computer Science or other related fields;
+- At least 3 years of software development experience;
+- At least 3 years of hands-on Java and/ or Android experience in a
+professional environment;
+- Understanding of the source code;
+- Passion for mobile device technologies, especially Android;
+- Availability of implemented projects on the Google Play Market.","All interested candidates are kindly requested
+to submit their CVs and the implemented projects on the Google Play
+Market to: ani.margaryan@... with CC to:
+a.alexandryan@... . Please indicate the title of position
+""Senior Android Developer"" in the subject line of email. Citymobil is
+grateful to all interested applicants; however, only short-listed
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Citymobil LLC is a Moscow-based company, founded in 2007.
+Citymobil is available in Moscow, Krasnodar, Rostov-on-Don and Kazan.
+Citymobil allows you to book and hail a taxi from your smartphone or via
+website. For more information about the Company, please visit:
+http://www.city-mobil.ru/."

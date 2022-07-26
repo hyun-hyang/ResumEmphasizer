@@ -1,0 +1,43 @@
+Senior QA Engineer,"The Senior QA engineer typically reports to a QA
+manager and higher. He/she is the central communication node for all
+test activities for specific Business Unit(s). May lead and direct the
+work of others.","- Plan, prepare and report on test processes as well as organizing the
+process of test automation;
+- Handle the installation tests of applications, automated framework
+development for white-box analysis of sources and configuration
+management;
+- Participate in development of new test tools or enhancement of already
+existing ones; 
+- Works under general supervision; 
+- Control the test activities; 
+- Reviews test cases and scripts for completeness and correctness.","- Bachelor's or MS degree and at least 3 years of experience in testing
+and/or coding in Java, C, C++;
+- At least 1 year experience in a Senior QA position;
+- Strong experience and/or knowledge of software requirements
+management, design, development, verification and validation;
+- Experience in managing the test team in daily QA activities and work
+efforts;
+- Experience in test automation and setting up unit tests;
+- Strong understanding of relational databases (particularly MS SQL
+Server);
+- Knowledge of both Windows and UNIX environments, scripting skills
+(including Perl, bat, shell);
+- Experience in software performance analysis;
+- Strong research and documentation skills;
+- Experience in creating and ensuring quality team deliverables
+(including analysis of requirements, test plans, test scripts, test
+executions, summary reports, and final recommendations on the tested
+product)
+- Experience in configuring test environment;
+- Provide and update test time estimates, testing coverage and risk
+analysis;
+- Learn and apply automated testing tools to system components testing;
+- Keep communication with project management, holding meetings; 
+- Experience in defining, tracking and reporting quality assurance
+metrics such as defect densities and find/ fix ratios;
+- Fluent in English language.","Please send us your CVs toinfo@..., stating  Senior QA Engineer in the subject line of
+your email. 
+For additional information call (374-10) 51-20-26.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

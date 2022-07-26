@@ -1,0 +1,52 @@
+Java Team Leader,"EPAM Systems is looking for experienced Java Team
+Leaders to work at Yerevan office.","- Work as a part of international project teams for leading IT
+companies;
+- Code in accordance with defined standards;
+- Mentor team members as required;
+- Perform unit and system integration tests;
+- Business trips to Europe and the US  possible.","- 5+ years of progressive experience in Java development;
+- Strong knowledge of software architecture, design patterns, and
+current technologies;
+- Broad knowledge of the Java Platform with specialization in the
+creation of multi-tiered applications;
+- Deep practical knowledge of performance issues, in particular with
+n-tier systems;
+- Specific experience in web services using a variety of implementation
+technologies;
+- Java/J2EE, EJB, JMS, Servlets, JSP, Hibernate, LDAP, XML/XSL, HTML,
+JavaScript, Struts, Spring, MVC;
+- Oracle/MySQL/MSSQL/PL-SQL/SQL knowledge;
+- Working knowledge of tools such as Rational Rose, ERwin, MS Office,
+and Visio;
+- Object-oriented design using UML;
+- Development platforms: Linux/Unix, Solaris and Windows.
+Desired Qualifications:
+- Possess excellent communication, problem solving and analytical
+skills; strong team player;
+- Solid technical leadership skills;
+- Ability to accurately estimate tasks and meet schedules;
+- A strong commitment to always do whats best for the customer;
+- Excellent knowledge of spoken and written Russian; 
+- Good knowledge of spoken and written English.","Please, email your CVs to: yerevan-hr@....
+In the subject line of your e-mail message please mention the title of
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","In 2006 EPAM Systems merged with VDI, which had
+presence and development expertise in Armenia along with its global
+workforce. The combined company has 22 branches in 8 countries with
+3500+ employees. 
+EPAM is distinguished by its technology expertise, proven by such
+customers as SAP, Reuters, Microsoft, BEA Systems, EMC and many others.
+The company has a combined expertise in such horizontal solutions as
+CRM, ERP, DMS, CMS, SCM, EAI, BI.","According to Brown-Wilson Group Survey* EPAM Systems is
+the #1 software engineering outsourcing services provider in Central and
+Eastern Europe. Founded in 1993, EPAM maintains North American
+headquarters in Lawrenceville, NJ. 
+Currently there are 3500+ highly qualified IT professionals working at
+EPAM Systems. EPAM software development centers are located in Russia,
+Hungary, Belarus, Ukraine and Armenia. The company continues its growth
+and development. 
+Our mission is: ""Delivering excellence in software engineering"" to the
+benefit of our clients.
+*http://www.theblackbookofoutsourcing.com/top10itooffshoreeasterncentraleurope.html"

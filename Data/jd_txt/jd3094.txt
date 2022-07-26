@@ -1,0 +1,128 @@
+Software Development Team Manager,"Software Development Team Manager leads a group of
+software engineers in the creation of software programs for internal and
+external (commercial) use, manages the coordination of the activities of
+a section or department with responsibility for results, including costs,
+methods and staffing. 
+Software Development Team Manager makes key technical architecture and
+development decisions for the development team, and provides technical
+leadership and mentoring for team members while maintaining a very
+hands-on development role.","- Plan and execute multiple projects at a time in coordination with the
+management and successfully guide and review the engineering group
+through all the phases of project development;
+- Receive assignments in the form of objectives and determine how to use
+resources to meet schedules and goals;
+- Provide guidance to subordinates within the latitude of the established
+Company policies;
+- Recommend changes to policies and establish procedures that affect
+immediate organization(s);
+- Support and motivate a team of direct and indirect reports (14 or less)
+to best support departmental strategy, goals and performance objectives;
+- Establish recurring communications to understand business operations,
+to assist with securing resource help, to provide guidance and to relay
+senior management expectations;
+- Guide staff in the execution of daily activities; coach and provide
+career development advice to the staff;
+- Establish team and employee goals; conduct regular employee and/ or
+team performance reviews;
+- Schedule and conduct recurring staff meetings, including 1x1 employee
+meetings;
+- Perform staff scheduling to include: work assignments/ rotations,
+employee training, overtime assignment, and shift rotations;
+- Recruit talent; develop and coach people; build VMware team;
+- Ensure that department performance and quality goals are duly met;
+- Communicate regularly with the senior management on the team's
+activity, attitude and performance;
+- Effectively communicate and interact with teams at the functional level
+across departments;
+- Provide overall accountability for the team performance;
+- Help the team (while holding the team accountable for producing the
+needed documents) on the design issues, specifically:
+a) Break out the pieces of the job for each team member;
+b) Work with team members on the processes from which they will produce
+the design documents;
+c) Review and tailor those design documents to fix them back and forth;
+d) Hold team members accountable on all of the above, while making each
+member responsible for an individual piece of the project as the lead on
+that piece;
+e) Ensure the design is coming together;
+f) Make presentations to customer or client audiences or professional
+peers;
+g) Provide assistance to testers and support personnel as needed to
+determine system problems;
+h) Participate in the development of long-range planning for new projects
+and facilities;
+i) Provide general administrative support to the organization as
+appropriate;
+j) Perform other related duties incidental to the work described herein.
+
+Erroneous decisions or failure to achieve results will add to costs and
+may impact the short-term goals of the organization. 
+The above statements describe the general nature and level of work being
+performed and are not intended to be an exhaustive list of all
+responsibilities and duties required of personnel so classified.","Education: 
+- Ph.D. or M.S. in Computer Science, Math or Physics.
+
+Experience: 
+- At least 5 years of related management experience;
+- At least 8 years of general experience in developing software products
+and at least 4 years of coding experience;
+- Proven history of successfully leading a team of software engineers.
+
+- Leadership and project management skills;
+- Excellent object-oriented architecture and design skills, with a
+working knowledge of data modeling, UML and design patterns;
+- Expert knowledge of object-oriented languages;
+- Good knowledge of mathematical and statistical principles and
+formulas;
+- Complete understanding of both Agile and Traditional SDLC: requirements
+analysis, implementation, unit testing, peer reviews, code reviews and
+integration management;
+- Ability to lead others, understand problems and present quality
+solutions required;
+- Experience and ability to teach or instruct co-workers;
+- Dependable time management skills;
+- Positive and constructive attitude;
+- Comfortable facing new challenges and changes in direction; 
+- Ability to work in a team environment in close cooperation with other
+members of the Company's team worldwide;
+- Ability to interpret a variety of instructions furnished in written,
+oral, hands-on, or diagram form;
+- Knowledge of database technologies as well as networking and operating
+systems from the software engineering perspective;
+- Knowledge and experience in structural design of rich, intuitive,
+modular and interactive graphical user interfaces;
+- Knowledge and experience with XML Public Specifications such as XML DOM
+Level2 and Level3 or alternatively Web Services Specifications such as
+WSDL, SOAP and the like;
+- Ability to produce real product deliverables, versus having a research
+and white paper production focus;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Strong and effective interpersonal and communication skills and the
+ability to interact professionally with a diverse group of clients and
+staff;
+- Excellent communication and English language (oral and written)
+skills;
+- Demonstrable strong organizational skills.
+
+Leadership, Collaboration and Business Processes: 
+- Managerial courage;
+- Ability to solicit support;
+- Ability to encourage commitment, select and develop talent;
+- Effective communication and effective collaboration skills;
+- Ability to relate well to others, to demonstrate credibility and
+adaptability;
+- Ability to work with employees to meet specified department goals;
+- Good judgment in dealing with conflict;
+- A productive peer team member who makes effective, knowledgeable
+contributions to team meetings.","Interested candidates are asked to email their
+last updated and detailed resume to Liana Avetisyan (HR) at:
+lavetisyan@... . Please indicate ""Software Development Team
+Manager"" in the subject line of the email. Only shortlisted candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware, Inc. is an American software company that
+provides cloud and virtualization software and services, founded in 1998
+and based in Palo Alto, California, USA. For more information about
+VMware, please visit: www.vmware.com."

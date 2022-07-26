@@ -1,0 +1,25 @@
+Flash Developer,"AltaCode Ltd. is looking for a motivated web
+development expert with experience in interactive development using
+Flash, JavaScript, DHTML and streaming video.","- Develop Flash-powered web applications, charts/ diagrams with
+ActionScript; 
+- Plot graphical charts in ActionScript language for provided XML data;
+- Participate in creative brainstorms and provide support for design
+tasks; 
+- Draft site/page diagrams and participate in the review process; 
+- Provide technical support and assistance, if requested.","- Mathematical background and programming experience;
+- 3+ years of experience developing for Flash (Version 7+)/ Flash
+ActionScript/ Flex;
+- 2+ years of Internet/Web Technologies software programming activities;
+- Knowledge/experience in .Net Framework is highly desirable;
+- Design and layout experience within a set style and brand, including
+graphic manipulation, flash animation/tools, and CSS style
+development/modification; 
+- Solid understanding of XML;
+- Experience working with UML Diagrams;
+- Experience in XHTML, JavaScript, Ajax is an advantage;
+- Exposure to SQL Server 2000; 
+- Good knowledge of technical English language;
+- Communication skills.","Please email your detailed CV (in English) to:resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,AltaCode Ltd. is a software development company.

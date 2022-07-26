@@ -1,0 +1,31 @@
+Test Case Designer (Java/J2ME),"BroLab AB is seeking candidates for the position of
+Test Case Designer. The company is using J2ME, LabView and C to
+implement Test Cases. The incumbent needs to have very good experience
+in Java/ J2ME and a passion to understand Java JSRs and test them.","- Develop test cases to do System Test for Java functionality areas
+like: IMS, Mobile 3D graphics, Web Services, Mobile sensors, Blutooth,
+etc.;
+- Understand the requirement specification, identify, create Test Cases
+and validate them.","- At least 3 years experience in Java/ J2ME Midlets;
+- Can work as an architect for the J2ME source code;
+- Understand Java JSRs and identify test cases;
+- Have the interest to raise quality of test specifications;
+- Configuration management using ClearCase in large systems;
+- Have a commitment to your tasks and be focused on meeting the demands
+and needs of the company's customers. Ability to work both independently
+and in small teams and be focused on reaching result on time;
+- Competence in C is a plus;
+- Fluent knowledge of English language.","Please, send your application to: job@...
+with ref. number in the subject line (REF:712). The application should
+include:
+- Your updated CV;
+- 2 references (people);
+- Information on when you are available to start the job.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BroLab is a company located in the Oeresund region
+(southern Sweden and eastern Denmark) providing software consultancy
+service with main focus in telecommunication (3G/UMTS). For more
+information on the company visit: www.brolab.se.
+ABOUT:  This position is in the company's client's office in Lund. Lund
+is an old town situated at the south of Sweden. Mostly known because of
+big university campus."

@@ -1,0 +1,68 @@
+Intermediate Database Developer,"The position involves development and maintenance of
+SQL Server and Sybase databases. Database Developer will also be
+responsible for documenting the database. Extensive experience with SQL,
+relational databases.","- Participate in data modeling and other data initiatives addressing both
+new and existing systems;
+- Work closely with developers to provide data services to existing and
+new applications;
+- Analyse data model requirements from functional specification,
+formulating and maintaining the data subject area and Entities/
+Attributes/ Relationships definitions;
+- Provide expertise and assessment of enterprise database structures,
+assuring that all enterprise database applications fit into a single
+documented enterprise data model which minimizes duplication of data and
+assures logical data access;
+- Design and implement data feed mechanisms to ensure the safe reliable
+transfer of data from different source systems.","- Degree in Computer Science or in a similar discipline;
+- Experience with large scale database design and development;
+- Extensive hands-on experience and proficient knowledge of the
+following:
+(I) Database technologies: Relational database management system (RDBM),
+data mining, extract, transformation and load (ETL), Business
+Intelligence (BI);
+(II)Database Systems: MS SQL Server 2005/ 2008: knowledge of SQL Server
+Integration Services, SQL Server Reporting Services, SQL Server Analysis
+Services is preferred;
+(III)Sybase ASE 15: Sybase Adaptive Server Enterprise 15, Replication
+Server, Sybase IQ, Sybase Cluster Edition;
+- Experience in Transact SQL scripting;
+- Linux and Shell scripting skills are preferable;
+- Proficiency in the understanding of SYBASE stored procedures;
+- Proficiency in query optimization;
+- Familiarity with Linux operating system;
+- Development applications: DB Artisan, Toad SQL, MS SQL Server
+Enterprise Manager, MS SQL Server Management Studio, MS SQL Server
+Business Intelligence Development Studio, Red Gate Tools and SVN;
+- Experience with data warehousing and multidimensional database design
+would be an asset;
+- Experience in developing databases for real time, high performance and
+customer facing applications;
+- Excellent written and oral communication skills;
+- Excellent problem solving and debugging skills;
+- Ability to work in a fast paced and team oriented environment;
+- Excellent time-management and organizational abilities that facilitate
+structured teamwork
+- Desire to learn and demonstrate a commitment to learn Questrades
+business and ongoing professional development;
+- Take ownership of tasks and drive projects through to completion;
+- Ability to focus while under pressure and pay close attention to
+detail;
+- Ability to work in a team environment and independently;
+- Highly energetic and with a strong motivation to make a difference;
+- Willingness to multi-task and be flexible to take on varied
+responsibilities;
+- Good judgment to proactively and independently solve problems and make
+decisions;
+- Ability to remain calm and patient under pressure;
+- Ability to thrives in a changing and dynamic environment;
+- Ability to see the big picture while paying attention to the smallest
+end details;
+- Ability to work flexible hours when requested;
+- Ability to develop constructive and cooperative working relationships
+with team-mates;
+- Strong work ethics, positive energy and ability to energize others;
+- A service-oriented mindset and willingness to assist the team in any
+way to ensure project success.","Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=226
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com ."

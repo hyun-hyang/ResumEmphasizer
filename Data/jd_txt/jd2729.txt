@@ -1,0 +1,23 @@
+Android Developer,"T Lab is looking for a hardworking individual to fill
+the position of Android Developer. The successful candidate will apply
+experience with mobile technology/ solutions and business operations of
+start-ups.","- Architect, build and manage set of Android applications;
+- Work with team members on server-side integration;
+- Work with designers to help define and implement User Interface
+improvements;
+- Work with customer teams to understand requirements and expectations;
+- Implement conversion experiments (A/ B tests);
+- Participate in task estimates;
+- Ensure high quality in deliverables.","- At least 2 years of Android development experience;
+- Passion for social innovation and new technology tools;
+- Strong coding abilities and experience with Java and Android SDK;
+- Experience working with remote data via REST and JSON;
+- Knowledge of Object Oriented concepts;
+- Good understanding of best practices for mobile UI/ UX;
+- Excellent attention to detail.","Those who meet above listed requirements and
+qualifications, are asked to send their application letters and CVs to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"T Lab is a newly established software lab of Telasco
+Group, represented in Yerevan by Armenian Representative Office of
+Telasco Communications."

@@ -1,0 +1,27 @@
+Programmer - Information and Communication Technologies,"The incumbent will be responsible for design,
+development and implementation of CBA automated systems software. He/ she
+will also develop and maintain implemented systems.","- Develop software (medium-difficulty systems and subsystems) according
+to specification and Base model;
+- Develop or modify separate models of the system or subsystems according
+to specification;
+- Perform works related to software programs implementation.","-  Higher Technical education with 1 year of professional experience at
+the Central Bank or 2 years of professional experience elsewhere;
+- Knowledge of programming (profound level);
+- Knowledge of relation database management systems (profound level);
+- Knowledge of Object targeted programming (profound level);
+- Knowledge of .NET Framework (profound level);
+- Knowledge of operational systems (intermediate level);
+- Knowledge of algorithm theory (intermediate level);
+- Knowledge of mathematical methods and modeling (intermediate level);
+- Knowledge of global and local nets and net reports (intermediate
+level);
+- Knowledge of computing machinery structure (basic level);
+- Knowledge of Armenian, Russian and English languages (Russian and
+English languages with the purpose of professional literature reading).","The application form, questionnaire and
+information on competitions at Central Bank of Armenia are available at:http://www.cba.am/am/SitePages/accvacancies.aspx or can be obtained at
+the Central Bank of Armenia. The application form can be sent by e-mail
+to: hrm@... . For further information and clarification you can call:
+59 26 34, internal lines are 26 13.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

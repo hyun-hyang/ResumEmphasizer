@@ -1,0 +1,35 @@
+Embedded Software Engineer,"VadaTech CJSC is seeking an Embedded Software Engineer
+for its Embedded System Development team. The candidate will be working
+as part of a small, dynamic team and will be responsible for designing,
+coding and testing embedded systems related functionality. Another
+necessary aspect of the position will be the problem isolation and timely
+resolution of issues with existing drivers, working with the Applications
+Engineering Team for a field deployed releases.","- Work with the team to define and design system solutions;
+- Create/ maintain requirements, design and user's manual
+specifications;
+- Produce clearly written and documented code;
+- Develop flexible software intended to run on different hardware
+platforms;
+- Integrate third party (commercial) solutions to company's products;
+- Communicate with team members on project progress, technical issues,
+etc.","- Bachelor's degree in Computer Sciences or a similar discipline; higher
+degree is a plus;
+- Experience in C/ C++, Embedded OS and/ or device Drivers for Embedded
+Platform;
+- Excellent understanding of Linux operating system;
+- Experience in Linux device driver development is a plus;
+- Experience with source code/ platform cross-compiling and porting;
+- Familiarity with the embedded software development process;
+- Telecommunications experience is a plus;
+- Strong problem-solving skills;
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Good English language skills.","Interested candidates are asked to e-mail their
+Resume to: amjobs@... . Please indicate ""Embedded Software
+Engineer"" in the subject line of the e-mail, otherwise the Resume will
+not be reviewed. Only shortlisted candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VadaTech is a board-level design and manufacturing
+company focused on designs for the embedded market."

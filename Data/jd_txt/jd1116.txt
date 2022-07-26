@@ -1,0 +1,34 @@
+"Programmer,  Information and Communication Technologies","The incumbent will be responsible for CBA automated
+systems program maintenance design, processing and implementation. The
+Programmer will develop and maintain implemented systems.","- Develop computer programs based on technical task and developed
+model;
+- Work out system models and substructures based on technical task;
+- Carry out works concerning program systems introduction and train the
+staff to work with the program systems;
+- Implement program systems testing;
+- Participate in technical task development activities, clarify working
+objectives;
+- Research and introduce new information, program technologies and
+environment.","- In case of higher technical education  1 year of professional work
+experience in the Central Bank or 2 years of professional work
+experience out of the Central Bank.
+In case of higher non professional education  2 years of professional
+work experience in the Central Bank or 3 years of professional work
+experience out of the Central Bank;
+- Programming (advanced), relational data base management systems
+(advanced), object oriented programming (advanced), operational systems
+(intermediate), algorithm theory (intermediate), mathematical methods
+and modeling (intermediate), global and local networks, network reports
+(intermediate), knowledge of counting  equipment structure(basic);
+- Knowledge of Armenian, Russian and English (knowledge of Russian and
+English languages for reading professional literature);
+- Special computer skills (operational systems, programming systems and
+other programming tools, version management systems).","The application form and tender questionnaire
+are available at:http://www.cba.am/CBA_SITE/topmenu/competitive.html?__locale=hy or can
+be obtained from the Central Bank.
+The application form can be sent electronically to: hrm@.... For
+further information and clarification you can call: 59 26 34, internal
+lines: 26 22.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

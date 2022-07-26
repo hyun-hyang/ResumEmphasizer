@@ -1,0 +1,18 @@
+PHP/ MySQL Web Developer,"Sceon Developments LLC is looking for an experienced
+PHP/ MySQL Web Developer.","- Write clean, optimized and well-commented code;
+- Optimize MySQL queries.","- Knowledge of PHP scripting language;
+- Knowledge of Zend Framework;
+- Knowledge of xHTML/ CSS3/ JavaScript and MooTools framework;
+- Knowledge of Cross-Browser markup;
+- Ability to work in a team;
+- Familiarity with Subversion version control system.
+Would be considered an advantage:
+- Knowledge of NODE.js Server/ Client Coding;
+- Knowledge of HTML5;
+- Experience with Mobile Web Development (iPhone, Android and Windows
+8);
+- Knowledge of Unix operating systems.","To apply, please e-mail your CV with photo to:ceo@... . In the subject line of your message, please mention the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

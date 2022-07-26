@@ -1,0 +1,25 @@
+Web Developer,"Monitis is seeking a Web Developer, who will work as a
+part of a frontend team.","- Implement web applications;
+- Take responsibility to make changes on a live environment.","- University degree in the relevant field of studies;
+- At least 2 years of work experience in the relevant field;
+- Ability to create professional web pages using HTML/ HTML5, CSS/ CSS3
+technologies;
+- Experience with object-oriented software development methodologies;
+- Knowledge of jQuery and ExtJs;
+- Experience with Cross Browser;
+- Good knowledge of NodeJs and JavaScript;
+- Interest in design; ability to modify things (or add things) to a given
+design;
+- Detail-oriented personality;
+- Problem-solving and analytical skills with the ability to clearly
+communicate and share solutions with fellow team members;
+- Ability to respect deadlines;
+- Good knowledge of the English language.","All interested and qualified candidates are
+welcome to send their CVs to: hr@... . Please indicate the
+position title in the subject line of your email. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis, a TeamViewer company, is an all-in-one cloud
+based IT monitoring and analytics platform. For more information about
+the company, please visit: http://www.monitis.com/about-us."

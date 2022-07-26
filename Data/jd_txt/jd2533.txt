@@ -1,0 +1,27 @@
+Quality Assurance Engineer,"The primary objective of this position is the
+development and maintenance of wide rage of automated tests, like
+functional, regression, stress, load, performance, etc. to test and
+ensure the quality of Sonics products.","- Create test-plans and other documentation;
+- Implement and maintain automated tests for required products;
+- Identify, reproduce and report defects; verify defect fixes;
+- Communicate effectively with the team members.","- Bachelor's degree in Computer Science or a related sphere;
+- Knowledge of scripting languages: Bash, Perl; knowledge of TCL, Python
+is preferable;
+- Basic understanding of IC digital design;
+- Knowledge of hardware description languages: BHDL; knowledge of Verilog
+is preferable;
+- Work experience with RTL simulators, waveform viewers and synthesis
+tools;
+- Work experience on Unix/ Linux OS;
+- Good knowledge of English language (ability to read and understand
+technical literature, compose status reports, clearly report the
+problems.","Those who meet the requirements mentioned above
+and are confident that their background and experience qualify them for
+the position, are asked to e-mail a detailed resume to:armenia@... , mentioning the position you are applying for in
+the subject line of the e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sonics Armenia Holdings Inc. is a Branch of Sonics Inc.,
+headquartered in Milpitas, California with offices worldwide. For more
+information, please visit: www.sonicsinc.com and www.sonicsinc.com/blog."

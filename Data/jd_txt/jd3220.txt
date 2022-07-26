@@ -1,0 +1,27 @@
+Mid-Level PHP Developer,"Joomag AM LLC is seeking a highly motivated Mid-Level
+PHP Developer who will become a part of the Company's team and contribute
+to all aspects of the ongoing software development from initiation to
+developing, testing and launching.","- Develop and deploy new features to facilitate related procedures and
+tools if necessary;
+- Write a ""clean"", well-designed code;
+- Follow industry best practices;
+- Contribute in all the phases of the development lifecycle;
+- Produce detailed specifications.","- At least 2 years of software development experience of PHP;
+- Bachelor's/ Master's degree in Computer Science, Engineering or a
+related field;
+- Strong knowledge of PHP and MySQL;
+- Strong knowledge of HTML, CSS and JavaScript;
+- Experience with GIT;
+- Experience with Apache web server;
+- Experience with Linux;
+- Knowledge of PHP frameworks;
+- Knowledge of OOP and Design Patterns;
+- Good knowledge of the English language.","All interested and qualified candidates are
+invited to send their CVs to: hr.armenia@... . Please mention the
+title of position ""Mid-Level PHP Developer"" and the announcement code
+""JAM-837"" in the subject of email.
+Or apply online via: https://joomag-am.workable.com/j/171B8027CF.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

@@ -1,0 +1,38 @@
+Java Intern,"Internship opportunities are currently available at
+the Armenian branch of Synergy International Systems, Inc. Synergy/
+Armenia is seeking undergraduate (3 or 4 courses) or magistracy students
+with the desire to acquire knowledge and experience in the field of Java
+Web Development. During an internship, the incumbents will have an
+excellent opportunity to gain an insight into the different areas of
+software development. In a dynamic team, they will be able to gather
+valuable experience and to combine the theory of university with
+practical knowledge. The incumbents that demonstrate the best
+achievements will be offered a long term position with Synergy/ Armenia.","On-job training in development and maintenance of
+a web-based applications using Java Web technologies and databases.","- Education in related field;
+- Proficiency in technical English language;
+- Basic knowledge of Object-oriented programming and programming
+skills;
+- Previous knowledge of technologies and platforms that may assist in
+learning web development in Java environment is an advantage.
+ADDITIONAL CHARACTERISTICS:
+- Ability to quickly learn and apply what has been learned in practice;
+- Ability to work as part of a team and good inter-personal skills;
+- Self motivated, able to grasp new concepts quickly;
+- Good technical and analytical skills.","Candidates who meet these qualifications will
+be short-listed, and interviews will be arranged with them. Selected
+candidates will be notified of the interview dates directly.
+If interested, please send a brief summary of your skills, wage
+requirements (if any), work availability, and a resume to:
+Ms. Hasmik Hovsepyan
+Human Resource Manager
+E-mail: mail@... or mailarm@...
+Phone: (374 10) 56 76 81; 54 40 24
+Please note that initial consideration will be given to the applications
+received prior to the date indicated above. Thereafter, applications will
+be reviewed on an as-needed basis.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated Web Portal, Web Databases
+and Web Services systems."

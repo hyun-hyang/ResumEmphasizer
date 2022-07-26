@@ -1,0 +1,36 @@
+Educational Game Content Developer/ Workshop Leader,"The Tumo Center for Creative Technologies is looking
+for an experienced and energetic specialist who will lead workshops and
+will be responsible for creating activities in the area of game
+development.","- Lead game development workshops;
+- Assist the content development team in the process of developing,
+testing and fine tuning all the game development activity content,
+research and suggest new approaches in activity creation focusing on game
+design;
+- Brainstorm and mock up activity ideas that would develop the students'
+game development skills, present them to the content development group
+and offer solutions of their integration to the existing curriculum;
+- Provide second tier support to users, coaches and examiners on the
+content reviews;
+- Organize game-related events;
+- Supervise or provide helpful feedback on the game related workshops/
+projects;
+- Manage and supervise the game room;
+- Be versatile with technologies and able to perform game design tasks;
+- Assist in testing and evaluating the educational content.","- Substantial experience in developing video games;
+- Intermediate level knowledge of programming;
+- Knowledge of C#, JavaScript and C++;
+- Knowledge of game development tools (Unreal Engine, Unity, Source
+Engine);
+- Experience in education or working with kids is a plus;
+- Passion for playing and making games;
+- Ability to work both independently and in a team;
+- Ability to work productively on a regular basis;
+- Strong communication skills and self-motivated personality.","Qualified candidates may submit their CVs to:
+jobs@... or to: 16 Halabyan Street, Yerevan, Armenia. Only those
+candidates that are short-listed for interviews will be notified. Please
+kindly indicate the position title ""Educational Game Content Developer/
+Workshop Leader"" in the subject line when applying by email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn more about the Tumo Center for Creative
+Technologies please visit: www.tumo.org."

@@ -1,0 +1,48 @@
+"Software Developer, IT Department","The Software Developer is responsible for effective
+provisioning, installation/configuration, operation, and maintenance of
+systems hardware and software and related infrastructure. This
+individual participates in technical research and development to enable
+continuing innovation within the infrastructure. This individual ensures
+that system hardware, operating systems, software systems, and related
+procedures adhere to organizational values and enabling staff.","- Install new/rebuild existing software and configure hardware,
+services, settings, directories, storage, etc. in accordance with
+standards and project/operational requirements;
+- Coordinate system changes/installation with outsourced organizations;
+- Coordinate system changes request approval;
+- Develop software applications for the bank;
+- Provide engineering of software related solutions for various
+operational needs;
+- Control the process of the development of new and the revision of
+already existing functionality systems;
+- Develop and maintain installation and configuration procedures;
+- Repair and recover from hardware or software failures. Communicate
+with impacted constituencies;
+- Apply OS patches and upgrades on a regular basis, and upgrade
+administrative tools and utilities. Configure/add new services as
+necessary;
+- Perform periodic performance and defect reporting to support capacity
+planning.","- University degree;
+- Experience of management of My SQL and MS SQL databases;
+- Good knowledge of Java Script; 
+- Good knowledge of COM technologies;
+- Good knowledge of MS Windows XP/2003SF platform;
+- Good knowledge of hardware;
+- At least one year of related work experience; 
+- Ability to responsibly complete assigned tasks according to
+deadlines;
+- Analytical thinking;
+- Sense of responsibility and accuracy;
+- Flexible and teamwork ability;
+- Fluency in Armenian and Russian languages; knowledge of technical and
+spoken English.","To apply for this position, please submit a
+resume addressing relevant qualifications and experience and information
+on professional reference strictly to: hr.adm@.... In the
+subject line of your e-mail message please mention the title of the
+position you are applying for. 
+No personal visits, deliveries or phone calls, please.
+Only short listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Import-Export Bank Closed Joint Stock Company
+(Armimpexbank CJSC) was established in 1992. The largest shareholder of
+""Armimpexbank"" is TDA Holding Limited."

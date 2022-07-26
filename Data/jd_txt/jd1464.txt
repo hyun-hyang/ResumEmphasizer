@@ -1,0 +1,82 @@
+Senior Business Intelligence and Reporting Developer,"The Senior Business Intelligence and Reporting
+Developer works under the direction of the Business Intelligence and
+Reporting Group Lead. The ideal candidate will be an experienced Business
+Intelligence Developer that demonstrates in-depth knowledge and
+understanding of data warehousing and business intelligence with emphasis
+on reporting and data analytic issues through the development life cycle.
+The candidate must be open-minded, flexible and prepared to work in a
+very dynamic environment, supporting multiple business units with
+operational reporting requests.","- Create, support and maintain ongoing operational, managerial and
+executive reporting;
+- Develop Reporting Service and Excel based solutions to manage the daily
+delivery of reporting;
+- Oversee the delivery of accurate daily, weekly, monthly, quarterly
+operational performance reports;
+- Extract data and perform analysis on activities of the brokerage
+business;
+- Deliver ad hoc reports alongside standard daily, weekly, monthly
+reporting;
+- Be attentive to details, in particular as it relates to compliance and
+accuracy of data;
+- Develop understanding of information sources and correct interpretation
+of data, answer user questions regarding report interpretation;
+- Analyze existing reports and data sources; develop innovative
+prototypes to identify improvements with the reporting process;
+- Gather, document and analyze requirements from stakeholders on existing
+and new reports;
+- Plan, manage timelines for deliverables, generate work breakdown
+structures, prioritize work items;
+- Maintain a reporting infrastructure and performance reporting process
+within a high-growth financial services environment;
+- Improve and streamline processes regarding data flow and data quality
+to improve data accuracy, viability and value;
+- Develop corporate standards for data and information display across all
+reports and dashboards to ensure consistent visualization of data and
+ease of analysis;
+- Meet and interact with all levels of management as needed to elicit,
+define, analyze and document requirements for new reporting and business
+intelligence initiatives;
+- Lead efforts to introduce a business intelligence architecture that
+enables fact-based decision making and ad hoc analysis and insight
+generation;
+- Work with operational managers to understand trends and make
+recommendations for improvements;
+- Design the conceptual, logical and physical data models necessary to
+support new reporting and data analysis.","- Minimum 5 years of related experience;
+- Experience managing timelines, creating work breakdown structures,
+project management principles;
+- Experience facilitating meetings, gathering requirements, writing
+requirements documents;
+- Understanding relational and dimensional data modeling concepts;
+- Proficiency in writing SQL and T-SQL, including queries, stored
+procedures and functions;
+- Advanced proficiency with generating reports consisting of reports
+and/or dashboard utilizing SQL Server 2005/2008 (e.g. Reporting Services,
+SSIS);
+- Strong knowledge and experience with MS Reporting Services
+performance-tuning;
+- Experience with creating and delivering reports from large relational
+database systems;
+- Strong knowledge and comprehension of technology and data management
+used in the process of collecting, storing and retrieving data;
+- Ability to create, maintain and monitor reporting systems and decision
+support tools to report and analyze performance at multiple levels of a
+financial institution;
+- Advanced experience with MS Excel and VBA macros;
+- Post-secondary education, preferably in Economics/ Finance,
+Math/Statistics or Computer Science;
+- Understanding of Data Warehouse structure and usage;
+- Superior writing, editing and communication skills, capacity to
+interact with all levels of the organization;
+- Experience coordinating multiple concurrent projects and adapting to
+changing priorities;
+- Superior leadership qualities, ability to mentor junior staff, develop
+standards and processes;
+- Experience and/or personal interest in the financial industry is an
+asset;
+- Experience in documentation of processes.","Applications shall be submitted online at:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=174
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit
+www.questrade.com."

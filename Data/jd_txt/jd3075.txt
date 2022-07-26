@@ -1,0 +1,44 @@
+"Developer, Engineering Services and Operations Team","VMware Armenia is looking for a talented and
+enthusiastic Developer for the VMware Cloud Managements Engineering
+Services & Operations (ESO) team. The Cloud Mgmt group charter is to
+create the platform and products that deliver performance, availability
+and capacity management of VMware based environments. The Cloud Mgmt
+platform is the underlying infrastructure that provides stats collection,
+event handling and health management of objects. The Cloud Mgmt products
+rely on the Cloud Mgmt platform (and the rest of the vSphere/ vCenter
+infrastructure) to provide value to customers. A key value of these
+products is to allow a vSphere admin to manage more servers by
+simplifying operations management (OpEx reduction). This is an exciting
+area to work in with multiple products in the pipeline and a fast-paced
+work culture. If testing cutting-edge products that solve large
+real-world distributed systems problems and delivering them on an
+aggressive schedule motivates you, then this job is for you.","The responsibilities include but are not limited
+to the following:
+- Create and review test tools, test libraries and related required
+applications;
+- Improve test automation and code coverage activities;
+- Work closely with VMware R&D and other ESO teams, to leverage existing
+test cases and test suites currently available for internal use;
+- Take initiative to improve products, tools, and process;
+- Interact with offshore R&D sites;
+- Work closely with developers to resolve issues and reproduce bugs;
+- Manage activities to meet the delivery dates and report accurate,
+complete status.","- BS/ MS degree in Computer Science, Engineering or in a related
+technical discipline;
+- Experience in Java;
+- Good knowledge of one or more of the following: Spring, Hibernate,
+Flex, GWT, JUNIT, TestNG, Selenium;
+- Experience in testing software is highly preferred;
+- Experience in developing test frameworks and tools is highly
+preferred;
+- Experience in API test development using Java is preferred;
+- Excellent English language written and verbal communication skills;
+- Work experience with offshore teams is highly desirable;
+- VMware experience is a plus.","Interested candidates are asked to send their
+last updated and detailed resumes to: lavetisyan@..., Liana
+Avetisyan (HR). Please, indicate ""Developer for Engineering Services and
+Operations Team"" in the subject line of the e-mail. Only shortlisted
+candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,NA

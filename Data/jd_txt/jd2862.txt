@@ -1,0 +1,39 @@
+Web Developer,"The incumbent in the position of Web Developer will
+serve under the general direction of Integrated Water Resources
+Management Team Leader of the Clean Energy and Water Program. As a part
+of this statement of work, activities will be implemented to develop a
+Web page of the Water Resources Management Agency (WRMA) of the Ministry
+of Nature Protection of Armenia. The job requires adherence to ME&A
+policies and procedures.","- Discuss with WRMA and agree on the structure and contents of the WRMA
+web page;
+- Develop the website of WRMA, including:
+a) Designing the structure of the web page and integrating the content
+agreed with WRMA;
+b) Integrating the State Water Cadastre Information System (SWCIS) into
+the web page;
+c) Integrating a tool for online update of the SWCIS into the web page;
+- Install the first version of the web page on WRMAs server for revision
+and comments by WRMA;
+- Finalize the web page structure and contents based on the comments
+received from WRMA;
+- Participate in outreach and training events.","- Masters degree in Computer Sciences or in relevant disciplines;
+- At least 3 years of practical experience in web development;
+- Knowledge of MS SQL Server 2008/ 2012;
+- Knowledge of HTML, CSS, XML, JavaScript;
+- Knowledge of technical English language.","Interested and qualified candidates should send
+their CVs, a brief cover letter, explaining why they believe they are
+qualified for the position, and the contact information for 3 clients who
+are willing to provide references to: cew@... . Please refer to the
+specific position title in the subject line. Only short-listed candidates
+will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Clean Energy and Water (CEW) Program is a four-year
+initiative funded by the US Agency for International Development. The
+objective of the Program is to assist sustainable management of water and
+energy sectors in the Republic of Armenia (RA). Within the framework of
+the Program, technical assistance is provided to the RA Government to
+build river basin management planning capacities in Armenia and to
+demonstrate key water and energy efficient technologies at the local
+level in selected communities across Armenia. For more information about
+the Program please visit: http://www.cew.am ."

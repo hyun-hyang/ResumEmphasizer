@@ -1,0 +1,22 @@
+ASP.NET Software Developer,"AltaCode LLC is seeking for a highly motivated and
+qualified ASP.NET Software Developer. He/ she should be a self-starter
+with deep knowledge and practical experience in object-oriented
+programming and web development. The incumbent should have strong skills
+in ASP.NET/ C# and strong background in database, T-SQL, SQL Profiling,
+performance tuning, fault finding and stored procedures.","- Develop Web applications in accordance with given specifications;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the code written by others;
+- Participate in business analysis.","- Proficiency in object-oriented programming;
+- At least 2 years of work experience in .Net Framework - ASP.NET, C#;
+- At least 2 years of work experience in SQL database design,
+programming;
+- Experience in HTML, CSS, JavaScript, Ajax;
+- Fluent written and verbal communication skills;
+- Intermediate level of English language;
+- Good team player; ability to accept criticism.","Qualified candidates are asked to send their
+CVs/ Resumes to: resume@... mentioning ASP.NET Software
+Developer in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Altacode LLC is an IT company which was founded in 2006.

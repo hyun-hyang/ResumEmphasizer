@@ -1,0 +1,32 @@
+Java/Web-programmer,"TopS BI needs Java/Web  programmer in Department of
+electronic business and custom-made development. On the given direction
+the company offers services on professional development of the software
+on the basis of platforms J2EE, Oracle9i/10g, SAP NetWeaver, IBM
+WebSphere, Microsoft .NET for Russian and western business. The basic
+projects - development and introduction of corporate portals, B2B
+systems, electronic trading platforms, other corporate systems. A young,
+professional, vigorous team. The high quality standards are supported,
+introduced RUP and tools Rational.",NA,"Operational experience on a position of the
+Java-programmer: from 1 year.  
+Modeling: UML, Design Patterns (GoF, Sun J2EE Patterns, GRASP),
+ER-diagrams, Rational Rose. 
+Java: J2SE (Basic Java packages, JDBC), J2EE (JSP, Java Servlets,
+JavaMail, JAXP). 
+XML: XML, XSL, SAX, DOM
+Application servers: Resin, Tomcat, JBoss. It is desirable Oracle9i
+Application Server, IBM WebSphere, BEA WebLogic, Orion.  
+Web: HTML, DHTML, CSS, JavaScript
+Databases: SQL (PL/SQL, Transact SQL), Oracle 8i, MS SQL Server 2000
+Means of development and assembly: Ant, log4j
+Means of teamwork: CVS. Additional plus - Rational ClearQuest and
+Rational ClearCase.  
+Personal qualities: Diligence, sense of duty, the responsibility,
+compulsion. General education. Initiative. Skill independently to
+understand problems, to carry out research works and to master new
+products. Skill to plan the work to carry out a task in time with a
+required degree of quality and to conduct the reporting. 
+Knowledge of the English language: free reading of the technical
+literature.","Please, send your resume to:ivishnevskaya@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

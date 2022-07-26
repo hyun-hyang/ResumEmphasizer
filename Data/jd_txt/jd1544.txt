@@ -1,0 +1,44 @@
+Member of Technical Staff (Software Engineer),"The Member of Technical Staff (Software Engineer) will
+make technical architecture and development decisions as well as design,
+code and debug quality software programs for assigned projects, including
+necessary documentation.","The statements below describe the general nature
+and level of work being performed and are not intended to be an
+exhaustive list of all responsibilities and duties required of personnel
+so classified;
+- Deliver robust, scalable, quality software products on time and on
+budget;
+- In coordination with the Group Lead plan and execute multiple projects
+at one time through all phases of the projects development;
+- Provide assistance to testers and support personnel as needed to
+determine system problems.","- Experience with J2EE application servers, Java Servlet Containers, Web
+services, and related technologies;
+- Experience with Objective-C and iPhone SDK;
+- Good knowledge of mathematical and statistical principles and
+formulas;
+- Complete understanding of both Agile and Traditional SDLC: requirements
+analysis, implementation, unit testing, peer reviews, code reviews and
+integration management;
+- PhD or MS in Computer Science, Math or Physics;
+- Minimum 6+ years of general experience in developing software products
+and 4+ years of coding experience; 1+ years of experience with mobile
+applications;
+- Ability to work in a team environment in close cooperation with other
+members of the companys team worldwide;
+- Possess good oral and written skills of English language. 
+Desired skills:
+- Knowledge of database technologies, networking and operating systems
+from the software engineering perspective;
+- Knowledge and experience in structural design of rich, intuitive,
+modular and interactive graphical user interfaces;
+- Statistical analysis and/or modeling;
+- Theoretical and applied informatics.","Interested candidates are encouraged to submit
+their CVs to: cv@... . In the subject line of your message, please
+mention the position you are applying for. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware (NYSE: VMW) is a company providing virtualization
+software founded in 1998 and based in Palo Alto, California, USA. VMware
+has R&D offices in: Silicon Valley, Cambridge (MA), Broomfield (CO),
+Yerevan (Armenia), Sofia (Bulgaria), Aarhus (Denmark), London (UK),
+Herzliya (Israel), Bangalore (India), and Beijing (China)."

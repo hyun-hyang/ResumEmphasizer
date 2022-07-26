@@ -1,0 +1,36 @@
+Senior Software Engineer,"The Senior Software Engineer will design, code and
+debug software programs with evaluating various factors for assigned
+projects.","- Responsible for establishing design and development practices for the
+project, choosing appropriate platforms and    technologies;
+- Provide necessary technical and design documentation;
+- Accurately estimate time and resources required for a project;
+- Deliver robust, scalable quality software products on time;
+- Act as a technical expert and consultant within a group;
+- Respond promptly and professionally to bug reports;
+- Communicate effectively with team members.","- BS in Computer Science, Maths or a related discipline;
+- At least 3 years of experience as a Senior Software Engineer/
+Developer;
+- Ability to work with team managers to plan and prioritize team
+activities;
+- Good documentation skills;
+- Ability to manage and realize problem solutions within a specified time
+range;
+- Creativity and analytic thinking;
+- Ability to learn quickly;
+- Ability to work under pressure;
+- Strong maths background;
+- Ability to easily design databases, design solid web architecture and
+keep up with other experts;
+- Experience on web applications;
+- Solid understanding of object-oriented programming (OOP);
+- Back-end and front-end skills;
+- Knowledge of C++, HTML, CSS, Symfony PHP framework;
+- Knowledge of SQL database, big data;
+- Knowledge of HTML 5.0 Canvas and Java script is a plus;
+- Good understanding of the overall business goal of the project and
+ability to translate that into engineering requirements;
+- Strong experience with multiple IT technologies.","Interested candidates are asked to send CVs to:GMkrtchyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The company has started more than a year ago and is the
+representative of Carson-Dellosa company in Armenia."

@@ -1,0 +1,38 @@
+Software Engineer,"Workfront is a technology company that needs motivated
+and talented Software Engineers.","- Design, collaborate and execute features execute on amazing software
+features in an industry leading SaaS ecosystem;
+- Learn continuously from other team members and peers to drive a
+career;
+- Demonstrate technical excellence through results, consistency and
+mastery;
+- Coordinate with other business units to achieve product goals within a
+cross-functional matrix organization;
+- Enjoy coming to work everyday and be an integral part to the Company's
+future and success.","- Knowledge of developing and debugging enterprise applications in
+various software languages including: Java, JavaScript, J2EE;
+- Knowledge of Object Oriented Design and Analysis;
+- Familiarity with the industry technology  and framework, such as: SQL,
+JSON, REST, etc;
+- Performance tuning and profiling expertise is desirable;
+- Component framework and modern application container knowledge is a
+plus;
+- Agile Software Development experience is a plus;
+- At least 5 years of experience in an application development position;
+- Bachelor's degree in Computer Sciences or in a related discipline;
+relevant experience is also acceptable.
+
+Desired Qualifications:
+- SOA, ESB, and distributed systems understanding;
+- Knowledge of Maven, Git, GitHub, Gradle, etc.;
+- Knowledge of JPA, ORM: Hibernate, EclipseLink, JMS, ActiveMQ, RabbitMQ,
+AngularJS;
+- Continuous Integration/ Delivery skills;
+- Team-concentric software development skills; high performance software
+delivery skills in a team.","All qualified and interested candidates should
+submit their CVs/ resumes online at: http://grnh.se/l2m87u . Only
+shortlisted candidates will be notified for the interview .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Workfront is a cloud-based Enterprise Work Management
+solution company based in Utah. For more information, please visit:
+http://www.workfront.com"

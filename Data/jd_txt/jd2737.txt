@@ -1,0 +1,46 @@
+Remote Support Network Engineer,"The successful candidate will receive training and gain
+experience working on Cisco LAN/ WAN networks, Microsoft Windows Servers,
+Veeam Virtual Machine Backups, Symantec BackupExec Backups and Solarwinds
+Network Monitoring Systems. Applicants must have solid experience and
+understanding of PC Support in a network environment and knowledge of the
+Microsoft Windows Server Operating System. The incumbent must also have
+knowledge and experience in troubleshooting network connectivity problems
+and testing to determine source of the problems. No college degree or
+certifications are required but are preferred. The candidate may be asked
+to take skills assessment test to measure problem solving, logic and
+reasoning abilities. Work hours are based on a rotating schedule (night
+time schedule is also possible). The incumbent should be committed to
+excellent customer service.","- Take phone calls for support issues related to problems with Video CMS
+Systems;
+- Fill out detailed trouble tickets and log all information related to
+troubleshooting;
+- Escalate any problems to US based network group and perform tandem
+troubleshooting;
+- Monitor operation of Video CMS system and its components for any
+problems;
+- Daily check file transfer logs to ensure file synchronization is
+successfully completing;
+- Take necessary action to remediate problems with file transfers and
+document in ticket system;
+- Daily check virtual server backups using Symantec Backup Exec and Veeam
+Backup;
+- Daily check network device configuration backups using Solarwinds NCM;
+- Monitor devices using ICMP, SNMP and WMI using Solarwinds NPM;
+- Respond to alerts from network monitoring system and open tickets with
+network carriers.","- Excellent interpersonal relationship and customer service skills;
+- Excellent written and verbal communication skills;
+- Ability to quickly absorb information and understand its use;
+- Excellent documentation and note taking skills;
+- Expert desktop computer and network knowledge;
+- Knowledge of TCP/ IP and Windows PC operating system environment;
+- Ability to pass industry certification tests;
+- B.S. in Computer Science or a related field is preferred;
+- Cisco CCNA or higher is preferred;
+- Microsoft MTA or higher is preferred.","Interested candidates are asked to send their
+CVs to: career@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

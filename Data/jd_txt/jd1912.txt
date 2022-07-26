@@ -1,0 +1,30 @@
+SharePoint Developer,"Company is seeking an experienced Developer to
+successfully cope with diffeent project based on the .NET platform.","- Analyze new software enhancement requirements; 
+- Identify the need and analyze the impacts of adding new functionality
+to the existing software systems; 
+- Translate business requirements into technical requirements; 
+- Translate technical requirements into computer programs; 
+- Support current software systems developed in Visual Studio (C#,
+ASP.NET and SharePoint) and Map Basic environments;
+- Perform objected-oriented analysis and design; 
+- Proactively recommend features and projects to benefit the customers; 
+- Analyze and design the software under Microsofts .NET platform.
+Deliverable include: technical requirement documents, use cases and their
+diagrams, class diagrams, sequence diagrams, activity diagrams, package
+diagrams and project estimates.","- Bachelor's degree in Computer Sciences or a related field is preferred;
+Master's degree is a plus;
+- At least 1 year of experience with Visual Studio 2010 environment; 
+- In depth knowledge of object oriented design and development; 
+- Development Knowledge: Applications, Database and Web-based; 
+- Knowledge of programming Languages: C#/ ASP.NET;
+- Knowledge of development platform: .NET Framework 3.5/ 4; 
+- Database knowledge: SQL Server 2008 R2 (or above); 
+- Knowledge of Microsoft SharePoint 2010 is a plus; 
+- At least 1 year of design and coding experience in applications
+development for database access/ integration/ migration; 
+- Ability to work independently and communicate results effectively to
+peers in the team.","Interested candidates are encouraged to submit a
+CV in PDF to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",The candidate must pass a background check.,NA

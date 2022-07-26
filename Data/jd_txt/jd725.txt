@@ -1,0 +1,17 @@
+Senior Software Engineer (Macintosh OS X),"LinkGard Systems is looking for an experienced
+Macintosh Software developer.","- Develop C, C++, Objective-C;
+- Participate in Object Oriented Analysis/ design;
+- Write software based on specifications/ design.","- Over 5 years of work experience in software development;
+- Excellent OOP skills;
+- Proven experience developing applications using C, C++, Objective-C,
+Xcode and Interface Builder;
+- Experience with Apple Frameworks (Cocoa, AppKit, Foundation, Carbon,
+SystemConfiguration; WebKit is a plus);
+- Knowledge of Visual C++ is a plus;
+- Knowledge of Web Services is a plus.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (032) in
+the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LinkGard Systems LLC is a privately held company
+specializing in IT consulting."

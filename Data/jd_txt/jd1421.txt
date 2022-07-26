@@ -1,0 +1,44 @@
+Software Engineer,"The Software Engineer develops robust software
+applications and distributes applications as an interface to developed
+VAS applications with optimal performance. S/he is also responsible for
+the development of applications to integrate existing vendor systems with
+each other and interfaces for 3rd party internal system.","- Assess risk and impact on the existing system that may arise due to any
+requirements or functional changes;
+- Design database architecture based on project requirements;
+- Develop store procedures and queries;
+- Test and deploy applications;
+- Implement core modules;
+- Modify all existing services based on new business or technical
+requirements or changes;
+- Provide second level support to the developed applications;
+- Review existing code to meet the requirements of the company coding
+standards;
+- Optimize the code in terms of application performance, consistency and
+availability;
+- Provide regular weekly reports on activities.","- Higher education in engineering or information technology;
+- 2-3 years of work experience as a Software Engineer with .NET
+technologies;
+- Object-oriented programming, OOD, Design Patterns, SOA; 
+- Full competency and fluency with C# ASP .Net Framework; web Services
+(WCF, REST/SOAP/XML-RPC); 
+- Full competency and fluency with MS SQL Server 2008, MySQL; experience
+with IIS web server, preferable IIS 7.0 or higher; 
+- Windows services, Multithreading, Network programming
+(sockets/protocols) knowledge is preferable; 
+- Very good understanding of ADO.NET Technology and experience with
+T-SQL, PL/SQL; experience in PHP and Adobe Photoshop is a plus;
+experience in HTML, JavaScript, CSS;
+- Experience in Financial field is highly preferred;
+- Applications and services design and implementation skills;
+- Database architecture design skills;
+- Open Source systems/packages and application analysis, configuration,
+compilation, installation, modification and maintenance skills;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Good knowledge of Armenian, Russian and English (also technical)
+languages;
+- Good communication skills.","Please submit your CV to:Software-Engineer@... e-mail address. Only shortlisted candidates will
+be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator of Armenia.

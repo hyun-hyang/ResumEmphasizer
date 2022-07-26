@@ -1,0 +1,14 @@
+Software Engineer Intern,"There is an electronic design automation software
+product used within Virage Logic Corporation.
+The selected candidate will receive a training and then begin
+development of an improved system of parsing memory datasheet views for
+the side-by-side datasheet comparison function. The selected candidate
+wil also contribute to the maintenance and support of the checks within
+the central verification system.",NA,"- Last year BS student (Applied Mathematics Department, YSU
+preferably);
+- Software development skills in UNIX environment and Tcl usage
+experience are highly preferable.","Please send your resumes to:hr.armenia@.... Please mention in subject line: ""Software
+Engineer Intern""
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,NA

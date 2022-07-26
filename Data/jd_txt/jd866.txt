@@ -1,0 +1,25 @@
+Front-End/ AJAX Developer,"Your job will be to develop and work with one of the largest and most
+trafficked websites in Scandinavia.  
+You will be working as a developer with a strong and diverse team with
+reference to our local development manager. 
+You will work in great office where warm and professional environment
+for employees is considered to be the key of success. Company will
+provide excellent working conditions including modern and fast PCs, fast
+internet connection. 
+The job is a full-time position and will offer many opportunities to
+expand your horizons and develop your skills.","Your main responsibility will be to develop front-end applications for
+our huge platform. Applications will be as client-side, as server-side.
+Development will be done using AJAX, JavaScript, HTML and ASP.NET in
+cooperation with our Copenhagen office.","- Excellent communication skills;
+- Good knowledge of AJAX, JavaScript, HTML and CSS;
+- Experience in the .NET Framework and ASP.NET is an advantage;
+- Database skills (Microsoft SQL Server) is an advantage;
+- Fast learner with a passion to deliver flawless  and user-friendly
+results;
+- Good command of written English;
+- Knowledge of any Scandinavian language is an advantage.","Please send your Resume/CV to:info@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Plexonic is specializing on development of games,
+communities and entertainment software, targeting European and US
+markets."

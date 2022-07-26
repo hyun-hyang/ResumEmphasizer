@@ -1,0 +1,17 @@
+Chief Programmer,"Chief Programmer will be responsible for the
+development of software system, will introduce the new business processes
+and organize the work.",NA,"- BS in Computer Science or in any related technical field;
+- At least 3 years of professional work experience;
+- Good knowledge of OOP/ OOD, and Design Patterns;
+- Good knowledge of PHP, HTML, JavaScript (jQuery and Ajax), XML, CSS;
+- Good knowledge of MySQL, developing queries and stored procedures;
+- Work experience in .Net Framework (C#);
+- Experience in service oriented development (Web Services);
+- Knowledge of English and Russian languages in order to read
+professional literature and communicate.","Interested candidates are encouraged to submit a
+CV with a photo to: info@... mentioning ""Chief Programmer"" in the
+subject line. Only shortlisted candidates will be interviewed. No phone
+calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

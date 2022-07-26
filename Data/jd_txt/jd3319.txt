@@ -1,0 +1,20 @@
+Software Developer,"ACBA-Credit Agricole Bank is seeking Software
+Developers for the development of features as well as for the maintenance
+of its internal software.","- Participate in the application design;
+- Communicate effectively with co-workers and the Bank's structural
+units;
+- Develop features according to technical specifications;
+- Test the software source code and its functionality.","- University degree in the relevant field of studies;
+- Strong experience with SQL Server and Transact-SQL;
+- .Net development skills, preferably in C#;
+- Knowledge of ASP.Net, HTML, CSS, JavaScript and AngularJS is a plus;
+- Ability to adapt and learn quickly;
+- Good analytical skills;
+- Ability to work in a team;
+- Good technical level knowledge of the English language.","The candidates who meet the above-mentioned
+requirements and are interested in the position should download the ""Job
+Application Form"", fill it in and send it to: job@... , mentioning
+the position title in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

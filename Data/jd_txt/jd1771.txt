@@ -1,0 +1,25 @@
+Web Developer,"ASDG LLC is seeking a WEB Developer who will be
+responsible to design and implement Web applications and related tools
+for company Product Release cycle, Production and Test automation. The
+incumbent will also be responsible for the continuation, integration and
+follow-on enhancements to the company's web environment.","- Design and implement Web based user interfaces;
+- Work with a team to define the milestones and projects schedule;
+- Produce clearly written and documented code;
+- Create well designed and reusable objects;
+- Effectively employ many different database design techniques.","- Bachelor's or higher degree in Computer Science or in a similar
+discipline;
+- At least 4 or more years of work experience with the following
+technologies: HTML/ CSS, JavaScript, AJAX (ExtJs), PHP, Symfony or other
+frameworks;
+- Familiarity with OO Programming and MVC Environments;
+- Knowledge of SQL/ MySQL and database design/ modeling;
+- Understanding of browser specific compatibility issues;
+- Good communication skills in English language;
+- Willingness to travel to US;
+- Knowledge of HTML5/ jQuery is a plus;
+- Experience with Macromedia Flash/ AS3 is a plus.","If interested, please email your Resume to:info@... . Please indicate ""Web Developer"" in the subject line
+of your e-mail, otherwise your Resume will not be reviewed. Only
+shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,18 @@
+PHP Web Software Developer,"Simonian Educational Foundation's software development
+department is looking for a qualified Web Software Developer.","Develop Web applications for the internal needs of
+the Simonian Educational Foundation.","- At least 3+ years of work experience in the field of web development; 
+- Strong skills and knowledge of PHP, MySQL, AJAX, HTML, CSS,
+JavaScript;
+- Knowledge of Zend framework; 
+- Strong knowledge of Object Oriented Programming;
+- Knowledge of FLEX is a plus;
+- User level experience in Linux or UNIX. Knowledge of Bash scripting and
+Linux administration principles is a plus;
+- Good communication skills in English;
+- Ability to be a good team member who has good communication and problem
+solving skills; 
+- Clean coding style as well as good code designing skills.","Please send your CV to: ITjobs@... with the
+title ""PHP Web Software Developer"" in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

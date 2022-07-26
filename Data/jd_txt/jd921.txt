@@ -1,0 +1,14 @@
+Software Engineer,"The Software Engineer is responsible for the
+development of STAR Development Toolkit.",NA,"- Experience in C/C++ programming;
+- Knowledge of QT based GUI developing is a plus;
+- Experience in UNIX operating system is a plus;
+- Good debugging and problem solving skills;
+- Experience in Microsoft Visual C++ is a plus;
+- Hardware design knowledge is a plus (Verilog, JTAG);
+- Software development for testers is a plus;
+- Active manner of work and insistence in achieving of posed goals, team
+player.","Please send you resumes onhr.armenia@..., please mention in the subject line of your
+email ""Software Engineer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

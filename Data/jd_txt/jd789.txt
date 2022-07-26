@@ -1,0 +1,17 @@
+Junior ErLang Programmer,"Smart-Tech is seeking young talented programmers to
+join its ErLang developers team.","- Learn and become proficient;
+- Support existing projects;
+- Optimize and develop existing projects;
+- Take part in new projects development.","- Experience under *nix development;
+- Experience in web programming;
+- Basic knowledge in networking, cryptography;
+- Familiarity with standard development tools as vim, make;
+- Maximum 2 years of experience is acceptable for this position, more
+experienced candidates will be over qualified;
+- Will to learn ErLang and work under it;
+- Ability to learn fast;
+- Ability to work under stress.","Please e-mail your detailed CV to:armen@... indicating the position title in the subject line of your
+e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

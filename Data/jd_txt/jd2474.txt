@@ -1,0 +1,19 @@
+Java Developer,"Damaris AM LLC is looking for a Java Developer to
+participate in Damaris 3G developments.","- Participate in the company's web projects;
+- Responsible for the development of Backend and Frontend.","- Work experience in a relevant field;
+- Experience in team working;
+- Knowledge of OOP principles;
+- Knowledge of MVC pattern;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Ability to handle the whole project and lead a small team;
+- Knowledge of JSP/ Servlet, J2EE, JSF, Hibernate, Spring;
+- Knowledge of JavaScript, HTML, CSS;
+- Knowledge of Struts, HTML5 is desired;
+- Database proficiency in SQLServer and Oracle is desired.","All interested candidates should send their last
+updated resume to: hr@... . Please mention in the subject line of
+the message the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Damaris AM LLC is the local branch of Damaris France
+Company providing software archiving package to different companies in
+Europe."

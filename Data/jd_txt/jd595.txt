@@ -1,0 +1,22 @@
+Senior QA Engineer,"The successful candidate will play a leading role in
+assuring the quality of the company products and in developing the QA
+infrastructure and processes.","- Participate in the design and implement the automated testing/CM
+infrastructure;
+- Develop auxiliary testing applications;
+- Develop test plans and testability requirements;
+- Develop automated regression tests;
+- Test Windows and Unix applications.","- Extensive experience in quality assurance and/or configuration
+management, understanding of development, CM and QA processes;
+- Experience developing and implementing test plans for complex
+applications;
+- Knowledge of Perl, preferably at intermediate or advanced level;
+- Familiarity with Unix utilities, shell scripting, experience working
+in Unix environment;
+- C/C++/Java knowledge is a plus;
+- English language knowledge.","Email your resume to: jobs@.... Only
+shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"OMD is a newly established wholly owned subsidiary of
+OneMarketData LLC, New York based producer of enterprise market data
+solutions for financial institutions."

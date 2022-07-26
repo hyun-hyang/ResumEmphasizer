@@ -1,0 +1,22 @@
+Web Programmer,"WestSoft LLC is seeking qualified and experienced
+candidate for the position of Web Programmer.","- Develop, support and administer the website;
+- Generate, maintain and archive web site contents;
+- Code, test and troubleshoot programs utilizing the appropriate
+hardware, database and programming technologies;
+- Maintain secure, reliable and high quality web programming;
+- Establish programming of data integrity for online services.","- Excellent knowledge of PHP and MySQL; 
+- At least 2 years of work experience with PHP and MySQL, including own
+projects;
+- Professional knowledge of web product development process and
+technologies;
+- Excellent knowledge of network security maintenance;
+- Team player;
+- Problem solving skills;
+- Knowledge of Russian and English languages is preferred.","Applicants are kindly requested to e-mail their
+CVs to: info@... .
+In the subject line of the message please mention the title of the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"WestSoft LLC is engaged in program design for business
+process automation."

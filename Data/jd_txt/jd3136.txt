@@ -1,0 +1,24 @@
+Senior PHP Developer,"The incumbent will develop software applications
+working in a distributed team.","- Participate in all the steps of the software project from the design to
+integration;
+- Lead a small development team;
+- Be always in touch with the newest web technologies.","- At least 3 years of experience in the software development;
+- Advanced knowledge of OO PHP and PHP frameworks;
+- Strong knowledge of JS core and jQuery;
+- Good knowledge of JS frameworks (Knockout.js, Angular.js, Node.JS);
+- Strong knowledge of HTML/ CSS frameworks (LESS, SASS, Bootstrap);
+- Knowledge of other OO programming languages, such as Java, .Net, is a
+plus; 
+- Fluency in the English language (reading, writing, and speaking);
+- Good communication skills;
+- Good team player; ability to accept criticism;
+- Ability to work on distributed teams.","To apply, please email your CV to:
+careers-armenia@... . Please mention the position you are
+applying for in the subject line of your email. Only short-listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Macadamian AR CJSC is headquartered in Ottawa, Canada
+with several branches around the world. It is a global software
+development company. Please read more about the company at:
+www.macadamian.com."

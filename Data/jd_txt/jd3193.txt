@@ -1,0 +1,42 @@
+Database/ System Administrator,"DarmanTest Laboratories is looking for a qualified
+Database/ System Administrator.","- Responsible for programing; develop new software application and
+process automatization;
+- Set up a company-wide data management system, workflow management,
+chain of custody and audit trails;
+- Responsible for database management;
+- Conduct software validation and testing;
+- Work with the Laboratory, Clinical and Administrative departments;
+- Set up the barcoding system;
+- Conduct the system analysis;
+- Maintain the system security;
+- Responsible for the system and workstation maintenance;
+- Learn U.S. FDA 21 CFR Part 11 requirements and their compliance
+procedures;
+- Responsible for the development of new forms and templates;
+- Work with various departments to prepare eCTD reports;
+- Back up and archive data regularly;
+- Install new equipment as necessary.","- University degree in Computer Sciences;
+- 3 years of experience in databases administration and supervision;
+- Experience in database organization, designing, troubleshooting;
+- Strong organizational skills, detail-oriented, self-motivated person;
+- Knowledge of the English language: reading, comprehension, report
+writing and verbal (all the work and communication is in the English
+language);
+- Proficiency in Windows, Microsoft Office Pro, File Server, Endpoint
+Antivirus, FTP and VPN; MySQL is a plus;
+- Ability to multitask, work quickly, efficiently and at times under
+pressure;
+- Knowledge of U.S. FDA or European Medicines Agency regulatory
+guidelines is a very big plus;
+- Pharmaceutical or clinical knowledge is a big plus.","Qualified applicants are requested to submit
+their CVs along with a cover letter in the English language to:
+dtl@... stating ""Database/ System Administrator"" in the
+subject line. Please note that only those selected for the interview will
+be contacted. The interview will be conducted in both the English and
+Armenian languages. Your privacy and confidentiality will be respected
+and guaranteed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Darmantest Laboratories is an analytical and clinical
+laboratory in Armenia. It is a part of an international company
+conducting bio-equivalence studies."

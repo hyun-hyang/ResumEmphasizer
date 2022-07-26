@@ -1,0 +1,36 @@
+"Senior Software Engineer, Deep Submicron Department","Senior Software Engineer (at the Deep Submicron
+Department) will take a leading role in the design and implementation of
+advanced software products for the physical layout of ICs.",NA,"- MS in Computer Science, Physics, Maths or a related field; PhD is
+preferred;
+- At least 5 years of work experience in designing and developing
+software products;
+- Strong C++/ STL programming skills and good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux;
+- Ability to lead the project development;
+- Previous experience in working on critical projects;
+- Experience in the software project management;
+- Strong knowledge of data structures and algorithms, as well as their
+complexities;
+- Familiarity with Computational Geometry, Graph Theory, Optimization,
+Problems, Numerical Methods and Modeling;
+- Ability to write comprehensive functional implementation
+specifications;
+- Previous experience in designing efficient algorithms for the IC layout
+processing is highly desired;
+- Knowledge and experience in Physical Design Automation or related
+domains is preferred;
+- Excellent communication skills;
+- Ability to effectively interact with cross-functional teams (R&D,
+Application and Marketing);
+- Excellent knowledge of both the verbal and written English language;
+- Fast learning skills;
+- Formal training or test certification is a plus;
+- Other achievements such as participation or winning in Maths and
+Programming in Olympiads/ competitions are a big plus.","Interested candidates should submit their CVs
+through: http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

@@ -1,0 +1,22 @@
+Hardware Engineer,"The candidate will use technical education and
+experience to design, develop, test, and document module and system
+level hardware per product or module specifications.","- Develop new architectures, specifications, and design boards for
+high-speed products;
+- Hold design review; design programmable logic (FPGA, CPLD, etc.) using
+schematic level tools and VHDL;
+- Technical leadership, specifications, design, verification, timing,
+system support and debug;
+- Work closely with Software Engineers and PCB designers.","- RTL development and simulation using Verilog HDL;
+- Experience with Xilinx, Altera FPGA/PLD devices;
+- Experience with Digital logic design;
+- Board Level Hardware Design experience;
+- Knowledge of Microprocessors, DSPs (Digital Signal Processors) and
+interfaces (Memory bus, SPI , MII etc.) is desirable;
+- Knowledge of Memory devices (Flash, SDRAM etc.) is desirable;
+- Knowledge of Telecommunication Standards and interfaces (Ethernet,
+ISDN, E1/T1, ADSL etc.) is desirable;
+- Fluency in English language.","Interested candidates should email resumes to:hr@.... Please mention the position you're applying for in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,EpygiArm LLC is an IT company.

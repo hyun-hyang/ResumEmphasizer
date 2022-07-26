@@ -1,0 +1,22 @@
+VPN Engineer,"The VPN Engineer is responsible for daily operations
+and maintenance of the VPN (Virtual Private Network) platforms as well
+as setup, configuration, installation of hardware and software. He/she
+is responsible for following up on relevant Customer Care complaints and
+delegation of the problems to the vendor.","- Ensure operation and maintenance of the platform;
+- Perform daily backup of the system;
+- Manage PABX groups;
+- Create discount schemes;
+- Manage call distribution and number ranges;
+- Ensure availability, integrity and security of the data;
+- Prepare periodic reports;
+- Follow up on relevant Customer Care complaints;
+- Delegate the problems to the suppliers.","- 2 years of experience in IT field;
+- 1 year of experience in system administration;
+- Understanding of basic SS7, Telco, GSM and concepts;
+- Basic programming skills;
+- Knowledge of DBMS concepts, SQL;
+- Knowledge of UNIX, preferable Sun Solaris.","Please, send your CV to: vpn-engineer@...
+e-mail address.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Only shortlisted candidates will be contacted.,VivaCell-MTS is the leading mobile operator in Armenia.

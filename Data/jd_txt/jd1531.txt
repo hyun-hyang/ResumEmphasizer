@@ -1,0 +1,31 @@
+Senior ASP.Net Developer,"Altacode LLC is seeking a highly qualified and
+motivated Senior ASP.Net Developer. This is a position requiring a
+motivated self-starter with deep knowledge and practical experience in
+object oriented programming and web development. The incumbent will need
+strong skills in ASP.NET(C#) and possess a strong background in database,
+he/she will be a strong de-bugger, have solid hands on experience with
+T-SQL, SQL Profiling, performance tuning, fault finding, stored
+procedures etc.","- Develop Web Applications in accordance with given Specifications;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Assist in the development of accompanying Technical Documentation;
+- Provide technical support and assistance, if requested.","- 5 + years of experience in programming/ architecture. Experience with
+ASP .NET 3.5, C#, SQL, JavaScript, Ajax, JQuery, WCF, XML, and web
+services;
+- Proficiency in object oriented programming and Design Patterns;
+- Experience with Microsoft Silverlight (not mandatory), WCF, and IIS
+7.0;
+- Understanding of web development performance best practices and
+experience with Web performance monitoring and troubleshooting tools;
+- Good understanding of relational databases and experience with
+fundamental SQL;
+- Strong knowledge of Unit Testing tools and standards; experience with
+load testing software and test design;
+- Excellent verbal and written skills;
+- Understanding and some experience with Agile methodology is preferred;
+- Mastery of technical English;
+- Good team player, ability to accept criticism.","If qualified please send your CVs/Resumes to: resume@... mentioning Senior ASP.Net Developer in the subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

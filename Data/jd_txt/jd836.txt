@@ -1,0 +1,77 @@
+Network Administrator,"The responsibilities of Network Administrator are
+focused on installation, configuration and maintenance of companys
+local area network (LAN) and overseeing it, to ensure that it functions
+smoothly. The Network Administrator may be responsible for customizing
+the network to the companys needs by connecting the necessary software
+and hardware to the network.","- Perform backups of the servers and workstations;
+- Add and delete new network users, work with active directory;
+- Ensure that virus protection software is up-to-date and cleaning any
+viruses that infect staff computers and servers;
+- Train and assist staff in using hardware and software efficiently;
+- Troubleshoot any routine problems;
+- Be responsible for software installation, maintenance and upgrading;
+- Be responsible for hardware installation, maintenance and upgrading;
+- Administrate and maintain routine network;
+- Be responsible for network documentation;
+- Supervise database;
+- Set up, configure and maintain the LAN;
+- Maintain external and internal connectivity;
+- Evaluate changes to current and future network requirements to meet
+companys needs;
+- Ensure security of the information stored;
+- Grant access and operating rights to relevant people;
+- Install, maintain and troubleshoot computers;
+- Mark recommendations on installation of new hardware and software;
+- Install and maintain emergency systems to back up the main network
+server;
+- Other duties may be assigned.","- Masters degree and a strong background in math, systems science,
+computer science or engineering; 
+- 2+ years of experience in a similar work;
+- High energy and positive personality; 
+- Fluency in English language;
+- Ability to take criticism;
+- Knowledge and experience with network software and hardware
+installation;
+- Knowledge of and work experience in Microsoft Windows operating
+system, ability to implement Active Directory, DNS, DHCP, VPN, RRAS,
+etc.; 
+- Knowledge of *nix-based operating systems, ability to implement and
+configure Firewall, SSH, Squid, BIND etc.;
+- Knowledge of security administration, ability to implement PKI,
+SSL/TLS, L2TP, IPSec;
+- Knowledge of DBMS administration MS SQL, MySQL;
+- Knowledge of computing and network hardware and peripheral equipment;
+- Ability to install and maintain LANs supporting various networking
+technologies;
+- Work experience with switches, firewalls and routers;
+- Ability to manage time effectively, work under pressure and in
+multi-task environment meeting the deadlines; 
+- Ability to identify and resolve computer system malfunctions and
+operational problems;
+- Display professionalism and have well-developed interpersonal skills;
+- Ability to work effectively in a team environment, as well as being
+comfortable managing own projects with limited supervision;
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Ability to analyze complex problems, interpret operational needs, and
+develop integrated, creative solutions;
+- Self motivated personality, technically proficient, able to grasp new
+concepts, systems and applications quickly;
+- Excellent oral and written communications skills and demonstrated
+ability to collaborate effectively with developers and non-developers;
+- Ability to communicate technical information to non-technical
+personnel.","Candidates who meet these qualifications will
+be short-listed and interviewed. Selected candidates will be notified of
+the interview dates directly.
+If interested, please send your resume with a cover letter listing your
+qualifications, position related experience, and indicating your contact
+details (phone, fax, and/or e-mail address where you can be reached) to:
+Ms. Hasmik Hovsepyan, Human Resource Manager 
+E-mail: mail@... 
+Phone: (374 10) 54 40 24; 56 76 81 ext. 14
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web portal, web databases
+and web services systems."

@@ -1,0 +1,22 @@
+Front-End Developer,"Agnian is looking for a Front-End Developer with
+excellent web development skills to join the company's team in Yerevan.
+The incumbent is expected to be an exceptional Front-End Developer who
+loves hand-coding and is skilled in converting beautiful designs and
+concepts into smart web sites for all screens. He/ she should collaborate
+with design teams to refine the user journey and thrive on challenges and
+bring a creative approach to development.","- Create visually appealing web pages or interfaces;
+- Write a well designed, efficient code with responsive layout properties
+for cross-browser compatibility;
+- Create, edit or modify templates/ themes for a CMS or web development
+framework.","- Experience in building sites using HTML5, CSS3, jQuery/ Javascript and
+Ajax;
+- Knowledge of PHP and MySQL is preferred;
+- Experience of working with Content Management Systems such as Wordpress
+or other CMS; Drupal is desired;
+- Demonstrated experience in using SASS/ Compass.","To apply for this position, please send your
+cover letter and resume to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Agnian is a digital product agency with offices in
+London, the UK and Yerevan, Armenia. For more information, please visit:
+www.agnian.com."

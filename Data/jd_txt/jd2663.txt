@@ -1,0 +1,29 @@
+Senior Mobile Application Developer,"SVT LLC is seeking experienced Senior Mobile
+Application Developer who will join its mobile development team to work
+on its current and future projects.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience;
+- Fundamentals in object-oriented design, data structures, algorithm
+design, problem solving and complexity analysis;
+- Proficiency in modern object-oriented languages: C++, Java, Objective
+C;
+- Good understanding of iOS SDK, XCode, iOS Frameworks;
+- Good understanding of Android SDK, Android Frameworks, Fast UI
+building;
+- Experience building complex iPhone and Android Apps that have been
+successfully delivered to customers;
+- Experience with video and audio streaming is a plus;
+- Experience with Windows Mobile Application Development is a plus;
+- Experience with Web application development is a plus;
+- Ability to write elegant and readable code;
+- Good analytical skills;
+- Good team player who is self motivated and well organized;
+- Good knowledge of English language.","To apply for this position, candidates are asked
+to send a CV addressing relevant qualifications and experience to:sgaloyan@... . In the subject line of the e-mail message, please
+write ""Application for Senior Mobile Application Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

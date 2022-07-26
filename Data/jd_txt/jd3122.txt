@@ -1,0 +1,28 @@
+Software Backend Developer,"Qube is looking for highly motivated Software Backend
+Developers (C++) to join the engineering team and make an impact by
+developing consumer and enterprise level applications.","- Work closely with the team leader and product owner for understanding
+the functional and system requirements;
+- Develop software code based on the existing requirements;
+- Read, understand and modify the existing code;
+- Actively participate in product and customer development meetings and
+come up with creative ideas and solutions;
+- Participate in testing process through unit testing and bug fixes;
+- Learn new technologies and programming languages;
+- Teach, supervise and mentor junior developers.","- Knowledge of C/ C++ programming, STL;
+- Strong analytical skills;
+- Fast learner, fast doer, ability to grasp new technologies/ methods on
+the fly;
+- Ability to work under pressure and meet deadlines;
+- Knowledge of Data structures, algorithms;
+- Knowledge of Unix like operating systems (Linux or BSD);
+- Knowledge of object-oriented programming, design patterns;
+- Knowledge of the English language (ability to read and understand
+technical articles, conversational language skills);
+- Knowledge of image processing algorithms (OpenCV);
+- Knowledge of boost libraries and multithreading and their practical
+use.","All interested and qualified candidates are
+welcome to send their CVs to: g.avetisyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Qube is a start-up company that develops software and
+primarily focuses on image processing applications development."

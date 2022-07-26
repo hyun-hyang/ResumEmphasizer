@@ -1,0 +1,29 @@
+.NET Developer,"The incumbent will develop software applications
+working in a distributed team.","- Participate in all the steps of the software project from design to
+integration;
+- Analyze and investigate the architectural defects of existing
+projects;
+- Implement features;
+- Fix problems.","- 2 - 5 years of experience in software development; at least 2 years of
+experience with .NET technologies;
+- Strong knowledge of .NET frameworks including Entity Framework, LINQ,
+ASP.NET MVC and WCF;
+- Strong knowledge of web development; knowledge of JavaScript, HTTP and
+REST;
+- Strong understanding of OO principles;
+- Ability to work in a team environment;
+- Highly motivated, passionate and adaptable personality; eagerness to
+learn new technologies and methods;
+- Fluency in the English language (reading, writing and speaking);
+- Good communication skills;
+- Good team player;
+- Ability to accept criticism;
+- Fast learner and responsible personality.","To apply for this position, please email your CV
+to: careers-armenia@... . Please mention the position you are
+applying for in the subject line of your e-mail. Only short-listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Macadamian AR is a global software development company
+headquartered in Ottawa, Canada with several branches around the world.
+Please read more about the company visiting: www.macadamian.com."

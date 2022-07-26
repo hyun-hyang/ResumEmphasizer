@@ -1,0 +1,29 @@
+".NET Developer, IT Department","Armeconombank OJSC is seeking a .NET Developer for IT
+Department with knowledge of .Net programming and database development
+concepts.","- Responsible for software accompanying and servicing;
+- Participate in projects investment;
+- Responsible for software testing;
+- Provide methodological assistance to bank employees;
+- Responsible for making changes in the bank software.","- BS in Computer Science or any related technical field;
+- Work experience in .Net Framework (C#, VB.NET);
+- Work experience in MS SQL Server 2008; 
+- Knowledge of ASP.NET and ASP.NET MVC;
+- Understanding of web services;
+- Understanding of OOP and OOD;
+- Fluency in Armenian language; good knowledge of Russian and English
+languages;
+- Punctuality; initiative;
+- Work organization and planning;  
+- Communication skills and ability to perform analysis;
+- Common sense;
+- Ability to work in a team;
+- Ability to interact and negotiate; 
+- Ability to make decisions quickly and objectively; 
+- Ability to solve business problems.","All interested candidates should fill in the
+application form attached, attach a CV and send to: hrm@... . The
+subject field of the message should be filled as follows: "".NET
+Developer, IT Department"". Only short-listed candidates will be
+interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,22 @@
+Base or Senior C/C++ Developer,"Telegate LLC is looking for Base or Senior developer to
+join the company's Search team.","- Participate in all the steps of the software project, from design to
+integration;
+- Read, understand and modify the existing code;
+- Develop applications in accordance with given specifications;
+- Write proper documentation for developed code;
+- Be flexible in learning new technologies.","- Bachelor of Science degree in a relevant field;
+- 4 years of work experience as a C/C++ system developer;
+- Strong knowledge of development under Linux system;
+- Strong knowledge in client/ server applications development;
+- Experience in service oriented development;
+- Knowledge of STL, Boost libraries;
+- Ability to work within a team;
+- Ability of working under time pressure;
+- Strong problem solving skills;
+- Good communication skills;
+- Good knowledge of English language.","To apply please send your CV to:ashot.danielyan@... . Please, clearly mention in the subject
+line for what position you are applying. Only shortlisted candidates will
+be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

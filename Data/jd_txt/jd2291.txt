@@ -1,0 +1,24 @@
+PHP Developer,"Sourcio is seeking experienced PHP Developers for the
+development of features for its partners' award-winning product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 1 year of practical experience;
+- Good knowledge of PHP;
+- Good knowledge of OOP principles;
+- Good knowledge of DHTML;
+- Experience with working in Linux environment (Ubuntu, Suse) is
+preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language both communication and technical
+level.","All interested and qualified candidates are
+welcome to send their CV to: info@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio is an off shoring and outsourcing solutions
+provider based in Armenia. For more information about the company, please
+visit: www.sourcio.com."

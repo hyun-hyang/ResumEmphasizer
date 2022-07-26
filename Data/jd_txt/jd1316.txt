@@ -1,0 +1,20 @@
+C++ GUI Developer,"""OMD"" LLC is looking for a highly qualified C++
+software engineer with solid experience in Windows GUI development.","Participation in all stages of product
+development, focusing mainly (but not exclusively) on graphical user
+interface design and implementation.","- University degree in science or technology;
+- Excellent knowledge of C++ (OOP, generic programming, STL library); at
+least 2 years of industrial C++ experience;
+- Extensive knowledge of Windows API, Windows Forms, MFC/ATL,
+multi-threading; at least 2 years experience in modern Windows user
+interface programming;
+- Good knowledge of C#/.NET;
+- Knowledge of fundamental algorithms and data structures, good
+problem-solving skills;
+- Experience with database access technologies (ADO, ADO.NET) is a plus;
+- Knowledge of technical English.","Please, send your resume to:jobs_am1@.... The subject must contain ""C++ GUI developer"". Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

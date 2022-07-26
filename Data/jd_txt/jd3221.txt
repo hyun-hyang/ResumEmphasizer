@@ -1,0 +1,51 @@
+Senior PHP Developer,"Joomag AM LLC is seeking a highly motivated Senior PHP
+Developer who will become a part of the Company's team, participate in
+the development of a custom-built (no frameworks used) large-scale
+project, research new technologies and propose solutions for emerging
+problems.","- Develop and deploy new features to facilitate related procedures and
+tools if necessary;
+- Write a ""clean"", well-designed code;
+- Contribute in all the phases of the development lifecycle;
+- Produce detailed specifications;
+- Design PHP modules from ground up as a part of the project and
+standalone;
+- Optimize databases for performance;
+- Design relational databases for projects;
+- Integrate new tables into existing databases;
+- Work with external services and APIs.","- At least 5 years of software development experience of PHP;
+- Bachelor's/ Master's degree in Computer Science, Engineering or a
+related field;
+- Full proficiency in PHP (Functions, Scopes, Code organization, stages
+of code processing, optimization of processes);
+- Strong knowledge of OOP and Design Patterns;
+- Strong knowledge of sessions/ Cookies;
+- Strong knowledge of caching mechanisms (Memcached, APC);
+- Strong knowledge of mailing (protocols: IMAP, POP3); ability to send
+mail via PHP and external services;
+- Experience with PHP Multibyte string manipulations;
+- Knowledge of PHP frameworks;
+- Strong knowledge of MySQL;
+- Strong knowledge of database Design principles, normalization/
+denormalization;
+- Strong knowledge of MySQL data types, indices (types of indices), query
+execution stages (How queries are executed);
+- Experience with Query optimization;
+- Strong knowledge of HTML, CSS and JavaScript;
+- Experience with JIRA or other issue/ task tracking systems;
+- Experience with GIT;
+- Experience with Stash, Github or BitBucket;
+- Knowledge of Agile/ Scrum/ Kanban or other similar project management
+methodologies;
+- Experience with Linux;
+- Experience with installing and managing Apache, configuring virtual
+hosts and htaccess files;
+- Experience with managing DNS;
+- Good knowledge of the English language.","All interested and qualified candidates are
+invited to send their CVs to: hr.armenia@... . Please mention the
+title of position ""Senior PHP Developer"" and the announcement code
+""JAM-838"" in the subject of email.
+Or apply online via: https://joomag-am.workable.com/j/B73494706D.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

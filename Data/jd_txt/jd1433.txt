@@ -1,0 +1,40 @@
+Senior Software Engineer,"The incumbent will research and develop software
+systems according to clients requirements, and continue debugging,
+enhancing and maintaining developed systems. Primary responsibilities
+include data analyzing skills in combination with developing and
+debugging software using C# and C++ programming languages and SQL.","- Collaborate with key team members in developing new products;
+- Study different existing products and help other team members in bug
+fixing;
+- Enhance existing programs by identifying areas for improvement; 
+- Be flexible in learning and applying different programming languages
+and technologies;
+- Constantly update technical knowledge and skills;
+- Be efficient in the use of memory and CPU time;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/write technical documentation on codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues;
+- Be able to travel to USA or other countries to work with other team
+members.","- Bachelor's or higher degree in Computer Sciences, Physics, Mathematics
+or related disciplines;
+- Good grades in undergraduate; 
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Work experience with C++, C# programming languages; experience with
+Java programming is prefered;
+- Work experience with MS SQL Server, Oracle or other databases;
+- Work experience in using SQL;
+- Ability to develop efficient codes;
+- Good English language skills including reading, writing and speaking.
+Desired Qualifications:
+- Knowledge of .Net, Silver Light and other technologies;
+- Ability to write programs using different programming languages and
+environments;
+- Familiarity with different web development technologies.","Interested candidates should email their CVs and
+inquiries to Armen Nahapetyan to: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ardinnotech LLC develops and licenses large-scale
+computer models and software to help transportation industry managers
+analyze and solve complex network problems."

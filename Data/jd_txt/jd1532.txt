@@ -1,0 +1,67 @@
+MS SQL Developer,"Altacode LLC is looking for MS SQL Database Developers
+for complex and long-term projects. The position entails working with
+Microsoft products.","- Be responsible for database installation, upgrade, patch,
+configuration, backup and maintenance;
+- Provide testing and performance tuning support;
+- Act as the technical expert on all aspects of the database during
+development and production life cycle of the product;
+- Configure and manage SQL Server Clusters in Windows 2008R2;
+- Deploy and support database components in all DB environments which
+include DEV, Staging, QA and PROD;
+- Monitor all database environments using but not limited to SQL Server
+utility points, SQL Server data collectors, redgate sql tool belt and
+windows PerfMon counters;
+- Provide 24x7 rotation supports and as needed;
+- Develop scripts to automate routine and repetitive database
+administration tasks;
+- Implement logical and physical data models at the project level;
+- Coordinate DDL changes; QA support; and the production implementation
+of all DB changes;
+- Assist with database/ application migrations, disaster recovery
+scenarios, and server upgrades whenever feasible;
+- Be responsible for creating/ tuning/ optimizing indexes, stored
+procedures, DTS/SSIS packages and SQL jobs;
+- Recommend scale up and scale out solutions for applications with
+database bottlenecks. Use but not limited to replication and load
+balancing for scale out and NUMA architecture, fusion IO, RAID for scale
+up scenarios;
+- Be responsible for table partitioning, creating indexed views;
+- Work with network architecture on SQL IO subsystem configuration and
+tuning. Netapp SAN, HP SAN, local disk arrays and fusion IO cards.
+Understand and deploy the correct IO sub system per database instance
+needs;
+- Create and optimize SSRS reports using SQL 2008 or 2005;
+- Participate in the formulation of policies, procedures and standards
+relating to database management. Work with the teams in the design and
+implementation of database security policies and integrity controls;
+- Provide technical guidance to system architects and application
+programmers;
+- Perform estimation and Capacity Planning for database growth;
+- Develop monitoring tools for current set of applications in production
+and applications ready to enter production life cycle.","- Be self starter with minimum supervision;
+- 5+ years knowledge of MS SQL 2000/2005/2008/2008R2;
+- 5+ years knowledge of Windows Operating System Win 2000, 2003 and
+2008R2 and Windows clustering;
+- Ability to work in a remote team environment;
+- Strong interpersonal skills to work well with a talented team of
+software developers;
+- Effective time management skills;
+- Experienced in best practices for design, development, modeling and
+implementation of data warehouses and relational databases;
+- In depth understanding of the Structured Query Language, RDMS and
+reviewing query execution plans;
+- Software development experience with Visual C# is a plus;
+- Experience with IIS and Apache is a plus;
+- Knowledge of SDLC is desired;
+- In depth understanding of data replication, mirroring, log shipping;
+- In depth understanding of NUMA architecture and network load balancing
+is a plus;
+- Excellent Analytical skills along with excellent Oral and Written
+communications skills;
+- Understanding of SQL 2008 R2 features such as StreamInsight, Parallel
+Data Warehouse, Master Data Services, Data collectors, Utility points,
+Clustering, Memory management is a big plus.","Qualified candidates should send their resumes
+to:  resume@... indicating ""MS SQL Developer"" in the subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

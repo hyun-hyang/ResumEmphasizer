@@ -1,0 +1,15 @@
+Software Engineer,"CIT Ltd. is currently seeking qualified candidates for
+the position of Software Engineer to work on projects. The incumbent will
+work under the guidance of Head of the Department of Programming of
+Automated Administration and Internet Systems and will report directly
+to him.",Program code and DB structure development.,"- Good knowledge of PHP/HTML/JavaScript and MySQL server;
+- At least 5 years of work experience as a Software Engineer,
+- At least 3 years of work experience with PHP;
+- Availability of developed web-sites (please provide with hyperlinks);
+- Good knowledge of English language;
+- Mature.","Interested candidates should submit their
+resumes to: rosak@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CIT Ltd. focuses its efforts on the development of IT
+integrated solutions."

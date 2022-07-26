@@ -1,0 +1,48 @@
+Core Network Engineer,"He/ she will be responsible for the system status
+review and preventive maintenance.","- Responsible for the system status review, preventive maintenance,
+alarms identifying causes, systems status checking to ensure a good
+functionality of 2G/ 3G network;
+- Responsible for the CN (Core Network) statistics and logs checking/
+collection;
+- Perform interconnection tests and the corrective actions coordination
+as well as interconnection with other networks or network elements as
+Radio, Transmission, IN/ VAS, Billing teams;
+- Responsible for the administration of Core Network DDF, ODF, Patch
+panels;
+- Participate in resolving NTTs regarding appeared network problems,
+updating the old NTTs by adding the new information, fixing or closing
+the entry;
+- Review the status of existing entry points (NTT and WOT) periodically;
+- Update the Parameters' database regularly and complete all
+modifications respectively;
+- Implement the signaling network according to ITU-T recommendations;
+- Investigate ""level 2 and 3"" technical malfunction or breakdowns
+occurred and/ or triggered by the supervision (Monitoring) team;
+- Regularly update and modify test procedures for interconnection with
+other networks or network elements;
+- Coordinate the configuration and dimensioning of interconnection with
+other networks/ NE and propose solutions;
+- Create and modify CN parameters' value and characteristics;
+- Coordinate Fault origins with other Vendors;
+- Escalate TTs to skill centers and suppliers and coordinate the process
+of resolution;
+- Prepare reports on CN KPIs.","- University degree in a technical field;
+- 1- 2 years of experience with the core network MSS/ VLR, IT, VAS or 3
+years of experience in other relevant fields;
+- Knowledge of signaling (SS7, SIGTRAN, CAMEL, GSM/ UMTS, HSPA),
+switching and IT networks;
+- Good knowledge of telecom;
+- Good knowledge of the English language; capability of written and oral
+expression in a professional context;
+- Knowledge of the MS Office (particularly Excel);
+- Analytical thinking skills, ability to break down, understand and use a
+large amount of complex information in a logical and organised way,
+identifying the most important points;
+- Good team player and transversal communication skills.","Qualified and interested candidates are
+encouraged to send a CV and motivation letter to: hr.oam@... .
+Please indicate the title of the position in the subject line of the
+email. The Company thanks all interested applicants, however only
+short-listed candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

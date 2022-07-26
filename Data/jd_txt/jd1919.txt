@@ -1,0 +1,21 @@
+.NET Developer,"The incumbent will work in a small team which will
+develop a payment system called EPRS for several purposes (Bills, Top-up
+cellphone recharge, Money transfer and more). The architecture includes
+web development, web-services and several other platforms including POSs
+(checkouts), mobile and more.","Work in .NET 2.0 environment, with intention of
+migrating some features (such as the GUI and the Web-Services) to .NET
+4.0 in the near future.","- At least 1 year of proven experience in .NET development or an Academic
+degree in Computer Sciences from a recognized institute;
+- Demonstrated success in working in a team-based environment;
+- Solid software engineering fundamentals;
+- Independent, autodidact and a fast learner;
+- Good knowledge of both Russian and English languages (oral and
+written);
+- Excellent communication skills.","Please send your CVs only in English language
+to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"WIC Group is a Israeli company which distributes its
+physical and digital products worldwide. For more information about
+company, please visit the following websites: www.wic.co.il,
+www.worldcomfinance.com, www.eprs.co.il and www.celltime.co.il."

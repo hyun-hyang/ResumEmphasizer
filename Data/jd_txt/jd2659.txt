@@ -1,0 +1,23 @@
+Senior C/ C++ Developer,"Zangi Livecom is looking for a Senior C/ C++ Developer
+to be engaged in long term projects.","- Responsible for development of different solutions in mobile
+environments;
+- Responsible for newest technologies investigation and integration into
+project;
+- Participate in architecture design;
+- Work within an agile development environment;
+- Work with QA and other teams to deliver code on time;
+- Fix bugs.","- At least 3 years of work experience in Development;
+- Experience in C/ C++;
+- Experience in network and sockets development is a plus;
+- Knowledge of Assembler commands and ARM optimization is a plus;
+- Strong problem-solving skills;
+- Ability to effectively interact with cross-functional teams;
+- Good knowledge of the software development life cycle and processes;
+- Fast learner;
+- Good team player.","Interested candidates are asked to e-mail their
+resumes to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom is a new generation telecommunications
+company which develops own unified communication technology and own
+product. For more info, please visit: www.zangi.com."

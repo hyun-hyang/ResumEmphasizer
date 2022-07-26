@@ -1,0 +1,48 @@
+Software Developer,"The Software Developer is responsible for the
+development of robust software applications and Distributed Applications
+as an interface to the developed VAS applications with optimal
+performance. She/ he will develop applications to integrate existing
+vendor systems with each other and interfaces for the 3rd parties to the
+internal system.","- Develop and test functional requirements;
+- Test new products and modules interfaces and functionality;
+- Assess risk and impact on the existing system that may arise due to any
+requirements or functional changes;
+- Design database architecture based on project requirements;
+- Develop store procedures and queries;
+- Test and deploy applications;
+- Implement core modules, common frameworks;
+- Prepare easy usable install packages;
+- Modify all existing services based on new business or technical
+requirements or changes;
+- Provide second level support to the developed applications during the
+contract period;
+- Ensure the documentation of developed applications;
+- Ensure applications refactoring and optimization.","- Bachelors degree in the professional field (Engineering or Information
+Technology preferred) or comparable experience;
+- 3 years of work experience as a Software Developer with .NET
+technologies;
+- Object-oriented programming, OOD, Design Patterns, SOA;
+- Fully competent with C# ASP .NET Framework;
+- Fully competent with MS SQL Server 2008, MySQL;
+- Experience with IIS web server, preferable IIS 7.0 or higher;
+- Very good understanding of ADO.NET Technology and experience with
+T-SQL, PL/ SQL;
+- Knowledge in Web Services (WCF, REST/SOAP/XML-RPC);
+- Experience in PHP;
+- Experience in HTML, JavaScript, CSS;
+- Experience in Financial sphere is highly preferred;
+- Knowledge in Windows services, Multithreading, Network programming
+(sockets/ protocols) is preferable;
+- Experience in Adobe Photoshop is a plus;
+- Open Source systems/ packages and application analysis, configuration,
+compilation, installation, modification and maintenance skills;
+- New and existing network protocols implementation skills;
+- Database Architecture Design skills;
+- Good knowledge of Armenian, Russian and English languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines.","Please, send your CV to:software-developer@... . Please note that only shortlisted
+candidates will be invited for the interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Mobidram"" CJSC is the financial subsidiary of
+VivaCell-MTS."

@@ -1,0 +1,32 @@
+"Senior Software Engineer, User's Interface & Flows Department","Senior Software Engineer will take part in design and
+implementation of software products.","- Design and develop GUI;
+- Define communication of GUI module with other parts of the tool.","- BS/MS in CS/EE or related field;
+- 5+ years of experience in software development;
+- Good communication and fast learning skills;
+- Self-motivation;
+- Solid experience in designing and developing of GUI;
+- Experience in defining software architecture and supervising other
+developers;
+- Ability to lead the project development; previous experience of
+working on critical projects;
+- Formal training or test certification is a plus;
+- Strong C++/ STL programming skills, experience in widely accepted
+methodologies such as OOP, OOD, etc.; 
+- Qt 4 library experience is a plus;
+- User knowledge of Linux is desirable;
+- Knowledge of TCL/TK is desired; 
+- Previous experience designing design Layout visualization is strongly
+desired;
+- Design/implementati on specification writing skills;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Knowledge of Technical English (both verbal and written);
+- It is preferred that the male candidates fulfilled military obligation
+or educational waivers of military obligation.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail. 
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

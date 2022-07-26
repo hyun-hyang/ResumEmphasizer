@@ -1,0 +1,72 @@
+"R&D Staff Software Engineer, Design to Silicon Division","Mentor Graphics is seeking a highly motivated R&D Staff
+Software Engineer, Design to Silicon Division with the capability and
+desire to make a significant contribution to the IC design and
+manufacturing industry. The incumbent will be responsible for creation
+and market introduction of new solutions in the Calibre product line
+focusing on the area of power analysis.","- Help to lead, architect, design and implement next-generation power
+analysis tool and work collaboratively with marketing and software
+engineers to deliver a solution that addresses those market needs;
+- Understand the marketing requirements, write functional specifications,
+be able to define solid product architecture, deliver high performance,
+scalable solutions;
+- Do rapid prototyping, be able to work under time pressure and lead
+delivery of quality code on schedule; 
+- Closely collaborate with marketing, software engineering and QA;
+- Possess deep technical knowledge of computer science, EDA algorithms,
+large scale software development and possibly previous experience working
+on EDA tools;
+- Provide vision and leadership in defining critical architectural
+components of the tool, in-depth technical assistance to senior members
+of the team.","- BS, MS, PhD in Computer Science, Electrical Engineering or in
+equivalent field;
+- Strong background in software development, preferably in EDA;
+- Ability to research, design and implement efficient algorithmic
+applications for physical verification of complex ICs;
+- Architection and leadership of the development of critical software
+capabilities in timely manner;
+- At least 10 years of relevant experience in leading a product
+development, both as an architect and engineering manager/ lead;
+- Excellent communication skills, and ability to effectively collaborate
+with marketing, R&D and QA teams;
+- Excellent software and project managerial skills, and ability to manage
+some people and projects;
+- Strong experience in defining scalable architecture for complex
+software, preferably EDA;
+- Good understanding of modern, large scale software development
+processes;
+- Strong C++, STL programming skills, good knowledge of OOD;
+- Familiarity with Design Patterns;
+- Familiarity with Test Driven development;
+- Knowledge of Tcl, Tk and other scripting languages;
+- Knowledge of Linux;
+- Strong knowledge of CS, EDA algorithms, Data Structures and their
+complexities;
+- Familiarity with Computational Geometry, Graph Theory, Optimization
+Problems, Numerical Methods and Modeling;
+- Previous experience in designing parallel algorithms using
+multi-threading and multi-processing;
+- Knowledge of linear solvers is a plus;
+- Previous experience in designing efficient algorithms for IC layout
+processing is a plus;
+- Knowledge of industry data formats and concepts such as LEF, DEF,
+OpenAccess, Liberty, and Verilog is desired;
+- Ability to lead the project architecture, design and development;
+previous work experience on critical projects;
+- Excellent analytical and problem solving capabilities, and strong
+communication skills;
+- Ability to lead the product development;
+- Experience in managing software development teams and have proven track
+of delivering quality tools;
+- Excellent communication skills; ability to effectively interact with
+cross-functional teams (R&D, QA, Marketing);
+- Ability to write comprehensive functional/ implementation
+specifications;
+- Ability to work under time pressure;
+- Proven leadership and team working skills;
+- Willingness to travel abroad.","Interested candidates are asked to submit a CV
+through: http://amyhrs.mentor.com .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

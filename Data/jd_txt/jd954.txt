@@ -1,0 +1,21 @@
+C++ Developer,"Boomerang Software LLC is looking for a C++ Developer
+to be engaged in different long term projects.","- Participate in development of new and existing projects in C++;
+- Participate in functional specs preparation/review process;
+- Develop high quality and clean code, apply proper language
+constructions and use quality; 
+- Train and supervise group members (including code reviews).","- Advanced knowledge of OOP and OOD;
+- At least 2 years of work experience as a Software Developer in C++;
+- Good knowledge of Cryptography;
+- Good knowledge of Network Protocols;
+- Knowledge of STL is a plus;
+- Knowledge of IBM Mainframe is a plus;
+- Good English language skills;
+- Knowledge of French language is a plus;
+- Knowledge of German language is a plus;
+- Team player.","If interested, please email your CV to:hr@.... Only short listed candidates will be invited for an
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software LLC is a software company that
+develops software products for American and European markets and
+provides IT services for partners all over the world."

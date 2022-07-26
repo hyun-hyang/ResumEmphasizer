@@ -1,0 +1,20 @@
+IC Design Engineer,"Virage Logic is looking for a IC Design Engineer
+(Junior) who will be responsible for memory design, simulations and
+characterization, Top and Block Level design from specification to clean
+database, functional verification, Parasitic modeling, timing/ power
+analysis. S/he will create layout notes and work with the Layout
+Designer to optimize the layout.","- Be responsible for analog design blocks, simulation and
+characterization;
+- Find and localize problems, analyze pass to fail conditions;
+- Prepare design and result document and specs.","- CMOS Analog circuit design background;
+- Knowledge of Memory circuit design is preferred;
+- Familiarity with circuit simulations tools (Cadence ICFB/ ADE
+environment and SPECTRE simulation is preferred) as well as scripting;
+- Ability to prepare design document/ description in English language;
+- Self-motivated and team worker.","Please e-mail your detailed CV in English
+language to: Hr.Armenia@... indicating the position title in
+the subject line of your e-mail. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

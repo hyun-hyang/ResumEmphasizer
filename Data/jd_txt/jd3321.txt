@@ -1,0 +1,23 @@
+1C Developer,"Gsoft is looking for an 1C Developer who will work with
+the company's team to design and build the current and next generation of
+the company's software.","- Design and build advanced applications for the 1C platform;
+- Collaborate with the team of developers to define, design, and ship new
+features;
+- Work on bug fixing and improving software performance;
+- Continuously discover, evaluate, and implement new technologies to
+maximize development efficiency;
+- Ability to quickly handle the codes written by others.","- Bachelor's degree in Computer Science or other related
+fields;
+- At least 1 year of software development experience;
+- At least 1 year of experience with 1C;
+- Hands-on experience with Java is a plus; 
+- Understanding of the source code control;
+- Passion for mobile device technologies.","All interested candidates are kindly requested
+to submit their CVs to: gsoftltd.info@... , with cc to:
+spartakpetros@... . Please indicate the title of the position ""1C
+Developer"" in the subject line of the e-mail. Gsoft is grateful to all
+interested applicants; however, only short-listed candidates will be
+contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn more, please visit: http://gsoft.am/."

@@ -1,0 +1,31 @@
+Software Engineer,"Kubisys CJSC is looking for an Intern Software Engineer
+to be engaged in different long term projects. The ideal candidate should
+be a broad technologist with various skill sets spanning from coding to
+data center operations. This is an opportunity to join a rapidly growing
+company at its initial phase. No politics - just work. Plenty of
+opportunities to learn and grow for the right candidate displaying
+discipline, enthusiasm and passion.","- Participate in development of new and existing projects;
+- Participate in functional specs preparation/ review process;
+- Develop high quality and clean code, applying proper language
+constructions and useing quality;
+- Architect and integrate various components that make up a complex
+tiered application;
+-  Perform some day to day operational work, e.g., manage web pages and
+develop servers.","- At least 1 year of technical experience in Software Development;
+- Administrator level experience in Windows and Linux;
+- Skill in Ruby, Python, Perl, PHP and UNIX shell is preferred;
+- Good understanding of networking;
+- Familiarity with SQL is a plus;
+- Experience in major server virtualization platforms; VMWare, Hyper-V
+and Xen is a plus;
+- Good knowledge of English language;
+- Good team player;
+- Presentation of projects done in the last 12 months.","If interested, please email your CV to:gasparyan@... and jobs@... . Please mention ""Software
+Engineer"" in the subject line of your e-mail. Only short listed
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC is dedicated to the mission of automating
+and simplifying the operations of enterprise data centers. For more
+information about the company's product and activities please visit:
+www.kubisys.com."

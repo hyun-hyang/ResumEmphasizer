@@ -1,0 +1,61 @@
+Software Engineer,"Software Engineer performs software engineering
+assignments following designated standards and procedures. He/she work
+closely with other engineering disciplines. Opportunity exists for some
+latitude for unreviewed decisions. Duties require application of routine
+engineering principles and techniques. This position holder typically
+works under general supervision and direction. The incumbent will
+regularly exercise discretionary and substantial decision-making
+authority.","- Participate in the analysis, design, development, test, modification
+and integration of software systems or subsystems for designated products
+and/or customer applications;
+- Design and code software components for Java-based Web Applications;
+- Design and implement RDBMS schemas and data access components;
+- Develop strategies for deployment of high performance RDBMS
+operations;
+- Develop software requirements, related design and code;
+- Perform software testing;
+- Apply and maintain quality standards;
+- Assess severity of problems, determine corrective action, resolve
+technical problems, perform fault isolation and implement solutions;
+- Revise and update programs and documentation, including reviewing
+schedules and milestones;
+- Assist in specification preparation and the assessment of products;
+- Assist in the writing of reports, manuals and procedures;
+- Keep abreast of improvements in programming techniques;
+- Show commitment to company values, ethics, safety, security, labor
+charging and quality;
+- May participate in total quality management/ continuous process
+improvement teams;
+- Perform other software engineering tasks as required by the Company
+management.","- Four-year college degree in computer science or other related technical
+discipline, plus two years of related experience, or a Master of Science
+degree;
+- Experience in designing, developing and troubleshooting software in
+Java and related web technologies is desired;
+- 3-7 years of programming experience especially in Java;
+- Minimum 2 years of work experience in J2EE development;
+- Previous experience with one or more production/ mission critical web
+applications is highly desirable;
+- Working knowledge and experience in Web technologies and web-based
+dynamic application development, especially Java Servlets, JSPs and Web
+Services;
+- Working knowledge of XML, XSLT, HTML, CSS, Java Scripts, AJAX and
+related technologies;
+- Experience with Java/RDBMS ORM technologies and DBMS design and
+programming within web applications;
+- Ability to use PC software such as word processing, database,
+spreadsheet and flowchart and computer aided software engineering (CASE)
+tools;
+- Effective written and oral communication skills;
+- Knowledge of customer needs and competing products is desirable;
+- Ability to analyze and solve complex software engineering problems;
+- Ability to prioritize work, complete multiple tasks and work under
+deadline and budget guidelines;
+- Fluency in English language.","Please submit your detailed CV in English to:jobs.yeam.cgts@... indicating the position you are applying for in
+the subject line of your e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Cubic GTS International is the part of Cubic Global
+Tracking Solutions. More information about the company can be found at:
+www.cubic.com."

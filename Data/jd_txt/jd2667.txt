@@ -1,0 +1,40 @@
+Senior Ruby on Rails Developer,"EPAM Systems, Inc. is seeking for a Senior Ruby on
+Rails Developer to join the company's team in developing enterprise-level
+software solutions. The company is looking for energetic people who are
+ready for new challenges, teamwork, and agile software development.","- Write clean, maintainable and efficient code;
+- Design and develop complex and scalable Ruby on Rails applications,
+robust and secure features;
+- Design intuitive user experiences;
+- Produce high quality application architecture to support long term
+maintainability and extensibility;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Assist in the development of accompanying technical documentation where
+necessary;
+- Communicate the knowledge to fellow team members; train and guide
+junior team members;
+- Analyze high level requirements and work with team members to create
+quality results;
+- Participate in internal and external meetings.","- BS/ MS degree in Computer Science, Engineering or a related subject;
+- 3 to 5 years of general programming experience;
+- At least 2 years of experience in developing applications with Ruby on
+Rails;
+- Thorough understanding of the philosophy and design of Ruby on Rails;
+- Experience in Web services;
+- Strong understanding of OOP principles;
+- Experience in client-server applications development;
+- Experience with unit testing;
+- Demonstrable knowledge of front-end technologies: JavaScript, HTML, CSS
+and JQuery;
+- Good knowledge of relational databases;
+- Contribute to relevant open source projects;
+- Fluency in English language;
+- Good communication and teamwork skills;
+- Ability to work independently.","Interested candidates are asked to submit their
+CVs in English language to: narine_voskanyan@... indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

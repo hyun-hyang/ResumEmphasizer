@@ -1,0 +1,24 @@
+Senior PHP Backend Engineer,"Open Soft Consult LLC is looking for a Senior PHP
+Backend Engineer for developing high traffic and social network services.","- Develop highly scalable services with PHP;
+- Work in highly responsible (live) environment;
+- Build social network platform;
+- Handle large data sets;
+- Participate in API development and system architecture design;
+- Integrate services and technologies;
+- Work with modern technologies like NodeJS, Coachbase etc.","- At least 2 years of work experience in PHP and backend;
+- Knowledge of and experience in dealing with high traffic services;
+- Knowledge of and experience in dealing with big data like sharding,
+farming, etc.;
+- Experience in Unix/ Linux scripting;
+- Knowledge of Design/ Architecture patterns;
+- Good working knowledge of MySQL database;
+- Good knowledge of technical English language;
+- Willingness to work in Start Up environment with highly goal oriented
+team.","If interested, please email your last updated
+and detailed Resume to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Open Soft Consult LLC is a software product company which
+develops products and services mainly for Android environment. Company's
+main products and services are photo editing and photo social networking.
+Find more at: http://picsart.com"

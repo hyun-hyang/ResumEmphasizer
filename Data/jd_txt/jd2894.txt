@@ -1,0 +1,30 @@
+Java Software Developer,"Sourcio is seeking experienced Java Developers for the
+development of features for its partners' product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 2 years of practical experience in Java development;
+- Good knowledge of OOP principles;
+- Knowledge of IOC Frameworks like Spring, Guice, Gin is an advantage;
+- Knowledge of GWT or other MVC frameworks such as Struts2 or JSF is an
+advantage;
+- Knowledge of other programming languages such as Ruby, PHP is an
+advantage;
+- Good knowledge of databases (oracle, postgres, mysql, mssql) is an
+advantage;
+- Experience using Eclipse IDE is preferable;
+- Experience working in Linux environment (Ubuntu, Suse);
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language both communication and
+technical level;
+- Knowledge of German language is advantage.","All interested and qualified candidates are
+welcome to send their CV to: info@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio is an off shoring and outsourcing solutions
+provider based in Armenia. For more information about the company, please
+visit: www.sourcio.com."

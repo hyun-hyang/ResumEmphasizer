@@ -1,0 +1,28 @@
+Senior Network Engineer,"The incumbent will be responsible for the Company
+network.","- Set up and configure network equipment;
+- Set up and offer support for Internet, Mail, user accounts;
+- Provide the Intranet and Internet Security and internetworking
+solutions;
+- Perform the maintenance of the network (addresses, equipment, cables,
+gateways, etc.);
+- Set up UNIX services according to the global network strategy;
+- Provide network supervision (traffic and alarms);
+- Install network equipment, both LAN and WAN;
+- Report on the activity to the Team Leader.","- Degree in Computer Science or equivalent;
+- 2 years of experience in IT domain;
+- Knowledge of advanced LAN/ WAN administration (cabling, active
+equipment, Internet connection, security), engineering and maintenance,
+CISCO routers and switches configuration and administration,
+Internetworking in TCP/ IP networks;
+- Windows modeling skills;
+- Programming skills (scripts);
+- Strong analytical and problem-solving skills;
+- Organized and creative personality;
+- Excellent knowledge of the Armenian, English and Russian languages.","Qualified and interested candidates are
+encouraged to send a CV and motivation letter to: hr.oam@... .
+Please indicate the title of position in the subject line of email. The
+Company thanks all interested applicants, however only short-listed
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

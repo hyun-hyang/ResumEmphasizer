@@ -1,0 +1,26 @@
+Hardware Engineer,"The incumbent will be responsible for design, debug &
+analysis of Mixed Signal Instruments and Schematic creation. He/ she must
+have strong grasp of detailed DC circuit analysis and familiarity with
+calibration of precision analog instrumentation. Experience within the
+ATE industry is a definite plus.",NA,"- Master's Degree in Electrical Engineering (MSEE) is preferred, with
+additional experience acceptable; 
+- At least 2 years of experience with MSEE, preferably in ATE;  
+- Ability to make strong detailed DC circuit analysis;
+- Ability to understand and create hardware block diagrams and
+schematics;
+- C/ C++ programming skills; 
+- Problem solving and debugging skills with the ability to solve system
+wide problems;
+- Ability to quickly learn company's ATE programming environment;
+- Excellent communications skills;
+- Proven ability to develop quality deliverables on time;
+- Ability to team with software, hardware, applications and operations
+engineering staff, to bring-up new hardware designs and to diagnose chip
+and board problems;
+- Ability to adapt in a rapidly changing environment;
+- Good knowledge of English language.","Interested candidates are kindly requested to
+email CV/ resume in English language to: Naira_Nikoghosyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

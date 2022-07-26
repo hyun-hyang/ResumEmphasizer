@@ -1,0 +1,36 @@
+Web Developer,"The OSCE Office in Yerevan requires services of an
+experienced Web Developer to support the Good Governance Unit of the
+Office in the assistance to governmental structures in the anticorruption
+reforms and specifically in implementation of the anticorruption
+strategy.","Under the overall supervision of the designated
+person from the Good Governance Programme and the Chairman of the Ethic's
+Commission, the incumbent will be responsible for developing the website
+of the Ethic's Commission. More specifically, he/she will: 
+- Design and develop the website with information provided by the
+Commission;
+- Maintain and up-date the website;
+- Create full backup of the website;
+- Build and implement appropriate security structures for the website;
+- Provide adequate training to the staff to enable them to do basic
+operations with the websites (update information, post documents, etc.).","- University degree in Computer Science or relevant field;
+- At least 3 to 5 years of relevant professional experience;
+- Programming knowledge of PHP and JavaScript;
+- Experience with Perl, SQL and HTML;
+- Experience with web based user interface development;
+- Understanding of complex database concepts;
+- Ability to create well designed and reusable objects;
+- Understanding of browser specific compatibility issues;
+- Excellent communication skills and ability to work in a team; 
+- Fluency in Armenian language, excellent knowledge of Russian and
+English languages; 
+- Previous translation and/ or editing experience would be an advantage.","If you wish to apply for this position, please
+use the OSCE's online application link found underhttp://www.osce.org/employment/43284 or offline application link under:http://www.osce.org/employment/45641. Offline applications along with
+cover letters can be submitted directly to the OSCE Office in Yerevan at
+the following address: Sundukyan St. 64/1, Yerevan 0012, Republic of
+Armenia, or by e-mail quoting the vacancy post title ""Web Developer"" to:recruitpersonnel-am@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The OSCE, as an equal opportunity organization,
+encourages female candidates to apply. The OSCE Office in Yerevan will
+use a transparent and competitive screening process. It will only contact
+those applicants in whom there is further interest."

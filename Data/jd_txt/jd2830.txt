@@ -1,0 +1,41 @@
+Senior Java Software Developer,"Monitis CJSC is looking for a Senior Java Software
+Developer.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Apply development experience against big data projects and use agile
+practices to continuously innovate and incrementally deliver system
+functionality;
+- Responsible for determining the appropriate data models, data
+transformation technologies and algorithms needed to advance the
+organization's mission efficiency;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 5 years of practical experience in Java development;
+- Knowledge of MySQL;
+- Knowledge of databases (MSSQL, Oracle, Cassandra, HBase) is a plus; 
+- Deep knowledge of the J2EE Framework and internals of the architecture,
+including JSP, SERVLETS, JDBC, Transaction services, Logging (Log4J),
+Thread Management and development of asynchronous java processes;
+- Solid understanding of object-oriented programming (OOP);
+- Experience with ORM tools; i.e., Hibernate;
+- Experience with Web servers like Tomcat/ Apache;
+- Experience in understanding system security and how to implement it
+(Ex, SQL Injections, Cookies, etc.);
+- Ability to perform code reviews and recommend automated review tools
+for the project;
+- Ability to think through performance requirements for a system and come
+out with testing those scenarios and troubleshoot server runtime issues
+that result;
+- Experience with working in Linux environment (Debian and Ubuntu);
+- Good analytical skills;
+- Ability to work in a team;
+- Good knowledge of English language, both on communication and technical
+levels.","All interested and qualified candidates are
+welcome to send their CVs to: hr@... . Please indicate the
+position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis (a TeamViewer company), is a global IT monitoring
+and analytics provider. For more information about the company please
+visit: http://www.monitis.com/about-us."

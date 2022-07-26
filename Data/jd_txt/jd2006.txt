@@ -1,0 +1,55 @@
+Educational Game Content Developer,"The Tumo Center for Creative Technologies is looking
+for an experienced and energetic specialist who will be responsible for
+creating activities in the area of game development.
+Tumos educational methodology is based on a large set of
+self-instructional activities that each of Tumo's thousands of students
+assemble into personal learning plans in the areas of animation, game
+development, web development and digital media. With the assistance of
+Learning Coaches, students submit responses and upload their work for
+each of these activities in a video-game-like environment. The
+Educational Game Content Developer will be responsible for creating
+learning activities such as tutorials, exercises and project assignments
+in game development, which is one of Tumo's four focus areas. Activity
+creation will be based on guidelines developed by the Educational Content
+Development team. The Educational Game Content Developer will report to
+the Head of Educational Content and will collaborate with both content
+developers and learning coaches.","- Assist the content development team in the process of developing,
+testing and fine tuning all the game development activity content,
+research and suggest new approaches in activity creation focusing on game
+design;
+- Brainstorm and mock up activity ideas that would develop students game
+development skills, present them to the content development group and
+offer solutions of their integration to the existing curriculum;
+- Provide second tier support to users, coaches and examiners on content
+reviews;
+- Organize game-related events; 
+- Supervise/ provide helpful feedback on game related workshops/
+projects;
+- Manage and supervise game room;
+- Be versatile with technologies and able to perform game design tasks;
+- Assist in testing and evaluating the educational content.","- Substantial experience in developing video game;
+- Intermediate level knowledge of programming;
+- Knowledge of Action Script 3.0, JavaScript and C++;
+- Knowledge of game development tools (Unreal Engine, Unity and Source
+Engine);
+- Experience in education or working with kids is a plus;
+- Passion for playing and making games;
+- Ability to work both independently and in a team;
+- Ability to work productively on a regular basis;
+- Strong communication skills and self-motivated personality.","To apply, please send a brief cover letter,
+resume and a portfolio to jobs@... . In the subject line of your
+email, please mention Educational Game Content Developer. If available
+please send a portfolio that showcases your skills and backgrounds. Also
+include the contact information of your direct supervisors from recent
+positions whom we can contact for reference checks. Incomplete
+applications will not be reviewed. Only shortlisted candidates will be
+interviewed. The application deadline is 31 October 2012. Applications
+received after the closing date will not be considered.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tumo is an after-school learning center in Yerevan where
+teenagers acquire digital media skills free of charge. Tumo now has over
+6,000 users attending on a regular basis and participating in our
+innovative, self-paced program. Tumo's educational framework is based on
+a proprietary platform which promotes learning through interactive
+game-like levels, exposing users to increasingly challenging activities."

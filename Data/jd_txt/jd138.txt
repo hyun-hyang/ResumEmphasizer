@@ -1,0 +1,40 @@
+Ad Developer ID No. 1,"To build up our European Sales Support Team in
+Armenia, we are currently looking to recruit employees for the position
+of Ad Developer. The Ad Development Team is responsible for customising
+our DoubleClick DART Enterprise system and peripheral tools, as used by
+the Customer Care team and sales staff. Typical customisations could be
+to develop templates for new ad formats, test new ad formats or
+integrate with other systems like user databases, reporting tools, CRM
+systems, SAP.","- Learn and understand the DoubleClick DART Enterprise technology and
+functionality, understand the surrounding systems, and system
+architecture as it maps to our business needs;
+- Become an expert in customising and integrating the DoubleClick
+AdServer software;
+- Development and maintenance of our Sales supporting systems;
+- Programming of pre-defined project assignments.","- University degree in computer science or a similar education;
+- More than 1 year of experience in system development. A previous
+experience with ad systems and other enterprise systems are desirable;
+- It is an extra qualification if you have experience in Java and Perl;
+- More than 2 years of experience in Unix, C, SQL and Web server
+technology;
+- Experience in high load systems would be desirable;
+- Very good knowledge of written and spoken English language;
+- Pro-active, calm, thorough personality, who has fun solving technical
+problems;
+- Analytically strong, excellent organisational skills, ability to
+handle multiple priorities;
+Additionally specific technical requirements:
+- More than 2 years of experience in HTML, CSS, JavaScript necessary;
+- Experience in PHP and Flash  would be advantageous.","Please send your Application letter and CV in
+English answering the 2 questions below to: info@... and
+state the profile No.1.
+Question 1: Please let us know, why you are the right person fulfilling
+the specific technical demands? 
+Question 2: Describe the last programming project you have worked on in
+detail. What were your tasks and how did you deliver them?
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is a European Internet company that
+operates a pan-European network of websites in nine languages. Lycos
+Communities is developing and operating a chat in Europe along with a
+dating system, games and entertainment."

@@ -1,0 +1,26 @@
+PHP Web Application Developer,"Ginosi.com is looking for an experienced PHP Developer
+with strong knowledge of JavaScript and basic HTML and CSS. This is the
+ideal role for an ambitious Web Developer looking to improve their skills
+and progress their career in an open and creative environment. The
+incumbent will work in a stable and successful company and take
+responsibility with a lot of personal and professional satisfaction.
+The incumbent will be mentored by two other talented Developers who work
+on the software. The software will have 3 key components, a Backoffice, a
+website and an XML interface connectivity.","- Set up sites in PHP and responsible for software development;
+- Develop the application with Zend Framework and according to coding
+standards (MVC);
+- Build websites to XHTML/ CSS standards;
+- Responsible for cross browser display and technical testing;
+- Deploy sites to multiple server in a Linux/ LAMP setup;
+- Maintain the software.","- A university diploma;
+- Over 3 years of full time web development work experience;
+- Knowledge of SVN, SCRUM, scripting automation and caching;
+- Strong PHP, MySQL, JavaScript and jQuery skills;
+- Reasonable level of XHTML and CSS;
+- Solid understanding of LAMP setup & development;
+- At least some knowledge and comfort in working with Ubuntu and
+scripting.","To apply for the role of PHP Developer/ Web
+Developer, please simply send your CV and a cover letter to:res_php_dev_2013@... or apply online through the linkhttp://www.ginosi.com/en/jobs .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

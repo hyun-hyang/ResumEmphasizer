@@ -1,0 +1,26 @@
+Software Performance Engineer,"Varnita Ltd is looking for Software Performance
+Engineer to analyze, design, program, debug and modify software. Work
+involves analog and digital hardware and software operating systems.
+This job is the fully qualified, career-oriented, journey-level
+position.","- Troubleshoot code for firmware (IC embedded code) applications;
+- Program assembly language and C, C++;
+- Use skills as a seasoned, experienced professional with a full
+understanding of industry practices and company policies and
+procedures;
+- Resolve a wide range of issues in imaginative as well as practical
+ways;
+- Work on problems of diverse scope where analysis of data requires
+evaluation of identifiable factors;
+- Demonstrate good judgment in selecting methods and techniques for
+obtaining solutions;
+- Interact with senior internal and external personnel.","- Develop calibration and verification programs for mixed signal
+testers;
+- Develop drivers for mixed signal tester instruments;
+- Experience in ATE (Automatic Test Equipment);
+- Knowledge and exposure to hardware design;
+- Experience in assembler language;
+- Experience in C, C++;
+- Knowledge of English language.","Please email your resume to:jobs_varnita@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,49 @@
+ISP/ IT Director,"The candidate will be considered for the position of
+ISP/ IT Director to be responsible for management of ISP/ IT team,
+operation and maintenance on daily bases, for establishment of Companys
+ISP/ IT policy definition and for network implementation projects
+creation and follow up.","Responsibilities include, but are not limited to
+the following:
+- Develop and manage the budget;
+- Develop the network;
+- Ensure the network security;
+- Manage the traffic;
+- Conduct ISP supplier analysis and contract negotiations;
+- Peer arrangements; 
+- Manage the project during network implementation within time frame and
+budget;
+- Dimension ISP/ IT network in regards to required capacities and
+services;
+- Ensure reliable and secure operation of ISP/ IT infrastructure;
+- Establish and maintain ISP/ IT QoS; 
+- Define and manage implementation of ISP/ IT security policies and
+procedures;
+- Manage ISP/ IT staff development and provide technical guidance,
+direction and trainings.","- ISP experience;
+- University degree in Computer Sciences or Electronic Engineering;
+- Cisco certification (CCNA, CCNP, CCIE) is strongly advised; 
+- Advanced knowledge of TCP/IP networks, L2, L3 switching, routing and
+associated protocols; 
+- Advanced knowledge on networks design, WAN and LAN networks
+topologies, and architectures; 
+- Advanced knowledge of Cisco routers and switches configuration and
+administration;
+- Advanced knowledge with Windows/ Unix/ Linux OSs;
+- Fluent in Armenian and Russian languages, strong knowledge of English
+(spoken and written); 
+- Work experience in a related field for at least 5 years; 
+- Team management skills;
+- Ability to work under pressure and meet deadlines; 
+- High sense of responsibility; 
+- Open-minded and self-motivated personality; 
+- Strong interpersonal skills, able to work as a team member and
+independently.","To apply, please e-mail your CV to:careers@... . 
+In the subject line of your message, please mention the position you are
+applying for, otherwise your CV will not be considered. 
+Please, send only the English version of your resume. 
+No phone calls and personal visits, please. Only short-listed candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"iCON Communications is a provider of internet-based
+services in Armenia. For more information please visit www.iCON.am."

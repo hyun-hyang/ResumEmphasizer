@@ -1,0 +1,24 @@
+PHP & MySQL Developer,"Inter School Connect LLC is currently looking for a PHP
+& MySQL Developer with strong professional skills in this realm to join
+its team to develop and maintain www.dasaran.am website and supporting
+applications.
+The qualified candidate will be responsible for further development of
+www.dasaran.am website.","- Develop and integrate new modules into dasaran.am website;
+- Maintain and supervise the proper functioning of the website;
+- Be responsible for prioritization decisions within the project;
+- Report project status to the Head of the organization;
+- Be responsible for the quality of project deliverables;
+- Ensure that projects are completed on time.","- BS or MS in Computer Science or Computer Engineering;
+- At least 2 years of work experience as a Software Developer in PHP;
+- In-depth knowledge of at least 5 of the following: C/C++, Java,
+JavaScript, C#, SQL, HTML, ASP, XML, PHP;
+- Working knowledge of related toolkits, libraries and technologies;
+- Experience in working with OpenSource products is a big plus;
+- Good problem solving skills and ability to work independently;
+- Team player.","To apply, please send your CV to:info@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Inter School Connect LLC presents www.dasaran.am website
+which is designed to keep the parents informed about the school life of
+their children (grades, homework, absents, teachers comments and school
+progress)."

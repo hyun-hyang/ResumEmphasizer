@@ -1,0 +1,33 @@
+Android Developer,"The successful candidate will become part of the
+company's growing development team. He/ she will be working mainly on
+various parts of the company's mobile applications.","- Design and develop various Android applications including and not
+limited to features, solutions, responsive GUI's;
+- Design and build reusable modules to be used throughout company Android
+framework;
+- Maintain and enhance company's home grown systems;
+- Responsible for building Custom UI Components, Multi-Language and
+Multi-Theme support;
+- Responsible for bugfixing/ technical support (level 2) of the existing
+applications in production.","- BS in Computing Science;
+- At least 3 years of work experience in Android;
+- Strong skills with Multi-threading and asynchronous programming;
+- Strong skills with Android and Java utilities for Web Service client
+development (SOAP, REST, JSON);
+- Deep knowledge of android and iOS OS and native libraries;
+- Experience with Xamarin IDE and Visual Studio IDE 2013+;
+- Proficiency in OOP/ OOD and good knowledge of Design Patterns;
+- Knowledge and Experience in WCF; Asp.Net Web API is plus;
+- Mastery of technical English language;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","Interested candidates are asked to email their
+professional CVs to: armjobs@... , specifying the job
+position name in the subject line. Please note that only shortlisted
+candidates will be contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours are from 10a.m. to 7p.m., but will
+require also flexible rescheduling based on need. The job could include
+overtime work based on need.","CargoMatrix is a logistics software solutions provider
+based in New York, USA. The company was formed in 1999."

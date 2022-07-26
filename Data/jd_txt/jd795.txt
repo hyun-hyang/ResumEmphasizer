@@ -1,0 +1,16 @@
+PHP Programmers,"Antares Protect is looking for 5 PHP/MySQL
+programmers. The company is planning to program some brand new projects
+from scratch in Armenia. So the candidates will be involved in the
+projects from the very beginning.",NA,"- At least 2 years of experience;
+- OOP techniques knowledge;
+- Hard worker.","Please create the following sample code and
+send it together with your CV and your salery expectations to:hr@....
+""Create a dynamic form processing script containing Name, Email, URL and
+a text area. Verify a correct format of all these fields and display
+either a competent error or a success message. You must use OOP and
+design patterns according to:http://sk.php.net/manual/en/language.oop5.patterns.php.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Antares Protect is a European provider for security
+solutions for small and midsize businesses. The company has branches in
+Switzerland, Slovakia and Germany, and runs its activity Europe-wide."

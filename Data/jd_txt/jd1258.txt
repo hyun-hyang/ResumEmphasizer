@@ -1,0 +1,31 @@
+System Administrator (UNIX),"The System Administrator (UNIX) is responsible for the
+installation, configuration and further administration of UNIX systems,
+development of documentation about servers, backup/restore of servers,
+installation and configuration of additional software.","- Ensure the management of servers;
+- Find proper solutions if there are errors or hardware failures;
+- Make sure that the daily backup is performed without errors and fix in
+case of problems;
+- Backup all critical systems, organize the usage of backup media;
+- Install and configure OS (Operating System) on new servers;
+- Write scripts to provide automation to the frequently performed tasks
+like backup;
+- Write procedures about specific software installation process;
+- Keep all the documentation up-to-date;
+- Provide regular monthly reports on activities done.","- Bachelors degree in a professional field (engineering or information
+technology is preferred) or comparable experience;
+- At least 1 year of work experience as UNIX Administrator with an
+emphasis on system performance tuning and troubleshooting;
+- Excellent technical knowledge of UNIX system administration;
+- Full mastery of UNIX operating system including Solaris and Linux;
+- Good knowledge of IP (Internet Protocols) networking, firewalls, and
+security management;
+- Good knowledge of operating system optimization and fine tuning;
+- Advanced knowledge of operating system script development;
+- Good knowledge of Armenian, Russian and English languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Effective communication and team-working skills.","Please, send your CVs to:sysadmin-vacancy@... e-mail address. Only shortlisted candidates will
+be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator in Armenia.

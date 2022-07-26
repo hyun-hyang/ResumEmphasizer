@@ -1,0 +1,21 @@
+Senior .NET Developer,"Fio Systems AM is looking for a full-time Senior .NET
+Developer to work for complex and long-term projects. The projects will
+deal with customers from Europe.","- Produce and maintain clean, high quality standard compliant website
+applications; 
+- Develop codes that are cross-browser and cross-platform compatible;
+- Maintain cutting edge knowledge of current and emerging technologies,
+industry trends and standards.","- Bachelors or higher degree in Computer Sciences or a related
+discipline with at least 4 years of work experience in software
+development;
+- 3 years of work experience in .NET Framework - ASP.NET/C#;
+- Expert knowledge of .NET Framework 2.0 or higher and AJAX;
+- Experience in Test Driven Development (TDD); 
+- Good knowledge of MS SQL Server;
+- Good knowledge of JavaScript and CSS;
+- Multi-tier web applications development experience;
+- Strong communication, problem solving and collaboration skills.","To apply, please email your CV to:info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Fio Systems AM"" LLC is founded in 2009. It is a software
+development company that specializes in web based applications
+development."

@@ -1,0 +1,20 @@
+Junior Software Engineer,"In this role the incumbent will be responsible for
+developing and building high quality web applications.","- Develop large scale and high performance Web applications with Java,
+Groovy and MongoDB;
+- Implement web interface for users;
+- Be responsible for Software testing and quality assurance; e.g. Unit
+and integration testing;
+- Be responsible for performance tuning, improvement, balancing,
+usability and automation of  already existing and newly built products.","- University degree in IT;
+- Knowledge of basic Java skills;
+- Experience in J2EE, MySQL, Grails and MongoDB is a plus;
+- Good communication skills;
+- Good knowledge of English language; 
+- Good understanding of agile methodology (Scrum).","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""be2"" Ltd is an online matchmaking company which offers
+its service in 37 countries, to more than 27 million members. For more
+information about the company, please visit: www.be2.com or
+www.be2.com/corp."

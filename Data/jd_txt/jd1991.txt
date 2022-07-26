@@ -1,0 +1,35 @@
+Senior Software Engineer,"The incumbent will develop products, technologies and
+test tools making use of advanced wireless, location and sensor
+technologies.",NA,"- BSEE, BSCE, BSCS or equivalent; advanced degree is a plus;
+- Senior level work experience with at least 6 years in the software
+development;
+- Experienced in C, C++ (Window, Linux, embedded), scripting languages
+Python, C#, Make, Including GUI development;
+- Strong understanding of Linux and Windows internals; Knowledge of
+cross-platform development using STL;
+- Good understanding of WEB technologies;
+- Experienced with security applications: SSL, ECC and AES;
+- Experienced with version control software and automated build
+environment; 
+- Experienced in the area of embedded and real-time systems;
+- Fluency in English language. 
+Desired Experience: 
+- Experienced with several of wired and/ or wireless data communications
+technologies; including IP stack Layers 2-4, 802.11, 802.16, 802.15,
+ZigBee, RFID systems, or networking applications such as SNMP, NTP, FTP,
+PPP, BGP, etc.;
+- Experienced with a variety of RTOS;
+- Familiarity with compression, authentication, encryption, search
+algorithms, experience developing file systems, and embedded databases;
+- Experience with low level driver work, embedded interface development
+(e.g. SPI, I2C, NAND, UART, USB, and PCI);
+- Experienced with low power consumer electronics to include power
+management and diagnostics;
+- Familiarity with hardware schematics, design, and development process;
+- Familiarity with test tools, e.g. oscilloscope and logic analyzer.","All interested and qualified candidates are
+welcome to send their CV to:  wsjobs.yeam.cgts@... . Please
+indicate the position title in the subject field of your message. Only
+shortlisted candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

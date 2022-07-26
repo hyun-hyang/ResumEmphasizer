@@ -1,0 +1,29 @@
+Software Test (QA) Engineer,"EPAM Systems, Inc. is seeking for Software Test (QA)
+Engineers to join the company's team in developing enterprise-level
+software solutions mainly in healthcare industry. The company is looking
+for energetic people who are ready for new challenges, teamwork, and
+Agile software development.","- Perform functional, regression, usability testing on web applications;
+- Test case creation, execution and maintenance;
+- Issue identification and reporting;
+- Responsible for quality assurance for software releases and patch
+builds through manual and automated tests;
+- Handle other tasks as assigned;
+- Work directly with customers, developers and business analysts.","- At least 2 years of experience in a Software Quality Assurance;
+- Experience writing SQL queries;
+- Experience with testing web applications;
+- Experience working in a fast-paced environment;
+- Experience with test automation tools such as Visual Studio 2012 and
+Selenium is highly desired;
+- Familiarity with Microsoft TFS ALM is highly desired;
+- Good problem solving skills;
+- Strong analytical skills;
+- Knowledge of Scrum methodology is preferred;
+- Excellent verbal and written communication skills;
+- Good English language writing and reading skills.","Interested candidates are asked to submit their
+CVs in English language to: marine_melikyan@... , indicating the
+position in the subject line of the e-mail. Only shortlisted candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about the company, please visit:
+www.epam.com."

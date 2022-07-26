@@ -1,0 +1,26 @@
+Embedded C Developer,"The incumbent will be part of a design, implementation
+and maintenance work in the messaging software platform.","- Design, integrate, develop and module testing of end-user
+applications;
+- Analyze the requirements and dependencies to other modules in the
+platform;
+- Participate in review of coding and documentation; 
+- Propose architecture design and solutions to different areas;
+- Analyze crashes, integration problems, memory leaks and other
+troubleshooting.","- Excellent C coding skills;
+- Experience in developing SW for embedded systems;
+- C, Visual Studio, Clear Case;
+- Good English skills, both verbal and writing;
+- Experience with RTOS (e.g. QNX) and DSP is a merit;
+- Knowledge of GSM/ UMTS and mobile platforms is an advantage.","Please, send your application to job@...
+with:
+- Your updated CV;
+- 2 references (people);
+- Information on when you are available to start.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","This position is in our client's office in Lund. Lund
+is an old town situated at the south of Sweden. Mostly known because of
+big university campus.","BroLab is a company located in the Oeresund region
+(southern Sweden and eastern Denmark) providing software consultancy
+service with main focus in telecommunication (3G/UMTS). For more
+information on the company visit: www.brolab.se"

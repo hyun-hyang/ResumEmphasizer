@@ -1,0 +1,43 @@
+Web Developer,"The selected candidate will work as a team member in
+the company's Technical R&D Department reporting to the CEO and focusing
+on Smart Home server application configuration tool development.","The selected candidate will be assigned to:
+- Implement Smart Home main configuration WEB tool (80% backend, 20%
+frontend), its further support;
+- Take responsibility to make changes on live environment;
+- Architect and code highly scalable server components;
+- Assist in unit, integration, system level testing;
+- Develop and maintain technical documentation;
+- Participate in all phases of software lifecycle with an emphasis on
+architecture, design, quality and implementation.","- University degree in the appropriate field of studies;
+- At least 4 years of work experience in the appropriate field;
+- At least 2 years of experience in one of the following: Node.js or
+Python;
+- Excellent knowledge of the following: JavaScript, JQuery, AJAX,
+Node.js, Python, HTML5, CSS3, XML, PHP;
+- Knowledge of different cross-platform runtime environment for
+server-side and networking applications;
+- Ability to create professional Web pages using HTML/ HTML5, CSS/ CSS3
+technologies;
+- Ability to work with big data, to develop modules which will meet high
+performance thresholds;
+- Cross Browser experience;
+- Responsive web design experience;
+- Knowledge of User Experience (UX);
+- Interest in design, ability to modify things (or add things) to a given
+design;
+- Detail-oriented personality;
+- Problem-solving and analytical skills with the ability to clearly
+communicate and share solutions with fellow team members;
+- Ability to respect deadlines;
+- Good knowledge of English language;
+- Dedication to work.","Only highly interested candidates are welcome to
+submit their resumes in electronic format (in Word or PDF format) to:job@... . Please obligatorily write in the Subject field: CV for
+Web Developer vacancy. Reference letters from former employers are
+welcome. Only short-listed candidates will be invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Revotech"" LLC is a company in Armenia delivering
+services of design, manufacturing and installation of building automation
+systems with complete technical, networking and software platform
+solutions. ""Revotech"" is the developer of Smart Home system on the
+territory of the CIS."

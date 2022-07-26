@@ -1,0 +1,34 @@
+Senior Web  Developer,"""Karapetyanner"" Scientific-Production Experimental
+(KSPE) is looking for a Senior Web Developer to be engaged in different
+long-term projects.","- Responsible for leading the development, integration, optimization and
+maintenance of projects; design and develop custom software solutions
+utilizing the latest .NET technologies;
+- Work with a team of web designers and developers to deliver end-to-end
+user systems;
+- Evaluate the new technology and provide recommendations where
+applicable;
+- Read, understand and modify the existing code;
+- Develop test plans to verify the logic of new or modified programs.","- University degree in Computer Science or a relevant discipline;
+- At least 5 years of the web application development experience on the
+.NET platform;
+- Deep knowledge of C#, ASP.NET, MVC, ADO.NET and JavaScript;
+- Experience in the client-server applications development;
+- Experience in WPF/ WCF technologies is a plus;
+- Experience in web services is a plus;
+- Experience of working with the Microsoft SQL server;
+- Knowledge of MS SQL/ T-SQL;
+- Good knowledge of the technical English language is a plus;
+- Excellent communication and team working skills;
+- Ability to work independently;
+- Knowledge of HTML5 and CSS is a plus;
+- Knowledge of and experience in the LINQ/ Entity framework;
+- Knowledge of DevExpress and Kendo UI is a big plus;
+- Knowledge of JS frameworks like KnockoutJS and AngularJS is a plus;
+- Ability to learn new technologies;
+- Ability to work as a part of a team.","To apply for this position, please send your
+cover letter and resume to: career@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Karapetyanner"" Scientific-Production Experimental LLC is
+a software development company which is providing services for big
+corporate and startup companies."

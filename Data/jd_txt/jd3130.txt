@@ -1,0 +1,21 @@
+Junior iOS Developer,"Joomag AM LLC is seeking a highly motivated Junior iOS
+Developer who will become a part of the Company's team and contribute to
+all the aspects of the ongoing software development from the initiation
+to developing, testing and launching.","- Design and build applications for the iOS platform;
+- Ensure the performance, quality and responsiveness of applications;
+- Collaborate with cross-functional teams to define, design and ship new
+features;
+- Work on bug fixing and improving the application performance;
+- Discover continuously, evaluate and implement new technologies to
+maximize the development efficiency.","- Familiarity with Objective-C and Cocoa Touch;
+- Knowledge of OOP concepts and coding algorithms;
+- Understanding of code versioning tools such as Git, Mercurial or SVN is
+a plus;
+- Understanding of Apple's design principles and interface guidelines;
+- Good knowledge of the English language.","All the interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

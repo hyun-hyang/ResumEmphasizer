@@ -1,0 +1,44 @@
+Network Engineer/ Release Manager,"Netsoft USA seeks an experienced Network Engineer\
+Release Manager to contribute to continued expansion of its Armenian
+office and to help meet the needs of its rapidly growing business. As a
+Network Engineer\ Release Manager, the incumbent will craft and define
+technical solutions. 
+The right person will embrace change and have the ability to apply the
+best technology available with a high level of enthusiasm,
+professionalism and confidence.","- Monitor network, servers and web applications to ensure high
+availability;
+- Provide expertise in planning, designing, installing, configuring,
+repairing, recovering, troubleshooting, system monitoring and
+performance tuning of network systems and hardware;
+- Provide support to the plan, coordinate and implement the
+organization's information security;
+- Install and administer database management systems (primarily MS
+SQL);
+- Install and administer web and application servers, especially Windows
+Server 2003, 2008, Visual Studio Team Foundation and Visual Studio 2010;
+- Administer Active Directory;
+- Administer 25+ users & computers;
+- Maintain confidentiality with regard to the information being
+processed, stored and accessed by the network;
+- Communicate with NY Office to implement network, TCP/IP and security
+best practices Manage Hyper-V virtual server environment;
+- Create and maintain process & procedure documentation;
+- Document network problems and resolutions for future reference.","- Minimum 3-5 year experience;
+- Strong working knowledge of Windows 2003/2008 Server, Active Directory
+and IIS;
+- Experience with TCP/IP, DNS, DHCP, WINS, FTP, VPN;
+- Strong working knowledge of current communications devices and
+protocols, including TCPIP;
+- Experience with configuration and management of Firewalls and VPN;
+- Experience with Release Management and SDLC is preferred;
+- Demonstrate creative problem solving skills;
+- Ability to manage multiple projects, activities and tasks
+simultaneously;
+- Excellent communication skills in English language.","Please submit resumes along with cover letter
+to: vahagn.nikoghosyan@... email address, mentioning
+""Network Engineer/ Release Manager"" in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Metacortex is a subsidiary of the Netsoft USA which
+is a technology services company headquartered in New York City. NetSoft
+USA is a Microsoft Gold certified partner."

@@ -1,0 +1,26 @@
+Senior Technical Support Engineer,"The Senior Technical Support Engineer is responsible
+for providing support to customers. This involves responding to customer
+inquiries via phone, email and web, diagnosing/analyzing problems, and
+providing workarounds to customers.","- Install and configure Linkgard products as well as third-party
+software for support lab testing purposes;
+- Provide remote and on-site technical support for Linkgard customers
+and partners;
+- Provide ongoing support to Linkgard customers and partners;
+- Recommend new and existing solutions, which involves enhancing
+application/systems functionality, features and defect repair;
+- Work closely with third-party software vendors and their professional
+services groups to solve complex integration problems;
+- Be intuitive and inventive by providing solutions and workarounds for
+customers.","- Bachelor's in Computer Science, or other technical field; 
+- 5+ years of experience in a hands-on technical role;
+- Experience with both Unix/Linux and Microsoft Windows operating
+systems;
+- In-depth knowledge of MS Exchange, Active Directory, and XML;
+- Recent experience in providing remote or on-site technical support;
+- PERL programming skill is a definite plus;
+- Previous software development experience is a big plus.","To apply, please e-mail your cover letter and
+resume to: jobs@.... Please put the announcement code (LG039)
+in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

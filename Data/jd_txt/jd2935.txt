@@ -1,0 +1,26 @@
+Senior PHP Developer,Monitis CJSC is seeking a Senior PHP Developer.,"- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience as Senior PHP Developer;
+- Excellent knowledge of PHP;
+- Excellent knowledge of databases (Oracle, Postgres, MySQL, MSSQL);
+- Good knowledge of OOP principles;
+- Good knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4, HTML5);
+- Good knowledge of other programming languages such as Ruby, Python;
+- Experience developing pages for iOS is a big plus;
+- Experience working on Photoshop or Corel Draw is a big plus;
+- Experience working in Linux environment (Ubuntu, Suse) is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language both communication and
+technical level.","All interested and qualified candidates are
+welcome to send their CV to: hr@... . Please indicate the
+position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis, a TeamViewer company, is all-in-one cloud based
+IT monitoring and analytics platform. For more information about the
+company please visit: http://www.monitis.com/about-us."

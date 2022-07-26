@@ -1,0 +1,11 @@
+Javascript Developer,"NTA Soft LLC is looking for a Javascript Developer to
+create one-page sites using MVC structure, jQuery and Angularjs.",NA,"- 1 year of experience with Javascript (jQuery, Angularjs);
+- Experience with Ajax, Json;
+- Experience with HTML, CSS;
+- Knowledge of OOP.","Interested candidates are asked to email their
+CVs to: cv@... . Please mention the position you are applying for
+in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NTA Soft LLC is a product company specialized in creating
+social networks. It was founded in 2011."

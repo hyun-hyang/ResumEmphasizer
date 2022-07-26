@@ -1,0 +1,51 @@
+IT Manager,"The incumbent should manage the necessary resources for
+maintaining the current network and systems up and running, as well as
+for planning and executing the necessary improvements to support the
+growing needs of the company in terms of the reliability, availability,
+security and performance of network solutions and systems. He/ she will
+be responsible for the overall planning, organization and execution of
+all IT functions for the company which includes directing all IT
+operations to meet the requirements, as well as the support and
+maintenance of existing infrastructure, applications and development of
+new technical solutions.","- Provide leadership, vision and management to the IT department;
+- Assist in recruiting, hiring and providing appropriate training for IT
+support staff;
+- Provide day-to-day supervision, conduct performance appraisals and
+delegate work assignments for all IT personnel and the technical support
+team;
+- Responsible for the development and proper operation of the companys
+IT systems;
+- Maintain security and privacy of the information systems, communication
+lines and equipment;
+- Develop, review and certify all back-up and disaster recovery
+procedures and plans;
+- Manage, lead and control the implementation of different IT projects;
+- Control and ensure the proper implementation of business processes
+concerning IT infrastructure;
+- Ensure the continual functioning of mission critical operations;
+- Serve as a primary contact with outside vendors for contracts,
+agreements and other major vendor interactions, systems operations and
+maintenance and partner software organizations;
+- Responsible for the acquisition, inventorying and disposition of
+hardware and software;
+- Monitor the current IT equipment and IT systems of the company and make
+forecasting budgeting, on a yearly basis.","- University degree in Information Technologies;
+- Excellent knowledge of Windows Active Directory administration;
+- Excellent knowledge of Windows Server 2003/ 2008 administration; 
+- Excellent knowledge of Unix/ Linux server family administration; 
+- Excellent knowledge of virtualization technologies such as Microsoft
+Hyper-V and VMWare VSphere, VMWare VCenter;
+- Knowledge of corporate antivirus and firewall systems;
+- Knowledge of corporate LANs (wires, VLAN, TCP/ IP, subnets, routing);
+- Strong managerial and leadership skills;
+- Strong organizational skills;
+- At least 5 years of work experience in IT Management;
+- Strong analytical skills.","Interested candidates are asked to submit a CV
+in English language to: hr@... , indicating the position
+title in the subject line of the e-mail. Only shortlisted candidates will
+be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company,
+which, in cooperation with partner software companies, aims to build
+various software solutions."

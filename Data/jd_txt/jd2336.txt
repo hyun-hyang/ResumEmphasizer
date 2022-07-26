@@ -1,0 +1,27 @@
+Java Developer,Monitis GFI is looking for Java developer.,"- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 2 years of practical experience in Java development;
+- Good knowledge of OOP principles;
+- Knowledge of IOC Frameworks like Spring, Guice and Gin is an
+advantage;
+- Knowledge of GWT or other MVC frameworks such as Struts2 or JSF is an
+advantage;
+- Knowledge of other programming languages such as Ruby and PHP is an
+advantage;
+- Knowledge of databases (oracle, postgres, mysql, mssql) is an
+advantage;
+- Experience in using Eclipse IDE is preferable;
+- Experience with working in Linux environment (Ubuntu, and Suse);
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language, both on communication and
+technical level.","All interested and qualified candidates are
+welcome to follow this link:http://hire.jobvite.com/j/?aj=oY85WfwR&s=www.careercenter.am. Only
+shortlisted candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.monitis.com"

@@ -1,0 +1,47 @@
+Database Administrator,"""FINCA"" UCO CJSC is looking for an Database
+Administrator to manage and administer companys IT system providing
+first line support to the staff.","- Coordinate physical changes to databases applying knowledge of
+database management systems, using JDBC/ODBC to call database
+procedures;
+- Install, configure, administer and troubleshoot information systems
+that incorporate Microsoft Back Office products including SQL Server
+2000 and SQL Server 2005;
+- Analyze programs, company IT policies, and operational needs;
+- Analyze problems, identify alternative solutions, and implement
+recommendations in support of district goals;
+- Communicate clearly and concisely, both orally and in writing;
+- Establish and maintain cooperative working relationships with those
+contacted in the course of work.","Knowledge of: 
+- Large scale data and database design, implementation and management
+procedures; computer programming principles, techniques and procedures
+for administrative and business applications;
+- Database recovery and backup techniques; performance monitoring,
+database optimization and index tuning;
+- Management systems such as SQL Server 2000 and SQL Server 2005,
+Oracle, Structured Query Language; application development languages
+such as Visual Basic; 
+- Report writing and query tools such as SQL Report Writer and Crystal
+Reports 10 or higher;
+- Principles of relational database design, entity relationship
+diagrams, rules of normalization and unified modeling language
+development and administration;
+- Extraction Transformation & Loading (ETL); Business Intelligent Tools
+(BI) for OLAP/MOLAP/ROLAP using tools such as Microsoft Analysis
+Services; Business Objects, and Cognos; Data Transformation Services
+(DTS); SQL Server Integration Services (SSIS); Monitoring tools;
+- Data Warehousing, Stored Procedure optimization, SQL Server
+optimization, and Disk space optimization for performance (RAID and
+SAN);
+- Microsoft Windows 2003 Server, Microsoft Clustering Services, and
+Storage Area Networks;
+- AS Bank. 3.0 and 4.0.","Please send your CV and cover letter to:hr@.... Please, clearly mention in the subject line which position
+you are applying for. Only short listed candidates will be invited for
+an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FINCA Universal Credit Organization closed joint stock
+company (FINCA UCO) is established and licensed credit organization
+founded by FINCA International, Inc., a U.S. non-profit organization
+whose mission is to provide financial services to the world's
+lowest-income entrepreneurs so they can create jobs, build assets, and
+improve their standard of living."

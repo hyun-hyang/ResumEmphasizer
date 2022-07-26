@@ -1,0 +1,30 @@
+Flash Action Scripting Programmer,"At Lycos we are developing new online flash games for
+our community portal and we are looking for a talented programmer with
+extremely strong knowledge of Math/Geometry and Physics to fill this
+position. We need someone who is strong in technical programming (C++ or
+Java) and familiar with ActionScript. Those who are not familiar with
+ActionScript but are willing to learn and work with it can also apply
+for this position.","- Program games and interfaces with Flash ActionScript using various
+math algorithms;
+- Able to solve basic tasks connected with objects gravitation,
+acceleration, angle of rotation etc.","- Strong knowledge of mathematics, geometry and physics (able to apply
+different math formulas to design objects in computer graphics); 
+- Expert in object oriented programming with C++ or Java; 
+- Knowledge of Action Script is desired; 
+- Knowledge of Macromedia Flash MX 2004 is desired; 
+- Basic knowledge of JavaScript and DHTML is desired;
+- Have a clear idea of objects movement and interaction rules.","Please send us your CV in English toinfo@... and state in the subject line ""Flash Action
+Scripting Programmer"". If you have done any work in flash before, please
+send it together with your job application (on a diskette, a CD or as a
+link if you have it on the internet). If we call you to a job interview,
+we would like to test your skills by giving you a small project. This
+project will contain elements of geometry and math calculus and will be
+the main factor for your consideration for this job. Please note that
+all job interviews will be in English. Those who don't speak any English
+should not apply for this job.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Europe is a European Internet company that
+operates a pan-European network of websites in nine languages. Lycos
+Communities is developing and operating a chat in Europe along with a
+dating system, games and entertainment."

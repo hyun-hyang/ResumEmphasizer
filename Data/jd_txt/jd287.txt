@@ -1,0 +1,24 @@
+Unix/ Oracle Administrator Assistant,"The incumbent will assist to the Oracle and UNIX
+Systems Administrators in administration and maintenance of corporate
+servers.",NA,"- University degree in computer science or related field;
+- Strong Solaris 9 system administration skills;
+- Strong hands-on knowledge of the Sun hardware product line;
+- Strong knowledge of UNIX scripting;
+- Strong knowledge of network as it relates to systems and security;
+- Knowledge of network infrastructure and computer communication;
+- Understanding of Information and IT systems security;
+- Fiber Bus Adapted Storage Management and Configuration;
+- Knowledge of Tape Backup and Retrieval Solutions;
+- Knowledge of System Performance and monitoring concepts;
+- Experience in Oracle 9 DB administration; 
+- Knowledge of SQL, PL/ SQL;
+- Familiarity with Import and Export utilities;
+- Familiarity with Table-spaces and data-files;
+- Familiarity with Schemas and their objects;
+- Over 2 years of related professional experience;
+- Analytical, technical and interpersonal skills;
+- Good knowledge of English language.","Please send a CV and a cover letter to:unixoracle@.... Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""K-Telecom"" CJSC was established in Armenia in January
+2005 as a second mobile network."

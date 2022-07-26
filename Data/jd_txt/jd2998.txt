@@ -1,0 +1,60 @@
+IT Specialist/ Web Designer,"The ""Investing Projects Implementation Unit Building up
+of Yerevan"" Community Non Commercial Organization (PIU) is seeking the
+staff consultant to hire him/ her for the enhancement of the PI's
+capacities for the project implementation. The objective of the IT
+Specialist/ Web Designer is to develop project web site and keep it
+updated, provide IT support during implementation of the project. He/ she
+will be accountable for web site and IT network activities during
+projects implemented under Tranche 1 of Sustainable Urban Development
+Investment Program (SUDIP). He/ she will prepare reports on the progress
+and achievements to the Project Director on a monthly basis.","- Install and repair relevant equipment and software to ensure
+satisfactory performance and compliance with specifications; carry out
+maintenance of equipment in collaboration with the vendors;
+- Maintain IT infrastructure including PCs, copiers, UPS systems and
+telephones, ensure appropriate and timely technical service for all types
+of the equipment;
+- Provide technical assistance, consultations, trainings and user support
+to PIU team on daily basis;
+- Design, develop and keep updated the project web site;
+- Responsible for Network management and Project Performance Monitoring
+System (PPMS) database administration;
+- Be aware of WordPress security pitfalls and follow best practices to
+ensure tight security;
+- Design project materials such as brochures, banners, albums,
+newsletters and other; communication/ promotional materials;
+- Prepare project videos;
+- Carry out other tasks and responsibilities as requested by the Project
+Director.","- University degree in Computer Science or in a related field;
+- At least 3 years of relevant experience;
+- Knowledge of principles of workplace including desktop installations
+and support, phones, etc., troubleshooting and data backup organizing,
+cable management;
+- Proficiency in Microsoft Office and Microsoft Windows OS based
+corporate networks;
+- Extensive knowledge of modifying existing theme templates (support,
+extend and/ or enhance existing code);
+- Familiarity with Web Technologies: HTML, CSS3, JavaScript, JQuery;
+- Expert in WordPress Site Migration; knowledge of domain registration,
+DNS settings and management, MX Records and setting up and maintaining
+WordPress servers;
+- Confident knowledge of relational databases and SQL;
+- Programming skills (VBA, scripting);
+- Strong analytical skills;
+- Fluency in English and Armenian languages;
+- Excellent oral and written communication, interpersonal, organizational
+and presentation skills;
+- Self-motivated, detail-oriented and organized personality;
+- Ability to work independently and efficiently to meet deadlines under
+pressure;
+- Strong multitasking skills;
+- Familiarity with the goals and procedures of international
+organizations, in particular (ADB, World Bank, EBRD, IFC or other
+donors).","All qualified and interested candidates should
+submit their cover letters and Resumes/ CVs, both in Armenian and English
+languages, together with the names and contact data of two references in
+Adobe PDF format to: ipiu@... , mentioning the position title in
+the subject line of the e-mail. Only short-listed candidates will be
+interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,33 @@
+Fraud and Revenue Assurance Analyst/ Database Developer,"He/ she will be responsible to support fraud and
+revenue assurance team in daily activities.","- Analyze different fraud and revenue assurance issues (F&RA) and purpose
+corresponding solutions;
+- Perform periodic monitoring of existing F&RA controls;
+- Implement new controls based on data sources;
+- Perform roaming data analysis (NRTRDE files analysis, traffic
+monitoring etc.);
+- Coordinate activities on roaming HUR reports analysis;
+- High usage monitor and report upon detection of suspicious cases;
+- Implement other tasks required by the manager.","- Bachelor's degree in Computer Science or a related discipline;
+- 1+ years of database development experience in Oracle and MS SQL Server
+environment;
+- Strong knowledge of PL SQL/ T-SQL languages;
+- Good knowledge of MS Office (specially MS Excel and MS Access);
+- Good knowledge of oral and written English;
+- Experience in telecommunication is highly appreciated;
+- Analytical thinking;
+- Excellent oral and written communication skills;
+- Ability to work under pressure and be responsible, team player.","To apply for this position, please open
+www.careerhouse.com website, register as an individual user (unless you
+have previously registered), fill out your Resume, then open the same
+announcement there, click on the ""Apply"" button in the upper right corner
+of the announcement and proceed to receive the confirmation message.
+Please make sure you necessarily fill out the References section in your
+Resume and attach any references you have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"France Telecom is a telecommunications operator providing
+services to more than 170 million customers on five continents of the
+world of which 120 million under the Orange brand.
+Orange Armenia is an operator in the mobile telecommunications sphere in
+Armenia.
+Visit www.orangearmenia.am for more information."

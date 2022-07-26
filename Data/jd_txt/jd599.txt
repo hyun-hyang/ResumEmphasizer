@@ -1,0 +1,38 @@
+Software Architect,"The Software Architect will be responsible for leading
+business and web applications design efforts. This includes writing
+design specifications and defining the development activities required
+to meet the business objectives. The Software Architect will manage
+hands-on software development and ensure the highest quality of all
+delivered solutions through unit, integrated, and full system testing
+activities. Efforts in software development will run from analysis
+through implementation.","- Design and document custom software solutions which include database
+models, software architecture, process flow, and web navigation; 
+- Produce and maintain accurate documentation and code comments on all
+aspects of software architecture including functionality, logical view
+and processes, hardware and operating system environment, interface with
+other systems, etc.; 
+- Work with project leader to establish task schedule, subsystem
+definition, task milestones, technical goals, and estimated effort;
+- Mentor the development teams through hands-on assistance as well as
+formal and informal training;
+- Review and evaluate the architecture documentation, design and
+implementation of the software. Conduct and participate in peer code and
+documentation reviews.","- BS/MS/PhD in Computer Science or equivalent;
+- Fluency in written and conversational English language; 
+- Proven experience and outstanding track record in solutions
+architecture and product development, including web applications;
+- Ability to interact and communicate effectively with internal and
+external teams as needed to clarify business, operational, or technical
+issues;
+- Ability to contribute to an effective software process including
+design reviews, code inspection, and unit testing;
+- Linux, MySQL, Java or C++ knowledge is a plus.","Please send your resume and cover letter in
+English to: jobs@... for immediate consideration. Only
+shortlisted candidates will be contacted and interviews will start in
+June 2007 in Yerevan. Please include the code ""ad-sa-01"" in the subject
+of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lucipa Inc. is a software development company
+headquartered in San Francisco, CA. For information about the company,
+please refer to: http://www.lucipa.com"

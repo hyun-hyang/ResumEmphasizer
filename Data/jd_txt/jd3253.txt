@@ -1,0 +1,25 @@
+iOS Developer,"SocialObjects Software is looking for young, talented,
+extremely passionate iOS Developers to join the Company's team. In order
+to widen the Company's suite of products, the incumbent should master
+his/ her skills in a very short time and become a dedicated member of the
+team.","- Plan, develop and debug an Objective-C based code;
+- Create iOS applications based on given requirements;
+- Work closely within a team of developers and product managers;
+- Implement larger, more complicated projects gaining experience on a
+wide range of mobile projects.","- High motivation;
+- Experience with Objective-C and XCode;
+- Good understanding of OOP;
+- Willingness to learn;
+- Attention to detail and ability to keep the code quality;
+- Computer Science degree is desired or equivalent experience is
+acceptable;
+- Knowledge of the technical English language;
+- Knowledge of Swift is a plus;
+- Knowledge of other programming languages is a plus;
+- At least 1 year of work experience.","To apply for this position, please send your CV
+in the English language to: work@... . Please indicate the
+position title in the subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SocialObjects Software LLC is a mobile software
+development company. Find more at: http://socialobjects.am/."

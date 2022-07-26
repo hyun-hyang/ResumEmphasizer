@@ -1,0 +1,29 @@
+.NET Developer,"The Company is looking for an experienced .NET
+Developer who will participate in payment technologies software
+development and maintenance.","This position will require but not be limited to
+the following:
+- Design and develop desktop and web-based applications;
+- Participate in all cycles of software design and development;
+- Adhere to a consistent software development process;
+- Create application functional software, maintenance and modification of
+existing application software;
+- Develop reusable, efficient, scalable, easily maintained and reliable
+codes;
+- Provide quality input to and support of, reporting and web development
+processes;
+- Assist in the development of accompanying technical documentation;
+- Provide technical support and assistance if requested.","- University degree in a relevant field is a plus;
+- At least 4 years of extensive development experience in the following
+technologies: C#, ASP.NET, ADO.Net, Linq and EntityFramework;
+- Working knowledge of JavaScript, CSS, HTML and XML;
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Knowledge of payment technologies is a big plus;
+- Familiarity with software development process;
+- Knowledge of AJAX and JQuery.","All qualified candidates are welcome to send
+their CVs along with motivation letter by the following e-mail address:arca@... . Please indicate the position title in the subject field of
+your message. Only shortlisted applicants will be invited for the
+interview. No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armenian Card CJSC is a national payment system and
+processing center for most of the Armenian banks."

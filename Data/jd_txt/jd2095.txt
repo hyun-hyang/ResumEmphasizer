@@ -1,0 +1,27 @@
+Senior .NET Developer,"Microsoft Innovation Center Armenia is looking for a
+Senior .NET Developer to lead the programming effort of one if its
+projects.","- Design solution architecture;
+- Deliver software which complies with development standards;
+- Write and maintain system design documentation, architecture and
+operations manuals;
+- Provide coaching and technical support to agile development team.","- University degree in Computer Sciences with at least 3 years of work
+experience with the .NET Framework;
+- Experience in creating scalable .NET applications;
+- Good knowledge of OOP;
+- Knowledge of and experience in WPF and WCF;
+- Knowledge of and experience in LINQ/ Entity Framework;
+- Good communication skills;
+- Fluency in English and Russian languages.","To apply for this position, please submit the
+following: 
+- A cover letter addressing with specificity the applicants professional
+experience that makes him/ her best suited for the position;
+- A CV or Resume that lists the applicants educational background and
+provides a detailed summary of the applicants professional experience
+and relevant qualifications for the job.
+The above information should be sent to: apply@... . Please mention in
+the subject field your name and the name of the position for which you
+are applying.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about Microsoft Innovation Center
+Armenia, please visit: www.micarmenia.am."

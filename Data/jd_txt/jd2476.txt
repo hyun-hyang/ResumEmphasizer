@@ -1,0 +1,30 @@
+Front-End Developer,"As a Front-End Developer, the main responsibility of
+the incumbent will be the production, modification and maintenance of the
+website and web applications user interfaces. This involves working
+closely with designers and server-side developers to implement their
+server-side code in order to develop complex, interactive and
+database-driven websites.","- Provide accurate timing estimates on work;
+- Maintain high awareness of industry issues and trends, particularly in
+regard to accessibility, usability and emerging technologies; 
+- Keep team members informed, as appropriate, with a view to
+incorporating this in future projects and staying ahead of the market;
+position oneself and the company as a digital specialist;
+- Produce HTML5 and CSS3 styled, graphically rich components.","- At least 3 years of work experience with HTML, CSS, JavaScript and
+Ajax;
+- Experience with JQuery;
+- HTML and CSS Specifications (W3C/ WHATWG);
+- Ability to develop cross-browser and cross-platform compatible
+solutions;
+- Knowledge of working with JavaScript frameworks to create rich
+interactive content;
+- Good knowledge of MS SQL, C# and Visual Basic is a big plus;
+- Knowledge of web services (REST, Soap);
+- Experience with popular frameworks (HTML5 Boilerplate, Twitter
+Bootstrap, etc.) is a plus;
+- Ability to work within a team; good communication skills;
+- Flexibility in learning new technologies;
+- Good knowledge of Russian and English languages.","Interested candidates are asked to send a CV and
+a portfolio to: jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

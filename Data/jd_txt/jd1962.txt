@@ -1,0 +1,39 @@
+Computer Network Administrator II - Information and Communication,"The incumbent will be responsible for management of
+servers, as well as for server and storage systems.","- Responsible for administration, management, monitoring and testing of
+CBA blade server systems, server operational systems, active directory,
+file servers, storage and monitoring systems. Responsible for management
+of archive and reserve copies;
+- Responsible for development of strategy on arrangement of CBA blade
+server interfaces, Active Directory, file servers and monitoring systems,
+as well as creation of standards, selection and implementation of system
+components, development and optimization of structure; 
+- Responsible for support of users, registering users in active
+directory, assigning, change and termination of privileges for
+corresponding informational resources, and troubleshooting of
+accessibility to resources.","- Higher technical education  1 year of professional work experience at
+the Central Bank or 2 years of professional work experience elsewhere
+(Information technologies field); 
+- Knowledge of Server operation systems (profound); 
+- Knowledge of management of blade system (profound);
+- Knowledge of Armenian, Russian and English languages (Russian and
+English languages with the purpose of communication, software support and
+professional literature reading);
+- Skills in administration of server operational systems and management
+active directory, clusters, configuration and management of file servers,
+arrangement of replications; 
+- Skills in management of virtual servers and external storage systems
+operating within the blade system. Skills in working with MS Office.","To become familiar with questionnaire and to
+apply for the vacant position, please, visit Armenian version of CBA
+official site (ABOUT THE CBA - Career at CBA  Job Vacancies) with the
+following link: http://www.cba.am/am/SitePages/accvacancies.aspx . To
+apply for the vacant position, please, choose the corresponding position
+You want to apply for, press the button [APPLY] at the bottom of the
+page, be registered in the system and fill in the Application form. For
+further information and clarification you can call: (010) 59 26 34,
+internal lines 26 13.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Successful applicants will be required to pass
+probation period for three months during which they will work at CBA in
+Yerevan, then after passing the above mentioned probation period they
+will continue their work at CBA Dilijan Study-Research Center.",NA

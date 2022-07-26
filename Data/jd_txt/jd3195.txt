@@ -1,0 +1,40 @@
+System Administrator/ VoIP Developer,"Switzernet Srl is looking for a motivated and smart
+System Administrator/ VoIP Developer. The incumbent will work 8 hours
+daily from Monday to Friday and 4 hours on Saturday.","- Participate in all the following operational processes:
+a) Give technical support: identify reasons for disturbance, find how to
+fix it;
+b) Answer customers' calls  and emails; process technical issues;
+c) Install/ configure new servers;
+- Update the monitoring platform;
+- Administer VoIP test platforms (e.g. Asterisk);
+- Develop new services.","- University diploma in the relevant sphere;
+- Engineer with the knowledge of math, geometry and physics;
+- Fluency in the English language (verbal and written); knowledge of the
+French language is a plus;
+- Knowledge of scripting: bash and/ or perl and/ or python;
+- Knowledge of MySQL;
+- Skills with administration of UNIX/ Linux servers (install packages, do
+updates, configure, etc);
+- Network knowledge: IP Protocol (TCP/ UDP) and/ or address/ IP routing
+and/ or sockets;
+- Knowledge of VoIP: SIP, Asterisk server;
+- Knowledge of traffic analysis tools: ngrep and/ or wireshark;
+- Knowledge of C, C ++;
+- Knowledge of redundancy concepts, cluster and/ or cloud;
+- Knowledge of DNS and/ or IMAP and/ or SMTP and/ or HTTP and/ or HTTPS;
+- Possession of an isolated home office, computer and at least 1 Mbps
+internet connection.","If you are interested in this position, the
+Company looks forward to receiving your application. Your application
+must contain a CV, copy of diploma(s) and other certificates. It must be
+written in the English or French languages and sent to:
+jobs@... . The subject of your email must be written as
+follows: ""[2'f77'1 developer] carercenter.am First name Last name"".
+The candidates will receive a test application with math, geometry and
+physics tasks to solve via email.
+The salary will be offered based on the test results.
+Please note that the Company does not accept applications from students
+or candidates without a university diploma.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Please note, that the first week of work is considered
+as a testing period and is not paid.",Switzernet Srl is located in Switzerland.

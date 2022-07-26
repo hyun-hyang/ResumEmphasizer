@@ -1,0 +1,15 @@
+PHP Developer,"inLobby LLC is looking for a PHP/ MySQL Developer who
+will be involved in web application development process.",NA,"- University degree in Computer Science; Technology is a plus;
+- Work experience in PHP/ MySQL application development;
+- Good knowledge of web programming, HTML/ CSS and jQuery/ AJAX;
+- Read, understand and modify the existing code;
+- Knowledge of Symfony Framework and Doctrine ORM is a plus;
+- Knowledge of technical English language;
+- Strong interpersonal and team work skills.","Interested candidates should send their CVs to:
+hr@... . Please note that only shortlisted candidates will be
+invited for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"inLobby LLC is the Armenian office of in LOBBY GmbH, a
+German-based company, which runs inLOBBY online hotel booking website
+(http://www.inLOBBY.com)."

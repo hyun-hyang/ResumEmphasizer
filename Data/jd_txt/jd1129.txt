@@ -1,0 +1,44 @@
+Transmission IP Network Design Engineer,"The Transmission IP Network Design Engineer will be
+responsible for planning, design, and development of the Transmission IP
+Networks, consisting of PDH/SDH, ATM and IP technologies. The incumbent
+will also assist in operating the new IP transmission technologies, in
+providing support to operations; in dimensioning and optimizing  the
+network in a resilient, cost-effective and flexible way in accordance
+with technical requirements, quality standards and design guidelines of
+France Telecom.","- Develop and review high and low level designs for the transmission IP
+network: design of links, trunks/ paths, ATM Pseudo wires and
+Transmission nodes;
+- Manage translating intra- and extra-departmental requirements and
+volume forecasts into technical specifications and network expansions
+taking into account CesOPsn protocol and Tellabs IP routers aggregation
+and multiplexing;
+- Plan and dimension network capacity;
+- Make sure all projects and changes are implemented with a minimal risk
+for the live network;
+- Identify network areas at risk;
+- Translate network performance requirements into technical
+specifications.","- University degree;
+- Knowledge of Microsoft Office tools (Excel, Word, E-mail, Internet);
+- At least 3 years experience in transmission network design; 
+- In-depth understanding of transmission standard Networks architecture
+and (PDH/SDH, ATM) and IP network technologies (Routers; Add and drop
+multiplexers);
+- Experience in planning, designing and optimizing Transmission
+networks;
+- Clear understanding of the end2end mechanisms that ensure QoS in the
+network, synchronization and security;
+- Advanced knowledge of English and Russian languages.","To apply for this position please open (click)http://www.careerhouse.com website, register as an individual user
+(unless you have previously registered), fill out your Resume, then open
+the same announcement there, click on the ""Apply"" button and proceed to
+receive the confirmation message. Please make sure you necessarily fill
+out the References section in your Resume and attach any references you
+have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Should you have any questions regarding registration
+process, please call Career House: +(374 10) 51 90 62.","France Telecom is a telecommunications operator
+providing services to more than 170 million customers on five continents
+of the world of which 120 million under the Orange brand. 
+Orange Armenia is starting its activity as the third operator in the
+mobile telecommunications sphere in Armenia.
+Visit www.orange.com for more information."

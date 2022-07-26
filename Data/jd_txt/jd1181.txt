@@ -1,0 +1,22 @@
+Quality Assurance Engineer,"Boomerang Software LLC is looking for QA Engineers to
+be engaged in different long term projects. This role is within a team
+testing internally developed CRM software for running the telecom
+business, including communication with partners and suppliers.",NA,"- 4 year college degree or equivalent in a QA discipline;
+- 1-2 years of software QA experience (no Telecom experience required);
+- Solid understanding of QA processes and methodology;
+- Sound understanding of QA documentation processes;
+- Ability to write test cases and procedures, follow the defined QA
+processes;
+- Excellent attention to detail;
+- Methodical approach to software testing; 
+- Good written/ oral communication skills;
+- Experience of testing .NET web application;
+- Excellent knowledge of English language.","If interested, please email your CV and
+references to: hr@.... Please, clearly mention in the subject line for what
+position you are applying. Only short listed candidates will be invited
+for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is Software Company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

@@ -1,0 +1,25 @@
+Trading Strategy Developer,"SCDM LLC is looking for a Trading Strategy Developer
+for a long-term project. The incumbent will work as a member of a team
+based on the guidelines and technical assistance of Austrian partners.","- Develop new automated trading strategies for the stock markets and
+improves exiting ones;
+- Set up and execute tests, record results and prepare test reports;
+- Remain up to date with current trading strategies by researching new
+approaches, test techniques, methods and tools;
+- Provide detailed documentations.","- Degree in mathematics or statistics;
+- Deep knowledge in time series analysis (among other things co
+integration);
+- Experience with Matlab and/or R including programming;
+- Excellent command of English language;
+- Basic knowledge in stock markets;
+- Degree in Economics or Finance is a plus;
+- Experience with TradeStation, MetaStock, WealthLab, OmniTrader or
+similar software is a plus;
+- Knowledge in C++ and/or Java is a plus;
+- Knowledge in SQL databases such as mySQL is a plus;
+- Ability to respect deadlines;
+- Be a team player and capable of excellent communication with other
+(remote) team members.","Please send your CV and Cover Letter to:tigran@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCDM LLC founded in 2005 provides software development
+and data management services to clients abroad."

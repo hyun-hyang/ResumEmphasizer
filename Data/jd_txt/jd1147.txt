@@ -1,0 +1,22 @@
+C++ Software Engineer,"""OMD"" LLC is looking for a qualified C++ Software
+Engineer who will participate in all stages of development of the
+company's OneTick product line.",NA,"- University degree in science or technology;
+- Very good knowledge of C++, OOP, generic programming and STL;
+- 2+ years of solid C++ development experience. Less experience is
+acceptable if the candidate shows strong growth potential. Candidates
+who have worked with both MSVC++ and GCC are strongly preferred;
+- Comfortable with Unix environment and command line tools;
+- Knowledge of fundamental algorithms and data structures;
+- Demonstrated ability to deliver results;
+- Good knowledge of technical English language.
+Desired Qualifications:
+- Familiarity with financial markets concepts;
+- Network programming experience;
+- Multithreaded programming experience;
+- Java/C# scripting experience.","Please, send your resume to:jobs_am1@.... The email subject should read ""C++ Software
+Engineer"". Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

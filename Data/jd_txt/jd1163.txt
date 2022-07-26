@@ -1,0 +1,26 @@
+.Net Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of a .Net Developer.","- Design, construct and maintain new and existing business information
+systems; 
+- Work in a team or individually in all phases of the software
+development life-cycle;
+- Interface with stakeholders and end users to clarify requirements and
+complete software designs; 
+- Write code to develop applications and maintain responsibility for
+producing design, installation and operational documentation consistent
+with the firm's software development life-cycle.","- University degree in Computer Science or a related field;
+- Strong knowledge of Object Oriented programming;
+- Minimum 3 year experience in developing ASP.NET 2.0/3.0/3.5 Web
+applications utilizing Visual Studio 2005/8, C#.NET and ADO.NET;
+- Good knowledge of Microsoft SQL Server 2005/2008 and Transact-SQL;
+- Good knowledge of HTML, DHTML, XML/XSLT and client-side scripting;
+- Knowledge of Microsoft SharePoint, Microsoft Dynamics CRM is a plus;
+- Excellent communication and interpersonal skills;
+- Good knowledge of English language.","Please submit your resumes to: jobs@....
+No personal visits, deliveries or phone calls, please. Only short listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC is a privately held software development
+company, Microsoft Gold Certified Partner. Main specialization is
+developmet of specific Web solutions for the customers from Western
+Europe. More details: www.sflpro.com."

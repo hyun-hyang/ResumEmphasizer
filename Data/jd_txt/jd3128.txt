@@ -1,0 +1,33 @@
+Senior Android Developer,"Joomag AM LLC is seeking a highly motivated Senior
+Android Developer who will become a part of the Company's team and
+contribute to all the aspects of the ongoing software development from
+the initiation to developing, testing and launching.","- Design and build advanced applications for the Android platform;
+- Design, build and maintain a high performance, reusable, and reliable
+Java code;
+- Collaborate with cross-functional teams to define, design and ship new
+features;
+- Ensure the best possible performance, quality and responsiveness of the
+application;
+- Help maintain code quality, organization and automatisation.","- At least 3 years of experience in Android Development;
+- Bachelor's/ Master's degree in Computer Sciences, Engineering or a
+related discipline;
+- Strong knowledge of Android SDK, different versions of Android;
+- Strong knowledge of OOP concepts and coding algorithms;
+- Strong knowledge of Android UI design principles, patterns and best
+practices;
+- Experience with offline storage, threading and performance tuning;
+- Experience with third-party libraries and APIs;
+- Ability to understand business requirements and translate them into
+technical requirements;
+- Understanding of the Google's Android design principles and interface
+guidelines;
+- Proficient understanding of code versioning tools such as Git,
+Mercurial or SVN;
+- Solid understanding of the full mobile development life cycle;
+- Good knowledge of the English language.","All the interested and qualified candidates are
+invited to send their CVs/ Resumes to: hr.armenia@... . Please,
+indicate the announcement code in the subject field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Joomag AM LLC provides digital publishing services. More
+information can be found at: www.joomag.com."

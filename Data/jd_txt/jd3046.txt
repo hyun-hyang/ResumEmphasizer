@@ -1,0 +1,30 @@
+Team Lead/ Senior Java Software Developer,"Sourcio CJSC is looking for talented and experienced
+Team Lead/ Senior Java Software Developers for team leading and the
+development of features for its partners' product.","- Organize and manage the team;
+- Lead the application design;
+- Develop features according to technical specifications;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience in Java development;
+- Good knowledge of OOP principles and methodologies;
+- Excellent knowledge of Java;
+- Knowledge of IOC Frameworks like Spring;
+- Knowledge of MVC frameworks such as Struts2 or JSF;
+- Knowledge of other programming languages such as Ruby, PHP is an
+advantage;
+- Good knowledge of databases (Oracle, Postgres, MySQL, MySQL);
+- Work experience in Linux environment (Ubuntu, Debian);
+- Good analytical skills;
+- Ability to lead a team;
+- Ability to work in a team;
+- Excellent knowledge of English language (both communication and
+technical level).","Those who meet the requirements and can
+contribute their skills to the development of Sourcio, are welcomed to
+send a CV along with a short cover letter to: info@... . Please,
+note the position you are applying for. Once shortlisted, you will be
+contacted to set the interview time.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:
+www.sourcio.com."

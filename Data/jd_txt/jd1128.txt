@@ -1,0 +1,36 @@
+Software Developer,"The Software Developer will develop Web services and
+Web Applications; design DB architecture for applications and develop
+Windows Services on C# and program TCP/IP-based protocol applications.","- Ensure development of web applications;
+- Ensure testing and documenting of developed applications;
+- Support and monitor applications; administer development and
+production environments;
+- Design database architecture based on project requirements;
+- Coordinate with direct supervisor, provide periodic reports.","- Higher education in relevant field;
+- At least 2 years of work experience in web development;
+- Knowledge of Web design is a plus;
+- Strong knowledge of ASP.NET;
+- Experience in C# programming language and deep understanding of .NET
+Framework (preferably 3.0 and higher);
+- Fully competent and fluent with PHP5;
+- Good knowledge and practical experience in the following fields:
+XHTML, CSS, JavaScript (ECMA Script), JSON and DOM;
+- Knowledge of databases: MSSQL, Oracle, MySQL;
+- Knowledge of MVC (model-view-controller) programming pattern;
+- Experience with PEAR libraries: DB, HTML_QuickForm, etc.;
+- Experience with Smarty template engine;
+- Practical experience in AJAX;
+- Practical experience in SOAP and XML-RPC;
+- Skills in IIS (preferably 7) and Apache;
+- Familiarity with UNIX/ Linux OS;
+- Experience in Zend framework is a plus;
+- Knowledge of WCF is a plus;
+- Experience in Adobe Photoshop and Corel Draw is a plus;
+- Organized, dynamic and responsible personality; 
+- Ability to  work under pressure and within limited deadlines;
+- Ability to work efficiently without supervision;
+- Team working, strong problem-solving skills;
+- Punctuality and accuracy in work.","Please, send your CV to: developer@...
+e-mail address.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator in Armenia.

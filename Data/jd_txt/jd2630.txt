@@ -1,0 +1,30 @@
+Senior .NET Developer,"The company is looking for a highly qualified person
+with deep knowledge of and practical experience in C# programming. The
+selected candidate will be involved in all stages of the development life
+cycle.","- Design and develop various development artifacts including and not
+limited to features, solutions, dB schemas, application frameworks and
+GUIs;
+- Maintain and enhance the company's home grown systems;
+- Responsible for bug fixing/ technical support of the existing
+applications in production.","- Bachelor's degree in Computer Sciences; 
+- At least 2-3 years of work experience in .Net Framework; 
+- Proficiency in OOP/ OOD and good knowledge of Design Patterns;
+- Good knowledge of SQL Server; 
+- Knowledge of and experienced in LINQ/ Entity Framework;
+- Good understanding of Web services and practical working knowledge of
+WCF; 
+- Knowledge of ASP.NET MVC is an advantage;
+- Knowledge of WPF/ MVVM is an advantage;
+- Good knowledge of technical English language; 
+- Good communication skills; 
+- Good team player with the ability to accept criticism.","All qualified candidates who meet the
+requirements are requested to submit their CVs in English language to:hr@... . Please mention the position you are applying for in the
+subject line of the message. Only the applicants who passed the initial
+choice will be called for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Fast Credit Capital"" Universal Credit Organization
+Closed Joint-Stock Company was registered and licensed in 2011. The
+credit organization aims to expand its geography and found branches in
+each regional center and in all big cities. The customers are offered
+collateral guaranteed credits."

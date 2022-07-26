@@ -1,0 +1,22 @@
+Android Application Developer,"As a member of EpygiArm Software team, Android
+Application Developer will use technical education and experience to
+develop software applications and document software per the product and
+specifications.","- Develop Android applications for embedded devices; 
+- Port Android OS to new hardware platforms; 
+- Port and develop drivers for new hardware devices; 
+- Produce documentation;
+- Contribute to the solving of test problems/ requirements;
+- Communicate with other engineers;
+- Perform other duties as assigned.","- BS in Computer Sciences, Electrical Engineering or equivalent; MS is a
+plus;
+- At least 2 years of work experience with Android application
+development, Android OS and Linux;
+- Excellent understanding of media objects (voice, video, etc.) and IP
+networking protocols;
+- Good English language knowledge;
+- Ability to work with minimal supervision.","Interested and qualified candidates are welcome
+to send their CV to: hr@... . Please indicate the position title
+you're applying for in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

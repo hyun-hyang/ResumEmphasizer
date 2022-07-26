@@ -1,0 +1,36 @@
+Senior Java Developer,"Workfront is a technology company that needs a
+motivated and talented Senior Java Developer.","- Design, collaborate, and execute on amazing software features in the
+SaaS ecosystem;
+- Learn continuously from other team members and peers to drive the
+career;
+- Demonstrate technical excellence through results, consistency and
+mastery;
+- Coordinate with other business units to achieve product goals within a
+cross-functional matrix organization;
+- Enjoy coming to work everyday and be aware of being an integral part of
+the Company's future and success.","- Develop and debug enterprise applications in various software languages
+including: Java, JavaScript, J2EE;
+- Experience with the object-oriented design and analysis;
+- Familiarity with the industry technology and frameworks encompassing
+SQL, JSON, REST;
+- Performance tuning and profiling expertise is desirable;
+- Knowledge of the component framework and modern application container
+is a plus;
+- Agile software development experience is a plus;
+- At least 5 years of experience in an application development position;
+- Bachelor's degree in Computer Sciences or a related discipline;
+commensurate experience is also accepted;
+- Understanding of SOA, ESB and distributed systems;
+- Experience with Maven, Git, GitHub, Gradle is a plus;
+- Experience with JPA, ORM: Hibernate/ EclipseLink, JMS, ActiveMQ/
+RabbitMQ, AngularJS is a plus;
+- Experience in continuous integration/ delivery;
+- Experience in a team-centric software development, high performance
+software delivery in a team is an advantage.","All qualified and interested candidates should
+submit their CVs/ resumes online at: http://grnh.se/qp57xv . Only
+short-listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Workfront is a cloud-based Enterprise Work Management
+solution company based in Utah. For more information, please visit:
+http://www.workfront.com"

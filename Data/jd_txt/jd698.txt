@@ -1,0 +1,57 @@
+Software Developer,"HSBC Bank Armenia is looking to hire highly qualified
+programmers who will participate in the development of HSBC's highly
+advanced transaction and database in-house system. The right individuals
+will have to be mobile as there will be a requirement for travel and a
+possibility for secondment outside Armenia.","- Apply specialist expertise in the development of IT systems with the
+objective of optimising operational performance and improving quality
+whilst increasing cost-effectiveness; 
+- Prepare detailed specifications that describe input, output, and
+logical operation, and convert them into a series of instructions coded
+in a computer language; 
+- Write, analyze, review, and rewrite programs to departmental and HSBC
+Group standards; 
+- Conduct trial runs of programs and software applications to be sure
+they will produce the desired information and that the instructions are
+correct; 
+- Compile and write documentation of program development and subsequent
+revisions, insert comments in the coded instructions so others can
+understand the program; 
+- Provide estimates for development effort from design documents; 
+- Write or contribute to instructions or manuals to guide end users; 
+- Update computer programs to increase operating efficiency or adapt to
+new requirements; 
+- Review code and documentation to ensure code meets the design criteria
+and work is of an acceptable quality; 
+- Develop a good level of understanding of the appropriate business
+systems of the Group and their associated IT development requirements; 
+- Consult with relationship management to clarify program intent,
+identify problems, and suggest changes; 
+- Investigate live systems faults, diagnose problems and propose and
+provide solutions; 
+- Provide out of hours support to existing systems.","- University level degree with at least 4 years of work experience in
+programming;
+- Provenexperience in an IT development or operations role; 
+- Proven technical expertise in an IT role; 
+- Demonstrated ability in required programming language(s); 
+- Knowledge of CASE (Computer-Aided Software Engineering) tools,
+structured programming techniques, analysis, group standards and system
+methodologies;
+- Excellent knowledge of the project lifecycle; 
+- Communication and interpersonal skills, including the capacity to
+articulate the case for IT investments and alternatives in the language
+of business; 
+- Strong level of technical expertise, specifically, RPG, ILE
+Environment, CLP/CLLE, QUERY, SQL, MQ Series, C, Java, COBOL - with
+specific emphasis on RPG;
+- Good commercial orientation, appreciating the business usage of
+systems developed; 
+- Ability to find logical solutions to problems and manage to
+resolution; 
+- Proven capability to prioritise competing demands;
+- Strong Armenian, Russian, and English languages skills, written and
+verbal.","All interested and qualified candidates are
+encouraged to complete HSBC Job Application Form (attached below) and
+forward it to Fred Oyen, Manager Operations, at: fredoyen@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

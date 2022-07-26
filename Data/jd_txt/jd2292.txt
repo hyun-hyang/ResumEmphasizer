@@ -1,0 +1,20 @@
+Senior Developer/ Team Lead,"Dasaran.am is seeking a Senior Developer/ Team Lead for
+a Web project with a strong knowledge in backend development and at least
+5 years of professional work experience in PHP/ MYSQL development.
+Candidates must have a willingness to accept overtime on short notice.
+Interested parties must work well under pressure and work professionally,
+cooperatively, and courteously.","- Design and write PHP Mysql and Javascript AJAX code;
+- Design Mysql database structure;
+- Read, understand and modify the existing code;
+- Provide technical support and assistance;
+- Lead development projects.","- Strong programming skills with at least 5 years of professional work
+experience in Php/ Mysql development;
+- Knowledge of HTML5/ CSS3, jQuery/ mooTools and JavaScript framework;
+- Knowledge of Apache Web Server for Unix* and website application
+deployment and administration;
+- Familiarity with web technologies and web-based dynamic application
+development, especially JavaScript (DOM).","Interested candidates meeting the listed
+requirements are asked to send their updated resume/ CV to:career@... . Only short-listed candidates will be notified.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information about the company, please visit:http://www.dasaran.am/apps/s/about/ ."

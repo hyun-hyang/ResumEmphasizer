@@ -1,0 +1,22 @@
+Java Software Developer,"The incumbent will be developing software applications
+working in distributed team.","- Participate in all the steps of the software project, from design to
+integration;
+- Analyze and investigate architectural defects of existing projects;
+- Implement features;
+- Fix problems.","- 3 to 5 years of experience in Java development;
+- Strong knowledge in Web development;
+- Mobile development experience is desirable (Blackberry, Android);
+- Ability to work in a team environment;
+- Highly motivated, passionate, adaptable and eager to learn new
+technologies and methods;
+- Fluency in English language (reading/ writing/ speaking);
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Fast learner, responsible personality.","To apply, please email your CV to:careers-armenia@... . Please mention the position you are
+applying for in the subject line of your e-mail. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Macadamian is a software development company
+headquartered in Ottawa, Canada with the branch in Yerevan, Armenia. More
+information about the company can be found at: www.macadamian.com."

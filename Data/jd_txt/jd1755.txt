@@ -1,0 +1,35 @@
+PHP/ Drupal Developer,"The ideal candidate will be responsible to design,
+execute, assess and troubleshoot web applications. He/ she will also
+contribute in the estimates of the web projects, the quality and
+timeliness of the deliverables and the projects compliance to the
+organizational processes and standards.","- Participate in all stages of website/ web application design and
+development using PHP 4/5;
+- Responsible for debugging pre-developed PHP applications;
+- Responsible for PHP coding along with MYSQL with object oriented
+techniques;
+- Work on projects such as online shops, multi-language websites and
+other content-managed websites/ applications;
+- Perform structural planning, creative brainstorming, and visualization,
+as well as HTML programming;
+- Create and maintain web-based systems and other components of the web
+site and web portals;
+- Assist in the administration of local and remotely-hosted systems,
+including web and database servers.","- 2 to 5 years of experience in delivering and deployment of PHP-based
+web applications, MySQL and LAMP environments;
+- Bachelor's degree in Computer Science or similar;
+- Strong knowledge of Front End Web 2.0 (CSS, HTML, Javascript and
+Jquery);
+- Experience in working with PHP Frameworks-Zend Framework and Cake;
+- CMS experience, particularly with Drupal and Wordpress; experience with
+Joomla is an advantage;
+- Proficiency in web security mechanisms;
+- Excellent communication, organizational and technical English language
+skills;
+- Experience in MS SQL and ASP.Net is an asset;
+- Excellent technical knowledge and a complete understanding of the
+software development process.","Qualified candidates should forward their
+resumes/ CVs to: resume@... mentioning ""PHP/ Drupal Developer""
+in the subject line of the e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

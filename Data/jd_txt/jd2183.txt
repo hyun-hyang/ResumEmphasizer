@@ -1,0 +1,158 @@
+Database and Content Management System Developer,"UNDP Armenia is implementing the ""Promoting Equal
+Rights and Equal Opportunities in Armenia: Women in Local Democracy""
+Project (hereinafter the Project) with the financial support of
+European Union. The Project commenced in April 2012 and will continue
+until April 2015. The national implementing partner of UNDP is the RA
+Ministry of Foreign Affairs and the responsible partner is the RA
+Ministry of Territorial Administration (MTA). The overarching goal of the
+Project is to support the advancement of gender equality, the
+strengthening of local democracy and the improvement of social cohesion
+in Republic of Armenia. The three-year project will achieve its goal
+through the following components:
+- Strengthen the capacity of women for meaningful participation in
+decision making through enhancing the knowledge and skills of women
+running for local elections and those elected to local public office; 
+- Strengthen the knowledge and capacity of local authorities for
+participatory and gender-sensitive governance; 
+- Support broad advocacy campaigns on gender equality at the local level
+and strengthen the knowledge and capacity of civil society and the media
+to engage in constructive dialogue on issues associated with gender and
+democratic governance and to promote the non-stereotyped portrayal of
+women and men.
+The Project aims to create appropriate tools for the effective
+coordination of activities among various national and international
+actors active in the field of gender equality and local democracy. One of
+them is the Donor Mapping Tool, which is currently under development.
+This coordination tool will visualize the type of interventions and
+projects implemented by national and international organization in the
+above-mentioned fields. 
+In addition to the Donor Mapping Tool, UNDP plans to develop a database
+and content management system (hereinafter ""DBCMS"") to ensure
+comprehensive project related data collection. 
+Primary functions of the DBCMS will include: 
+- Enable the storage, comparison and visualization of data on development
+projects beneficiaries. This will help among others to avoid the
+duplication of efforts among national and international organizations
+that are implementing capacity development initiatives in the areas of
+gender equality and local governance; 
+- Enable the compilation, systematization and analysis of local
+governance data to allow a more nuanced understanding of the gender
+profile of political candidacy and leadership at the local level and a
+sense of the impact of the Project and other initiatives in the sector
+over the long term. 
+The DBCMS will enable UNDP and MTA to compile, store, modify, analyze,
+filter, and extract information from the database. National and
+international partners will be able to access and modify the data related
+to their activities and beneficiaries (TBC). 
+To develop the DBCMS in line with the goal, UNDP currently seeks a
+qualified Database and Content Management System Developer to develop a
+DBCMS for the Project.","Under direct supervision of the Project
+Coordinator and in close cooperation with the Project focal point
+(Project Expert) and MTA focal point, the incumbent will develop and
+populate the DBCMS in Armenian language. In parallel, through regular
+consultations with UNDP IT Specialists the Database and Content
+Management System Developer should ensure the compliance of the DBCMS
+with UNDP requirements and criteria for information security and
+confidentiality. The major duties and responsibilities of the incumbent
+will include:
+- Conduct a review of the Projects information, documents, forms,
+reports, as well as available data from other partner agencies, in order
+to outline/ categorize the type of data and information available;
+- Suggest the developing software, development language, and database;
+- Suggest the hosting options based on the DBCMS specifics;
+- Identify the needs of MTA, UNDP, the Project and three implementing
+partner organizations to be reflected in the DBCMS; 
+- Develop and present for approval a DBCMS structure and an outline of
+its functions, based on the conducted research, compiled project
+information and the identified needs; 
+- Develop the full-fledged DBCMS upon approval from UNDP and the MTA; 
+- Populate the DBCMS from the identified sources of information;
+- Develop DBCMS guidelines and to deliver a training workshop on how to
+use the DBCMS in practice;
+- Ensure a full handover of the DBCMS to UNDP and the MTA;
+- Perform other relevant duties as assigned.
+Final Output:
+The DBCMS, with the following features: 
+a) Provide the users with tools to access, add, extract, delete, modify,
+filter, and analyze data stored in one system;
+b) Serve as a tool to track and analyze the data on female and male
+beneficiaries of the Projects; 
+c) Comply and sort the existing information on womens participation in
+local governance by: 
+- marzes;
+- communities; 
+- precincts; 
+- political parties; 
+- positions occupied; 
+- education;
+- gender; 
+- date of being elected; 
+- type of capacity development initiatives in the area of gender
+equality and local governance attended (organized by UNDP and other
+national and international organizations);
+- type of other initiatives, events, etc., attended (organized by UNDP
+and other national and international organizations);
+- status of the female beneficiaries vis--vis electoral processes
+(running/ non-running, elected/ non-elected);
+d) Compare the information (Note: some of the bullets points below may
+require a comparison with existing MTA data):
+- by number of beneficiaries, by number of women running for elections,
+by marzes and communities; 
+- by number and percentage of women elected, by marzes and communities;
+- by number and percentage of elected women who have attended the
+capacity development activities organized by UNDP and other national and
+international organizations;
+- by ratio of women avagani and community heads at national and marz
+level; 
+- by correlation of the elected beneficiaries by elections dates and
+gender;
+- through comparison of men and women running for election;
+- by marzes and by election dates;
+- by correlation of female population and percentage of the women
+elected;
+- by marzes and communities;
+- by geographic coverage of capacity development activities;
+- by the project partners;
+e) Visualize data in the form of reports and charts; 
+f) Create a converter to save data in different formats.
+The scope of work may vary up to 25%, which shall not affect the
+contractual arrangements. The details and suggestions will be discusses
+with the candidate. UNDP will request the availability of the Database
+Development Specialist for up to six months (test period) following the
+end of the contract for urgent consultation/troubleshooting on problems
+occurring during the exploitation of the DBCMS. As soon as the DBCMS is
+finalized, the developed code, design, and database will become the
+property of UNDP.","- University degree in Information Technologies, Management Systems, or a
+related field;
+- At least 5 years of work experience in the field of DBCMS.
+Skills/ Competencies:
+- Proven knowledge of database management systems;
+- At least 5 years of experience in the design, development, evaluation
+and implementation of database management systems and information
+management solutions;
+- Excellent data analysis skills;
+- Strong analytical ability and creative thinking; 
+- Excellent communication and presentation skills;
+- Excellent teamwork skills; aptitude in consulting and involving
+others;
+- Demonstrated initiative, high sense of responsibility and discretion; 
+- Excellent knowledge of Armenian language, ability to write and speak
+clearly and concisely in English (including technical language),
+knowledge of Russian language will be a strong asset;
+- Good interpersonal skills, ability to work and interact with different
+partners, as well as with people of widely differing backgrounds, points
+of view and interests;
+- High level of integrity, professionalism and respect for diversity;
+- Computer Skills;
+- Strong developer skills; 
+- Profound knowledge of data encryption and databases;
+- Competency in handling database management systems (Internet and
+Intranet);   
+- Knowledge of open source database systems and web-development systems.","Applications shall be submitted online through:http://operations.undp.am/recruitment/JobView.aspx?id=904 website. Hard
+copy and incomplete applications shall not be considered. A complete
+application form shall consist of an on-line Personal History Form (P11)
+and a letter of motivation.  CV and copies of diploma(s) can also be
+attached to application. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,20 @@
+QA Developer,"""OMD"" LLC is seeking a QA Developer who implements
+tools, tests and frameworks that are used in verifying the quality of
+the company's products.","- Implement automated regression tests;
+- Develop auxiliary testing applications;
+- Participate in the development of testplans and testability
+requirements;
+- Participate in the design and implementation of the automated
+testing/CM infrastructure.","- Strong knowledge of Perl, 1+ years of experience developing Perl
+applications;
+- Familiarity with Unix utilities, shell scripting, experience working
+in Unix environment;
+- Experience in automated quality assurance is a plus;
+- C/C++/Java knowledge is a plus;
+- English language knowledge.","Please, email your resume to:jobs_am@.... Include ""QA Developer"" in the subject. Only
+short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"OMD is a wholly owned subsidiary of OneMarketData LLC,
+New York based producer of enterprise market data solutions for
+financial institutions: www.onemarketdata.com."

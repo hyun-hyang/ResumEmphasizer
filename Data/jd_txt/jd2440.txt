@@ -1,0 +1,49 @@
+Senior System Administrator,"The incumbent will be responsible for the
+administration, proper operation and maintenance of the Mobile Number
+Portability Centralized Database so that the Mobile Number Portability
+service is available in Armenia.","- Ensure high availability and acceptable levels of performance of the
+number portability system;
+- Ensure technical compliance of the centralized database (hereinafter
+CDB) system to the requirements set by the supplier contract and the
+tender rules;
+- Control proper maintenance of CDB by the CDB supplier;
+- Responsible for the administration and daily operation of the CDB
+system;
+- Ensure proper security level of IT systems;
+- Diagnose problems, perform troubleshooting and track the trouble
+tickets;
+- Correctly and quickly identify portability process technical issues and
+take necessary actions;
+- Identity OS and/ or networking level issues and solve them with the
+involvement of necessary parties (operator, vendor, etc.);
+- In case of alarm troubleshooting, communicate with the Data Center or
+the CDB supplier;
+- Provide all possible help to mobile operators staff concerning number
+portability processes;
+- Responsible for the coordination of System Administrators activities.","- University degree in Computer Science or an equivalent field;
+- 3-4 years of work experience in administration of high-availability
+systems, preferably in the position of Senior System Administrator;
+- Advanced knowledge of operating systems and networking solutions;
+- Knowledge of Linux, MySQL and IT infrastructure systems;
+- Networking knowledge and experience with Cisco equipment, valid CCNA or
+higher level Cisco certification;
+- Knowledge and understanding of number portability processes;
+- Knowledge of IT systems security principles; knowledge of ISMS is a
+plus;
+- Good communication and teamwork skills;
+- Good initiative and advanced analytical and troubleshooting skills;
+- Ability to learn in a fast-paced environment;
+- Experience as a Team Leader is a plus;
+- Strong knowledge of Armenian and Russian languages; advanced knowledge
+of English language.","All interested and qualified candidates are
+kindly requested to e-mail their CVs to: hr@... . Please indicate
+the position you are applying for in the subject line of the e-mail.
+Shortlisted candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Union of Operators Providing Mobile Number Portability
+Services"" Legal Entities Union is a non-commercial organization, founded
+by Vivacell, ArmenTel and Orange, with the purpose to establish and
+operate a centralized database according to the regulation of the RA
+Public Services Regulatory Commission for making the mobile number
+portability service available in the RA."

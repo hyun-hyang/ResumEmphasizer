@@ -1,0 +1,26 @@
+Senior PHP Developer,"Sourcio CJSC is seeking experienced Senior PHP
+Developers for development of features for its partners' product.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications.","- University degree in the appropriate field of studies;
+- At least 2 years of practical experience;
+- Good knowledge of PHP;
+- Good knowledge of OOP principles;
+- Good knowledge of DHTML (JavaScript, CSS2, CSS3, HTML4, HTML5);
+- Good knowledge of other programming languages: Ruby, Python;
+- Experience developing pages for iOS is a big plus;
+- Experience working on Photoshop or Corel Draw is a big plus;
+- Experience working in Linux environment (Ubuntu, Suse) is preferable;
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language on both communication and
+technical levels.","All interested and qualified candidates are
+welcome to send their CVs to: info@... . Please indicate the
+position title in the subject field of the message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sourcio CJSC is an off shoring and outsourcing solutions
+provider based in Armenia. For more information about the company, please
+visit: www.sourcio.com."

@@ -1,0 +1,39 @@
+Java Developer,"EPAM Systems, Inc. is seeking Java Developers to join
+the Company's team in developing enterprise-level software solutions. The
+Company is looking for energetic people who are ready for new challenges,
+teamwork, and Agile software development.","- Develop enterprise-level software solutions according to technical
+specifications;
+- Participate in all the cycles of software design and development;
+- Contribute to the quality of coding and assure conformance of the
+source codes;
+- Provide the necessary technical and design documentation;
+- Analyze requirements and work with the team members to create quality
+results;
+- Communicate effectively with the local management and external team
+members;
+- Participate in internal and external meetings.","- Bachelor's/ Masters degree in Computer Sciences or a related field;
+- 3 years of experience in developing Java web-based applications;
+- Good Java and Spring/ Spring MVC development experience in a project
+setting;
+- Experience with JSP, AJAX, JQuery and JavaScript;
+- Experience with XML, HTML and CSS; experience with cross-browser
+compatibility;
+- Experience with relational databases (such as MS SQL Server, MySQL);
+- Experience in data model and object design;
+- Good understanding of OOP principles;
+- Good analytical skills;
+- Strong knowledge of the English language both communication and
+technical level;
+- Excellent communication and team-working skills;
+- Ability to work independently.","Interested candidates are asked to submit their
+CVs in the English language to: Marine_Melikyan@... , indicating the
+position title ""Java Developer"" in the subject line of the email. Only
+shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EPAM Systems, Inc. (NYSE: EPAM), is a global provider of
+software engineering and IT consulting services with the headquarters in
+Newtown, PA, USA. The company has software development centers and branch
+offices in the United States, Canada, UK, Switzerland, Germany, Sweden,
+Netherlands, Singapore, Belarus, Hungary, Russia, Ukraine, Kazakhstan,
+Poland, and Armenia."

@@ -1,0 +1,23 @@
+Database Consultant/ Expert,"The Database Consultant will be involved in the
+performance improvement process of the existing project with a huge
+amount of data (approximately 700 million rows in the main table).
+Responsibilities include analyzing query performance, indexing,
+configuration options and probably redesigning the existing database
+schema.","- Investigate the existing project, particularly the database schema;
+- Work with the team and consult regarding performance improvements for
+the project.","- Degree in Computer Sciences or a similar discipline;
+- Over 4 years of experience in DB Engineering, with more that 1 year in
+PostgreSQL;
+- Well versed in SQL;
+- Familiarity with DB design and building applications for PostgreSQL;
+- Strong time management skills and ability to thrive in a fast-paced,
+start-up environment;
+- Good communication skills in English language;
+- Ability to communicate clearly in writing and verbally.","Interested candidates should send their resumes
+in PDF format in English language to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate CJSC is an engineering company with hardware
+and software teams headquartered in Yerevan, Armenia. An R&D branch of
+the company is located in Gyumri, Armenia. Main partners of Instigate are
+in the USA and EU."

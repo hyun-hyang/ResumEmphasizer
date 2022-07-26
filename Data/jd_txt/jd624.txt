@@ -1,0 +1,16 @@
+Software Engineer,"The Software Engineer will be responsible for project
+design and development, and will be reporting to Management of
+Development. The incumbent will be engaged in software design and
+development on C# using .NET 2.0 and MSSQL 2005.",NA,"- BS in CS with at least 3 years of work experience in software
+development;
+- Familiarity with software development cycle;
+- Ability to design databases and algorithms;
+- Excellent knowledge of C#, .NET 2.0 and MSSQL 2005;
+- Good knowledge of IIS, XML;
+- C/C++, Java, Visual Studio 2005 and TFS knowledge is a plus; 
+- Desire to learn new technologies;
+- Good English language skills in writing, reading, listening;
+- Comprehension and oral communication.","To apply, please send your resumes to:Sergey.Barikyan@..., Vahe.Stepanyan@... orArtashes.Hakobyan@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,32 @@
+ASP.NET MVC 4  Developer,"Ingato is seeking an experienced ASP.NET MVC 4
+Developer to be responsible for developing, integrating, and maintaining
+the web applications.","- Program features and enhancements to new and existing web applications
+using ASP.NET MVC 4;
+- Take a role in the design, development, and maintenance of business
+solutions to develop automated solutions for manual processes;
+- Analyze user needs and develop software solutions, and design software
+or customize software for client use with the aim of optimizing
+operational efficiency;
+- Research and test new software programs independently or as part of a
+team;
+- Work closely with the business to understand, develop and confirm
+requirements, design and develop solutions in web, database and reporting
+technologies;
+- Write supporting documentation and model processes;
+- Aid in planning future infrastructure requirements;
+- Ability to set up and manage your own server.","- Over 3 years of experience in developing web based application using
+.Net/ technologies;
+- Experience in web development using the .NET framework with C#/ ASP.NET
+MVC4 is a must;
+- Strong debugging and troubleshooting skills required to resolve issues
+in a timely manner;
+- Experience with HTML/ CSS 2.1 / CSS 3.0  HTML 5;
+- Experience in using JavaScript (JQUERY);
+- Experience with Microsoft SQL Server 2005/ 2008 is a plus;
+- Strong interpersonal skills and ability to work in a team environment;
+- Strong independent person with ability to work with little direction.","Interested candidates are encouraged to submit a
+CV to: hr@... with a note of ""ASP.NET MVC 4  Developer in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Ingato is represented by Sagarko CJSC.

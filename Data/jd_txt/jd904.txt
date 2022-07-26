@@ -1,0 +1,22 @@
+3d Programmer,"Ixibit Armenia LLC is seeking experienced and creative
+candidates to fulfill the position of 3d Programmer. The incumbent(s)
+will be responsible for 3d environments interactive capabilities
+programming.","- Create 3d interactive options (objects animation, changes, etc.);
+-	Interface programming;
+-	Program virtual worlds (scenes);
+-	Program 3d visual effects.","-	Mathematical, physical background or degree in programming;
+-	Strong knowledge of C++ and JavaScript;
+-	Knowledge and experience in working with HTML;
+-	Knowledge of 3d programming (Microsoft DirectX, OpenGL);
+-	Knowledge of Max scripting is a plus;
+-	Experience in object-oriented programming is a plus;
+-	Experience in reverse engineering is a plus;
+-	Experience in writing such libraries is a plus;
+-	Work experience in international company would be an asset;
+-	Ability to work independently and in a team;
+-	Good knowledge of Armenian, Russian and English languages.","Please send your cover letter and CV to:liana.adamyan@... indicating the position title in the subject
+line of your e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ixibit Armenia LLC is engaged in 3d architectural
+visualization."

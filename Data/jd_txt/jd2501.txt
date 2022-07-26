@@ -1,0 +1,33 @@
+Linux Kernel Engineer,"Kubisys CJSC is looking for a Linux Kernel Engineer who
+has extensive knowledge of Linux Internals/ Kernel, especially within the
+context of Xen, to help the company troubleshoot kernel level issues - to
+get to the root causes of them. Some examples of the current issues are 
+I/ O contention, memory fragmentation, kernel crash initiated from PV
+drivers, OCFS2 file system, blktap drivers, etc.","- Troubleshoot various issues: poor performance, memory fragmentation,
+outright crashes under some PV driver configurations, kernel crash
+initiated from some file system (ocfs2) calls, blktap drivers;
+- Examine the underlying architecture and suggest debugging tools and
+methodologies;
+- Tweak kernel configuration for better I/ O performance, memory
+management, resource optimization;
+- Examine and propose new file-system for dedupe/ copy-on-write
+functionalities.","- At least BS in Computer Science or equivalent;
+- At least 5 years of work experience on Linux platform;
+- Extensive experience with Linux Internals/ kernels, especially within
+the context of Xen; 
+- Knowledge of various protocols on top of each other TCP/ IP, Block
+Devices, Filesystem Objects;
+- Knowledge of various Linux/ Xen drivers (e.g. device mapper, blktap),
+to create (virtual) storage devices presented to domU's in Xen;
+- Excellent analytical skills;
+- Strong verbal and written communication skills in English language;
+- Ability and desire to learn new technologies;
+- Good team player.","Interested candidates are asked to e-mail their
+CVs to: gasparyan@... . Please indicate the title of the position
+in the subject line of the e-mail. Only short-listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC aims to automate and simplify the operations
+of enterprise data centers. For more information about the company's
+product and activities, please visit: www.kubisys.com ."

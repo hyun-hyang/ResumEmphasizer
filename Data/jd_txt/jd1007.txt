@@ -1,0 +1,22 @@
+1C Programmer,"SAS-Group is seeking a 1C programmer to implement
+changes, supplements to enhance the efficiency of automated management
+systems.","- Ensure 1C configuration support;
+- Implement program changes in production of existing files, reports,
+accounting, operations and management records; 
+- Produce new files, reports, accounting, operations and management
+records; 
+- Develop new forms and methods for goods turnover;
+- Train head office and supermarkets employees to work with the existing
+and newly-created documents and reports.","- Bachelors degree or equivalent experience in Computer Science or
+related field;
+- At least 5 years experience in programming;
+- High work ethics; 
+- Excellent analytical skills and initiative.","Interested candidates are encouraged to submit
+a CV to: hr.sas@... with a note of ""1C programmer"" in the
+subject line or call 44 89 11 for inquiries. The Group thanks all who
+express interest in this opportunity; however only those selected for an
+interview will be contacted. Applications privacy and confidentiality
+guaranteed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

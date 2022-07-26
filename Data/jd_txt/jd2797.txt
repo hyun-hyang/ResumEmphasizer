@@ -1,0 +1,24 @@
+SCM Engineer,"The primary objective of this position is to ensure
+consistency of infrastructural tools and processes being used within the
+Product Development.","- Monitor and manage source control and configuration management
+systems;
+- Administer regular builds and releases;
+- Manage internal and development tools;
+- Responsible for infrastructural support of PD projects.","- Bachelors degree in Information Technology, Computer Science, or
+related discipline; 
+- Ability to work in a multi-project, multi-system, distributed team
+environment;
+- Knowledge of versioning tools and processes;
+- Experience with scripting languages (Perl, TCL);
+- Professional experience in Linux and good knowledge of network;
+- Experience with MKS and Development Studio is preferred;
+- Familiarity with C++ is preferred.","Interested candidates are asked to email their
+resumes to: yer_job@... . Please mention the position you are
+applying for in the subject line. For questions, please call: (010)
+26-56-01 ext. 7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it was founded in
+1980. It has currently over 500 employees worldwide in 15 offices. Its
+Yerevan office was opened back in 2004. For more information please go
+to: www.cqg.com ."

@@ -1,0 +1,76 @@
+Mid-Level Software Developer,"The Mid-level Developer will focus on core software
+development tasks and the front-end customizations of web portals
+developed by the company. The core Software Development includes tasks in
+areas involving application programming, testing, documentation and
+delivery.","- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software; 
+- Perform the assigned tasks, as well as quality assurance tasks
+(developer's testing) in a precise and timely manner; 
+- Document the software products that will be produced;
+- Develop user interface ideas;
+- Work closely with the Requirements and Quality Assurance Teams during
+User Acceptance Testing;
+- Develop, test and maintain high-quality and secure Web database and Web
+portal applications;
+- Troubleshoot and resolve issues with production software and services;
+- Collaborate with QA and documentation personnel in developing test
+planning and user documentation; 
+- Conduct the broad research of the technologies available in the market
+and deliver cutting edge solutions to employ in the daily work of his
+team.","- Master's degree;
+- At least 3 to 5 years of work experience in Java development;
+- Strong knowledge of OOA/ OOD;
+- Good understanding of UML diagrams; 
+- Strong Core Java programming skills; 
+- Strong knowledge of Java server side web technologies (Servlets/ JSP);
+- Experience in development of Java based standalone applications and/ or
+web-based systems, and/ or web services;
+- Experience in development of client-side applications: JavaScript/
+Ajax/ HTML/ CSS; 
+- Experience in .NET, ASP.NET, C#, VPS and WCF;
+- Experience in  complex database systems: MySQL, MS SQL and ORACLE; 
+- Experience in development of systems based on RDBMS is desirable; 
+- Ability to solve development problems;
+- Experience in a relevant field is crucial; 
+- Fluency in technical English language; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- High level of responsibility;
+- Ability to co-ordinate diverse and simultaneous activities by using
+effective planning, organization and time management skills;
+- Ability to ensure quality and competitiveness;
+- Ability to work in an autonomous environment;
+- Understanding of how products are delivered to customers through
+electronic media;
+- Self-motivated and ability to work independently and very thoroughly;
+- Creativity and imagination;
+- Skills in using computer design packages and drawing ability; 
+- Stong UI design skills;
+- Ability to manage time effectively, work under pressure and in
+multi-task environment; 
+- Technically proficient with the ability to grasp new concepts quickly;
+- Good reading and written communications skills and demonstrated ability
+to collaborate effectively with developers and non-developers;  
+- Strong interpersonal and organizational skills and ability to deal
+effectively in a team environment;
+- Ability to analyze complex problems, interpret operational needs and
+develop integrated and creative solutions;
+- Availability of professionalism and well-developed interpersonal
+skills.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Mid-level Software
+Developer"", listing your qualifications and indicating your contact
+details (phone, fax, and/  or e-mail address where you can be reached)
+to: careers@... . Candidates who meet these qualifications
+will be short-listed and interviewed. Selected candidates will be
+notified of the interview dates directly. We thank all who apply but only
+those selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

@@ -1,0 +1,30 @@
+Android Developer,"Virtual Solution Global Services LLC is seeking a
+motivated Android Developer.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Effectively communicate with local management and external team
+members;
+- Develop applications according to technical documentation;
+- Develop test cases;
+- Install and configure necessary environment for the developed
+applications.","- At least 3 years of work experience as a Software Developer;
+- At least 1 year of work experience as Android Developer;
+- Excellent knowledge of Java and OOP;
+- Excellent knowledge of Android SDK;
+- Knowledge of SQLite database (creating databases, writing queries);
+- Good knowledge in (X)HTML, CSS, JavaScript and XML;
+- Good knowledge in Service Oriented Architecture;
+- Build environment: Maven and Eclipse;
+- OS: Linux Ubuntu;
+- High skills with Linux Operating System: system administration, writing
+Shell scripts, etc.;
+- Ability to work on project with a development team;
+- Problem solving skills;
+- Good communication skills;
+- Good knowledge of English language.","Interested candidates should email their resumes
+to: info-am@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+Virtual Solution GmbH, German IT company, developing international
+software. For additional information about the company, please visit its
+website: www.virtual-solution.com."

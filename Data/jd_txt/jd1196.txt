@@ -1,0 +1,26 @@
+Senior .Net Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of a Senior .Net Developer.","- Design, construct and maintain new and existing business information
+systems;
+- Work in a team or individually in all phases of the software
+development life-cycle;
+- Interface with stakeholders and end users to clarify requirements and
+complete software designs;
+- Write code to develop applications and be responsible for producing
+design, installation and operational documentation consistent with the
+firm's software development life-cycle.","- University degree in Computer Science or a related field;
+- Minimum 5 year experience in developing ASP.NET 2.0/3.0/3.5 Web
+applications utilizing Visual Studio 2005/8, C#.NET and ADO.NET;
+- Strong knowledge of Object Oriented programming;
+- Good knowledge of Microsoft SQL Server 2005/2008  and Transact-SQL;
+- Good knowledge of HTML, DHTML, XML/XSLT and client-side Scripting;
+- Knowledge of Microsoft SharePoint and Microsoft Dynamics CRM is a
+plus;
+- Excellent communication and interpersonal skills;
+- Good knowledge of English language.","To apply, please submit your resumes to:jobs@... . Please mention ""JobID 1025"" in the subject line of
+your email. No personal visits, deliveries or phone calls, please! Only
+short listed candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC is a software development company, Microsoft
+Gold certified partner. Main specialization is providing specific
+business solutions. More details can be found at: www.sflpro.com."

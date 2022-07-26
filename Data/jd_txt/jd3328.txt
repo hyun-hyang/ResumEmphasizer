@@ -1,0 +1,55 @@
+Database Administrator,"The Database Administrator manages and administers the
+company's database management systems, and makes sure they are
+consistent, secure, and of a high standard. The incumbent should
+guarantee the continuity of operations for a web platform. He/ she
+manages and supervises the databases in an active operational context.","Administration:
+- Responsible for design and modeling, installation/ configuration;
+- Provide all documentation (the configuration, administration guide, the
+operations guide, etc.);
+- Implement the database management of software;
+- Monitor software packages;
+
+
+Operations:
+- Responsible for administration (including backups, audit, tuning and
+updates);
+- Responsible for the definition and management of storage spaces;
+- Set up the standard;
+- Improve performance and the availability of services;
+- Responsible for query optimization;
+- Provide data integrity; 
+- Manage data flows;
+- Manage security (confidentiality and access);
+- Test, validate, deploy all required software and software packages;
+
+
+Support:
+- Provide assistance (such as training, technical queries,
+troubleshooting, etc.);
+- Manage all incidents with DB support;
+- Work with the developers' support teams;
+- Ensure that all the above-mentioned functions are accomplished with
+confidentiality and in accordance with the Bureau Veritas BIVAC Code of
+Ethics.","- Higher education in Computer Science or a related field;
+- Knowledge of English and Russian languages;
+- Knowledge of the French language is a plus;
+- Good knowledge of PostgresSQL;
+- Knowledge of Linux OS Family;
+- Confirmed DBA expertise on projects with high volume experience;
+ability to identify non-performing components and establish the root
+cause of failure within the overall solution;
+- Ability to produce clear documents, to document all activities during
+installation and to record deviations and remedial activities;
+- In relation with the development team, ability to ensure the integrity
+of the system, to control functional updates, and to manage maintenance
+activities;
+- Attention to detail.","All interested and qualified candidates may
+submit their CVs to: hasmik.kirakosyan@... . Please, indicate the
+position title in the subject line of your e-mail. Only short-listed
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Bivac Armenia implements the electronic exchange platform
+of Armenia Single Window for Automotive. It centralizes all the data
+about insurance policies and claims. It will be used by all the
+stakeholders of auto insurance companies."

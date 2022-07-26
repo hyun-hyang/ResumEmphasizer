@@ -1,0 +1,28 @@
+Junior Java Developer,"EYESoft LLC is looking for a highly motivated
+personality to join company's team as a Junior Java Developer.","- Participate in software development process;
+- Read, understand and modify the existing code;
+- Work as part of a team; 
+- Learn new technologies.","- Higher education in the appropriate field of studies;
+- Good knowledge of OOP principles;
+- Basic knowledge of Java programming language;
+- Knowledge of the following technologies is a plus:
+a) HTML, CSS, XML/XSLT, JavaScript, jQuery, Dojo Toolkit, AngularJS, GWT,
+etc.;
+b) JEE  Servlet, JSP, JSTL, JNDI, JMS, JAX-WS, etc.; 
+c) Databases - MySQL, PostgreSQL, Oracle, MSSQL, etc.;
+d) Persistence Layer Frameworks - MyBatis, Hibernate; 
+e) Spring Frameworks, Spring Security;
+f) Web Services Frameworks  CXF, Axis2, Metro, Spring WS; 
+g) Apache Technologies  Commons Libraries, Ant, Log4J, ActiveMQ, MINA,
+Jackrabbit, Hadoop, etc.;
+- Basic knowledge of English language, ability to read and understand
+technical documentation;
+- Ability and willingness to learn; 
+- Self-motivated, organized and good team player;
+- Good problem-solving skills;
+- Previous work experience is a plus.","All interested candidates should send their CVs
+to: info@..., quoting the job title in the subject line of the
+e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

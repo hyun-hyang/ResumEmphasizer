@@ -1,0 +1,21 @@
+Microsoft Developer - CRM,"The Microsoft Developer  CRM will work on maintaining
+and extending an in-house developed CRM-4 based financial planning
+solution.","- Work with the global teams;
+- Initially assist in the upgrade of software libraries and operating
+environment; shift to extending the application over time for the
+company's global audience.","- At least 1 year of experience with Microsoft CRM 2013;
+- Experience with CRM upgrades, deployments and solution management;
+- Experience with Windows 2008/ Windows 7 environments and CRM;
+- Experience with Microsoft SQL server;
+- Some experience with the Microsoft development stack, including TFS,
+Visual Studio; 
+- Understanding of .Net based development; 
+- Some knowledge of Javascript and web-based front-end technologies;
+- Fluency in English language.","Interested candidates are asked to send their
+resumes and cover letters to: candace.ohanessian@... . Only
+shortlisted applicants will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Praemium is an investment platform that provides CRM.
+Praemium also has offices in the UK, Jersey, Australia, Hong Kong and
+China."

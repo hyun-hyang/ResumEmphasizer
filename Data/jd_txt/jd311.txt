@@ -1,0 +1,24 @@
+Software Developer - SQL Server,"AltaCode is looking for highly qualified and motivated
+persons with deep knowledge and practical experience in object oriented
+programming and Web Development.","- Develop Web  and/ or Database Applications in accordance with given
+specifications;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify an existing code;
+- Assist in the development of accompanying technical documentation;
+- Provide technical support and assistance.","- Master's degree in Computer Sciences;
+- Work experience in C++;
+- 2 years of work experience in .Net Framework (ASP.Net and C#);
+- Excellent knowledge of SQL Server 2000 and proficiency with T-SQL; 
+- 3 years of work experience in developing Web Services (SOAP and UDDI)
+is desired;
+- Experience or any kind of exposure to VS 2005 and SQL 2005 is a plus;
+- Experience or any kind of exposure to SQL reporting services is a
+plus;
+- Experience with XML, HTML, CSS and JavaScript;
+- Good knowledge of technical English language;
+- Communication skills.","Please email your detailed CV in English to:resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AltaCode Ltd. is a start-up software development
+company, specializing in database driven Web Applications Development
+and providing Software Development Services to US companies."

@@ -1,0 +1,22 @@
+Advanced Java Developer,"Senior backend developer is one of the key persons to
+take part of the running projects in one of our core teams.","- Software development 
+- Act as a mentor within the team 
+- Code review within the group","- At least 5 years experience in structured Java server-side software
+development 
+- Experience in developing load-balanced Internet applications for heavy
+traffic environment (5 years) 
+- Experience in multilayer Web-architecture (5 years) 
+- Experience in UNIX/Linux operating system including TCP/IP (5 years) 
+- Experience in MySQL and/or Oracle databases including SQL (>3 years) 
+PREFERRED QUALIFICATIONS:
+- Experience of working in operations environment (or interfacing to) 
+- UML","Send your CV to info@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Lycos Armenia currently employs 71 employees. Since
+there is a growing demand by our European development offices we are
+actually engaging new staff and plan to employ 100 employees at the end
+of the year. Additionally Lycos Armenia is building up an operations
+department, the plan is to have 20 employees before the end of the year.
+Many Lycos products are partly or fully programmed in Armenia.
+We are located at 9 Alek Manookian Str."

@@ -1,0 +1,12 @@
+Junior Software Engineer/ GUI Architect,"The candidate will determine potential problems in the
+company's programs, reveal unusual constructs that may be a source of
+subtle and undetected errors and fix them. S/he will also contribute to
+the development and maintenance of GUI tests.",NA,"- Basic scripting/ coding skills (knowledge of Unix Shells and TCL);
+- Ability to search and study documentation;
+- Basic knowledge of object oriented programming;
+- Ability to quickly study software testing tools;
+- Good English language communication skills;
+- Team working capability.","To apply, please send your resume to:hr.armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

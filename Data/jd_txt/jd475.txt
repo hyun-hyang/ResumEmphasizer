@@ -1,0 +1,41 @@
+Senior Database Administrator/ DBA (Oracle),"The incumbent will be responsible for performing
+database maintenance, technical support, supporting on-going application
+development, installation and upgrades of related applications.","- Ensure Oracle systems uninterrupted availability; 
+- Be responsible for installation, tuning, optimizing and
+troubleshooting Oracle instances; 
+- Be responsible for SQL*Loader, Imports/ Exports, Backup and Recovery
+strategies monitoring and implementation; 
+- Lead server and PC configuration in reference to SQL*Net; 
+- Prepare SQL queries and reports.","- 4+ years of Oracle Database Administration experience; 
+- 2+ years of Technical Support experience; 
+- Strong proven experience in PL/ SQL;
+- Knowledge of tuning and troubleshooting Oracle instances;
+- Tuning and troubleshooting Oracle instances in a clustered environment
+is a big plus;
+- Ability to install Oracle on Linux/ UNIX;
+- Ability to write and optimize code in PL/ SQL;
+- Experience in configuring and maintaining highly scalable
+environments;
+- Strong Knowledge of Oracle Backup/ Recovery Methodologies and
+Strategies;
+- Good UNIX Administration skills;
+- Oracle Certifications in 8i or higher is a big plus;
+- Knowledge of Microsoft Windows 2000/2003 is preferred;
+- Solid knowledge of networking principles;
+- Good organizational skills;
+- Excellent communication, troubleshooting, written and oral skills; 
+- Ability to work off hours, during weekends and holidays to meet
+deadlines;
+- Ability to ramp-up quickly on new technology or new project;
+- Degree in Computer Sciences or relevant experience; 
+- Proficient with the fundamentals of Oracle server from an
+administration perspective; 
+- Proficient with Designer 2000, Enterprise Manager, Developer 2000 and
+OAS; 
+- Experience in SQL and PL/SQL, Windows 95/98, NT, UNIX and PERL; 
+- Experience in Business Objects, FTP, Designer 2000, Enterprise
+Manager, Telnet, SQL Navigator, Developer 2000 and OAS.","Please, email your CVs to:databaseadmin@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""K-Telecom"" CJSC was established in Armenia in January
+2005 as a mobile network company."

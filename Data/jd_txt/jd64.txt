@@ -1,0 +1,22 @@
+IT Specialist - System Admin.,"The IT Specialist will serve as part of the IT team
+responsible for the daily operations of LinkGard client's desktop and
+network environment.","- IT support for a small office, covering desktop, network and system. 
+- Management of anti-virus policy
+- Administering company's firewall
+- Hardening Windows XP/NT/2000 hosts 
+- Installation, configuration, and maintenance of software on MS Windows
+desktop systems
+- Troubleshooting faulty hardware/software systems
+- Backup of critical data","- 3+ years of Windows NT/2000/XP sysadmin and support experience
+- 3 years of experience in network administration
+- Excellent knowledge of TCP/IP protocol, firewalls, and network
+security in general
+- The knowledge of following is also a plus:  UNIX, Linux, BSD, MySQL.
+- Knowledge of various backup technologies(including DLT, CDRW, etc..)","Send your resume, cover letter, and 3
+references to jobs@.... In the subject line, please mention the
+announcement code (LG-003).
+We do not accept physical delivery of resumes. Please don't call us. We
+will call you.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,LinkGard Systems is an IT based privately held company.

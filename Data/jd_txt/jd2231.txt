@@ -1,0 +1,36 @@
+.NET / SharePoint Developer,"Company is looking for bright, enthusiastic and
+energetic team players that are excited about Microsoft technology, and
+who want to help company solve problems and deliver value for clients. As
+a .NET/ SharePoint Developer at TopSoft, the incumbent will be creating
+applications using Microsoft .NET, MVC, C#, Active Server Pages
+(ASP.NET), SQL Server, and SharePoint 2010/ 2013. He/ she will be
+developing applications and components using Microsoft Visual Studio
+2012. If youre a can-do developer who wants to learn, grow, and work in
+a creative, fun, stimulating environment, then TopSoft wants to hear from
+you.",NA,"- Bachelor's degree in Computer Sciences or a related discipline; higher
+degree is a plus;
+- At least 2 years of professional software development experience;
+- Proficiency in C#;
+- Experience with SQL Server 2008/ 2012 (or other major DBMS) using SQL
+and stored procedures;
+- Client scripting skills (JavaScript, jQuery, JSON and AJAX);
+- Experience with CSS, XML and XSLT;
+- Ability to work well as part of a team;
+- Good communication skills;
+- Solid Internet application development experience.
+Desirable Skills:
+- Experience in developing web parts/ features for MOSS 2007/ SharePoint
+2010/ 2013, including experience in using the SP object model, SharePoint
+Designer, and Workflows (or willingness to learn);
+- Experience with unit testing, NUnit and Microsoft Mocks;
+- Experience with data modeling and object modeling, as well as MVC;
+- Experience in being responsible for the over-all project database
+design, application architecture and application design;
+- Experience in producing Design Documentation and Functional
+Specifications.","Please submit your resumes to: jobs@... .
+Please mention ""TS13001"" in the subject line of your email. For more
+details, please visit: http://bit.ly/XZ3CSU .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"TopSoft Solution Center /Shant Compu LLC/ is a software
+development company."

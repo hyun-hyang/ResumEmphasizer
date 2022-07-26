@@ -1,0 +1,30 @@
+IT Reporting Engineer (Database Developer),"The incumbent will be responsible for IT reporting and
+data warehouse development, configuration and maintenance.","- Responsible for IT Reporting and data warehouse development,
+configuration and maintenance;
+- Report development for internal customer;
+- Develop regular export data from Billing and Data warehouse;
+- Document all necessary procedures and reports;
+- Develop complex reports and prepare/ process set of data for
+crosschecking;
+- Responsible for IT and Billing data monitoring, as well as services
+creation;
+- Report on activity to team leader.","- Education in Computer Sciences or equivalent domain;
+- At least 2 years of experience in system development;
+- Advanced knowledge of reporting and BI systems and methods;
+- Excellent knowledge of Development Tools;
+- Prepaid and Postpaid systems knowledge;
+- Excellent knowledge of ORACLE Database;
+- At least 2 years of experience in SQL and PL/ SQL;
+- Good knowledge of statistics and charts;
+- Scripting ability - HTML, PHP, JAVA SCRIPT and VBScripting;
+- Fluent knowledge of Russian and English languages;
+- Strong analytical and problem solving skills;
+- Organized, systematic and logical approach to the work;
+- Excellent communication skills.","Candidtaes who meet the requirements, are
+encouraged to send a CV and Motivation Letter to: hr@... .
+Please indicate the name of the position in the subject line of e-mail.
+Company thanks all interested applicants, however, only shortlisted
+candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

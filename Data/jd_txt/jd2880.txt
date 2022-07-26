@@ -1,0 +1,42 @@
+Senior Software Engineer (MTS-4),"The Senior Software Engineer (MTS-4) will design, code
+and debug quality software programs for assigned projects.","- Deliver robust, scalable quality software products on time;
+- May be asked to help lead a small project;
+- Provide mentorship, guidance and direction to other team members;
+- In coordination with the Engineering Manager, plan and execute projects
+through all phases of the projects development;
+- Document code consistently throughout the development process by
+listing a description of the program, special instructions and any
+changes made in database tables on procedural, modular and database
+levels.
+The above statements describe the general nature and level of work being
+performed and are not intended to be an exhaustive list of all
+responsibilities and duties required of personnel so classified.","- BS/ MS in Computer Science, Maths, Physics or a related discipline;
+- At least 10 years of experience in IT field, at least 3 years of hands
+on experience as a Senior Software Engineer or Team Lead;
+- Solid experience with Java programming language; experience with C++
+and Objective C is desirable; 
+- Ability to manage and realize problem solutions within a specified time
+range;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Strong and effective inter-personal and communication skills;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language;
+- Good documentation skills;
+- Ability to multi-task and stay organized in a dynamic work
+environment;
+- Understanding of Agile development life cycle;
+- Experience working with any version control systems;
+- Understanding of networking/ distributed computing environment concepts
+is a plus;
+- Knowledge of J2EE application servers, Java Servlet Containers, Web
+services and surrounding technologies is desirable.","Interested candidates are asked to e-mail their
+last updated and detailed resume to Liana Avetisyan (HR) at:lavetisyan@... . Please indicate ""Senior Software Engineer
+(MTS-4)"" in the subject line of the e-mail. Only shortlisted candidates
+will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware, Inc. is an American software company that
+provides cloud and virtualization software and services, founded in 1998
+and based in Palo Alto, California, USA. For more information about
+VMware, please visit: www.vmware.com ."

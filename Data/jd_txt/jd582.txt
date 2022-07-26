@@ -1,0 +1,30 @@
+C# .NET Senior Developer/ Team Leader,"CompatibL is seeking experienced C# .NET
+developer-architects to lead the team of programmers designing and
+implementing software solutions for financial software.","- Supervise the development of sophisticated applications for financial
+clients;
+- Understand the client requirements and design their implementation in
+the .NET platform;
+- Organize and lead the collaboration of your team with the team of
+quantitative analysts;
+- Serve as the liaison between your team and development teams in other
+company locations;
+- Provide leadership and guidance to your team of software developers,
+ensure their continued professional growth;
+- Organize and maintain quality controls to ensure the highest
+production standards; 
+- Manage the team growth and recruitment of new specialists.","- Expert knowledge of object oriented programming and design patterns;
+- Expert knowledge of the .NET platform and experience implementing .NET
+projects;
+- Familiarity with WinForms, Remoting, Microsoft Enterprise Library is a
+plus;
+- Experience managing a team of programmers in a commercial enterprise;
+- Successful track record of developed software products and solutions;
+- Demonstrated leadership and project management capabilities, ability
+to make independent decisions and meet strict deadlines; 
+- Good knowledge of technical English language and fluent knowledge of
+Russian.","If interested, please email your detailed CV in
+English to: jobs.am@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CompatibL is a US software company. For more information
+see the company website: www.compatibl.com."

@@ -1,0 +1,21 @@
+Perl Developer,"The incumbent will develop object oriented Perl
+scripts for the financial software company.","- Parse global financial data feeds;
+- Create web based reports and data access tools;
+- Develop database APIs;
+- Perform lexical and statistical analysis of complex financial data;
+- Participate in the full life cycle of product development.","- Extensive experience in object-oriented perl programming;
+- Basic SQL/RDBMS experience;
+- Advanced knowledge of and experience developing under Unix/Linux,
+including shell scripting.
+Desirable Qualifications:
+- Experience using procedural extensions to SQL (t-SQL, PL/SQL, or
+other);
+- Experience with Oracle 10g;
+- Data warehousing/ ETL experience;
+- Thorough knowledge of regular expressions (Regex).","Please, send your resume to:jobs_am1@.... Only short-listed candidates will be invited for
+an interview. Your email subject should read ""Perl developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""OMD"" LLC is a wholly owned subsidiary of OneMarketData
+LLC, New York-based producer of enterprise market data and CEP solutions
+for financial institutions (www.onetick.com)."

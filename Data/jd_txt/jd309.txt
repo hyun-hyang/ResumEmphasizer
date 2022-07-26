@@ -1,0 +1,18 @@
+Database/ Software Architect,"We are looking for candidates to fulfill the position
+of Database/ Software Architect.","- Develop databases using MySQL InnoDB tables;  
+- Develop Database Abstraction Layer using PHP    mysqli extension;
+- Read, understand and modify an existing code.","- Strong knowledge of object oriented design;
+- Strong knowledge of modeling relational databases;
+- Work experience with MySQL versions 4.0.x,4.1.x and 5 with usage of
+transactional InnoDB tables;
+- Knowledge of operating systems (FreeBSD, Linux and Windows);
+- Work experience with development environments and tools like Eclipse,
+Ant, Makefiles and CVS;
+- Knowledge of PHP and related MySQL extensions.","Please email your detailed CV to:nerses.voskerchyan@.... The attached CV should be named in the
+following format: Firstname_Lastname.ext, where ext will be the file
+extension.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The preference will be given to candidates, who have
+already passed service in the army or are exempted from the military
+service.",GlobalSoft is a software development company.

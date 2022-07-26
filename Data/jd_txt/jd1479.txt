@@ -1,0 +1,42 @@
+Unix/ Linux Administrator,"Unix/Linux Administrator works in 24/7 support handling
+a wide range of technical issues from various customers in several
+countries. The job is in a delivery environment where time constraints
+are critical and contractual service levels must be met.","- Implement optimized and secure Unix based platforms and services;
+- Be responsible for Unix (Solaris, Redhat Linux, AIX, Vmware ESX hosts
+and Linux virtual guests) customer installations, configurations, testing
+and troubleshooting;
+- Evaluate and test the associated delivery mechanisms, test and
+configure procedures for new unix system and application service
+offerings;
+- Utilize and edit/advise on necessary requirements, documentation and
+procedures to create and perform UNIX system deliveries.","- Server administration experience in large corporate environment (at
+least dozens of servers in different sites connected via WAN);
+- Very good knowledge in Linux based infrastructure design and
+administration;
+- Extensive troubleshooting experience;
+- Good scripting skills; good knowledge in high-availability solutions;
+knowledge in virtualization (e.g. VMware);
+- Good knowledge in designing and implementing backup and disaster
+recovery concepts;
+- Strong communication skills;
+- Experience in HW design and troubleshooting (IBM, HP, SUN, Dell, BULL,
+SGI);
+- Storage solutions knowledge, Storage Area Network knowledge;
+- Problem and Change management tools knowledge;
+- Project management fundamentals knowledge;
+- RedHat Certified Engineer (RHCE), RedHat Certified Technician (RHCT),
+Linux RHEL/SLES certification, Novell/SuSE Certified Linux Professional
+(CLP) 9,10;
+- Ability to work in 3 shift mode;
+- Fluent/ advanced knowledge of English language; knowledge of French is
+a big advantage.","If you are a suitable candidate, please send
+your CV only in English to: jobs@... with the subject line
+""UNIX/AM/1"". CVs with technical details are preferred.
+All the shortlisted candidates will be called or e-mailed. Thank you for
+your interest.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Natek is a provider of IT outsourcing and consulting
+services in Central and Eastern Europe. Natek delivers services in the
+following countries: Bulgaria, the Czech Republic, Poland, Romania and
+Slovakia and has representative offices in France, Georgia and Ukraine."

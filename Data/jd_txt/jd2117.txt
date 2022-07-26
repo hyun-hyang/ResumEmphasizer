@@ -1,0 +1,18 @@
+Software Developer,"Armeconombank OJSC is looking for a .Net Developer to
+join its team. The Software Developer will take part in design and
+development projects.",NA,"- B.S. in Computer Sciences or any related technical field;
+- Proficiency in OOP/ OOD and knowledge of software design patterns;
+- Excellent knowledge of C# or VB.NET language; 
+- Good knowledge of Transact SQL;
+- Good understanding of web services;
+- Practical work experience with WCF;
+- Good understanding of the .Net framework internals;
+- At least 1 year of work experience in .Net Framework (ASP.NET, C# and
+VB.NET); 
+- Work experience in Ms SQL Server database design and programming; 
+- Good communication skills; 
+- Good knowledge of English language.","Interested candidates are kindly requested to
+email CV/ resume in English language to: it@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

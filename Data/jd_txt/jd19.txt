@@ -1,0 +1,15 @@
+Programmer,"Design and implementation of various banking
+applications.",NA,"- B.S in software engineering
+- Minimum 2 years programming experience 
+- Windows and Unix operating systems
+- MS SQL Server, Oracle databases
+- Visual Studio.Net ( Visual C++ and Visual Basic )
+- Knowledge of English language
+Preferred Qualification:         
+- POS programming experience
+- Smart cards programming experience 
+- Knowledge of EMV","Qualified candidates should send their resume
+to talin@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

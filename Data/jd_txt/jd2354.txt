@@ -1,0 +1,13 @@
+iOS Developer,"The incumbent will be responsible for developing iOS
+applications in communication field.","- Develop iOS applications in communication field;
+- Implement features;
+- Fix bugs.","- From 1 to 5 years of work experience in Development;
+- Experience in C/C++ is a plus;
+- Experience in streaming technologies is a plus;
+- Fast learner;
+- Good team player.","If interested, please email your resume to:job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom develops own unified communication
+technology and own product. For more information please visit:
+www.zangi.com ."

@@ -1,0 +1,71 @@
+SharePoint Developer,"The ideal candidate for this position must be
+experienced in designing and developing highly performing SharePoint
+applications. The SharePoint Developer will be involved in small to large
+scale projects through all stages of the software development life cycle,
+from requirements gathering to implementation. He/ she will collaborate
+with business stakeholders, the user interface team, .NET developers and
+database architects to design and develop highly functional and user
+friendly web applications.","- Implement and maintain the SharePoint environment;
+- Provide daily administration and support of applications within the
+SharePoint environment;
+- Work with customers and business analysts to design SharePoint
+solutions that satisfy business requirements;
+- Develop and implement SharePoint collaboration portals/ sites using
+SharePoint Designer/ Visual Studio .NET Framework;
+- Develop custom SharePoint-based solutions and implement customizations
+via solutions framework;
+- Design solutions that leverage out-of-the-box SharePoint
+functionality;
+- Develop custom web parts, work flows, InfoPath Forms and list event
+handlers;
+- Provide support and expertise for a multi-tiered environment;
+- Evaluate any additional infrastructure or software required to support
+the SharePoint environment;
+- Deploy applications within the SharePoint environment;
+- Act as the subject matter expert on development techniques; 
+- Create documentation and participate as a reviewer and contributor in
+requirements design and estimation;
+- Identify ideas to improve system performance and impact availability,
+as well as resolve complex technical design issues;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support; 
+- Play active role in defining and implementing best practices, standards
+and procedures including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Support the Team Lead in technical decisions and development
+estimates;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Conduct research and proof of concepts;
+- Produce rapid prototypes for the project if deemed necessary; 
+- Share knowledge and lessons learned with team members.","- Degree/ diploma or equivalent work experience in a related field;
+- At least 3 years of work experience in customizing sites with
+SharePoint Designer;
+- At least 3 years of work experience in implementing or supporting
+SharePoint solutions;
+- Strong MOSS 2007/ 2010 Software Development experience including
+design, development and implementation of custom Web Parts, workflows and
+InfoPath;
+- Strong experience with the .NET Framework (C# and ASP.NET), HTML, CSS,
+JavaScript, AJAX and XML/ XSL/ XSD; 
+- Proficient experience in designing and developing Microsoft enterprise
+server products, specifically MS SharePoint Designer, MS Office
+SharePoint Server 2007/ 2010, Windows SharePoint Services v3.0 and
+InfoPath;
+- Excellent written and oral communication skills; 
+- Strong problem-solving and decision-making skills; 
+- Excellent time-management and organizational abilities that facilitate
+structured teamwork;
+- Highly developed communication, presentation, facilitation and
+negotiation skills;
+- Ability to work with minimal supervision;
+- Ability to adapt and change based on new business requirements;
+- Experience and/ or personal interest in the financial industry is an
+asset;
+- Microsoft Certified Professional certification (MCAD or MCSD) is an
+asset.","Please submit your resume through: http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=223
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.com."

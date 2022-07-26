@@ -1,0 +1,24 @@
+Software Architect,"This is a software architect position driving the
+design and development of core LinkGard products. The desired candidate
+must be a team player and have experience in a wide array of
+technologies.","- Provide technical leadership and drive the architecture and design
+solution to to meet business needs;
+- Ability to look at the ""big picture"" and a forward looking attitude
+with vision to develop new, innovative products using new and evolving
+technologies;
+- Prototype new product concepts;
+- Lead the engineering team on the continuous improvement of software
+infrastructure;
+- Give presentations to technical and non-technical audiences and
+articulate complex technical requirements and designs.","- 5+ years of experience;
+- Development experience spanning a variety of programming languages and
+platforms with emphasis in C++, .NET (C#), Java, Unix/Linux, MS SQL and
+Oracle databases;
+- Have understanding of archiving and content management technologies;
+- Have strong understanding of various VoIP products, technologies, and
+protocols.","To apply for this position, e-mail your cover
+letter and resume to: jobs@.... Please put the announcement
+code (LG041) in the subject line of your e-mail message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

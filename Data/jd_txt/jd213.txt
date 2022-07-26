@@ -1,0 +1,30 @@
+Java/PHP Developer,"The role requires dedicated and responsible Java/PHP
+professionals. The responsibilities of this position are focused on
+software development tasks such as developing integrated  web
+applications and web portal systems.","- Product development working through requirements gathering,
+architecture, development and release;
+- Translate design requirements and specifications into robust
+implementations;
+- Design, proto-type, develop and manage the technical aspects of the
+software;
+- Perform the assigned tasks in the precise and timely manner;
+- Perform quality assurance tasks, such as testing of the software
+products (developers testing);
+- Document the software products that will be produced.","- Bachelor's degree in computer science, information technology or
+related discipline (Masters degree preferred);
+- Good knowledge of object oriented programming;
+- Enterprise web-based applications and web services;
+- Skilled in web based technologies: PHP, JSP/Servlets/, JDBC, XML, XSL,
+Java, HTML, DHTML;
+- Practical work experience in all  mentioned fields;
+- At least 2 years of intensive coding experience of DHTML interfaces
+(Java Script and HTML), understanding of XML and emerging standarts;
+- Practical work experience with Apache web server, including ability to
+configure it for common tasks;
+- Additionally experience with some of the following would be desirable:
+MySQL, CVS, Eclipse;
+- English language knowledge is highly desired.","Please submit your detailed CV directly to:Aram.Tovmasyan@.... Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

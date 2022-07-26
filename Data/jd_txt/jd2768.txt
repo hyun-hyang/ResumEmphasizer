@@ -1,0 +1,23 @@
+Linux Administrator,"Those who have the ability to dig under the hood of
+Linux, may apply to join the company's team.","- Install and configure LINUX based servers;
+- Upgrade and configure system software that supports the clients
+infrastructure applications;
+- Maintain operational procedures;
+- Troubleshoot all OS and server related issues.","- Solid knowledge of RedHat (Oracle Linux), Debian(Ubuntu) based Linux
+operating system;
+- Basic Understanding of networking concepts and protocols (TCP/ IP);
+- Knowledge of shell scripting languages (bash, sed, awk);
+- Working knowledge of software and hardware raid and disk multipathing;
+- Experience with Software repositories management by apt and yum;
+- Knowledge of mail system;
+- Experience with backup systems;
+- Experience with Databases;
+- Experience with monitoring systems (Cacti, Nagios, Check_MK) is a
+plus;
+- Experience with Apache, Tomcat, Nginx web servers is a plus;
+- Knowledge of NFS, CIFS, SNMP, DNS, FTP, RSYNC is a plus.","Interested candidates are asked to send their
+CVs to: jobs@... and they will be called to discuss further
+details. Please mention ""JobID 11930"" in the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

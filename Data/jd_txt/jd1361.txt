@@ -1,0 +1,30 @@
+Unix Administrator,"The Unix Administrator will be responsible for
+administration of Unix production systems.","- Install and upgrade Unix systems;
+- Perform data backups and recoveries;
+- Control user access to resources and information;
+- Audit systems usage;
+- Monitor and allocate storage space for data;
+- Answer to user questions;
+- Develop and assist in the development of scripts and applications;
+- Keep current with operating system and application development
+technologies;
+- Report on activity to the Team Leader.","- Computer sciences graduate;
+- 4-6 year work experience in Unix administration and supervision;
+- Good knowledge of Unix and network security;
+- Good knowledge in Oracle Database installation;
+- Ability to work and communicate within a team.","To apply for this position please open
+www.careerhouse.com website, register as an individual user (unless you
+have previously registered), fill out your Resume, then open the same
+announcement there, click on the ""Apply"" button in the upper right corner
+of the announcement and proceed to receive the confirmation message.
+Please make sure you necessarily fill out the References section in your
+Resume and attach any references you have.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Should you have any questions regarding registration
+process, please call Career House: +(374 10) 51 90 62.","France Telecom is a telecommunications operator providing
+services to more than 170 million customers on five continents of the
+world of which 120 million under the Orange brand.
+Orange Armenia is operator in the mobile telecommunications sphere in
+Armenia.
+Visit www.orangearmenia.am for more information."

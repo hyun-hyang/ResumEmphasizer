@@ -1,0 +1,24 @@
+.Net Senior Developer,"Firmplace Corporation is seeking four .NET Senior
+Developers to participate in the company's various projects.","-	Participate in the development of new and existing projects; 
+-	Design and implement solutions according to business requirements;
+-	Produce technical documentation;
+-	Comply with and help to enforce standard policies and procedures;
+-	Keep track of lessons learned and share those lessons with team
+members.","-	Several years of .NET experience, including 1-2 years of working with
+.NET 2.0;
+-	Experience with .NET Rich Client technologies such as Windows Forms or
+WPF;
+-	Strong object-oriented design and patterns in .NET;
+-	Familiarity with n-tier enterprise applications;
+-	Strong preference for experience with .NET 3.0 technologies:  WPF,
+WCF, WF;
+-	Familiarity with .NET 3.5 nice to have but not required;
+-	Database proficiency in Microsoft Sql Server (2000 or preferably
+2005);
+-	Good communication skills;
+-	Proactive and a self-motivated learner;
+-	Ability to adapt to changing business requirements;
+-       Good knowledge of English language (both written and oral).","Interested candidates should send their CVs to:jobs@... mentioning in the subject line the title applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

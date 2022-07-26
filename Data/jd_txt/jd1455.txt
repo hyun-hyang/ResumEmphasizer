@@ -1,0 +1,38 @@
+Database Developer/ Architect,"The incumbent will work in a team dedicated to a
+project or product development and will be responsible for implementation
+of the best database solution for the company's customers and partners.
+His/her responsibility will be to bridge the gap between requirements,
+development and operation to ensure the efficient and fast rollout of the
+company's products.","- Be responsible for database design, security and management;
+- Be responsible for the database architecture;
+- Be responsible for requirements analysis with the different internal
+interfaces;
+- Be responsible for ongoing development and optimisation of the
+company's systems;
+- Design, implement and maintain database software modules in a
+project-related environment;
+- Be responsible for technical and conceptual solutions as well as
+further development of the standards;
+- Ensure deliverables meet requirements and specifications for
+functionality, capacity, scalability, performance, reliability and
+quality.","- Solid technical education (e.g. university of technology, university of
+applied sciences, technical college);
+- 5+ years of experience in database design;
+- Agile processes: Scrum, TDD, Continuous Integration, iterative
+development cycle;
+- Experience of requirements engineering (analysis, specification
+validation of requirements for software);
+- Good knowledge of database design, understanding of design patterns;
+- Good English language skills;
+- Communicative team player;
+- Great interest in new technologies and innovative ideas;
+- Keen sense of quality and precision;
+- Structured and independent way of working;
+- Customer and solution oriented way of working;
+- Willingness to learn and commit to time lines;
+- Experience with cloud computing.","Please submit your detailed CV in English to:resume@... indicating the position in the subject line of your
+e-mail. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCDM LLC is a company offering a web-based business
+intelligence solution for asset managers investing in CDO and ABS deals."

@@ -1,0 +1,22 @@
+Database Developer,"LSoft Ltd. is looking for qualified and experienced
+candidates for the position of Software Developer.","- Participate in software and database design; 
+- Effectively communicate with management and team members;
+- Develop applications according to technical documentation.","- At least 3 years of work experience as a Software Developer;
+- At least 2 years of work experience with databases (Oracle/ MS SQL
+Server);
+- Good knowledge of OOP;
+- Good knowledge of C++ and SQL languages;
+- Basic knowledge of web technologies;
+- Problem solving skills;
+- Knowledge of Armenian and Russian languages.
+Desired Qualifications:
+- Knowledge of PL/SQL language; 
+- Knowledge of banking system or accounting; 
+- Knowledge of PHP, JSP and web services; 
+- Knowledge of (X)HTML, CSS, JavaScript and XML;
+- Knowledge of English language.","Interested candidates should email resumes to:lsoft@... . Please indicate the position title in the subject
+field of your message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""LSoft"" was established in 1995 and is a software
+development company."

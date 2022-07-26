@@ -1,0 +1,23 @@
+Software Developer,"BetArchitect LLC is looking for a Software Developer
+with knowledge of .Net programming and database development concepts.","- Participate in software and database design; 
+- Communicate effectively with management and team members; 
+- Develop applications according to technical documentation; 
+- Provide technical support and assistance, if requested.","- BS in Computer Science or any related technical field; 
+- At least 2 years of work experience as a Software Developer; 
+- Good knowledge of OOP; 
+- Good knowledge of C#, ASP.NET MVC, ADO.Net and web services;
+- Knowledge of (X) HTML, CSS, JavaScript and XML; 
+- Knowledge of WCF,WPF is a big advantage; 
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Fluency in Armenian language; good knowledge of Russian and English
+languages; 
+- Problem-solving skills; 
+- Familiarity with software development process.","Interested candidates are asked to send a resume
+(CV) in English language directly to: hr@... . Please
+indicate ""Software Developer"" in the subject line of the e-mail. Only
+short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company which
+aims to build various software solutions targeted to specific
+international market segments."

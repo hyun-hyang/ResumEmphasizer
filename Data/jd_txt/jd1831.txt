@@ -1,0 +1,35 @@
+Senior Android Developer,"SFL LLC is seeking talented and motivated developers to
+expand company's team.","- Responsible for architect and design based on customer requirements;
+- Produce and maintain clean and high quality code;
+- Participate in scoping and planning work;
+- Responsible for technical leadership and light project management.","- Bachelor's degree in Computer Sciences or a related discipline; higher
+degree is a plus; 
+- At least 4 years of work experience in software development;
+- At least 2 years of experience in Android development;
+- Availability of several Android apps live in the market;
+- Fluency in Java and Android SDK (most if not all subsystems);
+- Confidence with design patterns specific to mobile/ Android
+development;
+- Team work skills, including documentation, code readability and version
+control systems;
+- Experience in mobile network stack connectivity, design and
+architecture;
+- SQLite or equivalent persistence layer skills;
+- Understanding of GUI Layout architect and implementation for all three
+form factors;
+- Versed in network protocols, data formats and API (HTTP/ S, OAuth,
+RESTFul, JSON/ XML, etc.);
+- Ability to work independently or collaborate within a team;
+- Strong personal commitment to quality;
+- Out of the box thinking and quick learner;
+- Flexible and adaptive personality;
+- Excellent communication skills in English language;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11320"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com ."

@@ -1,0 +1,23 @@
+Systems Administrator,"ABC Domain LLC is seeking for a qualified Systems
+Administrator.","- Manage and maintain hosting service components; 
+- Work collaboratively and effectively on team projects;
+- Be flexible in learning new technologies.","- At least 3 years of experience in a related field; 
+- University degree in Technical field is a plus;
+- Strong knowledge of Linux (CentOS, Debian) OS;
+- Knowledge of services/ protocols Apache (HTTP), FTP, POP3/ IMAP, SMTP,
+DNS;
+- Knowledge of PHP, HTML, MySQL;
+- Experience with Cpanel/ WHM is a plus;
+- Good communication, interpersonal and organization skills;
+- Experience with computer networking, Ethernet, IP, VLANs or telecomm is
+a plus;
+- Ability to communicate in English and Russian languages;
+- Good problem-solving skills and ability to work independently;
+- Analytical skills and creative problem-solving abilities;
+- Strong attention to detail;
+- Ability to work under stress;
+- Team player.","Interested candidates are asked to send their
+resumes to: hosting@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

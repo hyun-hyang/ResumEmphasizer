@@ -1,0 +1,29 @@
+Tester/ Software Quality Assurance Engineer,"Boomerang Software LLC is looking for a Software
+Quality Assurance Engineer for its long-term projects. The incumbent
+will perform required test types for Windows based desktop applications
+and web applications.","- Design test cases;
+- Perform manual and automated testing;
+- Design and develop automated test scripts;
+- Perform GUI, functionality, performance, load, compatibility and
+usability tests; 
+- Identify, reproduce and report bugs;
+- Verify fixed defects and perform regression tests to ensure the
+quality of software releases.","- Minimum 1 year of work experience as a QA engineer;
+- Knowledge of development process; 
+- Knowledge of testing techniques and problems documenting;
+- An operational experience with bug-tracking systems; 
+- Ability to meet deadlines;
+- Knowledge of English language;
+- Knowledge of C++, HTML and Java-script is desired;
+- Experience in developing scripts for automated testing (Mercury
+WinRunner) is desired;
+- Experience in spelling own software applications is desired;
+- General knowledge of relational databases is desired;
+- An operational experience with databases.","To apply, email your resume listing your
+qualifications and experience to: office@... or deliver hard
+copies to: 6/1 Abelyan St., 5th floor, Yerevan. Please mention in the
+subject line the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software LLC is the Yerevan office of
+Boomerang Software, Inc., headquartered in Boston, Massachusetts, USA."

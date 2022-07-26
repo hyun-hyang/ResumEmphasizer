@@ -1,0 +1,15 @@
+GUI Developer,"GUI Developer will participate in the design and
+development of GUI components of OneTick system, in C++ and C#.",NA,"- University degree in a relevant field;
+- Good knowledge of and solid experience in C++ and C# GUI programming,
+including high performance interface components and custom controls;
+- MFC experience;
+- Knowledge of .NET framework 4.0 and higher, WPF and MVVM design
+pattern;
+- Knowledge of Prism and AvalonDock is a plus;
+- Technical English language knowledge.","Please send your resume or CV to:jobs_am1@... . The subject of the email should read ""GUI
+Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"OMD LLC is a wholly owned subsidiary of OneMarketData
+LLC, a New York based producer of enterprise financial data storage and
+analytics solutions."

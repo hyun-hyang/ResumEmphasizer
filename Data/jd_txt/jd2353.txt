@@ -1,0 +1,12 @@
+Android Developer,"The incumbent will be responsible for developing
+android application in communication field.","- Develop Android application in communication field;
+- Implement features;
+- Fix bugs.","- From 1 to 5 years of experience in Android development;
+- Fast learner;
+- Good team player with the ability to accept criticism;
+- Experience in streaming and SIP technologies is a plus.","Interested candidates should send their CV to:job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom develops own unified communication
+technology and own product. For more information please visit
+www.zangi.com ."

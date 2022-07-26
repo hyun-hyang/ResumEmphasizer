@@ -1,0 +1,22 @@
+Software Developer/ Programmer,"We are looking for 5 motivated Software Developers/
+Programmers. The team will be using Visual Studio 2005 (ASP.NET/C#) to
+develop Management Information System (MIS). The incumbent will develop,
+program, test and debug application using Visual Studio 2005
+(ASP.NET/C#).",NA,"- Bachelor's or higher degree in Computer Sciences or a related
+discipline; 
+- 2 years of work experience in software development;
+- Availability of own computer, internet access and a place to work
+(home, etc.) is a plus;
+- Knowledge of ASP.NET 2.0 and C# and SQL, using Visual Studio 2005;
+- Knowledge of HTML, XML and Java-script is desired;
+- Ability to learn quickly;
+- Willingness to learn quickly and increase competencies and
+professionalism;
+- Ability to follow directions and work hard.","To apply, email your resume listing your
+qualifications and experience and cover letter explaining why you would
+be a good candidate and where will you work to: cv-isdtc@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Information Systems Development and Training Center is a
+Non-Governmental Organization that provides network and software services
+for municipalities of Armenia."

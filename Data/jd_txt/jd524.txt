@@ -1,0 +1,54 @@
+Web-Master/ IT Specialist,"Under the supervision of Deputy Director/ PR
+Specialist, the IOCE Web-Master/IT Specialist will be responsible for
+daily updates of the IOCE English-Armenian web-site (www.coe.am),
+web-site programme support and perform tasks in web design, coding and
+system administration with the ultimate task of creating an independent,
+user-friendly website in terms of its management and update.","- Technical support, maintenance, design and updates of the IOCE
+web-site;
+- Improve the web site structuring/ design;
+- Create new pages;
+- Upload documents, publications and video files;
+- Update the existing pages;
+- Enhance site's functionality, fix bugs, correct misspellings, etc.;
+- Promote the site on search engines;
+- Introduce new modules and/or improve the existing ones e.g. searchable
+virtual library, online dictionary etc. (please consult www.coe.am);
+- Help with the use of desk-top publishing software; 
+- Create an independent, user-friendly (in terms of website
+administration) version of the IOCE website; 
+- Provide a timetable (work plan) for the period of 6 months for setting
+up a user-friendly website management system and submit monthly written
+progress reports to the Information Office Deputy Director; 
+- Provide training to Office staff to ensure full operation of the new
+user-friendly version of the site;
+- Provide monthly website statistics and backups according to the
+provided samples;
+- Manage hosting related matters by liaising with hosting companies and
+perform other related administrative tasks;
+- Basic IT support;
+- Other tasks as assigned by management.","- Higher education degree and appropriate professional experience;
+- Demonstrated ability to work in a team environment;
+- Excellent written and verbal communication skills in Armenian and
+English languages;
+- Ability to set priorities, organize time and work independently on
+several tasks at once.
+Technical Note:
+- Coe.Am Web Site is bilingual Web Site where Armenian language is
+implemented through Unicode standard. Web Site depends heavily on
+databases running on MySQL engine. Site search and other
+database-dependent parts of the Site contain both English and Armenian
+data; therefore experience in using Armenian language data (Unicode)
+with MySQL is required.
+- Server-side scripting is done through PHP. As UTF-8 is used for
+encoding of the pages, experience in multi-byte aspects of PHP is a
+must.
+- Expert knowledge of Adobe Photoshop, QuarkXpress, Adobe PDF files
+creation, CSS, HTML and JavaScript.
+- Knowledge of Flash technology is a plus.","Please send your CV and a cover letter where
+you should provide a short outline of your proposed work plan for
+creating a user-friendly website management system (required timeframe 6
+months) to: coe.yerevan@... with a copy to Hasmik Tamamyan at:hasmik.tamamyan@.... Only short-listed applicants will be contacted.
+No phone calls, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

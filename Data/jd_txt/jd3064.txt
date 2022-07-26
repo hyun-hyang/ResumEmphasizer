@@ -1,0 +1,29 @@
+Android Developer,"Science Inc. Armenia is looking for an energetic
+Android Developer who will be involved in the project requirements,
+analysis and project planning.","- Implement new features in existing applications, as well as develop
+complex new applications from top to bottom (user interface design to
+design and implementation of supporting frameworks);
+- Develop high quality and clean code;
+- Optimize the size and performance of applications and frameworks;
+- Participate in all cycles of software design and development;
+- Support the team in technical decisions and development estimations;
+- Share knowledge, lessons learnt with team members.","- BS/ MS in Computer Science, Engineering or in a related subject;
+- At least 2 years of Android development experience; 
+- Strong coding abilities, experience with Java and Android SDK;
+- Extensive experience with OOP;
+- Good understanding of best practices for mobile UI/ UX;
+- Understanding of web services architecture, networking protocols (XML/
+JSON, REST, OAUTH and etc);
+- Mobile development background, preferably cross-platform based is a big
+plus;
+- Excellent problem-solving, critical-thinking and communication skills;
+- Work experience with version control systems;
+- Ability to learn quickly, conceptualize and propose innovative ideas
+and solutions;
+- Good knowledge of English language;
+- Knowledge of iOS App development is a huge plus.","All interested and qualified candidates are
+invited to send their CVs/ resumes to: hr-armenia@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please, visit: www.science-inc.com
+."

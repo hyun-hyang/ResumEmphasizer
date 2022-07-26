@@ -1,0 +1,25 @@
+Java Developer,"AtTask, Inc. is looking for Java Developers with
+experience in Perl to develop internal applications that support daily
+business operations at Yerevan office.","- Work well with a US-based remote team in understanding application
+requirements;
+- Perform software development and test case development;
+- Assist with integration services related to the AtTask products;
+- Work in a scrum project framework.","- Undergraduate degree in computer science or a related field;
+- English language speaking skills;
+- 3+ year relevant experience;
+- 3+ years of Java/J2EE specific experience;
+- 1+ years of Perl specific experience;
+- Other valued skills: SOAP, Linux, Salesforce.com SDK, JBoss;
+- Experience in a Scrum environment is a plus;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to communicate well with operations and technology;
+- Ability to work on multiple tasks and to prioritize personal
+workload;
+- Detail oriented and self starter.","All qualified and interested candidates should
+submit their CVs to: jobs.armenia@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask Inc. is a project management software company
+based in Utah. Please read more about the company visiting
+www.attask.com."

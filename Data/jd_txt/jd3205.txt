@@ -1,0 +1,31 @@
+Junior Software Developer,"The incumbent will join a team responsible for the
+design and implementation of systems of the Company's platform. He/ she
+should be self-motivated and ""play well with others.""","- Identify innovative ideas and proofs of the concept to deliver against
+the existing and future needs of the Company's customers;
+- Work with business stakeholders and other engineering teams to help
+select and integrate with appropriate systems and technologies.","- At least 1 year of proven experience in software design and development
+using a modern functional and/ or OOP languages and frameworks such as
+Java, Spring, web development frameworks;
+- Experience with version control systems such as Git, SVN;
+- Experience with relational databases such as Oracle, MySQL,
+PostgreSQL;
+- Basic understanding of GNU/ Linux;
+- Knowledge in web technology including HTML, JavaScript, CSS, JQuery,
+AJAX;
+- Knowledge in XML, JSON, web services technologies (SOAP, REST) and data
+structure fundamentals;
+- Experience in build tools (Ant, Maven, Gradle);
+- Experience with development environments (Linux) and IDE's (e.g. IDEA,
+Eclipse, NetBeans).
+
+
+Core Competencies
+- Knowledge of OOP, CS fundamentals;
+- Independent, motivated, collaborative personality, self-starter;
+- Good written and verbal communication skills in the English language;
+- Critical thinking skills.","To apply for this position, please email your
+professional CV to: jobs@... specifying the position title in the
+subject line.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,FIP Software LLC is engaged in software development.

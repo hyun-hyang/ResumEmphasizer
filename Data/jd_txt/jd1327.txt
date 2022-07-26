@@ -1,0 +1,32 @@
+Senior Software Engineer,"In this role the incumbent will be responsible for
+providing development of high quality functional and scalable solutions
+that exceed expectations of Product owner and stakeholders, using the
+latest development technologies and methodologies and ensure that they
+meet high quality standards by taking over all related quality tasks.","- Estimate effort and design technical solutions from user stories
+describing business requirements presented by product owners;
+- Design solution architecture and module design for critical parts of
+each user story the teams commits to;
+- Deliver software which meets development standards for code quality,
+architectural guidelines, unit tests and testing frameworks;
+- Take over all quality tasks related to the developed technical
+solution;
+- Write and maintain system design documentation, architecture,
+operations manuals;
+- Provide coaching and support to agile development teams.","- University degree in computer science with minimum 5 years of
+experience in commercial development;
+- Experience of creating scalable, redundant and strongly performing
+high-load J2EE application server;
+- High level of quality assurance expertise working with industry
+standards tools (JUnit, Selenium, JMeter etc.);
+- Good knowledge of JBoss, EJB, AJAX, mySQL, JSP/Servlet, SOAP, Spring,
+HTML, Javascript;
+- Experience in agile methodology (Scrum, Kanban);
+- Excellent oral and written communication skills, fluency in English;
+- Experience in international company.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 is an online matchmaking company which offers its
+service in 38 countries, to more than 20 million members.
+For more information about the company's product and activities please
+visit: www.be2.com or www.be2.com/corp."

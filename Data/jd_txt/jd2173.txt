@@ -1,0 +1,37 @@
+Software Test Engineer,"Dom-Daniel Armenia is seeking an energetic and detail
+oriented Software Test Engineer. The incumbent will be responsible for
+designing and implementing functional, security or usability test cases
+for products developed at Dom-Daniel.",NA,"- BS in Computer Sciences or a related field, or equivalent industry
+experience; MS is a plus;
+- Proficiency in Object Oriented Design;
+- Understanding of internet protocols (IP, TCP/ UDP and HTTP);
+- Experience in designing and implementing functional, security or
+interface test automations;
+- Experience in test planning and design;
+- Demonstrated creative and critical thinking capabilities along with
+strong troubleshooting and debugging skills;
+- Expertise to leverage appropriate test methodologies, tools, and
+infrastructure to build effective automation;
+- Good knowledge of written and oral English language;
+- Passion for working on complex and challenging products;
+- Punctuality and accuracy in work and ability to work efficiently
+without supervision;
+- Willingness to increase competencies and professionalism. 
+Other Qualifications (At least two of the listed is a must!):
+- Knowledge of C/ C++ and code review experience;
+- Knowledge of C#/.NET and code review experience;
+- Knowledge of JavaScript and code review experience;
+- Knowledge of cryptography and security protocols;
+- Experience in working with Microsoft Visual Studio Test Automation
+technologies; 
+- Advanced knowledge and understanding of Internet Protocols (IP, TCP/
+UDP, HTTP/ HTTPS);
+- Knowledge and understanding of Cryptographic and Hash algorithms (RSA,
+Diffie-Hellman, AES and SHA-3);
+- Good knowledge of ASM (MIPS/ X86 Architecture).","Applicants will be considered on rolling basis.
+Please submit a resume along with a cover letter to: hr@...
+with a subject line ""Software Test Engineer / Dom-Daniel Armenia"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Dom-Daniel Armenia, founded in 2003, is a system
+integrator providing IT solutions to medium and large size enterprises."

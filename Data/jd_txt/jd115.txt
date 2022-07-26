@@ -1,0 +1,51 @@
+Ad Developer  ID No. 2,"To build up our European Sales Support Team in
+Armenia, we are currently looking to recruit employees for the position
+Ad Developer. The Ad Development Team is responsible for customising our
+DoubleClick DART Enterprise system and peripheral tools, as used by the
+Customer Care team and sales staff. Typical customisations could be to
+develop templates for new ad formats, test new ad formats or integrate
+with other systems like user databases, reporting tools, CRM systems,
+SAP.","- Learn and understand the DoubleClick DART Enterprise technology and
+functionality, understand the surrounding systems, and system
+architecture as it maps to our business needs;
+- Become an expert in customising and integrating the DoubleClick
+AdServer software;
+- Development and maintenance of our Sales supporting systems;
+- Programming of pre-defined project assignments.","- More than 2 years experience in Microsoft SQL Server and advanced SQL
+queries is a must;
+- Experience in Java, ASP, VBScript is essential;
+- XML/XSL and IIS web server experience would be needed;
+- University degree in computer science or a similar education;
+- More than 1 year experience of system development. A previous
+experience with ad systems and other enterprise systems are desirable;
+- Very good knowledge of written and spoken English;
+- Pro-active, calm, thorough personality, who has fun solving technical
+problems;
+- Analytically strong, excellent organisational skills, you like working
+within a team;
+- Approach of problems and new requirements in a very systematic and
+detailed manner;
+- Be reactive and independent in problems solving, document your work.
+Additionally specific technical requirements:
+- Experience in high load systems would be desirable.","Please send us your CV in English as well as an
+Application letter answering below 2 questions to info@...
+and state the profile No.2.
+Question 1: Please let us know, why you are the right person fulfilling
+the specific technical demands? 
+Question 2: Describe the last programming project you have worked on in
+detail (give us examples). What were your tasks and how did you deliver
+them?
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","This is the same position as announced recently, but
+we are looking for more candidates.","Lycos Europe is one of the leading European Internet
+destinations, operating a pan-European network of websites in nine
+languages. Covering Germany, France, Great Britain, Sweden, Denmark,
+Italy, the Netherlands, Spain and Russia, Lycos Europe is the no. 2
+portal in terms of reach in Europe. With more than 25 million regular
+unique users, Lycos generates more than 2.5 billion page views each
+month.
+As a general interest portal for a wide audience, the company offers a
+full range of services such as communication tools (Email, Mobile
+services, Messenger), communities (Chat, Dating), homepage building/web
+hosting, shopping, search and selective content channels."

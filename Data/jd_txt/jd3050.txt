@@ -1,0 +1,22 @@
+Senior Front-end Developer,"4H LLC is searching for Senior Front-end Developer who
+will join to the company's team. The Senior Front-end Developer will work
+with the product which is cloud based multi-country training management
+platform.",NA,"- At least 3 years of experience in Javascript development;
+- 1-2 years of experience with single page applications development;
+- Understanding the concept of Object Oriented programming;
+- Experience with modern JavaScript frameworks like Backbone.js,
+Angular.js and/ or Marionette.js;
+- Experience with unit testing frameworks like Jasmine or Mocha;
+- Experience with agile development methodologies;
+- Good verbal and written English language skills.","All interested candidates are kindly requested
+to submit their CVs, cover letters and a portfolio of products they have
+built or led to: people@... . Please indicate the name of the position
+""Senior Front-end Developer"" in the subject line of the e-mail. Company
+is grateful to all interested applicants; however, only shortlisted
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"4H is software Development Company, consisting of 18
+people, which develops cloud based training management software as a
+service. The company was founded in 2011 and works for Germany based
+Learnship Networks GmbH."

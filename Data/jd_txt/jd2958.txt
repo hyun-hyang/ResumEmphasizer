@@ -1,0 +1,39 @@
+Roaming and Database Administrator,"The incumbent will be responsible for testing and
+reporting in roaming domain.","- Responsible for parameterization and coordination of IREG tests.
+Cooperate with roaming partners to make a schedule to perform the common
+part of IREG test. Coordinate with Commercial Department to schedule plan
+for realization of the IREG tests;
+- Responsible for defining and configuration of signaling between OAR and
+roaming partners. Update the database files with new international DPC,
+routing table;
+- Responsible for hands on parameterization in Core Network/ HLR side for
+commercial opening of new roaming partner;
+- By case, perform additional NSS tasks i.e. NE (Network Elements)
+parameterization: creation, modifying, deleting of parameter value etc.;
+- Troubleshoot and solve technical problems related to roaming;
+- Responsible for technical support to Customer Care on problems;
+- Develop regular export data from Data warehouse (counters from Network
+elements);
+- Responsible for data warehouse development, configuration and
+maintenance.","- Bachelor's or Master's Degree in technical domain (e.g. Engineering,
+IT);
+- Preferably 1-3 years of experience in telecom industry and database
+system development (Mobile, fix networks);
+- Knowledge of GSM network;
+- Knowledge of the basics of Roaming service;
+- Excellent knowledge of ORACLE Database;
+- At least 2 years of experience in SQL and PL/ SQL;
+- Good knowledge of statistics and charts;
+- Scripting ability- HTML, PHP, Java Script and VB Scripting;
+- Fluent knowledge of Russian and English languages;
+- Knowledge of MS office package and Internet navigation skills;
+- Responsibility;
+- Accuracy to details;
+- Good communication skills;
+- Ability to work in a team.","Those who meet the requirements for the position
+are encouraged to send a CV and a Motivation Letter to: hr.oam@...
+. Please indicate the name of the position in the subject line of the
+e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

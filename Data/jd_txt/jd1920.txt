@@ -1,0 +1,36 @@
+UNIX System Administrator,"The UNIX System Administrator will be responsible for
+installation, configuration and further administration of UNIX systems,
+development of documentation about servers, backup/ restore of servers,
+installing and configuring additional software.","- Find proper solutions if there are errors or hardware failures; 
+- Make sure that daily backup is performed without errors and fix in case
+of problems; 
+- Backup all critical systems and organize the usage of backup media;
+- Install and configure OS (Operating System) on new servers;
+- Keep old systems up to date, install critical patches and updates;
+- Write scripts to provide automation to the frequently performed tasks
+like backup;
+- Write procedures about a specific software installation process; 
+- Keep all the documentation up-to-date;
+- Provide regular monthly reports on activities done.","- Bachelors degree in a professional field (preferably Engineering or
+Information Technology) or comparable experience;
+- At least 1 year of work experience as a UNIX administrator in the
+telecom industry with an emphasis on system performance tuning and
+troubleshooting;
+- Excellent technical knowledge of UNIX system administration;
+- Full mastery of UNIX operating system including Solaris and Linux;
+- Good knowledge of IP (Internet Protocols) networking, firewalls and
+security management;
+- Good knowledge of operating system optimization and fine tuning;
+- Advanced knowledge of operating system script development;
+- Good knowledge of  Armenian, English and Russian languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Ability to interact in a positive manner with internal and external
+contacts.","Please, send your CVs to: sysadmin@... e-mail
+address. Only shortlisted candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VivaCell-MTS  Armenias leading telecommunications
+operator. VivaCell-MTS offers a competitive compensation, including
+various benefits as well as trainings and potential for career
+advancement."

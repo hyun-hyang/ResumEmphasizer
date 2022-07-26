@@ -1,0 +1,40 @@
+Web Developer,"As a Web Developer in the Marketing Department, the
+incumbent will be a critical member of the team and be responsible for
+building demand-generation web pages, e-mails and ensuring proper
+campaign attribution and lead flow from the website to the CRM systems.","- Build web pages and e-mails for various marketing campaigns;
+- Work closely with the company's Senior Web Developer and Marketing
+Automation Manager to ensure proper campaign attribution and lead flow
+from website to CRM system (Marketo/ Salesforce);
+- Follow QA processes to ensure consistency;
+- Create code that validates and complies with current web standards;
+- Utilize and provide feedback on page templates, processes, etc.;
+- Enforce web standards compliance and ensure that web pages and content
+are tested across multiple platforms and browsers;
+- Introduce and implement innovative techniques and technologies;
+- Responsible for self-manage completion of projects; 
+- Work with internal customers to ensure satisfaction;
+- Manage multiple tasks and timelines;
+- Thoroughly review work to ensure quality.","- Knowledge of Javascript (including AJAX), jQuery and other frameworks,
+HTML/ XHTML, CSS, object-oriented PHP;
+- Experience with WordPress;
+- Experience with Marketo and SalesForce.com integration a plus;
+- Familiarity with responsive web design techniques;
+- Strong understanding of current web standards and best practices;
+- Top-notch communication skills, both verbal and written;
+- Excellent problem-solving and creative thinking skills;
+- Strong ability to self-motivate, think analytically and work with
+great, nearly obsessive attention to detail;
+- Motivation to research and learn about new technologies and practices;
+- Ability to set high standards of performance for oneself;
+- Multi-tasker; self-starter; deadline-driven personality;
+- Ability to plan ahead to meet production timelines;
+- Highly detail-oriented personality;
+- Experience with Google Analytics is a plus;
+- Experience with Visual Website Optimizer is a plus.","All qualified and interested candidates should
+send their CVs/ resumes to: jobs.armenia@... . Please mention
+""JobID 1813"" in the subject line of the e-mail. Only shortlisted
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"AtTask is a project management software company based in
+Utah. Please read more about the company, visiting: www.attask.com."

@@ -1,0 +1,24 @@
+Technical Support Engineer,"The Technical Support Engineer will interact with
+customers by phone and email. He/ she will develop software applications
+for internal use and create various simple web pages.","- Interact with customers to provide and process information in response
+to inquiries, concerns and requests about products and services;
+- Prepare and analyze reports;
+- Develop software applications for Customer Support team internal use to
+eliminate the routine and time consuming operations done manually;
+- Create various simple web pages for Company Customers;
+- Work with QA;
+- Debug issues on web based user reports and feedbacks.","- High school diploma or equivalent;
+- Excellent verbal and written knowledge of English language;
+- Ability to work with shifts, including night shift;
+- Excellent knowledge of HTML, CSS, JavaScript, Ajax and related web
+technologies;
+- Deep understanding of cross browser development issues, as well as
+their respective workarounds;
+- Ability to work under pressure;
+- Excellent communication and collaboration skills.","Please, send your CVs to: julie@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCLab developed all its projects for Livelook Inc. in US.
+Founded in 2007 by a team of former AT&T Bell Labs developers, the
+Company is an innovator in visual sharing and real-time online
+interaction."

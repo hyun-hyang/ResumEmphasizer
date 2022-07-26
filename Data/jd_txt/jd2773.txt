@@ -1,0 +1,26 @@
+Java Software Developer,"IUNetworks LLC is looking for a Java Software
+Developer, who will have the primary responsibility to develop web-based
+applications.","Specific work elements of the job include but are not limited to:
+- Develop web-based applications;
+- Contribute to the quality of coding and assure conformance of source
+codes to set standards;
+- Participate in all cycles of software design and development.","- University degree in Computer Sciences or Telecommunications
+Engineering or related fields; 
+- At least 2 years of experience in developing Java web-based
+applications;
+- Strong knowledge of Java core and OOP;
+- Experience with web development with Java EE platform;
+- Experience with Java technologies: Spring, JSF;
+- Experience with GWT, Axis is a plus;
+- Experience in databases: good knowledge of SQL, familiarity with MySQL
+and Oracle  databases; 
+- Experience with HTML5, (X)HTML, CSS, JavaScript and XML; 
+- Ability to work on project with a development team; 
+- Ability to work independently.","Interested candidates are asked to apply to this
+job by sending their CVs to: job@... . Please mention the name
+of the position you are applying for in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUNetworks LLC is an Information Technology company that
+provides integrated solutions of hardware supply and software
+development. It was founded in March 2008."

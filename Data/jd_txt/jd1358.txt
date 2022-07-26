@@ -1,0 +1,35 @@
+"Senior Software Engineer, Technology Development Department","The Senior Software Engineer will take a leading role
+in design and implementation of advanced software products for modeling
+of physical processes used for IC manufacturing.",NA,"- MS+ in CS/ Physics/ Math or a related field;
+- 5+ experience in designing and developing software products;
+- Strong C++/ STL programming skills, good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux;
+- Knowledge of TCL/TK is desired;
+- Ability to lead the project development; previous experience of
+working
+on critical projects;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Familiarity with Optimization Problems, Numerical Methods, Modeling.
+Familiarity with Computational Geometry, Graph Theory is a plus;
+- Ability to write comprehensive functional/ implementation
+specifications;
+- Previous experience in designing efficient algorithms for IC layout
+processing is highly desired;
+- Excellent communication skills; ability to effectively interact with
+cross-functional teams (R&D, Application, Marketing), ability to work in
+a team;
+- Good knowledge of English (both verbal and written) language;
+- Fast learning skills;
+- Formal training or test certification is a plus;
+- Other achievements  participation/ winning in math and programming
+Olympiads/ competitions is a big plus;
+- It is preferred that the candidates fulfilled military obligation or
+educational waivers of military obligation.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC is a subsidiary
+of Mentor Graphics Corporation, USA, a provider of electronic design
+automation (EDA) software."

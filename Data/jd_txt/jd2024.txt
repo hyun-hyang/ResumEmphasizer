@@ -1,0 +1,23 @@
+Web Developer,"The incumbent will work as part of a team designing,
+developing and maintaining software based solutions in PHP, HTML, CSS and
+MY SQL, that make up company's Intranet. He/ she will also be responsible
+for producing system requirements from business requirements and well
+structured reliable code. The incumbent must have worked in a similar
+role as a Web Developer or Intranet Developer and will have experience in
+software skills. Any experience in desktop programming will be a great
+advantage.",NA,"- Advanced knowledge of PHP web development;
+- Strong Web and DB Server management skills; 
+- Previous experience in ERP, CRM and CMS development; 
+- Knowledge of IDEs - Dreamweaver, Homesite or Eclipse; 
+- Knowledge of AJAX, JavaScript, XHTML, XSLT, XML, CSS, HTML and JQuery;
+- W3C Web Standards, Web Accessibility and Usability Standards; 
+- Working knowledge of Agile project life cycle methodologies or
+equivalent is highly desirable;
+- Knowledge of user Interface/ Information Architecture (UI/ IA) graphic
+design is desirable;
+- Any Desktop application experience is an advantage.","Please send your CV to: it@... . Only
+short-listed candidates will be contacted. Please mention the name of the
+vacancy in the subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

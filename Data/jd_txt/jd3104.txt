@@ -1,0 +1,28 @@
+SAS Programmer,"- Coordinate SAS programming activities for the clinical research
+projects;
+- Recognize any inconsistencies in datasets while preparing SAS programs
+before the database lock;
+- Develop specifications for datasets analysis in consultation with
+Biostatistician;
+- Develop the programs using SAS to produce Tables, Listings, and Graphs
+as per the specifications indicated in Statistical Analysis Plan;
+- Prepare and finalize the SAS programs in consultation with
+Biostatistician;
+- Develop, validate, and document the SAS programs in accordance with
+good clinical programming practices and according to applicable
+guidelines and Standard Operating Procedures of the client;
+- Implement data management plans and approved SAP designed to meet
+project timelines;
+- Communicate timely status updates to other team members in the
+department;
+- Contribute to the process improvement actively with support by the Lead
+Biostatistician / Designee.",NA,"- Master's degree; Ph.D. or Dr PH degree is desirable;
+- Major in Statistics, Mathematics or Public Health;
+- Hands-on experience with SAS;
+- Highly proficient in programming;
+- Project management and logical thinking skills are assets.","Interested and qualified candidates can send
+their CVs to: hakobyanlilith1@... mentioning ""SAS Programmer"" in
+the subject line of the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,26 @@
+JavaScript Developer,"AltaCode Ltd. is looking for highly qualified and
+motivated JavaScript Developers with deep knowledge and practical
+experience in web development.","- Develop Web Applications in accordance with given Specifications;
+- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Assist in the development of accompanying Technical Documentation;
+- Provide technical support and assistance, if requested.","- At least 2 years of work experience in pure JavaScript; 
+- At least 2 years of work experience in PHP;
+- Strong experience in client-side technologies such as jQuery, HTML/
+HTML5, CSS, JavaScript and Ajax;
+- Experience in .Net technologies (such as WCF, WPF and ASP.NET) is a
+plus;
+- Experience in database architecture design and development, MS SQL 2008
+and 2010;  
+- Ability to develop quality code, apply proper language constructions,
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision; 
+- Willingness to increase competencies and professionalism; 
+- Good knowledge of technical English language; 
+- Communication skills;
+- Ability to responsibly complete assigned tasks according to deadlines.","If qualified, please send your CVs/ Resumes to: resume@... , mentioning JavaScript Developer in the subject.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

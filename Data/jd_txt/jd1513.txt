@@ -1,0 +1,19 @@
+Software Development Engineer,"The incumbent will be responsible for software design
+and development as well as for unit test creation.","- Run test programs on the testers;
+- Fix software errors.","- BS or MS+ in CS/ Physics/ Math or related field;
+- 3+ years of experience in designing and developing software products;
+- C++/ STL programming skills;
+- Knowledge of Linux;
+- Knowledge of Python;
+- Ability to lead project development;
+- Knowledge of data structures and algorithms;
+- Ability to write comprehensive functional/ implementation
+specifications;
+- Communication skills;
+- Knowledge of English language (both verbal and written);
+- Fast learning skills.","Interested candidates are kindly requested to
+email CV/ resume in English language to: georgi_pirumov@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

@@ -1,0 +1,43 @@
+Senior Java Developer,"This is a hybrid role combining advanced trading acumen
+with strong Java programming experience. The Algorithmic Trading Software
+Developer will maintain and improve the existing trading platform as well
+as develop new trading logics, establish and test the low latency
+connectivity, implement and further maintain the automated trading
+platforms. The specialist will be also responsible for detailed technical
+documentation related to this area.","- Maintain and continuously improve the existing trading platforms;
+- Develop new automated trading system;
+- Design new trading algorithms and relevant front-end software
+applications;
+- Develop vendor APIs and certify as per vendor certification
+requirements;
+- Evaluate and test HFT connectivity systems for real-time trading;
+- Analyze the performance of the HFT systems and suggest improvements
+accordingly;
+- Actively participate in colocation, infrastructure, and transition
+projects;
+- Support day-to-day production operations of ATG in regards to any
+technical aspect such as connectivity, infrastructure, level 2 and/ or 3
+technical support;
+- Prepare report, technical documentations, and presentation materials;
+- Participate in regular team meetings.","- At least 5 years of experience in software development, primarily in
+Java;
+- B.S. or M.S. (preferred) in Computer Science or related fields.
+Exposure or education in the financial sector is a strong asset;
+- High level proficiency in all aspects of Java EE, Windows Server 2008,
+XML; Java EE certification is preferred;
+- Deep understanding of FIX 4.2 protocol, Direct Market Access, Market
+data feed handlers, algorithms for automated trading strategies, all
+aspects of software applicability for HFT trading;
+- Strong ability to efficiently work as a team member in cooperation with
+colleagues, clients, managers and vendors;
+- Investment decision making acumen, excellent interpersonal and time
+management skills;
+- Solid understanding of capital markets (Equities, Currencies, Options,
+and Futures);
+- Good to have  CFA, MBA, previous experience of building standalone
+automated trading systems/ platforms.","Please follow the link to apply for this
+position:http://chj.tbe.taleo.net/chj01/ats/careers/requisition.jsp?org=QUESTRADE&cws=37&rid=515
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.am."

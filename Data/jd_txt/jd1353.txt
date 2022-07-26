@@ -1,0 +1,29 @@
+Online Marketing Developer,"In this role the incumbent will be part of the Online
+Marketing (OM) team of Insparx/be2, and his/her main task is to set-up,
+run and optimize Online Marketing (OM) campaigns for several companies.","- Provide a reliable and fast pixel management by implementing 3rd party
+conversion tracking codes, commonly written in Java Script;
+- Set up 3rd party pixels in be2 tools, perform quality/ security checks,
+full functionality testing and communicate with the OM team and 3rd party
+publishers;
+- Act as interface for OM towards product and IT teams regarding complex
+pixel requests;
+- Become the expert for pixel handling at be2 and teach the OM teams;
+- Support the OM development team on further development of be2 content
+management system (Drupal, Wordpress, in house solutions);
+- Assist the OM team on special tasks.","- University studies in IT;
+- Experience in relevant online business is highly preferable;
+- Experience with CMS coding, especially drupal and wordpress is a plus;
+- Sound knowledge in HTML, PHP, Java Script and SQL;
+- Good oral and written communication skills, fluent in English
+language;
+- Ambitious and autonomous worker;
+- Logical and analytical oriented;
+- Systematic and well organized;
+- Experience in international company.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 is an online matchmaking company which offers its
+service in 38 countries, to more than 20 million members.
+For more information about the company's product and activities, please
+visit: www.be2.com or www.be2.com/corp."

@@ -1,0 +1,27 @@
+Senior Android Developer,"Sourcio CJSC needs smart and extremely motivated
+Android developer who is willing and able to contribute quickly to
+PicsArt Android version.","- Design and develop software for the Android platform/ s with different
+screen sizes (phone/ tablet);
+- Integrate third party modules;
+- Implement state of art UI;
+- Work closely with product management.","- At least 3 years of software development experience;
+- Over 1 year hands on Java and Android experience in a professional
+environment;
+- Good of OOP knowledge;
+- Excellent communication, interpersonal, problem solving and
+relationship management skills;
+- Ability to work on multiple tasks and prioritize personal workload;
+- Experience with C/ C++ is a plus;
+- Experience with image processing is a plus;
+- Good sense of UI and high level of commitment to deliver polished
+solutions for best user experience;
+- Ability to write elegant and readable code;
+- Good knowledge of technical English language;
+- Ready to work in Start Up environment with highly goal oriented team.","To apply for this position, please send a letter
+of intent with a CV addressing relevant qualifications and experience to:jobs@.... In the subject line of your e-mail message, please
+write APPLICATION FOR ANDROID DEVELOPER.  No information inquiries will
+be handled over the phone. Only short listed candidates will be notified
+for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

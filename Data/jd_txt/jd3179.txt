@@ -1,0 +1,29 @@
+Java Developer,EYESoft LLC is looking for a Java Developer.,"- Design, develop and maintain software applications;
+- Work independently complying with the task guidelines established by
+the team leader;
+- Find effective solutions for systems;
+- Work as a part of the development team;
+- Learn new technologies.","- Higher education in a relevant field of studies;
+- Good knowledge of OOP principles;
+- Basic knowledge of the English language; ability to read and understand
+technical documentation;
+- Ability and the willingness to learn;
+- Self-motivated, organized personality and a good team player;
+- Good problem-solving skills;
+- Knowledge of the following technologies is a plus:
+a) HTML, CSS, XML/ XSLT, JavaScript, jQuery, Dojo Toolkit, AngularJS,
+GWT;
+b) JEE including Servlet, JSP, JSTL, JNDI, JMS, JAX-WS;
+c) Databases such as MySQL, PostgreSQL, Oracle, MSSQL;
+d) Persistence Layer Frameworks such as MyBatis, Hibernate;
+e) Spring Frameworks, Spring Security;
+f) Web Services Frameworks such as CXF, Axis2, Metro, Spring WS;
+g) Apache Technologies such as Commons Libraries, Ant, Log4J, ActiveMQ,
+MINA, Jackrabbit, Hadoop.","All interested candidates should send their CVs
+to: info@... . Only short-listed candidates will be contacted.
+For additional information, please contact the Company at:
++374-10-27-52-81.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"EYESoft LLC is a software development company specialized
+in the development of enterprise web applications."

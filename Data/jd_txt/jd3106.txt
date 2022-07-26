@@ -1,0 +1,39 @@
+PHP Developer,"Shirak Technologies is looking for a PHP Developer who
+can develop e-business web applications based on CMS platforms by
+designing, implementing, testing and supporting sophisticated technology
+solutions and performing day-to-day operations and services.","- Responsible for the design, code, testing, debugging and support of
+PHP-based Web Applications, Web Services or eCommerce websites;
+- Work with some major CMSs like Drupal, PrestaShop, Magento, etc.;
+- Create new applications using CMS platform;
+- Develop new PHP modules for a given CMS;
+- Modify existing applications/ modules to meet the needs as per the
+given scope of work;
+- Develop and support complex web portals and eCommerce platforms across
+HTML5/ CSS3/ JavaScript/ AJAX, jQuery, etc.","- University degree in Applied Mathematics or a related field;
+- Skills in the design, code, testing, debugging and support of PHP-based
+Web Applications, Web Services or eCommerce websites;
+- Skills in developing and supporting complex web portals and eCommerce
+platforms across HTML5, CSS3, JavaScript, AJAX and jQuery;
+- Knowledge of PHP modules for the CMS development;
+- English language skills in speaking and writing of higher-intermediate
+or advanced level;
+- International work experience is an advantage;
+- Good knowledge of Linux administration, version controlling systems,
+bash scripting; knowledge of cPanel and an ability to use drush are
+desirable;
+- Competency in the project management, ability to work in a team,
+leadership skills are desirable;
+- Good understanding of advanced Web technologies;
+- Good knowledge of Drupal, strong fundamentals in OO Programming and
+experience in developing Rich UI based high-volume, highly scalable
+custom websites.","To apply for this position, please, send your CV
+in the English language to Ms. Astghik Sukiasyan via:
+astghik.sukiasyan@... . Please, note that your application should
+include a cover letter, CV, contact credentials and any references (e.g
+URLs, Portfolio) from the previous work (if available). Shortlisted
+candidates will be contacted for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The Company will give a preference to employees who do
+not smoke.","Shirak Technologies is a Business Consulting Company
+specialized in software development and system integration."

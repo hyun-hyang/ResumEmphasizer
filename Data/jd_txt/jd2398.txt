@@ -1,0 +1,48 @@
+Software Developer in Test,"VMware Armenia is looking for a Software Developer with
+strong distributed systems expertise for the VMware Cloud Managements QE
+team. The Cloud Management group charter is to create the platform and
+products that deliver performance, availability and capacity management
+of VMware based environments. The Cloud Management platform is the
+underlying infrastructure that provides stats collection, event handling
+and health management of objects. The Cloud Management products rely on
+the Cloud Management platform (and the rest of the vSphere/ vCenter
+infrastructure) to provide value to customers. A key value of these
+products is to allow a vSphere admin to manage more servers by
+simplifying operations management (OpEx reduction).The incumbent will be
+working with multiple products in the pipeline and a fast-paced work
+culture. As part of the VMware Cloud Management QE team, he/ she will
+work with the team of QE Engineers testing the platform and products in
+this area. As a member of the team the incumbent will be working on
+developing test plans, automation, test processes and test cases for the
+VMware Cloud Management products. He/ she will closely work with
+developers, QEs and PMs to deliver quality releases.","- Create and review test plans, test cases and test specifications;
+- Design, develop and execute manual and automated tests;
+- Conduct white-box/ API Testing, black-box, functional, stress,
+performance and other test activities;
+- Test automation and code coverage activities;
+- Work closely with VMware R&D and other QE teams, to leverage existing
+test cases and test suites currently available for internal use;
+- Take initiative to improve products, tools, and process;
+- Interact with offshore R&D sites;
+- Work closely with developers to resolve issues and reproduce bugs.","- Bachelors degree in Computer Science or equivalent;
+- Experience in Java; experience in C#/ C++ is preferred;
+- Proficiency in one or more of the following skills: Spring, Hibernate,
+Flex, GWT, JUNIT, TestNG, Selenium;
+- Proven ability testing high-quality software;
+- Experience in developing test frameworks and tools;
+- Experience in API test development using Java; experience in API test
+development using C#/ C++ is preferred;
+- Manage activities to meet the delivery dates and report accurate,
+complete status;
+- Excellent written and verbal communication skills;
+- VMware experience a plus;
+- Experience working with offshore teams highly desirable.","Interested candidates are asked to e-mail their
+last updated and detailed Resume to: lavetisyan@... . Please
+indicate ""Software Developer in Test"" in the subject line of the e-mail.
+Only shortlisted candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"VMware, Inc. is an American software company that
+provides cloud and virtualization software and services, founded in 1998
+and based in Palo Alto, California, USA. For more information about
+VMware, please visit: www.vmware.com ."

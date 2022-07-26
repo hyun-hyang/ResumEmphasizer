@@ -1,0 +1,26 @@
+Database Developer,"The primary objective of the Software Developer
+position is to produce required product following processes in
+conjunction with team members that is of high quality and is timely.","- Create innovative and elegant software designs to meet current
+business needs; 
+- Ensure the integrity of component designs as those pass through all
+phases of the software development lifecycle;
+- Work productively as part of a software development team;
+- Maintain large scale database.","- Bachelors degree in Computer Sciences or a related discipline; 
+- Over 2 years of database development experience;
+- Strong knowledge of SQL Server, TSQL, stored procedures;
+- Fluent English language skills (ability to communicate via phone with
+foreign partners);
+- Knowledge of extended stored procedures, indexing & replication is
+desired;
+- Experience in any development language is a plus;
+- Good intercommunication skills;
+- Ability to work under pressure.","Interested candidates should apply online
+through: http://careers.cqg.com or email resumes to: yer_job@....
+Please mention the position title in the subject line of your email. For
+enquiries, please call: +(374 10) 26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US company, providing software for
+trading business. It was established in 1980 and is headquartered in
+Denver, Colorado. For additional information about the company, please
+visit its website: www.cqg.com."

@@ -1,0 +1,30 @@
+Front-end Developer,"SFL LLC is looking for an experienced professional to
+fulfill the position of a Front-end Developer.","- Work independently and with a team to create JavaScript and HTML/CSS
+markup and templates with a strong focus on clarity, maintainability and
+cross-browser compatibility;
+- Work closely with designers, artists, engineers and testers to
+contribute to the overall user experience;
+- Participate in requirements gathering and functional specification
+activities, providing feedback on implementation feasibility as well as
+navigable prototypes/ mockups;
+- Develop and lead the application of front-end web coding and design
+standards.","- University degree in Computer Science or a related field;
+- At least three year experience as a front-end web developer, producing
+professional websites and/ or web applications;
+- Strong technical skills in the areas of HTML/XHTML, CSS and
+JavaScript;
+- Demonstrated expertise in creating cross-browser compatible code;
+- Strong working knowledge of open-source CMSs, such as Wordpress,
+Joomla, Typ0light, etc.;
+- Ability to multitask, deliver under pressure and work under tight
+deadlines;
+- Excellent communication and interpersonal skills;
+- Good knowledge of English language.","Please submit your resumes to: jobs@....
+No personal visits, deliveries or phone calls, please. Only short listed
+candidates will be notified for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL is a software development company, Microsoft Gold
+certified partner. Main specialization is providing custom business
+solutions to clients from Western Europe and Armenia. More details can
+be found at: http://www.sflpro.com"

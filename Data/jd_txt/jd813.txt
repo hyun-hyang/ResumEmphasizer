@@ -1,0 +1,31 @@
+Senior Java Developer,"NairiSoft Inc. is looking for a highly qualified
+person with deep knowledge and practical experience in Java programming.
+The selected candidate will be involved in all stages of the development
+life cycle.","- Develop Windows application using Java; compose GUI components
+(windows, panels, text fields, etc.) following the given design
+standards and software architecture, write and read XML using known
+parsers;
+- Develop Web applications in accordance with given specifications
+(desired but not necessary skill);
+- Assure full conformance of source codes to provided Coding standards;
+- Read, understand and modify the existing code;
+- Work as part of a software development team;
+- Communicate with management and team members effectively.","- Bachelors or higher degree in Computer Sciences or a related
+discipline with at least 2 years of work experience in software
+development;
+- 2 years of work experience in required fields;
+- Good knowledge of Java (especially GUI libraries/tools Swing, AWT),
+XML (DTD and parsing);
+- Good knowledge and experience of principles of OOP;
+- An experience of working with Borland JBuilder tool is highly
+desired;
+- Knowledge of the following technologies is desired: JSP, HTML,
+JavaScript, SQL;
+- Work experience with client/server applications;
+- Good English language skills.","Please email your detailed resume to:job@.... Please mention the position title you are applying
+for in the subject of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"NairiSoft Inc. is an international Internet
+infrastructure development and consulting company. It was established in
+January 2000."

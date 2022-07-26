@@ -1,0 +1,22 @@
+SW Developer,"The project will be focused on rebuilding and enhancing
+the existing system, which may include front-end design as well as
+back-end programming. The project is fairly complex and requires strong
+knowledge of the advanced networking, operating systems, application
+development and user interface design.",NA,"- Experience and knowledge of .NET Framework and C#;
+- Experience and knowledge of PHP 5 (classes, namespaces, inheritance,
+and design patterns);
+- Knowledge of MySQL;
+- Knowledge of JavaScript development (knowledge of jQuery is
+preferred);
+- Knowledge of Computer networking, Ethernet, IP, VLANs, or telecomm a
+plus;
+- Commitment to acquire new skills and the ability to use them;
+- Strong verbal and written communication skills in English language;
+- Ability to work independently and complete assigned tasks within
+identified time frames;
+- Positive attitude, flexibility and problem solving mentality;
+- Strong attention to details.","Interested candidates are encouraged to submit a
+CV to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

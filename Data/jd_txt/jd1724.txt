@@ -1,0 +1,37 @@
+Senior Objective C Developer,"Virtual Solution Global Services LLC is seeking a
+motivated Objective C Developer.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Effectively communicate with local management and external team
+members;
+- Develop applications according to technical documentation;
+- Develop test cases;
+- Install and configure necessary environment for the developed
+applications.","- At least 3 years of work experience as a Software Developer;
+- At least 1 year of work experience as Objective-C, iPhone UIKit and
+iPhone Foundation Framework Developer;
+- Excellent knowledge of Objective-C and OOP;
+- Excellent knowledge of iPhone UIKit, iPhone Foundation Framework and
+Cocoa Touch Framework development;
+- Knowledge of Frameworks: iPhone UIkit, iPhone Foundation and Cocoa
+Touch;
+- Background knowledge of C++ or Java;
+- Ability to build environment: XCode;
+- Knowledge of OS: Mac OS X, Unix and Linux;
+- Skills with Mac OS X: system administration and writing Shell scripts
+is preferred;
+- Ability to work on project with a development team;
+- Problem solving skills;
+- Good communication skills;
+- Good knowledge of English language;
+- Knowledge of (X)HTML, CSS, JavaScript and XML is a plus;
+- Android development skill is a plus.","Interested candidates should email their resumes
+to: info-am@... . In the subject line of your e-mail
+message, please mention the title of the position you are applying for.
+Please send resumes only if you correspond to the required
+qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+virtual solution GmbH, German IT company, developing international
+software. For additional information about the company, please visit its
+website: www.virtual-solution.com."

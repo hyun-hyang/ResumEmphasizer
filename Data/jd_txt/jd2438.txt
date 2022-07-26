@@ -1,0 +1,41 @@
+.NET Web Developer,"BetArchitect LLC is looking for .NET Web Developers to
+join its team in developing enterprise level software solutions. The
+incumbent should be an energetic person who is ready for new challenges
+and has a good understanding of Agile software development methodologies,
+practices and frameworks. The experience with Scrum framework is highly
+desirable, as the company practices Scrum.","- Write, modify, extend and debug software for client applications;
+- Re-factor and re-engineer the existing code base safely;
+- Communicate newly acquired knowledge to fellow team members and other
+teams;
+- Analyze high-level requirements and work with fellow team members to
+create quality results;
+- Develop and test web-based applications for both internal and external
+clients; utilize C# and HTML/ CSS, Asp.Net, MVC experience;
+- Utilize experience with test-driven development and/ or automated unit
+testing; perform test-driven and domain-driven designs;
+- Utilize JavaScript (JQuery, MS Ajax), Visual Studio 2010/ 2012, MS SQL.","- At least 3 years of web development experience in .NET platform;
+- Strong understanding of OOP principles;
+- Hands-on experience in developing Web applications using ASP.NET and
+MVC;
+- Strong knowledge of Microsoft Ajax and jQuery frameworks;
+- Experience with HTML5 and CSS3;
+- Experience with unit testing;
+- Experience with Desktop applications development in .NET platform is
+desired;
+- Experience with multi-threaded applications is a plus;
+- Experience working with Microsoft SQL server 2005/ 2008/ 2012 is a
+plus;
+- Experience developing Silverlight and WPF applications is preferred;
+- Experience with source code control such as SVN or Microsoft Source
+Safe is a plus;
+- Ability to quickly learn new tools/ techniques and willingness to adapt
+and learn is desirable;
+- Knowledge about Node.js is preferable.","Interested candidates are asked to submit a CV
+in English language to: hr@... , indicating the position
+title in the subject line of the e-mail. Only shortlisted candidates will
+be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect LLC is a software development company,
+which, in cooperation with partner software companies, aims to build
+various software solutions."

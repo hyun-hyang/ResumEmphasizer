@@ -1,0 +1,40 @@
+Software Developer,"Ogma Applications is seeking an experienced Software
+Developer with in-depth knowledge of software development processes. In
+order to join and succeed in the team, the incumbent must have a passion
+and energy to work in an entrepreneurial environment. The Software
+Developer will work closely with other developers and his/ her peers in
+the US and other teams around the globe, to analyze, design, develop,
+test and deliver in class software.","- Work with the Senior Architect in the US to get aligned with product
+roadmaps and assume a key role in the development of these products;
+- Design, proto-type, develop, and thoroughly unit test before submitting
+to QA;
+- Work with the Quality Assurance team to develop and maintain unit tests
+based on product functional specifications.","- At least 2 years of extensive software development experience;
+- Ability to work with a low-level programming language C++;
+- Experience with object-oriented design, data structures, algorithms and
+all the phases of the software development life cycle;
+- Strong knowledge of Windows API, VC++, MFC, COM, DCOM;
+- Experience in working in a real-time, multi-threaded environment;
+experience with network TCP/ IP communication programming;
+- Familiarity with the programming and using of COM/ DCOM objects;
+- Experience with Apache ActiveMQ is a plus;
+- Experience with Symantec Enterprise Vault is a plus;
+- MS SQL Server 2008 R2 or 2012 experience is a plus;
+- Ability to work independently as well as with other members in a
+group;
+- Thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Strong interpersonal skills; ability to work both independently and as
+a part of a global team and thrive on technical challenges;
+- Excellent communication and writing skills; experience in writing
+product specifications and technical documentation;
+- Good knowledge of the English language;
+- Self-driven, hard-working person and good team player.","To apply for this position, please submit your
+detailed CV in the English language to: career@... indicating the
+position title in the subject line of your email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information, please visit:
+www.ogmainc.com."

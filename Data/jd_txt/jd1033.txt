@@ -1,0 +1,48 @@
+Senior Software Engineer,"Ogma Inc. is seeking a Senior Software Engineer
+capable to analyze, design, develop, test and deliver the quality
+software. The incumbent should be an experienced senior architect and
+technical leader with in-depth knowledge of software development
+processes. As a senior member of the team in Armenia, the incumbent will
+be working closely with other developers and his/her peers in the US and
+other teams around the globe.","- Work with the Senior Architect in the US to get aligned with product
+roadmaps and assume a key role in the development of these products;
+- Design, proto-type, develop, and thoroughly unit test before
+submitting to QA;
+- Write technical and functional specifications and present them to the
+other team members, and occasionally to the management;
+- Work with the Quality Assurance team to develop and maintain unit
+tests based on product functional specifications.","- Knowledge of UML architecture diagramming techniques;
+- Minimum of 4 years of extensive development experience, and minimum of
+4+ years with the following technologies:
+a) ASP.NET for building the new Control Panel;
+b) Pure C# code both on the middle tier and as part of the web UI layer
+of ASP.NET;
+c) IIS 6/ IIS 7 experience;
+d) MS SQL Server 2000, 2005 or 2008 experience;
+e) MSMQ Service;
+- Familiarity with the .NET Framework, specifically the following
+packages:
+a) Messaging, threading, generic collections, custom controls and LINQ
+to SQL classes and also ADO.NET;
+- Experience with technologies such as XML, HTML, Resin, MyEclipse, Ant,
+Junit, Subversion and related tools;
+- Extensive programming experience with standard management and
+instrumentation API's;
+- Ability to work independently as well as with other members in the
+group, preferably in a leadership role;
+- Thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Strong inter-personnel skills, ability to work both independently and
+as part of a global team and thrive on technical challenges;
+- Excellent communication and writing skills, and experience in writing
+product specifications and technical documentation.","Please e-mail your detailed CV to:hbaghdas@... indicating the position title in the subject line
+of your e-mail.
+Only short-listed candidates will be contacted. 
+Please, mention the best time to contact you.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","The candidate must have a valid passport to travel.
+The selected candidate will have the opportunity to travel to USA office
+for training purposes.","Ogma Inc. is a U.S. based software development company
+in California. It has an Engineering department that is responsible for
+developing state-of-the-art web-based application suite."

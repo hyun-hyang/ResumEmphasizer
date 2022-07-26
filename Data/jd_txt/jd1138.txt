@@ -1,0 +1,29 @@
+Senior Software Developer,"The Company is looking for a full time Senior Software
+Developer to work on the design and implementation of Java/J2EE based,
+database driven web application.","- Develop software components that fit into layered application
+framework, including user interface, business logic and back-end
+service/ data access components;
+- Participate in design discussions, code reviews and project related
+team meetings;
+- Work with other engineers, Product Management and QA teams to develop
+innovative solutions that meet business needs with respect to
+functionality, performance, scalability, reliability and realistic
+implementation schedules.","- Bachelor's degree in Computer Science or Applied Mathematics (Master's
+degree is preferred);
+- 4+ years of hand-on experience in Java, J2EE, Design Patterns, OO
+concepts, Data structures and XML;
+- Experience in the following Java frameworks: Struts, Spring and
+Hibernate;
+- Experience in Database driven application development (Oracle is
+preferred) and SQL;
+- Familiarity with HTML, CSS, JavaScript and AJAX development;
+- Experience in application server administration (WebLogic is
+preferred), source code management (CVS is preferred) and release
+management;
+- Good analytical and problem solving skills;
+- Written communication skills in English language;
+- Verbal communication skills in English language is a plus.","To apply for this position, please send your
+resume to Vasil Barseghyan at: vasilb@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

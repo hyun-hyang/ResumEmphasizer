@@ -1,0 +1,22 @@
+Java Senior Software Developer,"We are looking for Java developers to work on C#
+projects.","- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Plan software development activities and follow established processes
+accurately;
+- Share knowledge, mentor peers, listen and hear team members positions
+and provide a fair evaluation of different opinions;
+- Work as part of a software development team;
+- Communicate with management and team members effectively;
+- Keep commitments;
+- Have a command of current technology;
+- Participate in discussions regarding technical issues.","- Bachelor's degree in Computer Sciences or a related field;
+- Over 3 years of Java experience;
+- Extensive knowledge of Windows platform technologies including Win32
+API, COM, threading and sockets;
+- Knowledge of .Net;
+- Basic English language skills.","Interested candidates should email resumes to:yer_job@... or call: 26 56 04.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is a private held US software development company.
+For additional information about our company, please visit our website:
+www.cqg.com."

@@ -1,0 +1,44 @@
+Database Developer,"Primary responsibilities of the Database Developer
+include designing database, database administration and maintenance,
+analyzing database performance and developing solutions to speed up
+processes, develop procedures and queries to effectively handle large
+amount of data, ETL and other database related tasks.","- Administer, maintain, develop and implement polices and procedures to
+ensure the security and integrity of databases;
+- Implement data models and database design, data access and table
+maintenance codes;
+- Resolve database performance issues, database capacity issues,
+replication, and other distributed data issues;
+- Employ a good code writing style that includes sufficient comments;
+- Update/ write technical documentation on database structure, procedures
+and functions;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues;
+- May have to travel to USA to work with clients team members;
+- Design and implement ETL process.","- Master's or higher degree in Computer Sciences, Physics, Mathematics or
+related disciplines;
+- At least 3 years of experience in database development and/ or
+administration;
+- Strong development experience with T-SQL and MS SQL Server, experience
+with Oracle is a plus;
+- Familiarity with standard concepts, practices, and procedures within
+the field;
+- Demonstrated records of implementing efficient databases and procedures
+to handle large data volumes;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Good English language skills including reading, writing, and speaking;
+- Ability to work under pressure and meet deadlines;
+- Ability to learn and apply new technologies;
+- Creativity and analytical thinking.
+Desired qualifications:
+- PhD in Computer Science;
+- Knowledge in the field of Data warehousing and BI;
+- Experience with SSIS;
+- Knowledge of C# programming language;
+- Knowledge of ASP .Net, .Net, and other technologies.","Interested candidates should email their CVs and
+inquiries to Armen Nahapetyan at: nahapetyan.armen@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ardinnotech's head office is based in Florida, USA. The
+main specialization of the company is developing and licensing
+large-scale computer models and software."

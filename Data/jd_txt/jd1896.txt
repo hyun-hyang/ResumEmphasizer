@@ -1,0 +1,25 @@
+C# .Net Developer,"Boomerang Software LLC is looking for a C# .Net
+Developer to be engaged in different long term projects.","- Participate in all stages of the software development life-cycle;
+- Contribute to improvement of development processes;
+- Develop applications with C#, ASP.NET, ADO.NET and MS SQL;
+- Communicate effectively with the external and local colleagues.","- BA degree in Computer Sciences/ Business Analysis or related
+discipline; Master's degree is a plus;
+- At least 3 years of work experience;
+- Excellent knowledge of ADO.NET, ASP.NET and C#;
+- Database knowledge with MS SQL;
+- Good knowledge of ASP.NET MVC is preferred;
+- Good knowledge of Classic ASP is preferred;
+- Good knowledge of JQuery is preferred; 
+- Ability to work under pressure on multiple tasks and within tight
+deadlines;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language.","If interested, please e-mail your last updated
+and detailed Resume to: hr@... . Please indicate ""C# .Net
+Developer"" in the subject line of your e-mail. Boomerang Software thanks
+all interested applicants; however, only shortlisted candidates will be
+contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software is a software company that develops
+software products for American and European markets and provides IT
+services for partners all over the world."

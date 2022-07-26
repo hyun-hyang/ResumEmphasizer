@@ -1,0 +1,31 @@
+Adobe Flex Developer,"Kubisys CJSC, Armenia is looking for a Flex Developer
+to be engaged in different long term projects. The Flex Developer will
+work closely with other members of the team to create a compelling and
+intuitive user interface.","- Participate in development of new and existing projects in Adobe
+Flex;
+- Participate in functional specs preparation/review process;
+- Develop high quality and clean code, apply proper language
+constructions and use quality;
+- Design, architect and build the front end of a multi-tiered web-based
+software.","- Advanced knowledge of OOP and OOD;
+- Extensive experience with Adobe Flex (minimum 1-2 years, ideally 2-3
+years) - must have experience with at least Flex 2, should have
+experience with Flex 3;
+- Expert knowledge of Actionscript 3;
+- Thorough understanding of Flex Component Lifecycle;
+- Strong design skills as well as strong communication skills;
+- Experience with Data Center operations is a plus;
+- Experience working with RDBMs and their interfaces (e.g. SQL) is a
+plus;
+- Experience with Ruby, Ruby on Rails, RubyAMF is a plus;
+- The ideal candidate will have strong technical knowledge of latest
+data center technologies and is able to quickly absorb the domain
+knowledge;
+- Fluent English language skills;
+- Good team player.","If interested, please email your CV to:jobs@.... Please present projects involved in the last 12
+months.
+Only short listed candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys Inc. is dedicated to the mission of automating
+and simplifying the operations of enterprise data centers."

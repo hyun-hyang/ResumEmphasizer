@@ -1,0 +1,41 @@
+Technical Support Engineer,"Assumes responsibility for day-to-day technical
+support in 24x7 format (3 shifts).","- Record basic details of incidents;
+- Alert specialist support groups as necessary; 
+- Classify incidents;
+- Assign impact and urgency; 
+- Provide Level 1 support; 
+- Collect and analyse related information;
+- Maintain application of workarounds/ incident resolution for Level 1
+issues; 
+- Provide incident escalation to Level 2 support team; 
+- Monitor Production Systems;
+- Perform job scheduling and monitoring.","- Minimum bachelors degree in Computer Science or in a related field;
+- 3-5 years of IT experience;
+- Experience in 24x7 operational support of mission critical systems;
+- Basic understanding of LAN, WAN and TCP/IP technologies;
+- Basic understanding of Linux, Windows 2003 and IIS;
+- Basic understanding of MS SQL and Oracle;
+- Technical experience to provide Level 1 issue resolution for all
+components of a production environment;
+- 1-2 years of experience in technical support environment performing
+maintenance and support services;
+- Experience with monitoring and service desk (help desk) tools;
+- Ability to work 2nd or 3rd shift as required by schedule, willingness
+and ability to work overtime;
+- Knowledge of web development and database technologies;
+- Excellent understanding of SDLC, issue tracking and follow up cycle;
+- Excellent communication skills;
+- Good command of written and spoken English language is a must.","Interested candidates should email their
+resumes to: armen.nikoghosyan@... andanikoghosyan@... (alternate). Please mention in the subject line
+of your email the position you are applying for. Only short-listed
+candidates will be invited for interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Metakortex, a subsidiary of US based Netsoft USA,
+specializing in developing IT-based Services and Solutions is looking to
+add Customer Support Engineers to help meet the needs of its business.
+This opportunity offers you a chance to sharpen your skills from a
+provider of innovative IT solutions including SOA, and Custom Business
+applications on the .NET platform. Metakortex provides services to
+medium and large enterprises, with a focus on the Financial and
+Healthcare industries."

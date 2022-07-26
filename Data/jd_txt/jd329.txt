@@ -1,0 +1,39 @@
+Senior Software Developer,"The mission assignment is to participate in developing
+a CRM (Customer Relationship Management) application replacing the
+existing Seligent software for a French company. The candidate will work
+with 3 to 6 other developers in a team, reporting to a Lead Developer.
+Teams are split over two major platforms: Paris and Armenia.","- Gather and produce requirements and designs;
+- Write and test code for the required product;
+- Plan software development activities and follow established processes
+accurately;
+- Share knowledge, mentor peers, listen and hear team members positions
+and provide a fair evaluation of different opinions;
+- Communicate with management and team members effectively;
+- Keep commitments;
+- Participate in discussions regarding technical issues;
+- Work as part of a software development team.","- Bachelors degree in Computer Sciences or a related field;
+- Over 2 years of work experience with object oriented Java;
+- Work experience in architecture and design or equivalent combination
+of education;
+- Demonstrated record of designing and implementing high quality
+software products delivered to market;
+- Strong problem-solving skills;
+- English language skills;
+- Experience with distributed application architectures, databases
+(Oracle, SDLServer and MySQL) interaction with off-shore development
+teams is preferable;
+- Knowledge and application of software development methodology
+(preferably UML) and quality management processes (ISO 9002 and CMMi)
+will be a plus;
+- Knowledge of Java, C/ C++, Visual Basic, IDL, JavaScript and VBScript
+programming languages;
+- Knowledge of JDK (AWT, JFC, Collections, RMI and JDBC), J2EE (EJB,
+Servlets and JSP), MVC/ Struts, JSTL, Web Services and SQL
+technologies;
+- Knowledge of IBM WebSphere Portal,  Weblogic, JBoss and Tomcat
+platforms;
+- Knowledge of Oracle, MS SQL Server and MySQL databases.","Interested candidates must email their CVs to:anahit.manasian@... or call: 21 97 82 or (093) 56 45 86.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Armen High Tech Company is a newly established firm
+specialized in software development and auxiliary services."

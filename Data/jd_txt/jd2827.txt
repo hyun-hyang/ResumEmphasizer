@@ -1,0 +1,21 @@
+Web Developer,Tel-Cell CJSC is looking for a qualified Web Developer.,"- Responsible for programming, development of new products, services,
+software tools and utilities;
+- Analyze complex problems, interpret operational needs and develop
+integrated creative solutions;
+- Support for the developed software;
+- Responsible for documenting.","- At least 2 years of professional work experience in ASP/ ASP.NET (C#/
+VisualBasic.NET), .NET Framework;
+- Knowledge of MS SQL Server 2008/ 2012;
+- Knowledge of HTML, CSS, XML, JavaScript;
+- Good knowledge of OOP;
+- Knowledge of C++, knowledge of SOAP and JSON is a plus;
+- Baccalaureate degree or higher education in CS or in a related field;
+- Fluency in Russian language; 
+- Knowledge of technical English language;
+- Ability to study.","Interested candidates are asked to submit their
+CVs to: hr@... . Please write in the subject line the position
+you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Telcell CJSC is a system of payments intake in Armenia,
+covering the capital and other regions and the centers of the republic."

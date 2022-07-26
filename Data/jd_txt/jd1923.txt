@@ -1,0 +1,56 @@
+Software Development Manager,"The successful candidate will become part of company's
+growing team. He/ she will be managing the technical activities of
+Yerevan Branch.","- Responsible for all aspects of design and usability quality;
+- Oversee a team of developers who design, develop and maintain the
+operation of a database-driven ASP.NET/ C# Web application with a
+specific emphasis on usability, performance and scalability;
+- Architect .NET and database-based solutions using MVC Framework by
+studying existing technology architecture, analyzing browser
+compatibility techniques, evaluating solution alternatives, developing
+prototypes and writing detailed technical requirements;
+- Delegate tasks to organize, mentor and motivate a team of talented
+software developers;
+- Foster a culture of continuous improvement in all areas of technology
+and instill the principles of this culture in the team;
+- Work together with senior software developers to plan and execute
+projects;
+- Maintain and enhance company's home grown systems;
+- Manage and promote relationships with key stakeholders, including
+clients, 3rd-party vendors and other groups within the organization;
+- Ensure business solutions are 'fit for purpose';
+- Develop and deliver solutions according to the approved works program
+with adherence to time, cost, regulatory and quality parameters;
+- Responsible for product maintenance and management;
+- Remain abreast of technology and provide technology thought leadership,
+which is embodied in the IT strategy and architecture;
+- Manage and provide leadership to a group of IT Professionals, including
+Developers, Business Analysts, DBAs and Configuration Analysts;
+- Train and develop team member capability to improve skills and
+performance.","- B.S. in Computer Sciences;
+- At least 7 years of work experience in .Net-based solutions
+development;
+- At least 5 years of work experience in MS SQL database design and
+programming (SQL 2008 and higher);
+- At least 3 years of work experience in Managing Software Development
+teams;
+- Proficiency in OOP/ OOD and good knowledge of Design Patterns;
+- Good understanding of Web services; practical working knowledge of
+WCF;
+- Knowledge of and experience in MVC Framework 3/ 4 and LINQ/ Entity
+Framework 4;
+- Experience in Agile development methodologies and working with
+Microsoft TFS (Team Foundation System); 
+- Mastery of technical English language, everyday verbal communication;
+- Good communication skills;
+- Good team player, with the ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests;
+- Readiness to travel to the US.","Please email your professional CV to:armjobs@...  specifying the job position name in the subject
+line. Please note that only shortlisted candidates will be contacted for
+an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours is from 10am to 7pm, with flexible
+rescheduling if needed. The job could include overtime work based on
+need.","CargoMatrix is a logistics software solutions provider
+based in New York, USA. The company was formed in 1999."

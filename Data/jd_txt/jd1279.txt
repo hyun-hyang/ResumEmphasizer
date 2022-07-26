@@ -1,0 +1,35 @@
+Senior Quality Assurance Engineer,"The Senior Quality Assurance Engineer will be
+responsible for developing, applying and maintaining quality standards
+for company products.","- Develop and execute software test plans;
+- Analyze and write test standards and procedures, maintain documentation
+of test results to assist in debugging and modification of software;
+- Analyze test results to ensure existing functionality and recommends
+corrective action;
+- Follow standard practices and procedure in analyzing situations or data
+from which answers can be readily obtained;
+- Work under normal supervision and receive general instructions on
+routine work and detailed instructions on new assignments;
+- Write and review test specifications and test plans with focus on
+functional specifications.","- MS/BS in Computer Science/ Electrical Engineering with 5+ years of
+relevant experience in product testing and some knowledge of evaluation
+methods in the design, development and debugging of software programs;
+- Linux/ Unix and Windows advanced user;
+- Scripting: Shell scripting, Perl and Tcl;
+- Good spoken and written English language;
+- Quick learner;
+- Basic knowledge in Microelectronics;
+- Understanding of Quality Assurance process;
+- Ability to work independent and under pressure;
+- Good organization and communication skills.
+Desired Skills:
+- Basic knowledge in Software lifecycle process;
+- Work experience with databases MySQL;
+- Web page developing, CGI Scripting;
+- Test process automation.","Please e-mail your detailed CV in English
+language to: dianan@... , indicating the position title in the
+subject line of your e-mail. Only shortlisted candidates will be
+contacted. Use this link to to submit your CV:http://www.synopsys.com/Company/SynopsysCareers/Pages/Jobsearch.aspx.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"To learn about the Company, please visit:
+www.synopsys.com."

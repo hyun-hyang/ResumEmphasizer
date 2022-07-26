@@ -1,0 +1,60 @@
+Hardware & Systems Experts,"We are seeking Hardware & System Experts to control
+compliance to technical requirements of computer equipment with
+pre-installed software supplied to schools and quality of accompanying
+services (LAN installation) in frames of Computer Revolving Scheme.","- Receive the list of hardware recipient schools with their
+corresponding supplier firms from CfEP;
+- Receive the recipient schools hardware lists from CfEP;
+- Receive the school-by-school technical requirements to the hardware,
+software and LANs for each school in the above-mentioned list from
+CfEP;
+- Receive the hardware delivery schedules from the supplier firms or
+CfEP;
+- Travel to schools in accordance with the delivery schedule(s)
+provided, either by accompanying the hardware to the destination school
+with the firm, or independently;
+- Conduct on-spot (the recipient schools computer room) quantity check
+for the hardware delivered;
+- Ensure the intact condition of all items of the hardware delivered;
+- Conduct on-spot checking of the defects for the hardware and software
+received;
+- Conduct on-spot checking of the compliance to the technical
+requirements of hardware supplied, the software pre-installed in it, and
+the LAN established;
+- Conduct on-spot checking of proper functionality of hardware installed
+and LAN established;
+- Record any wrong quantities, incompliance, defect and malfunctioning
+in case they are discovered and sign an Equipment Non-Acceptance Act
+together with the schools director using the act form provided by
+CfEP;
+- In case of full compliance of the hardware, software and LAN to the
+schools equipment list and the required technical specifications, and
+no defects, approve by signature a two-party Equipment
+Transfer-Acceptance Act signed between the schools director and the
+supplier firms representative using the act form provided by CfEP;
+- Upon need, re-visit the schools together with the firms
+representative to conduct new compliance checks to make sure that the
+firm has eliminated fully all the incompliances, quantity mistakes,
+malfunctionings and defects.","A qualification in Information Technology and
+at least 2-year working experience in hardware, system and network
+administration, particularly experience in installation and
+commissioning of Intel Pentium PCs, Unix, Linux and OpenOffice software.","Applicants should submit a CV in English or
+Armenian to CfEP.
+Address:
+73 Simon Vratsyan Street, Yerevan, Armenia
+Phone: 57-56-43
+E-mail: cfep@...
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Center for Education Projects is a WB loan program
+implementation unit that currently under the financial assistance of
+World Bank implements an Education Quality and Relevance Project aimed
+towards a number of important reforms in the sphere of general
+education.
+ABOUT:  One of the Projects goals is to establish computerized School
+Learning Centers in general schools of the Republic of Armenia. In
+accordance with this goal Computer Revolving Scheme (CRS) was
+established to ensure continuous supply of computer equipment to
+schools. About 165 schools will receive computer equipment in year 2005.
+The computer equipment will be delivered to each school by the supplier
+firms, installed and tested, and Local Area Network (LAN) will be
+established."

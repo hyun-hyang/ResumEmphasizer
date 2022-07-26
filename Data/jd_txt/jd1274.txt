@@ -1,0 +1,34 @@
+Software Engineer,"Kubisys CJSC is looking for a Software Engineer to be
+engaged in different long term projects. The ideal candidate should be a
+broad technologist with various skill sets spanning from coding to data
+center operations.
+The Software Engineer is an exciting startup. This is an opportunity to
+join a rapidly growing company at its initial phase. No politics - just
+work. Plenty of opportunities to learn and grow for the right candidate
+displaying discipline, enthusiasm and passion.","- Participate in development of new and existing projects; 
+- Participate in functional specs preparation/ review process; 
+- Develop high quality and clean code, apply proper language
+constructions and use quality;
+- Architect and integrate various components that make up a complex
+tiered application;
+- Perform day to day operational work, e.g., manage web pages and
+development servers.","- Minimum of 2+ year technical experience in software development;
+- Administrator level experience with Windows and Linux;
+- Good understanding of networking;
+- Scripting experience (Ruby, Python, Perl, PHP, UNIX shell);
+- Working knowledge of databases and SQL;
+- Experience in C, C++ Programming is a plus;
+- Experience with major server virtualization platforms (VMWare, Hyper-V,
+Xen) is a plus;
+- Understanding of major intelligent storage devices (EMC, NetApp,
+EqualLogic) is a plus;
+- Good control of English language; 
+- Good team player.","If interested, please email your CV to: gasparyan@... and jobs@... . Only shortlisted candidates
+will be invited for an interview.
+Please present projects involved in the last 12 months.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys Inc. is dedicated to the mission of automating
+and simplifying the operations of enterprise data centers. For more
+information about the company's product and activities please visit:
+www.kubisys.com."

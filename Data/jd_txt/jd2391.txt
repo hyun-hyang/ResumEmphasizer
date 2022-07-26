@@ -1,0 +1,27 @@
+Senior iOS Developer,"The incumbent will be responsible for developing iOS
+application.","- Responsible for the development of iOS applications - extend
+functionality and maintain software;
+- Participate in architecture design;
+- Work within an agile development environment;
+- Work with QA and other teams to deliver code on time.","- At least 3 years of work experience in Development;
+- Experience in C/ C++;
+- Experience in streaming technologies is a plus;
+- Experience in network and sockets development is a plus;  
+- Good knowledge of and experience in JSON/ XML;
+- Experience in real time development, knowledge of networking protocols
+and sockets such as TCP/ IP, UDP, etc. is a plus;
+- Knowledge of audio and video codeces such as H264, H265, VP8, VP9 is a
+plus;
+- Experience in OpenGL is a plus;
+- Strong problem-solving skills;
+- Ability to effectively interact with cross-functional teams;
+- Good knowledge of the software development life cycle and processes;
+- Fast learner;
+- Good team player.","Interested candidates are asked to email a
+resume to: job@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Zangi Livecom Pte. Ltd is a new generation
+telecommunication company which develops own unified communication
+technology and own product. For more information, please visit the
+website of the company: www.zangi.com ."

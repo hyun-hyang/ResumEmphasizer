@@ -1,0 +1,19 @@
+Senior Software Engineer,"Digital Chocolate Inc is looking for a Senior Software
+Engineer. The incumbent will be responsible to design, develop and
+maintain high quality, high volume and extensible gaming platform.","- Develop and Architect platform features;
+- Support stability of platform;
+- Work closely with US team;
+- Be a part of platform team and participate in daily meetings;
+- Consult game studio's on their integration's to platform.","- Deep knowledge of OOP concepts and Java;
+- Experience in concurrent programming/ multi-threading;
+- Understanding of Non-relational databases;
+- Work experience in Linux/ Unix environment;
+- Ability to frequently travel to Europe and US (to game studios).","Interested candidates are encouraged to submit a
+CV to: http://jobvite.com/m?3KEugfwS with a note of ""Senior Software
+Engineer"" in the subject line. Or Send CV with the same subject to:ar-careers@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Engineers get 2, 24 inch monitors with high end
+laptops.","Digital Chocolate Inc, is a Silicon Valley based social
+gaming company. For more information about the company, please follow
+this link: http://www.digitalchocolate.com/about/ ."

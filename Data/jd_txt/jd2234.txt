@@ -1,0 +1,59 @@
+Database Developer,"Synergy Armenia is looking for a Database Developer to
+assist the Database Development Team and the Team Leader in functional
+specification definition, design, implementation, and maintenance of the
+logical and physical database and data dictionary in compliance with
+application specifications, company policies and company standards.","- Responsible for design of the physical data model;
+- Responsible for creation of the physical databases for an application;
+- Responsible for troubleshooting of databases' performance;
+- Responsible for development of integration, replication and backup/
+restoration strategies;
+- Responsible for development of required stored procedures for the
+applications;
+- Responsible for reviewing and refactoring code;
+- Develop and maintain databases, software data access guidelines,
+standards and use of data model tools;
+- Contribute and create data design products and deliverables including:
+Logical and Physical Model, Entity Relationship Diagram, Table
+Relationship Diagrams, etc.;
+- Provide liaison support for applications development teams throughout
+the lifecycle development;
+- Responsible for Extract, Transform, and Load Tools (ETL) and processes.","- Extensive experience in Microsoft SQL Server and Oracle, all service
+packs and many hot fixes;
+- Recent hands-on experience in SQL including stored procedures, indexes,
+performance optimization and tuning, database architecture, scripts,
+OLAP, and XML;
+- Ability to understand (read/ write) Transact  SQL/ PL SQL Language,
+stored procedures, triggers and user defined functions; 
+- Ability to analyze results and common errors of the same;
+- At least 1 year of experience in a relevant field;
+- Expertise with one or more Relational Databases including Oracle and
+SQL Server;
+- At least 1 year of experience in SQL Server/ Oracle performance
+tuning;
+- At least 2-3 years of experience in reading and writing SQL Language as
+well as ability to analyze results and common errors;
+- At least 2-3 years of experience in reading and writing stored
+procedures - SQL stored procedures and external stored procedures;
+- At least 2-3 years of experience in reading and writing triggers (SQL
+triggers, external triggers) and user-defined functions - SQL
+user-defined functions and external user-defined functions;
+- Bachelors degree holder;
+- Fluency in technical English language;
+- Ability to work under pressure and in a multi-task environment; 
+- Ability to work in a team while being self-directed and highly
+motivated;  
+- Excellent analytical and problem-solving skills and attention to
+detail;
+- Excellent interpersonal and organizational skills.","If interested, please send your resume with a
+cover letter, clearly mentioning the position title ""Database Developer"",
+listing your qualifications, and indicating your contact details (phone,
+fax, and/ or e-mail address where you can be reached) to:careers@... . Candidates who meet these qualifications will
+be shortlisted and interviewed. Selected candidates will be notified of
+the interview dates directly. Company thanks all who apply but only those
+selected for an interview will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synergy International Systems, Inc. is a U.S. software
+company, operating in Armenia through its Yerevan subsidiary and
+specializing in the development of integrated web-based information
+management systems."

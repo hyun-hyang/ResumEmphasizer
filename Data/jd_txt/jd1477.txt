@@ -1,0 +1,20 @@
+Senior Web Developer,"ASDG LLC is looking for an experienced Web Developer to
+join its team.","- Design and implement Web applications and related tools for company
+product release cycle, production and test automation; 
+- Be responsible for the continuation, integration, and follow-on
+enhancements to the company's web environment on multiple security
+networks.","- 5+ years of work experience as a Web Developer;
+- Strong programming knowledge in PHP, JavaScript;
+- Experience with Perl, SQL, HTML;
+- Web based user interface development, experience with UNIX, Linux and
+Windows;
+- Understanding of complex database concepts;
+- Ability to create well designed, reusable objects;
+- Understanding of browser specific compatibility issues;
+- Good English communication skills;
+- Strong team player;
+- Willingness to travel to US.","Please send your application to:suren@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ASDG LLC is a software development company working for
+USA market."

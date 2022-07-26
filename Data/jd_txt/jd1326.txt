@@ -1,0 +1,32 @@
+Senior Software Architect,"In this role the incumbent will be responsible for
+defining further development system level architecture for the company's
+product and sense check it together with the teams for feasibility;
+providing technical support and coaching to the engineering team in
+regards to best practices and industry standards; documenting existing
+and future system architecture so that the teams can make their decisions
+based upon it.","- Take responsibility for the technical vision; technical product
+strategy, prototyping, design, implementation, testing and monitoring;
+- Ensure that the matchmaking platform is forward thinking and on the
+leading edge of industry trends;
+- Provide technical support and coaching to the engineering team;
+- Interact with all system users to translate software requirements into
+database systems, hardware and software requirements;
+- Guide technical strategy discussions on best practices;
+- Define and clearly document existing and future system scenarios.","- University studies in IT with focus on software engineering;
+- Minimum of 8 years hands-on, professional experience with dynamic and
+high scale Internet companies;
+- Proven work experience abroad;
+- Proven understanding of agile/lean principles and methodologies (be2
+has a fully adopted agile development organization);
+- Experience with web and DB technologies like Spring, JSF, AJAX, mySQL,
+JUnit, Selenium;
+- Very strong relational database knowledge, including data modeling and
+performance tuning;
+- Excellent oral and written communication skills, fluency in English.","All interested candidates should send their
+resumes to: jobsyerevan@... referring to the job title above.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"be2 is an online matchmaking company which offers its
+service in 38 countries, to more than 20 million members.
+For more information about the company's product and activities, please
+visit: www.be2.com or www.be2.com/corp."

@@ -1,0 +1,45 @@
+Senior QA Engineer,"If you are an expert in the field of manual and
+automated QA activities for client-server applications and have a passion
+for supporting and providing high-quality products, then you are the kind
+of specialist company is looking for. As a Senior QA Engineer, the
+incumbent will be mainly responsible for the quality assurance of
+company's brand new product SecurePIM (www.securepim.com).","- Perform manual testing as well as generate automated regression test
+cases;
+- Analyze functional requirements from QA perspective to find issues in
+requirements in early stage of development;
+- Responsible for test plan/ test cases creation and maintenance
+throughout the development life-cycle;
+- Responsible for bug tracking (identify, reproduce and report bugs);
+- Verify fixed defects and perform regression tests to ensure the quality
+of releases;
+- Regularly create test reports;
+- Closely collaborate with other QA engineers, Business Analysts and
+developers to identify, discuss and solve project issues.","- University degree in Computer Sciences or a similar field;
+- Ability to understand business and functional requirements and propose
+solutions/ corrections;
+- At least 2 years of software QA experience;
+- Strong experience with automation testing tools;
+- Experience with testing on mobile devices (iPhone, iPad and Android);
+- Knowledge of any development or scripting language (Java, C++, Python,
+etc.).
+The following skills/ experience would be a plus:
+- Strong theoretical knowledge of SDLC;
+- Knowledge of HTML, XML and SQL;
+- Work experience with Mantis and/ or other bug tracking systems;
+- Excellent communication skills;
+- Excellent writing and verbal skills in English language;
+- Strong organizational skills;
+- Experience in direct communication with the client;
+- Ability to work under pressure and in multi-task environment;
+- Ability to train junior staff and share knowledge with co-workers;
+- Ability to drive improvement process.","Interested candidates should email their resumes
+to: info-am@... . In the subject line of your e-mail
+message, please mention the title of the position you are applying for.
+Please send resumes only if you correspond to required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The Virtual Solution Global Services LLC is a branch of
+virtual solution AG, the German company with expertise in Web
+Applications Development based on Java and Open Source technologies. For
+additional information about the company, please visit its website:
+www.virtual-solution.com."

@@ -1,0 +1,38 @@
+Program Developer for a Command Line Softphone,"The freelancer will be responsible for developing a
+command line script for placing VoIP calls with audio files or audio
+pipeline files. He/ she will develop a programming language or script in
+Perl or another known programming language which is compatible with the
+UNIX environment using open source libraries and modules (such as the
+traditional program ""Xlite""), establishing VoIP calls and linking audio
+streams directly to the microphone and speakers.
+
+
+The objective is to establish a VoIP call and link the voice audio flow
+to pipeline files in order to communicate with other applications. The
+Program Developer for a Command Line Softphone can use the existing open
+source tools, modules and libraries. The development process is estimated
+to take about from 3 to 7 days taking into account the large number of
+published samples and modules.
+
+
+The program shall be able to:
+- Read a configuration file containing a password, SIP server, etc.;
+- Receive the number to call (CLD) as an argument;
+- Receive the number to display (CLI) as an argument;
+- Make a SIP call;
+- Send and receive audio streams (the voice media stream) and files via
+pipelines (It is through the pipeline files that the script/ PERL program
+can communicate with other audio applications);
+- Receive argument pipelines because many script instances can be
+launched simultaneously.
+
+
+On completing his/ her mission, the freelancer must provide the source
+code and submit the full documentation of the work performed.",NA,"- Knowledge of VoIP;
+- Experience with the UNIX environment;
+- Knowledge of Perl or another programming language is highly preferred.","The source code and the full documentation of
+the work performed or additional questions can be sent to:
+jobs@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

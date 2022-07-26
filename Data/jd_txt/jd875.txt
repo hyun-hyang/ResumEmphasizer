@@ -1,0 +1,19 @@
+"Senior Software Developer C#, C++, .Net","Smart-Tech is looking for highly motivated people for
+the positions of Senior Software Developer C#, C++, .Net to join the
+company's software development process. Only qualified specialists will
+be shortlisted.","- Participate in development of new and existing projects;
+- Participate in functional specs preparation/review process;
+- Participate in new stuff hiring interviews;
+- Report to a Group Manager; 
+- Provide time estimation for assigned tasks and meet deadlines; 
+- Train and supervise group members (including code reviews).","- 2+ years experience in C#, ASP .Net;
+- Excellent knowledge of .Net Framework; 
+- Excellent knowledge of C++, STL;
+- Excellent knowledge of design patterns and algorithms;
+- Strong knowledge in databases (MSSQL/Oracle);
+- Good English and Russian languages skills;
+- Team player.","Please submit your detailed CV to:armen@... indicating the position in the subject line of your
+e-mail. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

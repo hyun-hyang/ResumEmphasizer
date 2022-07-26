@@ -1,0 +1,26 @@
+C# .Net/ Sharepoint Developer,"Firmplace Corporation, Yerevan Branch is looking for a
+.NET developer, with experience developing SharePoint Enterprise
+Solutions, to join its team. The successful applicant should be
+comfortable in an entrepreneurial, team-orientated environment, and have
+strong English communication skills. The company will be translating
+business requirements into a customized out-of-the-box Microsoft
+SharePoint system and integrating it with many proprietary business
+processes.","- Be responsible for full software development life cycle;
+- Create web parts/user controls/ server controls;
+-     Customize sites through Sharepoint Designer and Sharepoint Object
+Model.","- Experienced with design/implementing SharePoint 2007 solutions and
+integration of legacy applications; 
+- Web 2.0 (ASP.NET, JavaScript, XML, XSL);
+- SQL Server 2005 (T-SQL) and other relational database management
+systems;
+- .Net 3.0/3.5 technologies (Entity Framework, LINQ, Data Services,
+etc.);
+- Spoken and written English skills;
+- Successful candidate will be energetic, hardworking and eager to learn
+fast.","All interested candidates should send their
+CVs
+to: jobs@.... In case of questions, please call: (+374 10)
+241099.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

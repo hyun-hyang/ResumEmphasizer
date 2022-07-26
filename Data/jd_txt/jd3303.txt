@@ -1,0 +1,21 @@
+Mid-Level iOS Developer,"Seven Smarts LLC is looking for a Mid-Level iOS
+Developer.","- Develop an iOS mobile application;
+- Closely follow the updates announced by Apple for the iOS platform;
+- Work closely with the server team to define new features and
+capabilities;
+- Participate in code and test plan reviews.","- At least 1 year of experience in developing and shipping high-quality
+iOS applications;
+- Knowledge of Cocoa, iOS SDK, XCode and XCTest;
+- In-depth understanding of the iOS platform and its applications
+development ecosystem;
+- Experience in consumer facing UI development;
+- Previous experience of working with a team of developers;
+- Possession of previously deployed applications in the Apple iPhone App
+Store;
+- Strong planning and communication skills.","To apply for this position, please send your CVs
+to: jobs@... . Please, clearly mention the position you are
+applying for in the subject line of the email. Only short-listed
+candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

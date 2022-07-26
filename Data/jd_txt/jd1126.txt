@@ -1,0 +1,27 @@
+Database Administrator,"Inecobank CJSC is seeking highly qualified Database
+Administrator, who will be responsible for the continuous work of
+Banking Systems.","- Plan and establish database backup and recovery procedures;
+- Process database startup and shutdown procedures;
+- Manage and monitor database security and access control;
+- Maintain database and table space allocation, and forecast future
+growth;
+- Install database new releases and upgrades;
+- Perform database fine tuning and optimize data access;
+- Perform database analysis and capacity planning;
+- Document database maintenance procedures;
+- Manage users database accesses.","- University degree in Computer Sciences;   
+- Minimum 1 year of work experience as a system or database
+administrator;
+- Excellent knowledge and experience in Linux, Windows, WEB-servers;
+- Database knowledge (Oracle, SQL Server);
+- Experience in SQL, PL/SQL;
+- Good knowledge of MS Office tools (Word, Excel, Access);
+- Fluent in Armenian, Russian and English languages;
+- Ability to participate and contribute as part of a team;
+- Ability to perform an overloaded work within limited period of time.","Interested applicants should submit their CVs
+to: resume@... . Please, put on subject line of your e-mail
+""Database Administrator"".
+Only short-listed candidates will be invited for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

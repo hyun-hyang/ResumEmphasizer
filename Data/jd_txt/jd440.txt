@@ -1,0 +1,18 @@
+Software Engineer,"We are looking for qualified candidates who will work
+in the sphere of programming.",NA,"- Knowledge of C/C++, Java/J2EE, JSP, DHTML, Struts, Tomcat, SQL, Web
+Services;
+- RDBMS including data modeling;
+- Experience with JSF, Corba, XML/XSL, Oracle, Perl  is a plus;
+- XML and SOAP (Web Services) interfaces;
+- Perl 5 including HTML::Mason, SOAP::Lite, and DBI;
+- RDBMS (Oracle a plus) including data modeling is a  plus;
+- Familiarity with Apache web proxy configuration is  plus;
+- Understanding of Internet protocols, HTTP and  Streaming content
+delivery, data processing, Internet distributed systems experience a
+plus;
+- Unix;
+- Fluent knowledge of English and Russian languages,  knowledge of one
+more foreign language is a plus.","To apply, please send your CV to:abovyan@... and mention ""Resume"" in the subject bar.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

@@ -1,0 +1,18 @@
+Senior Android Developer,"The incumbent will be responsible for design,
+implementation and testing of Android development.","- Participate in all cycles of software design and development;
+- Perform unit and automated test case development;
+- Ensure that deliverables meet requirements and specifications for
+functionality, performance and reliability;
+- Work in a scrum project framework.","- BS in Information Systems, Software Engineering, Computer Science or a
+related field; MS is a plus.
+- At least 7 years of experience in software development;
+- At least 2 years of experience in Android development;
+- Experience with working in a team;
+- Fluency in written and spoken English language;
+- Knowledge of C++ is a plus;
+- Knowledge of Linux is a plus;
+- Knowledge of Mac OS or iPhone iOS is a plus;
+- Experience with Android Native Code development is a plus.","Please send your CV to: areg@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

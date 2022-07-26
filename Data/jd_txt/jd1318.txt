@@ -1,0 +1,21 @@
+Game Developer,"Plexonic is looking for experienced OOP developers.
+Game Developer will participate in development and maintenance of huge
+online social games.","- Develop social games in cooperation with team located in Berlin
+offices;
+- Participate in development and improvements of large and advanced game
+development framework.","- Experience in usage of Design Patterns in OOP environment (MVC,
+factory, adapter etc.);
+- Experience in development using object oriented languages/frameworks
+and environments (Java, .NET);
+- Ability to work well and communicate with many co-workers around the
+world;
+- Strong team player/problem solver mindset;
+- Ability to work under pressure; 
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Fluent in English language;
+- Knowledge of German is a plus.","Please send your resume to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Plexonic LLC is a game development company, which
+represents the German game development company GameDuell in Armenia. 
+See more information about the company at: http://www.plexonic.com"

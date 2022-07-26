@@ -1,0 +1,19 @@
+Senior Android Developer,"Royal Armenia is looking for a highly motivated,
+result-oriented and experienced Senior Android Developer to develop, test
+and maintain mobile applications for the company's products, one of which
+is paqqy.com.","- Design, develop and test the Android applications of the company's
+products;
+- Ensure user friendly performance; clean and debug a code;
+- Maintain tests and clear errors;
+- Use the best available mobile development technologies.","- Excellent understanding of the mobile application development process
+from 0 to 1;
+- Good knowledge and experience with SQL databases;
+- Excellent knowledge of JSON parsing;
+- Experience with Material Design;
+- At least 3 years of professional experience in mobile application
+development.","To apply for this position, please send your CV
+and portfolio to: misak@... . Successful candidates will
+receive an e-mail or a phone call regarding the interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

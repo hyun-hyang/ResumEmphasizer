@@ -1,0 +1,26 @@
+Flash Developer,"Varnita Ltd is looking for experienced Flash Developer
+for 3-4 months contractor assignment with possible conversion to full
+time position. The incumbent will be responsible for solving challenging
+technical problems and providing innovative solutions; exposure to web
+based applications.",NA,"- 4+ years of Macromedia Flash Action Script development;
+- 2+ years of web development experience;
+- 2+ years of experience with consuming XML within Flash;
+- 2+ years of experience designing complex applications in Flash within
+.NET framework;
+- Strong understanding of .NET technologies;
+- Action script experience; only flash modeling and design is not enough
+for this position;
+- Patterns/object oriented programming techniques;
+- Desire to solve challenging technical problems and provide innovative
+solutions;
+- Excellent communication skills, both verbal and written;
+- Organized, proactive personality with excellent attention to details.
+Preferred Skills/ Abilities:
+- Strong oral and written English language communication skills;
+- Ability to work well in a team environment;
+- Understanding of n-tier development model.","Please email your detailed CV directly to:jobs_varnita@.... Upon submitting resume, please include a
+portfolio and samples of interactive Flash animation coded with
+ActionScript.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,Varnita Ltd is a software development company.

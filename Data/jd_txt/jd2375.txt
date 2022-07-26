@@ -1,0 +1,28 @@
+Software Developer,"Kubisys CJSC is looking for a talented and passionate
+Software Developer with strong systems and application skills. The
+incumbent will have an ample opportunity to develop his/ her skills and
+take initiative.","- Responsible for development - creating and maintaining scalable
+software;
+- Responsible for quality control - creating and running unit tests;
+- Collaborate on software design;
+- Stay current on new, relevant technologies;
+- Participate in code reviews and discussions.","- At least BS in Computer Science or equivalent;
+- At least 3 years of experience in development on Linux platform;
+- Experience in scripting languages like Python, Ruby, Perl; 
+- Experience with MySQL or other relational database; 
+- Knowledge of any Web technologies like HTML, CSS, JavaScript is a
+plus;
+- Experience in JIRA and Git is a plus;
+- Excellent analytical skills;
+- Strong verbal and written communication skills in English language;
+- Ability and desire to learn new technologies;
+- Good team player.","Interested candidates are asked to email their
+CVs to: gasparyan@... . Please indicate the title of the position
+in the subject line of the e-mail. Only short listed candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Kubisys CJSC is dedicated to the mission of automating
+and simplifying the operations of enterprise data centers. For more
+information about the company's product and activities, please visit:
+www.kubisys.com ."

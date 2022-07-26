@@ -1,0 +1,18 @@
+Web Developer,"Cubix Development LLC is looking for talented,
+motivated PHP programmers to join its development team; ability is more
+important than current skill set. The incumbent will work hands-on to
+maintain and extend the existing web applications, develop new web
+projects in the Company's technology stack: PHP, MySQL, DHTML, Web
+Services in *NIX environment.",NA,"- Strong knowledge of PHP5 OOP paradigm;
+- SQL(MySQL), DHTML, Javascript; 
+- Experience with Zend Framework and MVC; 
+- Javascript frameworks: Jquery, Mootools, Prototype; 
+- XML/SOAP/JSON; *NIX and DB administration skills would be a great
+advantage.","Please email your CV and references to:lex@... .
+Only shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Cubix Development LLC is a young software development
+company founded in May 2008 in Yerevan, Armenia. Its fields of expertise
+include an offshore and in-house development of cutting edge web 2.0
+applications."

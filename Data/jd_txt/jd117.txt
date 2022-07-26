@@ -1,0 +1,22 @@
+Senior Software Engineer,"Yerevan based Gaming Company needs Game Programmer to
+be responsible for designing major game program components including 3D
+and 2D graphics engines, physics, special effects, network, collision
+detection, object and camera animation, math functions, data sets,
+hardware-interfaces, development and debugging components and interfaces
+to tools.","- Actively identify and implement tools, resources, new technologies and
+innovations for the project;
+- Work with designers, graphic artists and management in the development
+of the project;
+- Fast 3D graphics algorithms and mathematics; 
+- Real-time, high performance code practices and optimization
+techniques.","- Minimum 3 years of experience in game industry;
+- MS in Computer Science or closely related field; 
+- Experience including C/C++ and Assembly;
+- Excellent written and verbal communication skills; 
+- Self-motivated, creative, detail and multi-task oriented, assertive,
+problem solver and a team player; 
+- Strong time management skills with a proven ability to focus on
+priorities, multiple tasks and meet deadlines.","Please send your CVs to resume@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",Computer Modeling and 3D Graphic,NA

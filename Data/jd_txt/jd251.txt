@@ -1,0 +1,21 @@
+Senior Software Engineer,"We are seeking Senior Software Engineer to serve as
+team leader in an Eastern European team  building tools for SoC
+development.","- Lead and contribute to development of various parts of the tool
+chain;
+Position may entail one or more of the following:
+- Development of specifications;
+- Design;
+- Test plan development;
+- Testing and benchmarking.","- Successful software development history;
+- Solid understanding of the hardware development process and experience
+in one of the following: place and route; synthesis; timing calculations;
+power calculations; quality assurance;
+- Experienced in scripting, shell programming (especially Perl);
+- Motivated, team player, dedicated, detail-oriented;
+- Memory management, algorithms, data structures, benchmarking;
+- HDL development understanding;
+- 3+ years of work experience.","Send resume to careers@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"74ze Engineering is a contract services firm which will
+be working with a US-based start-up to develop their remote team."

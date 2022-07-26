@@ -1,0 +1,40 @@
+Android Developer,"The company is looking for an Android Developer who
+possesses a passion for pushing mobile technologies to the limits and
+will work with the company's team of engineers to design and build its
+mobile applications. The company is aiming to replenish its team of young
+experts with hard-working, single-minded, disciplined and conscientious
+people.","- Design and build advanced applications for the Android platform;
+- Optimize and enhance systems for high interactivity and high
+performance with limited computing resources;
+- Collaborate with cross-functional teams to define, design, and ship new
+features;
+- Work with outside data sources and API's;
+- Responsible for unit-test code for robustness, including edge cases,
+usability, and general reliability;
+- Work on bug fixing and improving application performance;
+- Continuously discover, evaluate and implement new technologies to
+maximize development efficiency.","- At least 3 years of professional software development experience
+producing data-driven, interactive applications;
+- At least 1 year of professional software development experience
+producing applications for mobile devices, including but not limited to
+Android phones and tablets;
+- Proficiency in Android SDK;
+- Proficiency in Java using Eclipse or other IDE and related tools for
+Android development;
+- Experience working with remote data via REST, JSON-RPC, XML-RPC, SOAP;
+- Experience with third-party libraries and APIs;
+- Solid understanding and practical experience using object-oriented
+design principles and patterns;
+- Experience with continuous integration and source control tools;
+- Solid understanding of the full mobile development life cycle;
+- Experience in Bluetooth/ Wi-Fi/ USB APIs is a plus;
+- Experience developing SQLite is a plus;
+- Experience with deployment of mobile applications through app store is
+a plus;
+- Experience with iOS development is a plus;
+- BS/ MS degree in Computer Science, Engineering or a related subject.","To apply for this position , candidates are
+asked to send their CVs to: asya@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Sensogram Technologies is a Swiss company founded by a
+multinational team of experts."

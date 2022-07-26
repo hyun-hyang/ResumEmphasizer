@@ -1,0 +1,24 @@
+MS SQL Developer,"Altacode LLC is looking for MS SQL Database Developers
+for complex and long-term projects. The position entails working with
+Microsoft products.","- Develop software according to requirements;
+- Participate in tasks estimation;
+- Complete work according to deadlines.","- Experience in projects as an MS SQL Database Developer (SQL
+statements, stored procedures, relationships, performance tuning,
+profiler, locking, isolation levels options, partitioning) for more than
+1 year;
+- Experience in MS SQL 2005 (MS SQL 2008) databases;
+- Experience in database architecture design and development; 
+- Good knowledge in XML;
+- Ability to develop quality code, apply proper language constructions,
+and use quality algorithms;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Willingness to increase competencies and professionalism;
+- Basic knowledge of English language;
+- Ability to responsibly complete assigned tasks according to deadlines.","Please, email your CVs to: resume@....
+In the subject line of your e-mail message please mention the title of
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Altacode LLC is an Armenian-based software development
+company working for US market of information technologies."

@@ -1,0 +1,46 @@
+Senior Software Developer,"Monitis GFI CJSC is seeking a Senior Software Developer
+with experience in all areas of Java development, including production
+support, maintenance, new development and architecture.","- Plan, process and perform all jobs in an efficient manner with no
+assistance from the supervisor;
+- Work closely with upper management;
+- Develop software solutions by studying information needs, confer with
+users, study systems flow, data usage and work processes, investigate
+problem areas and follow the software development lifecycle;
+- Determine operational feasibility by evaluating analysis, problem
+definition, requirements, solution development and proposed solutions;
+- Document and demonstrate solutions by developing documentation,
+flowcharts, layouts, diagrams, charts, code comments and clear code;
+- Prepare and install solutions by determining and designing system
+specifications, standards and programming;
+- Improve operations by conducting systems analysis, recommend changes in
+policies and procedures;
+- Update job knowledge by studying state-of-the-art development tools,
+programming techniques and computing equipment, participate in
+educational opportunities, read professional publications, maintain
+personal networks and participate in professional organizations;
+- Protect operations by keeping the information confidential;
+- Provide information by collecting, analyzing, and summarizing
+development and service issues;
+- Accomplish engineering and organization mission by completing related
+results as needed.","- University degree in the appropriate field of studies;
+- At least 3 years of practical experience in Java development;
+- Good knowledge of OOP principles;
+- Knowledge of IOC Frameworks like Spring, Guice and Gin;
+- Knowledge of GWT or other MVC Frameworks such as Struts2 or JSF;
+- Knowledge of other programming languages such as Ruby, PHP is an
+advantage;
+- Good knowledge of databases (Oracle, PostgreSQL, MySQL, Mssql);
+- Experience of using Eclipse IDE is preferable;
+- Experience of working in Linux environment (Ubuntu, Suse);
+- Good analytical skills;
+- Ability to work in a team;
+- Excellent knowledge of English language, both on communication and
+technical level;
+- Knowledge of German language is an advantage.","All interested and qualified candidates are
+welcome to send their CVs to: hr@... . Please indicate the
+position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Monitis GFI is an IT monitoring solution provider with
+development centers around the world."

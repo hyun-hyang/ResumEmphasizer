@@ -1,0 +1,69 @@
+UI Web Developer Lead,"The UI Web Developer Lead will be responsible for
+design and development of highly performing and scalable web applications
+that meet the business requirements. The incumbent will be a key member
+of QTG Web Application Development & Design team and will play a major
+role in the development of life-cycle, including requirements gathering,
+design, development and documentation.","- Support the project manager in developing the projects schedule and
+assisting in project coordination;
+- Work with developers to define the work breakdown structures for the
+technical activities associated with each project and provide accurate
+time-estimates for assigned tasks;
+- Act as liaison between the project managers and the web developers;
+- Act as a technical reference for the team by providing technical
+guidance;
+- Design, develop and implement client-facing and internal web
+applications using HTML, DHTML, CSS, JavaScript, AJAX, jQuery and
+ASP.NET;
+- Revise and update printed and online marketing materials under lead
+designer's guidance;
+- Slice and optimize graphics for GUI development;
+- Architecture analysis and documentation of the software specifications
+for web applications; 
+- Responsible for designing new application features and functionality;
+- Define both functional and technical requirements to facilitate design,
+development, testing, implementation and ongoing support; 
+- Assist and support other team members on multiple projects;
+- Provide support and enhancements to existing production applications in
+a timely and accurate manner;
+- Play active role in defining and implementing best practices, standards
+and procedures, including quality and delivery methodologies;
+- Ensure compliance with the documented software processes and procedures
+throughout the life cycle of software products;
+- Ensure quality & reliability of code from the development team by
+conducting a smoke testing and code reviews;
+- Propose and decide on technologies used;
+- Ensure consistency of design elements and interactive behaviors within
+individual pages/ forms/ components and across entire projects;
+- Train subordinates;
+- Share knowledge and lessons learned with team members.","- Degree, diploma or equivalent directly related to  work experience;
+- At least 5 years of work experience in web-based technologies; 
+- Experience with .NET, ASP.NET and XAML is an asset.
+- Hands-on experience in and proficient knowledge of the following: 
+a)Web technologies: HTML, DHTML, CSS, JavaScript;
+b)System environment: Microsoft ASP.NET/ .NET framework on Windows 2008
+server; 
+c)Tools: MS Visual Studio 2005/ 2008, SVN and JIRA; 
+- Experience with unit testing frameworks; 
+- Excellent written and oral communication skills; 
+- Strong problem-solving and decision-making skills; 
+- Excellent time-management and organizational skills that facilitate
+structured teamwork;
+- Good schedule development skills using Microsoft Project;
+- Highly organized and detail-oriented;
+- Highly developed communication, presentation, facilitation and
+negotiation skills; 
+- Strong team leadership skills, including team building and motivation
+skills; 
+- Strong team management skills, including delegation, conflict
+management and escalation;
+- Strong problem solving skills;
+- Strong time estimation skills;
+- Ability to analyze information and make appropriate recommendations;
+- Ability to adapt and change according to new business requirements and
+environment;
+- Exceptional judgment and decision-making abilities, especially in
+challenging situations.","Please submit resume to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=206
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit www.questrade.com."

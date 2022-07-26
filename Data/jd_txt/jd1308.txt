@@ -1,0 +1,18 @@
+ASPN Web Programmer,"SPMS Ltd. is looking for an ASPN Web Programmer with
+excellent knowledge of ASPN for a large Internet project.",NA,"- Knowledge and practice with NET, ASP.NET 3.5, C #, Microsoft SQL Server
+2008, AJAX, JavaScript, HTML, CSS, XSL-XML, Web Services, NET Remoting;
+- Cross-browser development skills;
+- Solid knowledge of OOP;
+- Familiarity with version control system (CVS, SVN);
+- Ability to apply re-factoring;
+- Knowledge and practice with Prototype Ajax Framework or ASP.NET Ajax;
+- Ability to solve complex problems;
+- Team management skills and experience;
+- Strong time-management and team-working skills;
+- Good knowledge of Russian, technical knowledge of English language.","Qualified and interested candidates are kindly
+requested to email their CV/ resume in Russian or English to: eva@...
+. Please, clearly mention the position you're applying for in the subject
+line of your letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

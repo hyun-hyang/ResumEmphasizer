@@ -1,0 +1,47 @@
+Software Developer,"The incumbent will develop software systems according
+to clients' requirements, and continue debugging, enhancing and
+maintaining developed systems. Primary responsibilities include data
+analyzing skills in combination with developing and debugging database
+driven web based enterprise level software using C# programming language
+and SQL.","- Develop software code based on the existing design;
+- Constantly update technical knowledge and skills;
+- Employ a good code writing style that includes proper naming and
+sufficient comments;
+- Update/ write technical documentation on codes and algorithms;
+- Work productively as a key member of a software development team;
+- Actively participate in discussions regarding technical issues.","- At least 1 year of working experience with C#/.NET;
+- Bachelor's or higher degree in Computer Sciences, Physics, Mathematics
+or related disciplines;
+- Good grades in undergraduate and other studies;
+- Strong problem-solving skills and ability to be a successful member of
+a team;
+- Strong knowledge of C#, Microsoft .Net Framework 4.0, Silverlight,
+ASP.NET MVC3, EF, WCF;
+- Working experience with MVC and MVVM patterns;
+- Working experience with programming user interfaces;
+- Working experience with relational databases and SQL language;
+- Ability to develop efficient codes;
+- Familiarity with algorithms, ability to estimate algorithm complexity;
+- Familiarity with data structures;
+- Good English language skills including reading, writing, and speaking;
+- Flexibility in learning and applying different programming languages
+and technologies;
+- Efficiency in the use of memory and CPU time;
+- Ability to travel to USA or other countries to work with other team
+members.
+DESIRED QUALIFICATIONS:
+- Familiarity with Java, C++, or other object oriented programming
+languages;
+- Familiarity with Javascript and related frameworks (JQuery, YUI,
+etc.);
+- Ability to write programs using different programming languages and
+environments;
+- Familiarity with different web development technologies (AJAX, HTML,
+CSS, etc.);
+- Familiarity with architectural and design patterns;","Interested candidates should email their CVs and
+inquiries to: nahapetyan.armen@... , to Armen Nahapetyan.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ardinnotech's head office is based in Florida, USA. The
+main specialization of the Company is developing and licensing
+large-scale computer models and software."

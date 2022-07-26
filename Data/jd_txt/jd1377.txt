@@ -1,0 +1,25 @@
+Systems Administrator,"The Systems Administrator is responsible for the
+administration of IT systems.","- Monitor and maintain all Corporate Windows servers;
+- Monitor hardware health condition of devices;
+- Proceed with the approved requests of the company staff and vendors;
+- Plan and perform system backup and restore of the data;
+- Develop documentation and participate in projects;
+- Ensure the optimization and planning of the system resources, fine
+tuning of systems and applications;
+- Handle the systems security based on the corporate security policies;
+- Prepare workshops and trainings for the Company staff.","- Bachelors degree in the relevant field;
+- 3-5 years of work experience as MS Systems Administrator;
+- Good Knowledge of MS Operation Systems;
+- Knowledge of Hardware features;
+- Good Knowledge of MS Applications Servers;
+- Good Knowledge of network architectures (LAN, WAN, network protocols);
+- Knowledge of programming fundamentals, scripting;
+- Good knowledge of Armenian, Russian and English languages;
+- Ability to organize and manage multiple assignments within critical
+deadlines;
+- Analytical, strong problem-solving and decision-making skills;
+- Effective communication skills.","Please send your CV to:system-administrator@... . Please note that only shortlisted
+candidates will be invited for the interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,VivaCell-MTS is the leading mobile operator in Armenia.

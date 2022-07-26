@@ -1,0 +1,30 @@
+Programmer,"Tel-Cell CJSC is looking for a motivated candidate
+for the position of Programmer to work with the current database.","- Organize the processes of outgoing data gaining from the systems of
+data providers; 
+- Design and construct data import and export utilities;
+- Design and construct database user working interface, data entry forms
+and reports;
+- Design and construct data import and export utilities from SQL
+database;
+- Upgrade software (installed on terminals);
+- Create, manage and update project plans, resource requirement and all
+other project related documentation; 
+- Schedule, conduct and document project review meetings;  
+- Produce analytical reports;
+- Analyze complex problems, interpret operational needs, and develop
+integrated creative solutions.","- Higher education;
+- Minimum 2 years of work experience;
+- Excellent communication and interpersonal skills;
+- Flexibility and effective decision making in fast paced environment; 
+- MS word , MS Excel, MS Access, Work with DBF files, MS SQL Server, ASP
+programming, Windows 2000-2003 Server;
+- Willingness to study;
+- Knowledge of Armenian and Russian languages;
+- Knowledge of technical English language is necessary.","If meeting the requirements, please send your
+CV to: service@... . 
+No phone calls, please. Only shortlisted candidates will be contacted
+for further interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tel-Cell CJSC is a system of payments intake via
+self-service terminals in Armenia."

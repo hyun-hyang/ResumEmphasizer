@@ -1,0 +1,48 @@
+Senior Java Developer/ Team Leader,"Energize Global Services CJSC is looking for a Senior
+Java Developer/ Team Leader for an international project with training
+and business trips to France. French language courses will be provided as
+well.","- Design, implement and troubleshoot web content management solutions
+using technologies such as Java, HTML5/ CSS, JavaScript;
+- Responsible for documenting designs, development, testing approaches,
+knowledge and best practices;
+- Deliver development assignments as specified and within the project
+schedule deadlines;
+- Test all fixes on the development and/ or stage servers before
+deploying into production, and coordinate user acceptance testing with
+the users;
+- Attend meetings with the users as needed to review the development
+requests, solicit clarifications on the requests, propose/ demonstrate
+solutions, and review status of work-in-progress.","- At least 3 years of professional web application engineering
+experience. High degree of familiarity with Web development
+technologies;
+- Solid Java/ J2EE development experience. Experience with server-side
+web technologies using J2EE;
+- Solid experience in OOP/ OOD;
+- Working experience under Linux, Shell Linux operating systems;
+- Solid experience with Spring;
+- Solid experience with Hibernate, JPA;
+- Solid knowledge of Eclipse;
+- Solid knowledge of MySql/ Oracle;
+- Solid knowledge of Apache Camel, Sonar, Junit, Jenkins, Nexus, SVN,
+TomEE;
+- Solid knowledge of HTML, CSS, JavaScript, JQuery;
+- Solid experience with Active MQ, log4J, Web Service, JMS, cryptography
+(RSA, AES, 3-DES) under Java, SHA-256, Jmeter;
+- Experience with source control management and Maven build tools;
+- Strong debugging skills;
+- Ability to work on competing priorities and adapt to changes in project
+scope;
+- Excellent interpersonal, verbal and written communication skills, as
+well as follow-through are essential;
+- Bachelor's or Master's Degree in Computer Science is preferred;
+- Ability to write engineering specifications.","If interested, please email your last updated
+detailed resume to: hr@... . In the subject line of your
+message, please mention ""Senior Java Developer/ Team Leader"". Only
+shortlisted candidates will be invited for an interview and test. The
+profile final selection will be decided after some HR, technical
+interview and java test sessions.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that provides IT services for partners all over the world and
+develops its own products."

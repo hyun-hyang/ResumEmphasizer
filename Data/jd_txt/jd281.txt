@@ -1,0 +1,35 @@
+System/ Network Administrator,"Boomerang Software LLC is currently seeking a
+System/Network Administrator to support its organization and IT
+department.","- Install, configure and maintain the organization's network servers,
+server services and applications, LAN, WAN, network equipment, and
+workstations; 
+- Monitor and manage performance and maintains security of servers,
+server services and applications, LANs, WANs, network equipment, and
+workstations.","- Ability to create and maintain UTP-Cat5 and wireless networks;
+- Strong understanding of IP protocol;
+- Understanding of cryptography principles;
+- Knowledge of administration and maintenance of Windows 9x/2000/XP
+operating systems;
+- Knowledge of installation, configuration and administration of Windows
+2000 Network Environment (Active Directory);
+- Experience in administration of Microsoft IIS (Internet Information
+Services), DNS (Domain Name System), DHCP (Dynamic Host Configuration
+Protocol), RRAS (Routing and Remote Access Service), DFS (Distributed
+File System), RIS (Remote Installation Services), Exchange 2000, ISA
+(Internet Security and Acceleration), MS SQL 2000 servers, Terminal
+Services, etc;
+- Experience in maintenance and technical service of computers and
+peripherals;
+- Certified specialist knowledge level (certificate is an advantage) of
+Windows Systems/Network Administration;
+- 3-5 years systems administration experience;
+- Ability to use scripting/programming languages is desireble;
+- Knowledge of UNIX systems is desireble.","Interested candidates should submit CV to:office@... or deliver hard copies to: 6/1 Abelyan St.,375038,
+Yerevan, Armenia. 
+Tel: 350570.
+Please mention in the subject line the position you are applying for.
+Only short-listed candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Boomerang Software LLC is the Yerevan office Boomerang
+Software, Inc., headquartered in Boston, Massachusetts, USA."

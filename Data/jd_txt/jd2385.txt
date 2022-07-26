@@ -1,0 +1,23 @@
+Senior Software Engineer,"The incumbent will work on LTXC SW projects on parts of
+design/ architecture/ development and review sources. He/ she will
+maintain documentation for projects.","- Participate in development and be part of SW design/ architecture
+group;
+- Review code and mentor junior developers;
+- Attend daily/ weekly technical meetings;
+- Work with QA and other teams to deliver code on time.","- MA in CS/ Physics/ Maths or a related field;
+- Professional C/ C++ programming skills and good knowledge of OOP/ OOD;
+- High-level of knowledge and experience in multithreading programming; 
+- Strong debugging and troubleshooting experience;
+- Clear understanding of software development lifecycles and
+methodologies;
+- Good knowledge of and experience in HTML/ XML;
+- Experience in Stingray Studio is a plus;
+- Experience in development under Linux/ Unix OS and Qt is a plus;
+- Experience in real time development, knowledge of networking protocols
+such as TCP/ IP, UDP, etc. is a plus;
+- Good written and verbal communication skills in English language.","Interested candidates are kindly requested to
+e-mail a CV/ resume in English language to: Tigran_Pivazyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of LTX-Credence Corporation (USA)."

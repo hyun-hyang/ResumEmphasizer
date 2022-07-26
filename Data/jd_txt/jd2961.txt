@@ -1,0 +1,25 @@
+Software Developer,"This job requires deep knowledge of programming skills
+and application design, as well as knowledge of Bank's operations and
+workflow of all departments. The jobholder is required to understand user
+needs and offer and develop best fault resistant solution. He/ she is
+also required to participate in all the steps of the software project,
+from design to implementation, and post implementation support. The
+incumbent will provide necessary technical and design documentation.","- Responsible for application development;
+- Develop new fault resistant systems;
+- Participate in application development;
+- Fix software related problems.","- At least 4 years in software development; knowledge of C++, C#, Java,
+knowledge of .NET and web related technologies;
+- At least 4 years of experience of working with databases and mainframe
+platforms (SQL/ DB2);
+- Strong knowledge of OOP principles;
+- Analytical and practical approach towards problem solving;
+- University degree from an acceptable course of study in Information
+Technologies (Computer Science) or a related area.","All interested and qualified candidates are
+encouraged to fill in the last updated version of HSBC Application Form
+attached to this announcement and email it to: vacancy.armenia@... .
+The old versions of application forms will not be reviewed. Only
+short-listed candidates will be invited for interviews. Please put in the
+subject line of the e-mail ""Software Developer"".
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

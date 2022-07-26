@@ -1,0 +1,40 @@
+Senior QA Engineer,"IUNetworks LLC is looking for a Senior QA Engineer, who
+will have the primary responsibility to define test cases, develop test
+scripts, execute tests and report the tests results. The Senior QA
+Engineer will provide expertise in the area of Manual and Automated QA
+activities for client-server applications, with particular focus on web
+components.","Specific work elements of the job include but are
+not limited to:
+- Write test cases throughout the development life cycle;
+- Plan, schedule and perform manual and automated software tests;
+- Develop automated regression test suites using automated testing
+tools;
+- Foster a continuous improvement approach to QA activities;
+- Work closely with software developers to perform early testing on
+components prior to integration builds;
+- Manage defect tracking; monitor and report results;
+- Report QA status, as appropriate, to keep project stakeholders informed
+on deliverables and timelines.","- BS or MS in Computer Science or in a related field;
+- At least 2 years of experience as Senior QA Engineer role with solid
+progression in responsibility;
+- Experience with testing high performance systems is a plus;
+- Knowledge of Windows environment;
+- Advanced knowledge of system development lifecycle, methodology and
+testing knowledge;
+- Solid knowledge of the quality assurance techniques, testing concepts,
+methodologies and tools;
+- Excellent analytical skills with the ability to investigate and
+research multiple sources;
+- Excellent interpersonal and oral/ written communication skills;
+- Expert ability to apply concepts of unit, system, regression, product,
+integration and acceptance testing;
+- Broad experience using different testing tools (jmeter, selenium, load
+runner, etc.);
+- Ability to adapt and learn quickly with any other testing tool;
+- Good understanding of automation testing approaches.","Please, apply to this job by sending a CV to:job@... . Please, mention the name of the position you are
+applying for in the subject line of the letter.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"IUNetworks LLC is an Information Technology company that
+provides integrated solutions of hardware supply and software
+development."

@@ -1,0 +1,40 @@
+Client Side Web Developer,"FlatClub is currently seeking a Client Side Web
+Developer who is passionate about development and loves designing and
+cutting edge technologies. The incumbent is expected to work creatively
+and collaboratively.","Here is a list of the things the incumbent will
+work with:
+a) Advance client side technologies like AngularJS and basic technologies
+like JavaScript, jQuery;
+b) The latest framework for responsive UI on HTML5/ CSS3;
+c) ASP.NET MVC;
+d) Agile (Scrum) with extreme Programming (XP) practices.","- 3 years of experience with JavaScript, jQuery;
+- 1 year of experience with MVC or MVVM patterns on client side
+AngularJS/ Backbone/ Knockout;
+- Experience in working with server side technologies using Ajax;
+familiarity with JSON;
+- Good knowledge of HTML, CSS, Responsive Layout;
+- Basic knowledge of ASP.NET MVC/ RESTful WebAPI Services;
+- Knowledge of Agile development practices;
+- High self-learning skills, passion to innovate technologies, a
+self-initiator and troubleshooter. 
+
+
+Familiarity with the following would be a big plus:
+- Responsive design and media queries (Twitter bootstrap);
+- Proven UI and UX design experience in both mobile and web
+environments;
+- .Net full stack development in the field of web applications;
+- Experience with version control (preferably TFS);
+- Web development tools (Bower, Grunt and Gulp);
+- UI testing tools (BrowserStack, etc.).","Interested candidates should send a CV to:
+jobs@... mentioning the position title in the subject line of
+the email.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"FlatClub is a marketplace for medium term stays - from a
+few weeks to a few months. FlatClub has more than 75,000 listings and
+partnerships with 50 top universities and companies. FlatClub is VC and
+Angel backed, is the winner of the 2012 TechCrunch Pitching Challenge and
+one of the finalists for the AMBA Venture Award. FlatClub was featured on
+the Financial Times, Forbes, Guardian, TheNextWeb and others. FlatClub is
+a team of 30, based in Yerevan and London."

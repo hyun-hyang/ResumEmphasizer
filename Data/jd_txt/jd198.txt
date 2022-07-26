@@ -1,0 +1,21 @@
+Software Developer,"AccuSoft-AM LLC is looking for Software Developers
+with experience in multi-platform application design and development for
+expanding current team.",NA,"- Bachelors degree in Computer Science or related discipline;
+- Excellent skills and recent experience with C/C++ & VC++;
+- Good knowledge and understanding of advanced Microsoft Technologies
+(OOP, MFC, COM/ATL, .NET);
+- Understanding of full project lifecycle: modelling, software design,
+coding, testing;
+- Experience with .NET & C# is a plus, must be willing to learn these
+technologies as/if needed;
+- Good mathematical background and knowledge in algorithms  development
+and optimization is a plus;
+- Programming in UNIX (Linux in particular) and/or Mac platforms is
+plus;
+- Strong problem-solving and communication skills and ability to be a
+successful member of a team;
+- Basic English language skills and ability to develop those skills.","To apply, please e-mail your CV to:accusoft@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","AccuSoft-AM LLC is the Armenian branch of AccuSoft
+Corporation.",NA

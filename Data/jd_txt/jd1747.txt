@@ -1,0 +1,28 @@
+Frontend Developer,"SFL LLC is seeking a talented and motivated Frontend
+Developer to expand its team. If you want to work in a company, where
+your development talent is understood and appreciated, then this is the
+place for you.","- Produce and maintain clean and high quality code;
+- Keep an eye on detail to ensure a pixel perfect representation of the
+design;
+- Prioritize and set goals in order to meet deadlines.","- Bachelor's or higher degree in Computer Sciences or in a related
+discipline;
+- At least 2 years of work experience;
+- Excellent HTML, XHTML and CSS programming skills;
+- Experience in developing cross-browser and cross-platform compatible
+solutions;
+- Familiarity with optimization tools like YSlow, PageSpeed, Smush.it and
+Fiddler; 
+- Experience with JavaScript and JQuery is a plus;
+- Experience in emerging web technologies such as HTML5 and CSS3;
+- Knowledge of HTML E-mail best practices;
+- Ability to work independently or collaborate within a team;
+- Good communication skills in English;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... .  Please mention ""JobID 11250"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

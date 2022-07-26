@@ -1,0 +1,18 @@
+Software Engineer,"The Software Engineer will be engaged in software
+design and development.","- Develop software for IC design;
+- Work on routine problems with some guidance from senior level managers
+and other engineers.","- BS in CS/ EE with at least 2 years of work experience in software
+development;
+- Familiarity with programming and software development cycle;
+- Ability to design algorithms and data structures;
+- Knowledge of C/ C++ together with STL library;
+- Knowledge of Linux and scripting languages (PERL and TCL) is a plus;
+- Good English language skills in writing, reading, listening
+comprehension and oral communication.","Please email your detailed CV directly to:babken@... and annama@... indicating the position
+title in the subject line of your email. Only short-listed candidates
+will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

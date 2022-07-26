@@ -1,0 +1,28 @@
+Linux System Administrator,"The Development Gateway Foundation, a US-based
+organization, is looking for a Linux System Administrator to work
+remotely from home on full time basis. The Administrator will manage a
+small site running Red Hat/CentOs/Fedora Linux systems.","- Monitor and optimize systems stability, security and performance; 
+- Maximize server uptime;
+- Work with DBA and web developers to fine-tune server configurations;
+- Install and maintain email/groupware server suite; migrate accounts
+from MS Exchange server;
+- Maintain antivirus and antispam filters/scripts.","- Broad infrastructure background covering operating system, networking,
+and security;
+- Solid understanding of Linux operating system;
+- Ability to install and configure a Linux OS, including third-party
+software;
+- Ability to write scripts in an administrative language (e.g. Perl,
+Python) and standard shell (e.g. bash, tcsh);
+- Experience configuring and managing Apache, Postfix, IMAP4/POP3
+servers;
+- Ability to identify and eliminate a security breach/hacker attack
+while maintaining operability of the servers;
+- Fast learning and creative thinking; 
+- Good English language communication skills, especially written; 
+- 3-5 years of experience in system administration; or a degree in
+computer science (or a related field) and 1-3 years of experience in
+system administration.","Please email your CV in English to:ITjobs@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Information about the company can be found at:
+www.dgfoundation.org."

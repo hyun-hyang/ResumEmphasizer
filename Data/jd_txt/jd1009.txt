@@ -1,0 +1,19 @@
+Senior Web Developer ASP.NET 2.0,"Senior Web Development position is available at
+Digital Ray Inc, to work in Microsoft ASP.NET Framework 2.0 or above.
+The work involves creating and modification of shopping carts and
+payment systems. There will be a lot of different projects involving
+dynamic database driven web applications.
+Job starts from the designer - passes on to - HTML/ CSS Coder - passes
+to - ASP.NET Developer. The team should complete together the website
+projects as smoothly and timely as possible.","- Write C# or VB .NET code for web applications and websites that are
+dynamic and database driven;
+- Create Microsoft SQL 2000 or 2005 database structure;
+- Report to Project Manager with job status;
+- Train and assign work to volunteers in the company.","- Experience: C# ASP.NET 2.0 Framework using Visual Studio 2008;
+- Experience preferred: Microsoft SQL 2000 and 2005, AJAX PRO, AJAX
+Toolkit;
+- English language knowledge is a major plus.","Please, email CVs to: support@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Digital Ray Inc. is a full-service web design,
+development and marketing agency."

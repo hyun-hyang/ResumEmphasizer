@@ -1,0 +1,19 @@
+.Net Developer,Seven Smarts LLC is looking for a .Net Developer.,"- Participate in all the steps of the software project, from design to
+integration;
+- Read, understand and modify the existing code;
+- Develop applications in accordance with given specifications;
+- Be flexible in learning new technologies.","- BS in relevant field;
+- 2 years of work experience as a Win Form Developer with C#;
+- Strong knowledge of ASP.Net;
+- Strong knowledge of SQL, LINQ, Ado.Net Entity Framework;
+- Experience in service oriented development (Web Services, WCF);
+- Ability to work within a team;
+- Excellent knowledge of WPF and Silverlight;
+- Strong problem solving skills;
+- Good communication skills;
+- Knowledge of English language.","To apply, please send a CV to: jobs@...
+. Please, clearly mention in the subject line for what position you are
+applying. Only shortlisted candidates will be invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

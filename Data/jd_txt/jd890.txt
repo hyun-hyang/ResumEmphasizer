@@ -1,0 +1,18 @@
+Software Developer,"""WestSoft"" is seeking highly motivated people for the
+positions of Software Developer to join the company's software
+development process.","GUI and backend programming of automated control
+system.","- Professional knowledge of C++ programming language;
+- Work experience with Borland C++ Builder IDE.
+DESIRED QUALIFICATIONS:
+- Knowledge of Delphi;
+- Experience in network programming;
+- Experience in *nix environment;
+- Experience in multithreaded programming;
+- Good communication skills;
+- Ability to work in team.","Interested candidates should email resumes to:info@....
+In the subject line of your e-mail please mention the title of the
+position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""WestSoft"" LLC is engaged in program design for Business
+Process Automation."

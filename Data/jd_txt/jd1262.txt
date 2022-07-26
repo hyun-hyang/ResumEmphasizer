@@ -1,0 +1,46 @@
+Senior Lead Analog Design Engineer,"Virage Logic is looking for a Senior Lead Analog
+Circuit Design Engineer. After a learning period at first the tasks will
+be mainly supportive to some projects, but along the road the intention
+is to have development. Depending on experience at hand and customer
+demand the candidate will be working in the area of high speed data
+converters, audio converters, PLL's, power regulators or other analog
+circuits commonly used in baseline CMOS processes (90 / 65 / 40 / 28 nm).","- Create designs for (complex) analog and mixed-signal circuitry;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation and define the qualification of the hardware;
+- Characterize, model and optimize analog circuits and building blocks in
+existing CMOS technologies;
+- Mentor junior engineers and help develop their skills;
+- Lead contact in the communication.","- Degree in Electrical Engineering or a related discipline (MS degree or
+even Ph.D. is preferred);
+- Relevant classes in circuit design and communications system theory;
+- At least 3 years of proven hands-on experience with analog/
+mixed-signal IC circuit design (Memory, serial interfaces and Standard
+cells);
+- Deep understanding of Analog functionality;
+- Ability to take the leading role and help build up a team;
+- Pro-active 'can-do' mentality, self-motivated and assertive
+personality; 
+- Excellent multitasking and organizational skills; 
+- Excellent written and verbal English language communication skills; 
+- Demonstrated pleasant personality, which is compatible with customer
+interaction, while having technical skills that will ensure final closure
+to customer issues; 
+- Good team interaction skills with engineers and other support staff; 
+- Hard working, reliable personality.
+Desired Skills:
+- Pro-active 'can-do' mentality, self-motivated and assertive
+personality; 
+- Excellent multitasking and organizational skills; 
+- Excellent written and verbal English language communication skills; 
+- Demonstrated pleasant personality, which is compatible with customer
+interaction, while having technical skills that will ensure final closure
+to customer issues; 
+- Good team interaction skills with engineers and other support staff; 
+- Hard working, reliable personality.","Please e-mail your detailed CV in English
+language to: Hr.Armenia@... indicating the position title in
+the subject line of your e-mail. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

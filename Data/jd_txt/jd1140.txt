@@ -1,0 +1,39 @@
+"Senior Software Engineer, Layout Processing Department (YA)","Mentor Graphics Development Services is seeking a
+Senior Software Engineer to take the leading role in design and
+implementation of advanced software products for physical verification
+of ICs.","Research, design and implement efficient
+algorithmic applications for physical verification of complex ICs.","- MS+ in CS/ Physics/ Math or a related field, PhD is preferred;
+- 5+ years of work experience in designing and developing software
+products;
+- Strong C++/ STL programming skills, good knowledge of OOD;
+- Familiarity with design patterns;
+- Knowledge of Linux;
+- Knowledge of TCL/ TK is desired;
+- Ability to lead the project development; previous experience of
+working on critical projects;
+- Experience in software project management;
+- Strong knowledge of data structures and algorithms and their
+complexities;
+- Familiarity with Computational Geometry, Graph Theory, Optimization
+Problems, Numerical Methods and Modeling; 
+- Ability to write comprehensive functional/ implementation
+specifications;
+- Previous experience in designing efficient algorithms for IC layout
+processing is highly desired;
+- Knowledge and experience in Physical Design Automation or a related
+domains is preferred;
+- Excellent communication skills; ability to effectively interact with
+cross-functional teams (R&D, Application and Marketing);
+- Excellent knowledge of oral and written English language;
+- Fast learning skills; 
+- Formal training or test certification is a plus;
+- Other achievements: participation/ winning in math and programming
+Olympiads/ competitions is a big plus;
+- In case of a male candidate it is preferred that military obligation
+or educational waivers of military obligation is fulfilled.","Please e-mail your detailed CV to:amy_jobs@... , indicating the position title in the subject line
+of your e-mail and/ or submit your CV through http://amyhrs.mentor.com/.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

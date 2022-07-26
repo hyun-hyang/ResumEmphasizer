@@ -1,0 +1,17 @@
+Software Integration Engineer,"The selected candidate will be responsible for the
+daily builds assigned to him/her. The incumbent will be required to take
+part in the build automation development effort and also to develop setup
+scripts using Install Shield for windows.",NA,"- BS in Computer Sciences or similar;
+- Intermediate Perl scripting;
+- MS Visual Studio and linux C++ code compilation with various
+configurations;
+- Ability to communicate in English language;
+- Past experience of working with source control software;
+- Ability to produce well formatted and commented code.","Please submit your detailed CV to:dianan@... with CC to: zeron@... indicating the
+position in the subject line of your e-mail. Only short-listed
+candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

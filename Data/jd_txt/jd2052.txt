@@ -1,0 +1,40 @@
+Data Quality Developer,"The primary objective of this position is to manage all
+financial market information transmitted through the CQG network,
+ensuring CQG's benchmark standard for delivering the highest quality
+market data.","- Configure and maintain CQG's master database to provide accurate
+coverage of global Financial, Equity and Commodity markets;
+- Be responsible for commodity testing;
+- Implement and maintain data quality policies and procedures to support
+CQG's high standard for reliable and accurate transmission of market
+price information;
+- Assist in maintaining communication and relationships with all major
+global markets and exchanges to ensure accurate representation of traded
+instrument price information on the CQG Network;
+- Provide level II customer support to maintain a high level of customer
+satisfaction and to ensure timely resolution to data related problems;
+- Train customers and other CQG personnel on CQG market data;
+- Troubleshoot and quickly resolute Data Factory issues;
+- Provide link between Data Quality, CSP and PD in relation to data
+quality issues;
+- Provide expertise to Product Development for requirements creation,
+design and implementation of new software.","- Degree in Computer Sciences or a related field;
+- Knowledge of SQL Server 2005/ 2008;
+- Knowledge of T-SQL;
+- Knowledge of financial markets is preferred;
+- Proven ability to work independently and as part of a team;
+- Excellent oral and written communication skills in English language;
+- Ability to work accurately and quickly in a fast-paced environment;
+- Experience in supporting customers in Electronic Financial Markets
+(futures, currencies and stock markets);
+- Availability of financial certifications is a plus;
+- Excellent customer service skills and a strong desire to work with
+people.","To apply, please email your applications to:yer_job@... . Please mention the position title in the subject line
+of your e-mail. If any questions, please call: (010) 26-56-01 ext.7721.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"CQG is headquartered in Colorado, where it has been
+founded in 1980. The company has more than 500 employees worldwide in 15
+offices. Yerevan office was opened back in 2004. For more than 30 years
+CQG developed new technologies, offering real-time and historical data
+integrated with graphics and technical analysis tools for finance market.
+For more information please visit: www.cqg.com."

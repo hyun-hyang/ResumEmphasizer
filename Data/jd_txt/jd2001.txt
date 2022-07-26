@@ -1,0 +1,20 @@
+Android Developer,"Be Interactive LLC is seeking for a highly qualified
+Android Software Developer to join company's development team. The
+successful candidates shall demonstrate deep technical and professional
+skills, readiness to learn new technologies in a fast pace, as well as
+ability to deal with tight deadlines.","- Work with the Development Team to understand, clarify and shape
+requirements;
+- Design and implement Android OS based solutions;
+- Understand and parse/ implement Back-End services.","- University degree in IT field;
+- Knowledge of Java and C programming languages;
+- Knowledge of Android OS design concepts;
+- Knowledge of Android NDK and C native code implementation concepts;
+- Knowledge of Open GL and color formats (YUV, RGB, etc.) concepts.","All interested and qualified candidates are
+welcome to send their CV to: job@... . Please indicate
+the position title in the subject field of your message. Only shortlisted
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Be Interactive LLC develops unified communication
+systems. For additional information about the company, please visit
+company's websites: http://www.zangi.com and http://www.beinteractive.am"

@@ -1,0 +1,40 @@
+Senior C/ C++ Software Engineer/ Team Leader,"Energize Global Services CJSC is looking for a Senior
+C/ C++ Software Engineer/ Team Leader who will be responsible for
+conducting, leading and coordinating software development activities
+throughout the project.",NA,"- BA degree in Computer Sciences or a related field; Master's degree is
+preferable;
+- At least 7 years of experience in application development (preferably
+embedded);
+- Solid working experience in C/ C+ programming;
+- Proven experience in leading a software engineering team(s);
+- Experience in development under Linux/ Unix OS;
+- Familiarity with the life cycle of software development;
+- Familiarity with software architectures;
+- Experience with working in offshoring mode;
+- Ability to understand requirements and translate them into design
+functional specifications;
+- Experience in one or more of the following areas is an asset: smart
+cards, security concepts, embedded systems, payment schemes,
+communication protocols (ISO 8583, EPAS and ISO20022);
+- Work experience in an Agile environment is an advantage;
+- Experience in Python is an advantage;
+- Ability to plan and prioritize team activities;
+- Ability to communicate and conduct teleconferences with foreign
+partners in English language;
+- Ability to establish and maintain effective working relationships with
+partners and colleagues;
+- Ability to work under pressure and in circumstances of diverse
+interests still consistently paying attention to details;
+- Analytical thinking;
+- Ability to solve problems;
+- Ability to listen/ comprehend.","If interested, please email your last updated
+and detailed Resume to: hr@... . Please indicate ""Senior
+C/ C++ Software Engineer/ Team Leader"" in the subject line of your
+e-mail, otherwise your Resume will not be reviewed. 
+Energize Global Services thanks all interested applicants; however, only
+shortlisted candidates will be contacted for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

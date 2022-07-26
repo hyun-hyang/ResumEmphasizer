@@ -1,0 +1,52 @@
+IT Specialist (Implementation of Large Scale Systems),"Chemonics International Inc. implements the USAID
+Armenia Pension Reform Implementation Program (PRIP) which aims at
+contributing to successful implementation of Pension reforms in Armenia.
+PRIP seeks a qualified professional for the full-time IT Specialist
+position, which requires experience with implementing large scale
+systems. The IT Specialist  will provide direction for appropriate
+implementation of plans, present ideas, concepts and instructions in a
+clear manner, use persuasion and negotiation to build consensus and
+cooperation, ensure safe practices and environmental consciousness are
+exhibited in decisions, develop new concepts/ solutions applying them to
+complex strategic operating issues and work independently on complex work
+assignments.","- Plan for the development of IT infrastructure and information systems
+in accordance with needs of MLSAs SSSS and Nork Centers;
+- Design new and existing information systems and software platforms in
+accordance with the needs of MLSAs SSSS and Nork Centers;
+- Create testing environments for the testing of new platforms and
+software releases;
+- Participate in the strategic planning process and provide input into
+strategic decisions for units or user groups;
+- Work with information systems team members and technical staff to
+analyze their requirements;
+- Collaborate with technical staff to assess program needs, establish
+timelines for project completion and identify desired outcomes;
+- Develop and train staff members in processes and procedures;
+- Define, implement and enforce the change management process and manage
+the configuration management baselines of documentation, hardware and
+software;
+- Serve as liaison between technical staff and user groups to resolve
+user problems and concerns; 
+- Perform technical writing functions;
+- Identify risk, provide risk mitigation strategies and escalate issues
+to the appropriate manager;
+- Perform other relevant tasks as assigned by the DCOP/ information
+systems team leader.","- Bachelors degree;
+- At least 10 years of work experience in information system
+implementation, administration, support and maintenance;
+- Ability to communicate clearly and effectively; 
+- Ability to understand and implement IT Policies, Process and
+Procedures;
+- Excellent writing and interpersonal skills;
+- Fluency in written and spoken Armenian and English languages.","Interested candidates are asked to send a CV and
+a cover letter including three professional references to: hr@... ,
+indicating the position title in the subject line of the e-mail. Only
+finalists will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"The PRIP project intends to assess software platforms at
+the State Social Security Service of the MLSA of the Republic of Armenia
+(SSSS) and Nork Information-Analytical Center (Nork). PRIP will make
+recommendations to rationalize a software strategy, ultimately ensuring
+access to information relevant to payment processing for all pension
+benefits."

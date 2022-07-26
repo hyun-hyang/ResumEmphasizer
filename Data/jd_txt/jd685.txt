@@ -1,0 +1,18 @@
+Software Configuration Management (CM) Engineer,"Synopsys Armenia CJSC is seeking candidates for the
+position of Software Configuration Management (CM) Engineer.","Develop and maintain build supporting tools
+(scripts).","- Linux shell and Perl programming experience (above average level);
+- Knowledge of Linux platform and at least basic experience in system
+administration;
+- Knowledge of software application builds process;
+- Familiarity with programming techniques, software development cycle
+and development tools;
+- At least basic knowledge of C++;
+- Good English language skills;
+- At least 2 years of work experience in software development;
+- BS in Computer Sciences/Software Engineering.","Please submit your detailed CV directly to:dianan@... indicating the position in the subject line of your
+email. Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Synopsys, Inc. is a provider of electronic design
+automation (EDA) software and services. Synopsys Armenia CJSC was
+established in October 2004 by Synopsys International Ltd."

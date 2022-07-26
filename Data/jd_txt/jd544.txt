@@ -1,0 +1,14 @@
+System Administrator (Unix),"""K-Telecom"" is looking for a System Administrator to
+be responsible for maintaining 24/7 availability of the systems, backup
+and recovery.","- Maintain applications;
+- Perform systems testing of multiple modules in a system;
+- Prepare complex system specifications to meet user requirements;
+- Train users in the use of information systems tools.","- 1 year of experience in administering Unix systems (preferable SUN
+Solaris, Free BSD);
+- Good system administration skills;
+- Relevant university degree;
+- Fluency in Armenian and English languages.","Please, send your CV to:sysadminjob@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""K-Telecom"" CJSC (VivaCell) was established in Armenia
+in January, 2005, as a mobile network company."

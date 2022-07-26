@@ -1,0 +1,26 @@
+ASP.NET Senior Web Developer,"LiveLOOK, Inc. is looking for an ASP.NET Senior Web
+Developer with good knowledge of Web technologies and work experience
+with HTML, CSS and JavaScript to be engaged in different long term
+projects.","- Participate in application design;
+- Provide necessary technical and design documentation;
+- Communicate effectively with local management and external team
+members;
+- Develop features according to technical specifications; 
+- Maintain existing projects;
+- Participate in the development of new projects.","- University degree in the appropriate field of studies;
+- At least 3 years of work experience;
+- Knowledge of ASP.NET and C#;
+- Database proficiency in Microsoft SQL Server;
+- Knowledge of DHTML: JavaScript, AJAX, CSS2, CSS3, HTML4 and HTML5;
+- Knowledge of OOP principles;
+- Knowledge of other programming languages, such as Java is an
+advantage;
+- Ability to work on multiple tasks and to prioritize personal workload;
+- Ability to work in a team;
+- Good knowledge of English language, both communication and technical
+level.","Please send your resumes to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SCLab LLC is LiveLOOK's Armenian subsidiary, which offers
+a web-based screen sharing software that allows company agents to
+instantly view a customer's screen."

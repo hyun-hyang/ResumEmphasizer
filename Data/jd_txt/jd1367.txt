@@ -1,0 +1,19 @@
+C/C++ Software Developer,"Energize Global Services CJSC is looking for a C/C++
+Software Developer to be engaged in different long term projects.","- Participate in software development in C++, ASP.NET, C#;
+- Work as part of a software development team.","- Minimum 3 years of work experience in software application development
+on C# and C++;
+- Excellent knowledge of C/C++ and C#;
+- Experience of development under Linux/Unix OS;
+- Advanced knowledge of OOP and OOD;
+- Advanced knowledge of Python, scripting languages;
+- Knowledge of STL, Unit testing frameworks;
+- Knowledge of optimization and cryptography algorithms; 
+- Excellent knowledge of English language;
+- Team player.","If interested, please email your CV to:hr@.... Please, clearly mention in the subject line for
+what position you are applying. Only shortlisted candidates will be
+invited for an interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Energize Global Services CJSC is a software development
+company that specializes in offshore development and provides IT services
+for partners all over the world."

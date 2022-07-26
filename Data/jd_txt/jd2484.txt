@@ -1,0 +1,24 @@
+Senior Web Developer,"""Tel-Cell"" CJSC is looking for a qualified Senior Web
+Developer.","- Responsible for planning and analyzing;
+- Responsible for operational work;
+- Provide technical support;
+- Responsible for the choice of the development environment, the
+programming language and the necessary software.","- At least 2 years of professional work experience in ASP/ ASP.NET (C#),
+.NET Framework;
+- Knowledge of MS SQL Server, web-services, HTML, CSS, XML, JavaScript,
+VBScript;
+- Knowledge of TCP sockets, JSON format, application-level protocols
+(HTTP, HTTPS, SOAP);
+- Good knowledge of OOP;
+- Knowledge of  C++ is a plus;
+- Bachelor's degree in Computer Science or a related field; higher
+education is preferable;
+- Fluency in Russian language;
+- Knowledge of technical English language.","Interested candidates are asked to submit their
+CVs to: hr@... . Please mention in the subject line of the e-mail
+the position you are applying for.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tel-Cell CJSC is a system of payments intake in
+Armenia, covering the capital and other regions and centers of the
+republic."

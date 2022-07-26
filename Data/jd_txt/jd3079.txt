@@ -1,0 +1,48 @@
+Senior JavaScript and PHP Programmer,"Bergx2 GmbH is looking for a Senior JavaScript and PHP
+Programmer. The incumbent should have a creative mind with many ideas, be
+a passionate coder and interested in new technologies.
+As an equal member of the team he/ she will be involved in the daily
+operations and will take part in all relevant events and meetings.","- Responsible for redevelopment and further development of ambitious B2C
+projects;
+- Coordinate the developer team in daily operations and software
+consultancy projects;
+- Participate in business development and construction of strongly
+designed, highly integrated websites, mobile platforms and
+technologically sophisticated e-business applications;
+- Perform the configuration, customisation and extension of CMS and shop
+systems;
+- Responsible for testing and quality assurance;
+- Conduct server-side programming depending on your personal focus;
+- Provide customer support on technical issues;
+- Closely collaborate with international team members from project
+management, programming and marketing.","- Expert knowledge of JavaScript and PHP;
+- At least 5 years of professional experience with - JavaScript and PHP
+in web development;
+- Knowledge of and experience with SQL, (X) HTML5, CSS3 and AJAX;
+- Experience with current technologies for web and mobile frontend and
+backend: jQuery, NodeJS, Backbone.js etc.;
+- Knowledge of CMS e.g. WordPress, Joomla, Drupal, Magento, etc.;
+- Knowledge of server administration, Linux, Ngnix, Apache (backend and
+frontend) is a plus;
+- Good spoken and written English language skills; knowledge of the
+German language is a plus if you want to work in Germany in the future
+(in addition, you will have the opportunity to be granted a Blue card
+(work permission) in Germany after a while of a successful work);
+- University degree or equivalent training in the fields of Computer
+Science, Multimedia or similar field is a plus;
+- Competencies in project management, task coordination and leadership in
+a team environment;
+- International experience through occupation or studies abroad is a
+plus.","Your complete application should include a brief
+cover letter, CV, credentials and any references (e.g URLs, Portfolio)
+from previous work - if available. Send your CV in the English language
+to Ms. Galstyan via email to: tattey.galstyan@... . Please note
+that immediate applications are welcome.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","If you are interested in working in Germany. The
+Company prefers employees who do not smoke.","Bergx2 GmbH is a German company specialized in digital
+projects and implementation of innovative solutions for organisations
+which want to expand their business activities in the internet and mobile
+world.
+Bergx2 GmbH Armenia is a newly founded subsidiary located in Yerevan."

@@ -1,0 +1,38 @@
+Software Engineers - Java,"Impeva Labs is looking for highly qualified and
+motivated software developers with deep knowledge and practical
+experience in object oriented programming and web development.","- Leverage his/ her knowledge in software design and implementation to
+develop J2EE web-based applications;
+- Design and code software components for J2EE Web Applications;
+- Be responsible for development of high performance and scalable
+solutions;
+- Interact with technical managers to facilitate the smooth flow of all
+technical information;
+- Interact and train QA engineers in all technical aspects of the
+projects.","- BS in Computer Sciences. MS or PhD is preferred;
+- 3-10 years of programming experience especially in Java. Minimum 3
+years of work experience in J2EE development. Previous work experience
+with one or more production/ mission critical web applications is highly
+desirable;  
+- Extensive knowledge of OOD/ OOP. Knowledge of good software
+engineering practices and product development process. Ability to plan
+and estimate the required software development effort and time; 
+- Strong software design and analysis skills;
+- Strong knowledge and experience in Web technologies and web-based
+dynamic application development, especially Java Servlets, JSPs and Web
+Services;
+- Knowledge of XML, XSLT, HTML, CSS, Java Scripts and related
+technologies;  
+- Experience with ORM and DBMS design and programming;
+- Software tools and technologies skills: Expert level knowledge of Java
+development tools, multithreaded programming, network programming and
+distributed applications; 
+- Ability to work both as individual contributor and as part of a team;
+- Ability to learn quickly and to work under pressure; 
+- Strong oral and written communication skills; 
+- Ability to design and implement new software components and
+independently devise solutions;
+- Experience with Linux is desirable.","Interested candidates should e-mail their
+detailed resumes to: ra-careers@.... No hand delivery, please.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For detailed information visit: http://www.impeva.com

@@ -1,0 +1,50 @@
+UI Web Engineer,"The ideal candidate for this position is experienced in
+designing and developing highly performing and scalable web applications
+that meet the business requirements. The UI Web Engineer will be involved
+into small to large scale projects through all stages of the software
+development life cycle from requirements gathering to implementation. The
+incumbent will collaborate with User Interaction and Design team,
+Marketing, and .NET engineers to design and develop functionally rich,
+robust, user friendly web applications, as defined by business
+requirements.","- Collaborate with Copywriters and Senior Designers to execute Marketing
+campaigns;
+- Collaborate with User Interface Designers and .NET Developers to build
+web applications;
+- Maintain and enhance existing Web applications and all internal systems
+are integrated;
+- Develop standards-compliant web pages using: HTML, DHTML, CSS,
+JavaScript, AJAX and jQuery in Visual Studio;
+- Develop HTML e-mails with an emphasis on email client compatibility;
+- Develop original and creative Flash animations and banner ads;
+- Contribute to the establishment and maintenance of code standards; 
+- Perform testing of own code; address browser/ platform compatibility
+issues;
+- Proactively report to team leads on task status and issues;
+- Work with fellow team members to define the work breakdown structures
+for the technical activities associated with each project and provide
+accurate time-estimates for assigned tasks;
+- Contribute to the establishment and maintenance of project lifecycle
+methodologies and adoption of industry best-practices.","- Ability to demonstrate - through web portfolio and coding examples -
+standards-compliant HTML, CSS and jQuery;
+- Ability to demonstrate - through web portfolio  graphic design and
+flash animation experience;
+- Ability to develop web interfaces and front-end functionality based on
+PSDs, storyboards and/ or business requirements documentation;
+- Knowledge of key applications: Adobe CS5 product suite, Microsoft
+Visual Studio 2008/ 2010;
+- Ability to code consistently and to documented standards and
+specifications;
+- Full experience dealing with browser compatibility issues;
+- Experience with version control (e.g. SVN) and issue tracking (e.g.
+JIRA);
+- Experience with developing apps for social media sites (Facebook,
+Twitter) is an asset;
+- Experience with XAML is an asset;
+- Undergraduate degree or post-graduate diploma with related areas of
+study;
+- At least 3 years of work experience.","Interested candidates are asked to apply
+through:http://ch.tbe.taleo.net/CH06/ats/careers/searchResults.jsp?org=QUESTRADE&cws=37
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information please visit: www.questrade.am.

@@ -1,0 +1,46 @@
+Senior Software Engineer,"Ogma Applications is seeking an experienced Senior
+Software Engineer with in-depth knowledge of software development
+processes. In order to join and succeed in the team, the incumbent must
+have passion and energy to work in an entrepreneurial, and fast paced
+environment. As a senior member of the team in Armenia, the Software
+Engineer will be working closely with other developers and his/ her peers
+in the US and other teams around the globe, to analyze, design, develop,
+test and deliver the best in class software.","- Work with the Senior Architect in the US to get aligned with product
+roadmaps and assume a key role in the development of these products;
+- Design, proto-type, develop, and thoroughly unit test before submitting
+to QA;
+- Work with the Quality Assurance team to develop and maintain unit tests
+based on product functional specifications.","- At least 4 to 6 years of extensive development experience, and over 3
+years with the following technologies:
+a) Pure C# code both on the middle tier and as part of the web UI layer
+of ASP.NET;
+b) IIS 6 and/ or IIS 7 experience;
+c) MS SQL Server 2000, 2005 or 2008 experience;
+d) Strong knowledge of C#, WCF, MVC, .NET (2.0, 3.0, 3.5, 4.0), SOAP and
+XML;
+e) Understanding of OTA XML Messaging a plus;
+f) Knowledge of Flash development and Action script is preferable;
+- Familiarity with the .NET Framework, specifically the following
+packages: messaging, threading, generic collections, custom controls and
+LINQ to SQL classes and also ADO.NET;
+- Experience with technologies such as jQuery, java Script, HTML, CSS,
+XML, and related tools;
+- Extensive programming experience with standard management and
+instrumentation API's;
+- Ability to work independently as well as with other members in the
+group;
+- Thorough understanding of software development processes and
+methodologies and knowledge of complete product development life cycle;
+- Strong inter-personnel skills, ability to work both independently and
+as part of a global team and thrive on technical challenges;
+- Excellent communication and writing skills, and experience in writing
+product specifications and technical documentation;
+- Good knowledge of the English language.","Please submit your detailed CV in English
+language to: hbaghdas@... and indicating the position in the
+subject line of your e-mail.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Ogma Applications is a software development company based
+in Los Angeles, California that develops web-based applications for
+clients all around the globe. For additional information please visit:
+www.ogmainc.com."

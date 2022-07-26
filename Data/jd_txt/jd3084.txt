@@ -1,0 +1,37 @@
+.NET Windows Mobile Developer,"The successful candidate will become part of the
+growing development team. He/ she will be working on the Windows Mobile
+Applications.","- Design and develop various Web artifacts including and not limited to
+features, solutions, db schemas, application frameworks, and GUIs;
+- Design and build reusable modules to be used throughout different
+mobile applications;
+- Maintain and enhance Company's home grown systems;
+- Build Custom UI Components;
+- Bugfix or provide technical support (level 2) of the existing
+applications in production.","- B.S. in Computing Science;
+- At least 2 years of work experience in .NET Framework;
+- At least 1 year of work experience in .Net Compact Framework and
+WinForms;
+- At least 2 years of work experience in SQL database design and
+programming;
+- On-hands experience in developing for Windows Mobile 5/ 6/ 6.5 is an
+asset;
+- Experience in design and implementation of Databases in SQL Server
+Compact Edition;
+- Knowledge and experience in Microsoft Sync Framework is highly
+desirable;
+- Experience in design and implementation of .Net Web Services (WCF is
+preferred);
+- Experience in design and implementation of User Controls;
+- Proficiency in OOP/ OOD;
+- Mastery of the technical English language;
+- Good communication skills;
+- Good team player, ability to accept criticism;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","Please, email your professional CV to:armjobs@... , specifying the job title ("".NET Windows Mobile
+Developer"") in the subject line of your message. Please note that only
+shortlisted candidates will be contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.","Working hours are from 10 a.m. to 7p.m., flexible
+rescheduling will be required upon request.","CargoMatrix is a logistics software solutions provider
+based in New York, USA."

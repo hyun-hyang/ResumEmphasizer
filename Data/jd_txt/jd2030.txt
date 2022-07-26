@@ -1,0 +1,28 @@
+Java Developer,"SFL is looking for a full-time Java Developer to join a
+team working on a complex and long-term project.","- Produce and maintain clean and high quality code;
+- Maintain cutting edge knowledge of current and emerging
+technologies,industry trends and standards;
+- Continue/ support projects done by others;
+- Work as a part of a software development team.","- Bachelor's or higher degree in Computer Sciences or a related
+discipline with at least 2 years of work experience in software
+development;
+- At least 2 years of work experience with Java/ J2EE;
+- Professional work experience in projects as a Java developer in J2EE
+(JSP, Servlets, JDBC, Spring, Apache Wicket, Struts and Hibernate);
+- Work experience in development of multi-layered client-server
+applications, client and server Web application components;
+- Work experience in Oracle and  MySQL databases;
+- Punctuality and accuracy in work, ability to work efficiently without
+supervision;
+- Applicants  may be asked to perform a demonstration of their abilities
+or show developed code in order to assess technical knowledge;
+- Good communication skills in English language;
+- Willingness to travel abroad.","If interested, please email your CV to:jobs@... . Please mention ""JobID 11470"" in the subject line of
+your email. Only shortlisted candidates will be notified for the
+interview.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"SFL LLC provides software development services to more
+than 20 independent clients from Europe, United States and Armenia. Since
+2007, SFL is a Microsoft Gold certified partner. More details can be
+found at: www.sflpro.com."

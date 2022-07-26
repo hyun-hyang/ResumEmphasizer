@@ -1,0 +1,20 @@
+Programmer,"The incumbent will work in the group of competence of
+ERP system support on Microsoft Dynamics AX 2009 (Axapta) platform. He/
+she will be responsible for report planning, functional development,
+coordination work with the technical specialists of the integrator.","- Perform automatization of the tasks of financial-economic direction;
+- Define problems;
+- Develop data base structure;
+- Develop front end;
+- Develop functional testing;
+- Implement own and outsourcing developers in technical exploitation.","- 2-3 years of experience in Microsoft SQL Server, Microsoft Visual
+Studio (Visual Basic, C#);
+- Knowledge of Microsoft Dynamics AX (++) is a plus;
+- Team player, developers group management skills;
+- Sociability, responsibility;
+- Knowledge of Russian (cooperation with the integrator) and technical
+English (documentation) languages.","All interested candidates are encouraged to
+submit a CV to: vasilian_as@... mentioning ""Programmer"" in the subject
+field of the message.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

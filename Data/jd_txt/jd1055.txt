@@ -1,0 +1,34 @@
+Senior Software Engineer,"Senior Software Engineer will take part in design and
+implementation of software products.",NA,"- BS/MS in CS/EE;
+- 5+ years of experience in software development;
+- Good communication skills;
+- Self-motivation;
+- Experience in designing and developing software products;
+- Ability to lead the project development; previous experience of
+working on critical projects;
+- Formal training or test certification is a plus;
+- Strong C++/ STL programming skills, experience in widely accepted
+methodologies such as OOP, OOD, etc.;
+- User knowledge of Linux, MS Windows is desirable;
+- Strong knowledge of data structures and algorithms, their
+complexities;
+- Mathematical background with an understanding of Computational
+Geometry, Graph Theory, Optimization Problems;
+- Design/implementation specification writing skills;
+- Knowledge and experience in Physical Design Automation, or related
+domains is preferred;
+- Experience in designing EDA databases, solving tasks related to fast
+data access, storing and processing;
+- Experience in working with cross-functional product development teams
+is preferred;
+- Knowledge of technical English (both verbal and written);
+- It is preferred that the candidates for the Senior Software Engineer
+position fulfilled military obligation or educational waivers of
+military obligation.","Please e-mail your detailed CV to:amy_jobs@... indicating the position title in the subject line of
+your e-mail. 
+Only short-listed candidates will be contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Mentor Graphics Development Services CJSC (former Ponte
+Solutions CJSC) is a subsidiary of Mentor Graphics Corporation, USA, a
+provider of electronic design automation (EDA) software."

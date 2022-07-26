@@ -1,0 +1,12 @@
+Internship in Software Tools Development,"In conjunction with the student's university and in
+accordance with the company's Engineering Co-op Program design, Interns
+will acquire real-life experience and receive training and development
+related to the field of study, as well as exposure to various functions
+within the corporate setting.
+The candidate will contribute to the development and maintenance of Star
+Builder GUI (QT4 library) after being trained, also the test suite (UNIX
+shell scripts).",NA,"- Software development skills, C++, data structures and algorithms;
+- English language skills.","Please send your resumes on:hr.armenia@... .
+Please clearly mention in your application letter that you learned of
+this internship opportunity through Career Center and mention the URL of
+its website - www.careercenter.am, Thanks.",NA,NA

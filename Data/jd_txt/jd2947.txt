@@ -1,0 +1,29 @@
+"Software Developer, Software Management Unit","Converse Bank is seeking a motivated and experienced
+Software Developer to join the Software Management Unit and ensure
+effective Software development corresponding to banking activity.","- Responsible for software development and programming;
+- Review and improvement of existing software;
+- Develop effective codes in line with modern standards.","- University degree in a related field;
+- At least 1 year of work experience in a relevant field;
+- Excellent knowledge of PHP, HTML, CSS, Javascript programming
+languages;
+- Knowledge of OOP, Design Pattern basics;
+- Knowledge of GIT system is a plus;
+- Past experience in working with MySQL, MS SQL Server databases;
+- Knowledge of AS-Bank 4.0 is a plus;
+- Knowledge of C#, VB languages and Net technology is a plus;
+- Fluency in Armenian, Russian and English languages;
+- Analytical skills;
+- Good communication and negotiation skills;
+- Excellent problem solving skills;
+- Ability to handle confidential information appropriately;
+- Knowledge and survey of advanced and developing technologies.","Interested candidates who meet the mentioned
+requirements are asked to fill in the Converse Bank application form
+attached to this announcement and send it to: job@...
+accompanied with a cover letter. The subject field of the message should
+be filled in as follows: ""Software Developer"". Only appropriately filled
+in applications will be considered. Only short-listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For information about Converse Bank CJSC, please visit:
+www.conversebank.am."

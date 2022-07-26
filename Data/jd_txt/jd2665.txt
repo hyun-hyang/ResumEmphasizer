@@ -1,0 +1,24 @@
+IT Specialist,"ArmSwissBank CJSC is seeking a skilled and motivated IT
+Specialist.","- Responsible for technical support of AS-Bank system;
+- Create and support OLAP and User Reports;
+- Install and update AS-Bank versions and Service Packs;
+- Install client-bank and internet-bank systems for clients.","- University degree in IT/ Engineering;
+- At least 1 year of related work experience in the field  of banking/
+finance is preferable;
+- Knowledge of AS-Bank Administration;
+- OLAP and User Reports supporting skills;
+- Knowledge of MSSQL database administration (Backup, Restore, Mirroring)
+is preferable;
+- Accounting skills are preferable;
+- Fluency in Armenian, Russian and English languages; 
+- High level of responsibility.","All interested and qualified candidates are
+welcome to attach the CV or fill in ArmSwissBank Application Form located
+at: http://www.armswissbank.am/upload/vacancy_application_form.docx and
+email it to: hr@... . Please mention in the subject line of
+your e-mail ""IT Specialist"". Only short listed candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ArmSwissBank CJSC was founded on 07 October 2004. It is
+specialized in corporate, investment and private banking. For more
+information about the bank, please visit: www.armswissbank.am."

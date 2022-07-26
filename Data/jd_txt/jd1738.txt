@@ -1,0 +1,16 @@
+Programmer,"""Benerik"" Ltd is seeking a programmer who will provide
+the development of ""1C 8"" licensed software.","- Develop and maintain document templates in ""1C 8"" software;
+- Ensure problem solving in timely manner;
+- Make necessary changes in the given information;
+- Perform development of data and software systems;
+- Provide automatic works of input-output and current information.","- Higher education;
+- At least 2 years of work experience in programming;
+- Knowledge of ""1C 8"" software.","Interested candidates are asked to deliver the
+copy of diploma, CV and a photo of 3x4 size in an envelope to the office
+of ""Benerik"" Ltd at: Babajanyan Str. 4/12, Avan, Yerevan or to any store
+of ""Basic House"" and ""Bata"" or e-mail the documents to: info@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"""Benerik"" Ltd is the official representative of ""Basic
+House"" and other brands in Armenia. For more information about the
+company, please visit: www.benerik.am."

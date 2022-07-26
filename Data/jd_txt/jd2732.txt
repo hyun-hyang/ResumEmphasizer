@@ -1,0 +1,46 @@
+Senior Web Developer,"The Tumo Center for Creative Technologies is seeking
+highly motivated and experienced Senior Web Developer who will be
+responsible for developing innovative web-based tools as part of the
+educational system.","- Develop, modify and test multimedia software programs, program tools
+and applications;
+- Draft software provision projects and submit them to the immediate
+supervisor for approval;
+- Submit work schedules for the software development of the
+afore-mentioned projects and follow those schedules; 
+- Responsible for code writing, detailed code review and testing;
+- Elaborate the ideas that come up during brainstorming sessions, turn
+them into work-developed multimedia assets.","- Detailed understanding and solid experience in web development,
+cross-browser development, programming and scripting languages and
+database systems;
+- Ability to read, understand and modify the existing code;
+- Ability to collaborate closely with the management and other members of
+the software development team;
+- Highly dynamic and positive personality; excellent people skills and
+facility in working with teenagers;
+- PHP programming experience (object oriented, version 5);
+- Experience with MongoDB; experience with other NoSQL databases is
+desirable;
+- Excellent knowledge of HTML, CSS, Javascript;
+- Work experience with PHP frameworks such as Yii (Yii2 is appreciated);
+- Experience with version control systems (SVN, Git);
+- Higher education degree from a recognized university;
+- Excellent communication skills, including written communication,
+personal interaction and public  presentation in Armenian language;
+knowledge of English language is a plus.","Interested candidates should submit a resume by
+email to: jobs@... . In the subject line of the email, please
+mention Senior Web Developer. The email address from which the
+submission is received will be used to reply to the candidate with
+important information on next steps. Only candidates who are shortlisted
+for testing and interviews will be notified.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Tumo is an after-school learning center in Yerevan where
+teenagers acquire digital media skills free of charge. Thousands of users
+attend Tumo on a regular basis and participate in its innovative and
+self-paced program. Tumos Yerevan facility is a state-of-the-art
+environment equipped with over 500 workstations and tablets running
+industry standard applications and educational content. The Tumo
+educational framework is based on a proprietary platform which promotes
+learning through interactive game-like levels, exposing users to
+increasingly challenging activities. To learn more about the company,
+please visit: www.tumo.org."

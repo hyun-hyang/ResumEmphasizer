@@ -1,0 +1,33 @@
+.NET Developer,"BetArchitect is looking for a .NET Developer with a
+strong knowledge of .NET programming and database development concepts.
+He/ she will be involved in the entire life cycle of the web application
+development process working on all tiers.","- Design, develop and support new and existing business solutions;
+- Create and maintain SQL queries, stored procedures, triggers and
+views;
+- Implement backend/ data access layer within web applications/ web
+services;
+- Work in a team or individually in all phases of the software
+development life-cycle;
+- Develop applications according to the technical documentation;
+- Guide junior developers in the everyday task assessment.","- BS in Computer Science or any related technical field;
+- Good knowledge of OOP;
+- Strong knowledge of C# and principles of .NET platform;
+- At least 3 years of experience with technologies (such as WPF, Win
+Forms, ASP.NET, ASP.NET MVC);
+- At least 3 years of experience with data access technologies (ADO.NET,
+LINQ to Entities);
+- At least 3 years of experience in using web service technologies (WCF,
+REST, JSON);
+- Work experience in database and backend developer roles;
+- Knowledge of MS SQL server, developing queries and stored procedures;
+- Familiarity with the software development process;
+- Good knowledge of the Russian and English languages is an asset.","Interested candidates are asked to send a resume
+(CV) in the English language directly to: hr@... . Please,
+indicate "".NET Developer"" in the subject line of email. Only short-listed
+candidates will be interviewed.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"BetArchitect is a software development company, which
+aims to build various software solutions targeted to specific
+international market segments. For more information, please visit:
+www.betarchitect.com."

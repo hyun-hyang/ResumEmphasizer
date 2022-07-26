@@ -1,0 +1,46 @@
+Lead Web Developer,"T. Lab is looking for a hardworking individual to fill
+the position of Lead Web Developer. The successful candidate will apply
+experience with Web technology and business operations of start-ups. He/
+she will be responsible for managing and leading the development team,
+distributing incoming tasks, forecasting and budgeting the hours needed
+for each project, maintaining the budget and managing the scope of work.","- Produce, modify and maintain web solutions using a variety of
+technologies;
+- Execute on project deliverables, according to project plans;
+- Monitor the progress of the technical work stream and make adjustments
+as necessary to ensure the successful completion of projects;
+- Organize and negotiate the allocation of development resources;
+- Work with stakeholders to define and architect new features and create
+functional specifications for the team to implement;
+- Review the quality of the work completed with the technical team on a
+regular basis to ensure that it meets project standards;
+- Ensure that technical resources are properly equipped to function in
+assigned roles;
+- Act as a liaison between the development team and other functional
+teams;
+- Act as a lead point of contact for internal and external development
+concerns, development of best practices, ongoing development and
+innovation;
+- Provide accurate and reasonable timing estimates for work based on
+requirements;
+- Contribute to coding of some development projects;
+- Conduct research and remain current with the latest technologies and
+solutions in support of expanding company capabilities and product
+offering;
+- Oversee, direct and manage operations-related development projects.","- Experience in all aspects of the web development life cycle;
+- Senior level technical skills in PHP, MySQL, AJAX and Web services;
+- Excellent knowledge of relational database design and multi-tier web
+application architecture; 
+- Strong knowledge of standards-based front-end development of HTML,
+XHTML, CSS;
+- Understanding of browser capability and accessibility requirements;
+- At least 4 years of experience developing medium-to-large business
+sites;
+- Understanding of standard expected interfaces and basic user
+behaviors;
+- Experience with version control systems (SVN, Git) is a big plus.","Those who meet above listed requirements and
+qualifications are asked to send an application letter and a CV to:hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"T. Lab is a newly established software lab of Telasco
+Group, represented in Yerevan by Armenian Representative Office of
+Telasco Communications."

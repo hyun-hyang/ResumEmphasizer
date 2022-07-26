@@ -1,0 +1,50 @@
+"Network Administrator,  Information and Communication","The Network Administrator will be responsible for CBA
+Local Networks Blade system, Active Directory, clusters, servers (Blade
+system management, Active Directory controller, file-server, applied
+servers, anti-viruses, etc.) management and service, local network
+united workstation service, CBA Internet local network creation,
+development and troubleshooting.","- Provide in Local network: 
+a) Create, manage and further extend Blade system;
+b) Create, manage and develop Active Directory system using MS Windows
+2003 Advanced Server, as well as using new versions of MS Windows
+operational systems in future; 
+c) Create, manage and develop server clusters on the basis of Blade
+System Storage Area Network using MS Windows 2003 Advanced Server, as
+well as using new versions of MS Windows operational systems in future;
+d) Create and manage secure information transmission opportunity between
+the CBA Local network and the Internet network;
+e) Write scripts with the purpose of automatic implementation of
+periodically required functions on servers;
+f) Arrange server (configuration parameters appropriation and
+modification);
+g) Manage server (file-servers, applied systems servers, etc.), in case
+of disarrangements corresponding measures undertaking; 
+h) Implement server separate catalogues, as well as the whole servers
+archive and base copies information receipt with corresponding frequency
+(daily, weekly, monthly etc.);
+- Install and configure Network records in local network users
+computers.","- In case of higher technical education  1 year of professional work
+experience in the Central Bank or 2 years of professional work
+experience out of the Central Bank (in IT field, particularly in network
+and servers administration field). In case of higher non professional
+education  2 years of professional work experience in the Central Bank
+or 3 years of professional work experience out of the Central Bank (in
+IT field, particularly in network and servers administration field); 
+- Network organization fundamentals (advanced), network operational
+systems (advanced), Blade system management (advanced), antivirus
+security fundamentals (advanced); 
+- Knowledge of Armenian, Russian and English languages (knowledge of
+Russian and English languages for reading professional literature and
+for communication);
+- Microsoft Windows 2003 (and future versions) operational system
+administration, Active Directory, Clusters, DNSs and network
+environment creation and management knowledge, Blade system EVA Storage
+Area Networks management, Blade system management server arrangement
+and administration, computer skills (MS Office).","The application form and tender questionnaire
+are attached below or can be obtained from the Central Bank. 
+The application form can be sent electronically to: hrm@.... For
+further information and clarification you can call: 59 26 34, internal
+lines 26 22.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

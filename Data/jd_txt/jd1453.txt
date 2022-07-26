@@ -1,0 +1,33 @@
+System and Network Engineer,"Virtual Solution Global Services LLC is seeking a
+motivated System and Network Engineer who will be responsible for
+effective provisioning, installation/configuration, operation and
+maintenance of systems hardware and software and related infrastructure.
+This individual will participate in technical research and development to
+enable continuing innovation within the infrastructure.","- Provide expertise in planning, designing, installing, configuring,
+repairing, recovering, system monitoring, and performance tuning of
+network systems, UNIX, Linux, and hardware;
+- Provide support to plan, coordinate and implement the organization's
+information security;
+- Coordinate and assist in the operations and maintenance of LAN and WAN
+systems;
+- Work with KVM based virtualization system;
+- Work with MySQL and Postgresql databases.","- Ability to install and maintain servers and workstations (Windows,
+Linux);
+- Ability to install and administrate the databases MySQL and Oracle,
+Postgresql;
+- Ability to install and administrate web and application servers,
+especially Apache, Tomcat;
+- Experience related to firewall, security, DHCP,  Proxy Cache and VPN
+management;
+- Ability to install and maintain KVM based virtualization in Linux;
+- Very good knowledge of English (writing and speaking);
+- Knowledge in documentation creation;
+- Ability to express thoughts clearly.","Interested candidates should email their resumes
+to: info-am@.... Please send resumes only if you
+correspond to the required qualifications.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Virtual Solution Global Services LLC is a branch of the
+virtual solution GmbH, German software development company. For
+additional information about the company, please visit its website:
+www.virtual-solution.com."

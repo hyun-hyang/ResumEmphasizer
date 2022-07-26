@@ -1,0 +1,23 @@
+Senior PHP Developer,"Telegate LLC is looking for a Senior PHP Developer to
+work on new and exiting projects.","- Design and develop enterprise web applications;
+- Design and build reusable modules to be used throughout company
+products;
+- Maintain and enhance companys existing products;
+- Design and optimize databases.","- B.S. in Computing Science;
+- At least 5 years of work experience in PHP5, MySQL, JavaScript;
+- Strong understanding of OOP and Design Patterns;
+- Experience with HTML(5) and CSS;
+- At least 1 year of work experience with Zend Framework;
+- Experience with Agile development methodologies;
+- Mastery of technical English language;
+- Good communication skills;
+- Good team player;
+- Ability to work in a fast-paced dynamic environment, be flexible and
+adapt to changing requirements and customer requests.","Interested candidates are asked to e-mail their
+professional CV to: ashot.danielyan@... , specifying the job
+position name in the subject line. Please note that only shortlisted
+candidates will be contacted for an interview appointment.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Telegate LLC was founded in April 2009 by Telegate AG
+based in Munich, Germany."

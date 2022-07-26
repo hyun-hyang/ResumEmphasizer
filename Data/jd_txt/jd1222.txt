@@ -1,0 +1,42 @@
+C# Senior Software Developer,"Macadamian AR is looking for a smart C# Senior
+Software Developer that strives for constant improvement. The selected
+candidate will work on a .Net project with a team of 3 developers and
+one Quality Assurance Expert in the Armenian lab of Macadamian. The
+project is for an e-commerce system and manufacturing back-end.","- Design and implement new feature;
+- Perform peer code review;
+- Maintain a production system;
+- Help less experienced team members.","- 7+ years of experience is software development with at least 5 years
+in .Net development in C#;
+- 1+ year of experience in Javascript and AJAX - experience of working
+on at least one project with significant use of both technologies;
+- 3+ years of experience with SQL;
+- 3+ years of experience in desktop application development;
+- 5+ years of experience in web development with at least 3 years in
+ASP.Net;
+- Technical skills;
+- Excellent problem solving skills;
+- Knowledge of HTML, XML and CSS;
+- Ability to lead by serving as a role model;
+- Excellent English language communication skills, written and spoken;
+- Experience in distributed team development;
+- Passion for learning;
+- Attention to details;
+- Understanding of how things work under the hood;
+- Experience with web services;
+- Ready to work on Saturdays in an average of once per month;
+- Capable to perform under pressure during emergencies;
+- Demonstrated capability to understand how a large system works.
+Desired Skills:
+- Experience in Agile methodologies;
+- Experience with RESTful service;
+- Experience with WCF;
+- Experience with SVN and Git;
+- Experience with webMethods.","To apply, please send your resume and cover
+letter to: careers-armenia@..., clearly mentioning the
+position you are applying for in the subject line. Thank you.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Macadamian is a software development company
+headquartered in Ottawa, Canada. It has several branches around the
+world. Armenian R&D was founded in 2007. 
+You can find more information visiting www.macadamian.com."

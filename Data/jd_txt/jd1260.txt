@@ -1,0 +1,36 @@
+Junior Analog Design Engineer,"Virage Logic is looking for a Junior Analog Circuit
+Design Engineer. After a learning period the tasks at first will be
+mainly supportive to projects, but along the road the intention is to
+have development as well. Depending on experience at hand and customer
+demand the candidate will be working in the area of high speed data
+converters, audio converters, PLL's, power regulators or other analog
+circuits commonly used in baseline CMOS processes (90 / 65 / 40 / 28 nm).","- Create designs for (basic) analog and mixed-signal circuitry that
+gradually grow in complexity;
+- Contribute in realizing analog systems from the design track till the
+realization on board-level;
+- Execute the validation (and if necessary defining the qualification of
+the hardware).","- Degree in Electrical Engineering or a related discipline (MS degree is
+preferred); 
+- Up to 2 years of relevant experience;
+- Relevant classes in Analog and/or circuit design. Understanding of
+Analog functionality;
+- Relevant classes in basic communications systems theory. Basic
+understanding of CMOS circuits and elements;
+- School (academic) projects or work experience for 1 year in Analog-like
+design (Memory, Standard Cells, serial interfaces).
+Desired Skills:
+- Pro-active 'can-do' mentality, self-motivated and assertive
+personality; 
+- Excellent multitasking and organizational skills; 
+- Excellent written and verbal English language communication skills; 
+- Demonstrated pleasant personality, which is compatible with customer
+interaction, while having technical skills that will ensure final closure
+to customer issues; 
+- Good team interaction skills with engineers and other support staff; 
+- Hard working, reliable personality.","Please e-mail your detailed CV in English
+language to: Hr.Armenia@... indicating the position title in
+the subject line of your e-mail. Only shortlisted candidates will be
+contacted.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

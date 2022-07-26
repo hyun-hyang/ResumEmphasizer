@@ -1,0 +1,43 @@
+Senior ASP.NET MVC Developer,"Margasoft Corp is looking for a Senior ASP.NET MVC
+Developer.","- First and foremost the incumbent must love what he/ she does;
+- Participate in design and development of enterprise web applications
+using ASP.NET MVC, C#, HTML5 with CSS3, JavaScript along with the
+standard JS libraries (JQuery, underscore JS, Telerik Kendo UI,
+Knockout.js, etc.), WCF and RESTful web services, LINQ and SQL Server; 
+- Convert complex LINQ queries and costly data intensive operations into
+SQL stored procedures to improve the performance;
+- Participate in the complete software development lifecycle using agile
+methodologies such as SCRUM, TDD and XP;
+- Take part in the brainstorming and story grooming sessions to help
+define smaller vertical stories which will later make it a breeze to
+development and test that story;
+- Create builds for software releases for quality assurance and client
+user acceptance testing. Work with IT support and other functions to
+resolve issues in releases;
+- Clearly and timely communicate the status of the stories to meet
+internal and client deadlines with high quality deliverable;
+- Use and improve established software development frameworks, standards
+and processes.","- At least 3 years of experience with ASP.Net; experience in Razor MVC is
+a plus;
+- Solid understanding of layered web based application architecture;
+- In depth knowledge and experience in JavaScript, jQuery, AJAX, HTML,
+and CSS;
+- Flexibility and experience in using various related libraries such as
+SignalR, YUICompressor .NET, etc.;
+- Proficiency in C# and .Net Frameworks 4.0 and 4.5;
+- Experience in C# .NET data processing technologies such as ADO .NET and
+Entity Framework;
+- Good experience in Database modeling and data manipulation using SQL
+Server 2008/ 2012 and T-SQL;
+- Strong experience in identifying and implementing proper software
+design patterns based on the solution;
+- Experience in writing SQL Server Stored Procedures;
+- Knowledge of any one of WCF, RESTful services or ASP.Net Web Api;
+- Smooth communication and interpersonal skills;
+- Good knowledge of written English language and ability to understand
+English speech.","Please apply to this job by sending your cover
+letter and resume to: career@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Margasoft is in business of developing, selling and
+supporting Margasoft software products and providing software services."

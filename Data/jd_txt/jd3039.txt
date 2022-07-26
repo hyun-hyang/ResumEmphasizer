@@ -1,0 +1,44 @@
+Senior Java Developer,"The candidate for this position should be an
+experienced developer of efficient high-frequency trading (HFT)
+algorithms and user friendly trading platform GUI with demonstrated
+capability to analyze all spectrums of technical aspects related to HFT
+in an ultra-low latency infrastructure. He/ she must also be passionate
+about capital markets. This developer will collaborate with Software
+Developers, Traders, and Business Analysts within ATG (Algorithmic
+Trading Group) and other internal departments (QTG, Compliance, Finance,
+Risk & Credit, Foreign Currency, Back Office, etc.) and the vendors.","- Maintain and continuously improve the existing trading platforms;
+- Develop new automated trading system; 
+- Design new trading algorithms and relevant front-end software
+applications;
+- Develop vendor APIs and certify as per vendor certification
+requirements;
+- Evaluate and test HFT connectivity systems for real-time trading;
+- Analyze the performance of the HFT systems and suggest improvements
+accordingly;
+- Actively participate in collocation, infrastructure, and transition
+projects;
+- Support day-to-day production operations of ATG in regards to any
+technical aspect such as connectivity, infrastructure, level 2 and/ or 3
+technical support;
+- Prepare report, technical documentations, and presentation materials;
+- Participate in regular team meetings.","- At least 5 years of experience in software development, primarily in
+Java;
+- BS or MS (preferred) in Computer Science or in related fields. Exposure
+or education in the financial sector is a strong asset; 
+- High level proficiency in all aspects of Java EE, Windows Server 2008,
+XML, Java EE certification is preferred;
+- Deep understanding of FIX 4.2 protocol, Direct Market Access, Market
+data feed handlers, algorithms for automated trading strategies, all
+aspects of software applicability for HFT trading;
+- Strong ability to efficiently work as a team member in cooperation
+colleagues, clients, managers and vendors;
+- Possess investment decision making acumen, excellent interpersonal and
+time management skills;
+- Solid understanding of capital markets (Equities, Currencies, Options,
+and Futures);
+- CFA, MBA, previous experience of building standalone automated trading
+systems/ platforms is a plus.","To apply, please follow the link below:http://chj.tbe.taleo.net/chj01/ats/careers/requisition.jspjsessionid=7EF034A73814B2C106A4837A9781D5C2?org=QUESTRADE&cws=37&rid=515
+.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"For more information, please visit: www.questrade.am."

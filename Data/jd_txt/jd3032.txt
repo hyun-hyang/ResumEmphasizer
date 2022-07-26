@@ -1,0 +1,24 @@
+Senior QA Engineer,"GreaterGood.com is seeking a highly motivated team
+player to join our fast-paced eCommerce engineering team.","- Take responsibility to help architect company's software QA
+infrastructure from ground up;
+- Work with company's engineering teams and operations group in US and
+Armenia to create a test and staging environment;
+- Manage and own the entire deployment life-cycle and create relevant
+documentation;
+- In this capacity, develop comprehensive test plans and run automated
+test suites against the company's web-based applications;
+- Manage all these through Agile project management, interacting with
+both local and and US development teams.","- Software development background;
+- Strong understanding of HTML, HTTP and how the Internet works;
+- Familiarity with REST architecture, Java and Rails environment will be
+big plus;
+- Experience with testing both web service and UI/ UX-based web
+applications;
+- Exceptional communication skills;
+- Highly independent, ""get-it-done"" attitude;
+- Thrives in a fast-moving and high-energy environment;
+- Strong understanding and experience in automated software testing;
+- Passionate personality.","Applicants are requested to send their CVs to:yervand@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

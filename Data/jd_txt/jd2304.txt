@@ -1,0 +1,31 @@
+iOS Mobile Application Developer,"LiveLOOK is currently seeking an experienced Mobile
+Application Developer with a strong working knowledge of iOS platforms to
+join company's Development Team.","- Work with LiveLOOKs Mobile Development Team to drive innovative
+mobile-platform products and strategy;
+- Work with Sales Engineers to deploy mobile solutions to LiveLOOK
+customers;
+- Create and maintain technical documentation related to mobile
+solutions;
+- Work with the Sales & Marketing Team to create and maintain mobile
+product demonstrations and marketing materials.","- Bachelor's degree or equivalent in technology related sciences (CS, EE,
+CSE, etc.);
+- At least 3 to 5 years of experience in coding with below listed
+required skills:
+- Working knowledge of Objective  C;
+- Working knowledge of frameworks;
+- Working knowledge of ASIIHTTP library;
+- Fluency with Object-Oriented and MVC programming models;
+- Proficiency in UIKit, Foundation, Core Animation, Core Graphics and
+Core Data;
+- Fluency with multi-threaded programming styles and approaches;
+- Experience in creating and working with libraries;
+- Basic knowledge of networks (structure, protocols and etc.);
+- Hands-on knowledge of new iOS 4+ features (blocks and multitasking);
+Additional Skills Desired:
+- Understanding of XML and XML parsing, HTML and Javascript;
+- Experience with Android development;
+- Working knowledge of other programming languages, such as C++, Java and
+C#.","Please send resume to: hr@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

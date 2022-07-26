@@ -1,0 +1,35 @@
+Network Engineer,"The incumbent will carry out network administration of
+a city wide IP/MPLS network, participate in development of the network's
+architecture, maintain the network and network equipment and be involved
+in traffic engineering.","- Design, administer and maintain the city wide IP/MPLS backbone and
+aggregation network;
+- Keep tight relationships with customer's technical staff in order to
+understand their needs and demands;
+- Analyze the situation and propose a suitable solution in each
+particular case.","- At least 5 Years of work experience with routing protocols, switches,
+TCP/IP, VLANs, QoS etc;
+- Deep understanding of Ethernet protocol; 
+- Theoretical knowledge of MPLS and surrounding protocols is an
+advantage;
+- At least 5 years of work experience with ISP like network topologies;
+- Work experience with L2/L3 hardware Switches and Routers;
+- Strong knowledge and practical experience with different routing and
+switching protocols including but not limited to BGP, OSPF, IS-IS, STP,
+RSTP and MSTP; 
+- Deep understanding of IP Unicast and Multicast routing;
+- Understanding of the principles of Trunk aggregation, QoS, QinQ
+(hierarchical VLAN);
+- Knowledge of different Internet service protocols DHCP, DNS, FTP, HTTP
+and SNMP.","Submit an Email with Subject
+'ADC-NE-01_Lastname_Firstname' (without quotes), and CV attached in PDF
+format. Attachment file shall be named according to the following
+convention: lastname_firstname.pdf
+Applications shall be submitted at: vahe.khachikyan@...
+Note: Emails with wrong Subject line or CVs attachments that are not
+properly named (e.g. Resume, CV, MyCV etc) will not be considered at
+all.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"ADC is an Armenian-Norwegian joint venture formed in
+2006. The company is set up to provide telecommunications services in
+the city of Yerevan."

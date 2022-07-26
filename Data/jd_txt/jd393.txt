@@ -1,0 +1,28 @@
+Software Developer,"Accept Employment Agency is looking for motivated
+persons to take over a new position as a Software Developer for
+pan-European network of websites, operating in eight European countries
+company. The incumbent will belong to a young and dynamic team working
+with the advertising system and its existing interfaces. He/she will
+work on very different projects like customisation of the system,
+building of complex new interfaces, further development of our reporting
+tools. During those projects he/she will also work together with
+colleagues in different European countries.","- Learn and understand the AdServing technology (DART Enterprise) and
+its functionality. Understand the surrounding systems and the system
+architecture as it maps to the company's business needs;
+- Act as an expert in customising and integrating the AdServer software.
+Act as an expert regarding the architecture and functionality of our
+AdServer system and have an excellent understanding of its technical
+capabilities;
+- Support the other teams working with the AdServing technology and be
+their main technical contact for maintenance and new requirements.","- University degree in Computer Sciences or a relevant;
+- Knowledge of ASP, VBScript, SQL and MS SQL server;
+- Knowledge of PHP, HTML, JavaScript and CSS;
+- Knowledge of Apache module and Linux environments;
+- Experience in high load systems;
+- Good knowledge of both written and spoken English language;
+- Pro-active and calm personality;
+- Analytically strong and excellent organizational skills;
+- Have a strong understanding of the existing systems.","Please email your CV (in English) to:accept@....
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,For more information see: www.acceptagency.com.

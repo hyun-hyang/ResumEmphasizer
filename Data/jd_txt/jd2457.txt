@@ -1,0 +1,43 @@
+Software Developer,"The Software Developer will work in the Department of
+Software Delivery which is one of the service offerings of HSBC
+Technology and Services (HTS). It is the software manufacturing
+discipline within HTS that drives the development of the bank's Retail
+and Commercial systems and provides banking solutions and services that
+deliver projects on time and within the budget, meeting both current and
+future IT challenges of the group. This job requires skills in
+programming and application design, as well as knowledge of the bank's
+operations and the workflow of all of its departments. The jobholder will
+be required to understand user needs, offer and develop best fault
+resistant solutions. He/ she will be also required to participate in all
+the phases of software projects, from design to implementation, as well
+as post implementation support. The incumbent will provide necessary
+technical and design documentation.","- Participate in all cycles of software design and development;
+- Assure full conformance of source codes to provided Coding Standards;
+- Read, understand and modify the existing code;
+- Assist in the development of accompanying technical documentation;
+- Provide technical support and assistance, if requested;
+- Ensure compliance with all bank and local regulations, procedures,
+policies and standards.","- At least 3 years of work experience in software development; 
+- Knowledge of C#, JAVA,  VBA, .NET, ASP and web-related technologies;
+- At least 3 years of work experience with databases and mainframe
+platforms (MS SQL, DB2);
+- Strong knowledge of OOP principles;
+- Knowledge of banking systems and experience in banking systems support 
+and/ or development is a plus;
+- Analytical and practical approach towards problem-solving;
+- University degree from a relevant course of study in Information
+Technology, Computer Science or a related area;
+- Good knowledge of English, Armenian and Russian languages.","All interested and qualified candidates are
+encouraged to fill in the HSBC Application form attached to this
+announcement or located at: www.hsbc.am and e-mail it to:vacancy.armenia@... . Please mention ""Software Developer"" in the
+subject line of the e-mail. Only short-listed candidates will be invited
+for interviews.
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"HSBC Bank Armenia was established as a Closed Joint Stock
+Company under the name Midland Armenia Bank J.S.C. in 1996 and has been
+renamed into HSBC Bank Armenia CJSC in 1999. The bank is a joint venture
+between the HSBC Group, which has a 70 percent ownership, and the members
+of overseas Armenian businesses with 30 percent ownership. HSBC Bank
+Armenia CJSC offers products and services to individuals, as well as to
+corporate customers in Armenia and abroad."

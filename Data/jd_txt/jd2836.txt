@@ -1,0 +1,43 @@
+Senior QA Engineer,"Instigate Mobile CJSC is looking for a Senior QA
+Engineer to work with shifted 8 hours per day schedule to be available
+during evening/ night time, where availability from 8 pm to 1 am is
+mandatory. The incumbent may have to work in the company's regional
+branches.","- Create high quality system tests and run them (functionality,
+performance, load, scalability, reliability, security, etc.);
+- Measure performance of the system under conditions of varying user load
+and stress;
+- Prepare reports on found issues and analysis results;
+- Develop automated test-suites as required;
+- Report bugs, defects and other issues, and make recommendations around
+them;
+- Drive the project, organize a project plan and tracking activities such
+as daily standups, sprint planning sessions, and other activities;
+- Participate in teleconferences organized with customers, drive
+discussions and troubleshooting;
+- Mentor team members and also provide remote support;
+- Travel to RA and US as required by project scope/ schedule;
+- Participate in process organization, monitoring and improvements in the
+company.","- More than 4 years of work experience in software testing and
+development;
+- More than 2 years of work experience with software testing;
+- More than 1 year of work experience as a team leader/ manager;
+- Excellent communication and English language skills;
+- Work experience in GNU/ Linux environment;
+- Work experience with testing automation frameworks (Squish, Selenium,
+MonkeyTalk, JUnit, etc.);
+- Good understanding of full software product development cycle and
+testing activities;
+- Good scripting knowledge;
+- Basic knowledge of web (front-end and back-end) technologies;
+- Participation in Instigate Training Center program is a plus;
+- Experience with performance testing tools (JMeter, Tsung) is a plus;
+- Proven ability to work under stress in emergencies, with the
+flexibility to handle multiple high-pressure situations simultaneously;
+- Ability to work well under minimal supervision;
+- Ability to quickly learn new technologies and spheres.","Interested candidates should send their resumes
+in English language, in PDF format to: training@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"Instigate Mobile is a spin off from Armenian based
+company Instigate CJSC, focusing on software services and solutions for
+mobile and web technologies."

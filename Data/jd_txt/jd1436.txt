@@ -1,0 +1,15 @@
+Web Developer,"Fast Credit LLC is looking for a PHP, JavaScript, MySQL
+developer for a long term engagement.","- Write and test code according to technical documentation;
+- Support, maintain and document software functionality;
+- Stay organized to achieve mission and purpose, goals and objectives;
+- Work hard towards self-development.","- Over 2 years of work experience in PHP, JavaScript programming;
+- Good knowledge of MySQL;
+- Good knowledge of technical English language;
+- Familiarity with jQuery is a plus;
+- Familiarity with programming payment methods is a plus;
+- Familiarity with XML, XSL is a plus;
+- Familiarity with Flash, Action Script is a plus.","Applicants are asked to e-mail their CVs
+directly to: fastcreditltd@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,NA

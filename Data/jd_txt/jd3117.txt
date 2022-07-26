@@ -1,0 +1,21 @@
+Software Development Manager,"The incumbent will be a technical leader of a team of
+software engineers.","- Understand the software project design and lead the project
+development;
+- Guide and motivate the team to execute a project in time and with good
+quality;
+- Communicate with the senior management on a regular basis;
+- Understand and support the Company objectives and policy.","- MS in Computer Sciences, Physics, Maths or a related field;
+- At least 3 years of relevant management experience;
+- At least 6 years of experience with the software development;
+- Professional C/ C++ programming skills and good knowledge of OOP/ OOD;
+- Experience in development under Linux/ Unix OS and Qt;
+- Good written and verbal communication skills in the English language;
+- Understanding of the principles of analog and digital devices is a
+plus.","Interested candidates are kindly requested to
+email a CV/ resume in the English language to:
+George.Oganesyan@... .
+Please clearly mention in your application letter that you learned of
+this job opportunity through Career Center and mention the URL of its
+website - www.careercenter.am, Thanks.",NA,"LTX-Credence Armenia LLC is an engineering development
+company and a subsidiary of the US-based Xcerra Corporation (formerly
+LTX-Credence Corporation)."

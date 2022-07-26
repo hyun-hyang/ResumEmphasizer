@@ -1,4 +1,4 @@
-# ResumEmphasizer
+# ResumEmphasizer - AI writer
 
 
 AI writer, making bullet points on the basis of Job Descriptions(JDs).

@@ -1,4 +1,5 @@
 <img src="https://github.com/hyun-hyang/ResumEmphasizer/blob/main/logo/logo.jpg" align="left" hspace="1" vspace="1">
+
 # ResumEmphasizer - AI writer
 
 

@@ -11,7 +11,7 @@ It is a short term training project with peoplespace.
 
 **Language: ** Workframe: docker, wordpress, MySQL, Apache, php
 
-**Language :** 
+**Language :** Workframe: docker, wordpress, MySQL, Apache, php
 
 **CVs.txt :** 
 

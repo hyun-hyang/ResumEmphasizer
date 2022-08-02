@@ -9,8 +9,7 @@ It is a short term training project with peoplespace.
 
 
 
-**Language: ** 
-Workframe: docker, wordpress, MySQL, Apache, php
+**Language: ** Workframe: docker, wordpress, MySQL, Apache, php
 
 **Slogan: ** Resumes with Impact: Creating Strong Bullet Points
 

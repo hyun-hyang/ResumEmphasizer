@@ -16,6 +16,17 @@ It is a short term training project with peoplespace.
 ## Introduction
 The project uses techniques in Machine Learning and Name Entity Recognition (NER) Model.
 
+# **WHY ResumEmphasizer**
+
+We refine your resume further. Our aim is to make your resumes pass through the HR filter by highlighting your strengths using Ai trained to find Bulletpoint.
+
+We make your resumes pass through HR filter.
+
+Score your resume compared to other applicants.
+
+Trained AI looks for bulllet points.
+
+
 ## Directory Details
 
 ## [Data](https://github.com/prateekguptaiiitk/Resume_Classifier/tree/develop/Data)

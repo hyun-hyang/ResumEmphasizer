@@ -4,7 +4,10 @@
 
 
 AI writer, making bullet points on the basis of Job Descriptions(JDs).
+
 It is a short term training project with peoplespace.
+
+
 
 Language: 
 Workframe: docker, wordpress, MySQL, Apache, php

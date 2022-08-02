@@ -1,17 +1,31 @@
+<img src="https://github.com/hyun-hyang/ResumEmphasizer/blob/main/logo/logo.jpg" align="left" hspace="1" vspace="1">
+
 # ResumEmphasizer - AI writer
 
 
 AI writer, making bullet points on the basis of Job Descriptions(JDs).
+
 It is a short term training project with peoplespace.
 
-Language: 
-Workframe: docker, wordpress, MySQL, Apache, php
 
-Slogan: Resumes with Impact: Creating Strong Bullet Points
+**Language :** Workframe: docker, wordpress, MySQL, Apache, php
+
+**Slogan :** Resumes with Impact: Creating Strong Bullet Points
 
 
 ## Introduction
 The project uses techniques in Machine Learning and Name Entity Recognition (NER) Model.
+
+# **WHY ResumEmphasizer**
+
+We refine your resume further. Our aim is to make your resumes pass through the HR filter by highlighting your strengths using Ai trained to find Bulletpoint.
+
+We make your resumes pass through HR filter.
+
+Score your resume compared to other applicants.
+
+Trained AI looks for bulllet points.
+
 
 ## Directory Details
 

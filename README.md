@@ -7,10 +7,10 @@ It is a short term training project with peoplespace.
 Language: 
 Workframe: docker, wordpress, MySQL, Apache, php
 
-Slogan: Resumes with Impact: Creating Strong Bullet Points
+Slogan: Resumes with Impact: Creating Strong Bullet Points!!!
 
 
-## Introduction
+## Introduction 
 The project uses techniques in Machine Learning and Name Entity Recognition (NER) Model.
 
 ## Directory Details

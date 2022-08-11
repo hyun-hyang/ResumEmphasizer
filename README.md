@@ -36,7 +36,7 @@ Trained AI looks for bulllet points.
 * [Train AI](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/trained_data)  with spaCy.
 
 | Revenue | Cost |
-|:--:|:--:|   // 가운데 정렬
+|:--:|:--:|
 |  service charges | employee wages       |
 |  advertising fee | network usage fees       |
 |  sponsorship fee | Extra fees e.g. colab payments       |

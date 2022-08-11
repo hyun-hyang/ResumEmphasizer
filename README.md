@@ -33,7 +33,7 @@ Trained AI looks for bulllet points.
 * [Set targets](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/Persona) and devise a service.
 * [Design websites](http://44.227.122.114/) with wordpress.
 * [Annotate datas](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/Data_annoctated) with doccano.
-* [Train AI]( [asd](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/trained_data) )  with spaCy.
+* [Train AI](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/trained_data)  with spaCy.
 
 ## Directory Details
 

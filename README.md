@@ -35,12 +35,13 @@ Trained AI looks for bulllet points.
 * [Annotate datas](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/Data_annoctated) with doccano.
 * [Train AI](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/trained_data)  with spaCy.
 
+# Revenue Cost Model
 | Revenue | Cost |
 |:--:|:--:|
 |  service charges | employee wages       |
 |  advertising fee | network usage fees       |
 |  sponsorship fee | Extra fees e.g. colab payments       |
-___
+
 
 ## Directory Details
 

@@ -39,8 +39,8 @@ Trained AI looks for bulllet points.
 | Revenue | Cost |
 |:--:|:--:|
 |  service charges | employee wages       |
-|  advertising fee | network usage fees       |
-|  sponsorship fee | Extra fees e.g. colab payments       |
+|  advertising fees | network usage fees       |
+|  sponsorship fees | Extra fees e.g. colab payments       |
 
 
 ## Directory Details

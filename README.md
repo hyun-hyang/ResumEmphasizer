@@ -28,6 +28,7 @@ We make your resumes pass through HR filter.
 Score your resume compared to other applicants.
 
 Trained AI looks for bulllet points.
+![flowchart](https://user-images.githubusercontent.com/102032766/184124473-3bf4b430-88ae-4d5b-9ca3-4e53687b40d2.png)
 
 # Main activities
 * [Set targets](https://github.com/hyun-hyang/ResumEmphasizer/tree/main/Persona) and devise a service.
@@ -41,6 +42,7 @@ Trained AI looks for bulllet points.
 |  service charges | employee wages       |
 |  advertising fees | network usage fees       |
 |  sponsorship fees | Extra fees e.g. colab payments       |
+
 
 
 ## Directory Details
